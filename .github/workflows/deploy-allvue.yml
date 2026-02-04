@@ -47,9 +47,19 @@ jobs:
           VSS_NUGET_EXTERNAL_FEED_ENDPOINTS: '{"endpointCredentials": [{"endpoint":"https://pkgs.dev.azure.com/savanta/_packaging/savantadefault%40Local/nuget/v3/index.json", "username":"build", "password":"${{ secrets.AZURE_DEVOPS_PAT }}"}]}'
         run: dotnet restore ${{ env.PROJECT_PATH }} --configfile ./src/nuget.config
 
+      - name: Build .NET app
+        env:
+          NUGET_CREDENTIALPROVIDER_SESSIONTOKENCACHE_ENABLED: true
+          VSS_NUGET_EXTERNAL_FEED_ENDPOINTS: '{"endpointCredentials": [{"endpoint":"https://pkgs.dev.azure.com/savanta/_packaging/savantadefault%40Local/nuget/v3/index.json", "username":"build", "password":"${{ secrets.AZURE_DEVOPS_PAT }}"}]}'
+        run: dotnet build ${{ env.PROJECT_PATH }} -c Release --no-restore
+
       - name: Install npm dependencies
         working-directory: ./src/BrandVue.FrontEnd
         run: npm ci
+
+      - name: Generate TypeScript API client
+        working-directory: ./src/BrandVue.FrontEnd
+        run: npm run build:api
 
       - name: Build frontend
         working-directory: ./src/BrandVue.FrontEnd
