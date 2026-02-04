@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: The Sun
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Daily Mirror
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Daily Record
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Daily Star
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Daily Mirror / Record
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Daily Mail
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Daily Express
+  },
+  {
+    ClassInstanceId: 8,
+    Name: i (newspaper)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: London Evening Standard
+  },
+  {
+    ClassInstanceId: 10,
+    Name: The Telegraph
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Financial Times
+  },
+  {
+    ClassInstanceId: 12,
+    Name: The Metro
+  },
+  {
+    ClassInstanceId: 13,
+    Name: The Guardian
+  },
+  {
+    ClassInstanceId: 14,
+    Name: The Times
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

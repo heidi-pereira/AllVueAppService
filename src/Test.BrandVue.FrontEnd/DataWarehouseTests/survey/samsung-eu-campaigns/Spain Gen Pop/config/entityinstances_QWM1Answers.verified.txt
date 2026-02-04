@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: £0 - £99
+  },
+  {
+    ClassInstanceId: 2,
+    Name: £100 - £199
+  },
+  {
+    ClassInstanceId: 3,
+    Name: £200 - £299
+  },
+  {
+    ClassInstanceId: 4,
+    Name: £300 - £399
+  },
+  {
+    ClassInstanceId: 5,
+    Name: £400 - £499
+  },
+  {
+    ClassInstanceId: 6,
+    Name: £500 - £599
+  },
+  {
+    ClassInstanceId: 7,
+    Name: £600 - £699
+  },
+  {
+    ClassInstanceId: 8,
+    Name: £700 - £799
+  },
+  {
+    ClassInstanceId: 9,
+    Name: £800 - £899
+  },
+  {
+    ClassInstanceId: 10,
+    Name: £900 - £999
+  },
+  {
+    ClassInstanceId: 11,
+    Name: £1000+
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know / Can’t say
+  }
+]

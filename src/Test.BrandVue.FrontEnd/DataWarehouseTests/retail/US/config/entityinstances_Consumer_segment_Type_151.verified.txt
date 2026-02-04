@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Education level:Doctorate level or professional equivalent (Base Consumer_segment)
+  }
+]

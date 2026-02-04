@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Advertising penetration (Base Consumer_segment)
+  }
+]

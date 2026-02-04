@@ -1,0 +1,10 @@
+﻿[
+  {
+    ResponseId: 1234,
+    Weight: 0.5
+  },
+  {
+    ResponseId: 5678,
+    Weight: 0.9
+  }
+]

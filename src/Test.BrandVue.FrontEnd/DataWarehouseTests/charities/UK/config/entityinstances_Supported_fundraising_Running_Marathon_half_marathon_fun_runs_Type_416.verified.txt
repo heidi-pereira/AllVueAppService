@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supported fundraising event:Running Marathon half marathon fun runs (Base Supported_fundraising_Running_Marathon_half_marathon_fun_runs)
+  }
+]

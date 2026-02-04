@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# HAA0101: Array allocation for params parameter
+dotnet_diagnostic.HAA0101.severity = silent
+
+# AsyncFixer01: Unnecessary async/await usage
+dotnet_diagnostic.AsyncFixer01.severity = silent
+
+# CS1998: Async method lacks 'await' operators and will run synchronously
+dotnet_diagnostic.CS1998.severity = silent
+
+# CS4014: Because this call is not awaited, execution of the current method continues before the call is completed
+dotnet_diagnostic.CS4014.severity = error

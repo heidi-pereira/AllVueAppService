@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cinema frequency:Never (Base Consumer_segment)
+  }
+]

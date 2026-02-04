@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV Platform:Freeview / Freeview Play (Free to air digital channels) (Base Consumer_segment)
+  }
+]

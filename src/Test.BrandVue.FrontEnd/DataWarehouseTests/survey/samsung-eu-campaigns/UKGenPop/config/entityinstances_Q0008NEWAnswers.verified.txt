@@ -1,0 +1,106 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Vevo
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Spotify
+  },
+  {
+    ClassInstanceId: 3,
+    Name: WeTransfer
+  },
+  {
+    ClassInstanceId: 4,
+    Name: OneFootball
+  },
+  {
+    ClassInstanceId: 5,
+    Name: IMDbTV
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Cosmopolitan
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Digital Spy.
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Good Housekeeping
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Elle
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Bazaar
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Red
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Delish
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Netdoctor
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Women’s Health
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Men’s Health
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Runner’s World
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Esquire
+  },
+  {
+    ClassInstanceId: 19,
+    Name: ESPN
+  },
+  {
+    ClassInstanceId: 20,
+    Name: HuffPost
+  },
+  {
+    ClassInstanceId: 21,
+    Name: CNBC
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Bloomberg
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Sky
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Marie Claire
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Eurosport
+  },
+  {
+    ClassInstanceId: 26,
+    Name: IG
+  },
+  {
+    ClassInstanceId: 97,
+    Name: None of these
+  }
+]

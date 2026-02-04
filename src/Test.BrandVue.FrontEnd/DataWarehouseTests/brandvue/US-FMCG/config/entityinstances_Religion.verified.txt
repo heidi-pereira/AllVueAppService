@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Protestant (for example, Baptist, Methodist, Non-denominational, Lutheran, Presbyterian, Pentecostal, Episcopalian, Reformed, Church of Christ, etc)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Roman Catholic
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mormon (Church of Jesus Christ of Latter-Day Saints or LDS)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Orthodox (such as Greek, Russian, or other Orthodox church)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Jewish
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Muslim
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Buddhist
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Hindu
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Agnostic
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Something else (please specify)
+  },
+  {
+    ClassInstanceId: 11,
+    Name: No religion / I am an Atheist
+  }
+]

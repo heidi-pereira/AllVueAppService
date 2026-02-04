@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Vegetarian - No meat or fish
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Vegan - No animal products
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Lactose intolerance
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Gluten intolerance
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Halal
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Nut allergy
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Kosher
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Pescatarian - No meat but eat fish
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Diabetic
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Low sodium / salt
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Keto and / or low sugar
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Flexitarian / Meat Reducers
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Flexitarian - Mainly vegetarian but occasionally meat / fish
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Meat Reducer - actively reducing meat
+  },
+  {
+    ClassInstanceId: 999,
+    Name: No Dietary Requirements
+  },
+  {
+    ClassInstanceId: 1001,
+    Name: Other 1
+  },
+  {
+    ClassInstanceId: 1002,
+    Name: Other 2
+  }
+]

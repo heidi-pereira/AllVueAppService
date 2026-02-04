@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Increase the amount
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Continue with the same amount
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Decrease the amount
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Stop donating completely
+  }
+]

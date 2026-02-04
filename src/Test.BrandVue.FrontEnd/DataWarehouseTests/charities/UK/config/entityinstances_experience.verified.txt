@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I know how my support helps the charity
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I think the charity makes a real impact
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I know what they are trying to achieve
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I know how I can individually get involved
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I feel my support is appreciated by the charity
+  },
+  {
+    ClassInstanceId: 6,
+    Name: They inspire me to promote their cause
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I feel they use my money wisely
+  },
+  {
+    ClassInstanceId: 8,
+    Name: They ask for money too often
+  }
+]

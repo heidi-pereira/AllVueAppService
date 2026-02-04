@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Program Genre (Base Consumer_segment)
+  }
+]

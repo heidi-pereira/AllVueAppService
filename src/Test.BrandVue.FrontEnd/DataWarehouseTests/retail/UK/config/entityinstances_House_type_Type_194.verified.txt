@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: House type:Detached house (Base House_type)
+  }
+]

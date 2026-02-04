@@ -1,0 +1,178 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car insurance
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Home insurance 
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Van insurance
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Travel insurance
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Pet insurance
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Classic Car insurance
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Motorbike insurance
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Breakdown cover
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Gadget insurance
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Credit card
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Mortgage
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Car loan / car finance
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Payday loan
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Personal Loan
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Personal current account
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Personal pension
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Investments
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Cash savings / deposit account
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Credit monitoring
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Buy to let / landlord insurance
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Home emergency insurance
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Legal expenses insurance
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Term Life insurance
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Guaranteed over 50s life insurance
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Any other ‘whole of life’ life insurance
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Critical illness insurance / serious illness insurance
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Accident, sickness and unemployment insurance
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Income protection
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Private medical / health Insurance
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Hospital cash plan
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Pre-paid funeral plan
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Long term care cover
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Business current account
+  },
+  {
+    ClassInstanceId: 72,
+    Name: International payments / foreign exchange services
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Premium bonds from NS&I
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Buy to let mortgage
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Equity release / lifetime mortgage
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Single company shares
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Price comparison
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Payment methods / ways to transfer money
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Financial Advice
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Pension taken out through your employer
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Children's Bank Account (an account set up for your children)
+  },
+  {
+    ClassInstanceId: 170,
+    Name: Travel Money (an account for spending whilst abroad)
+  }
+]

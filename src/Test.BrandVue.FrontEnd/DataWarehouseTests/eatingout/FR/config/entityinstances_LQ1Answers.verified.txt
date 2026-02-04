@@ -1,0 +1,62 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Toys & games
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Sports & exercise
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Home, Garden, & DIY
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Pets
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Clothes & shoes for adults
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Clothes & shoes for children
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Jewellery & accessories
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Cosmetics
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Personal care & toiletries
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Personal grooming devices (i.e. hairdryers, straighteners, shavers, etc.)
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Computers & electronics
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Major home appliances (i.e. washing machines, refridgerators, dishwashers, etc.)
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Small home appliances (i.e. coffee machines, kettles, toasters, etc.)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Pet supplies
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

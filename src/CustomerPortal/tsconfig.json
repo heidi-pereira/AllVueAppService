@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "baseUrl": "ClientApp",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es5",
+    "jsx": "react",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "skipDefaultLibCheck": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "noImplicitReturns": true,
+    "allowUnusedLabels": false,
+    "allowSyntheticDefaultImports": true,
+    "noFallthroughCasesInSwitch": true,
+    "lib": [ "ESNext", "dom" ],
+    "types": [ "webpack-env", "jest" ],
+    "typeRoots": [ "./types", "./node_modules/@types" ],
+    "paths": {
+      "@Ui": [ "./Ui" ],
+      "@Components/*": [ "./components/*" ],
+      "@Images/*": [ "./images/*" ],
+      "@Store/*": [ "./store/*" ],
+      "@Cards/*": [ "./cards/*" ],
+      "@Utils": [ "./utils.ts" ],
+      "@Styles/*": [ "./styles/*" ],
+      "@Models/*": [ "./models/*" ],
+      "@Pages/*": [ "./pages/*" ],
+      "@Layouts/*": [ "./layouts/*" ],
+      "@Services/*": [ "./services/*" ],
+      "@Interfaces": [ "./interfaces" ],
+      "@Globals": [ "./Globals" ]
+    }
+  },
+  "exclude": [
+    "bin",
+    "node_modules"
+  ]
+}

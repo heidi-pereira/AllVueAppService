@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Instagram
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Pinterest
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Reddit
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Snapchat
+  },
+  {
+    ClassInstanceId: 6,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Twitch
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Twitter
+  },
+  {
+    ClassInstanceId: 9,
+    Name: YouTube
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Other, please specify
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Don’t know / Can’t remember
+  }
+]

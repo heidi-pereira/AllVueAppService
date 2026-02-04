@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    // Need to ensure that any Typescript components from outside the root can have their types resolved
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+    "paths": {
+    "@shared/*": [
+        "../Vue.Common.FrontEnd/Components/*"
+      ]
+    },
+    "jsx": "react",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "*.ts",
+    "src",
+    "../Vue.Common.FrontEnd/Components"
+  ],
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}

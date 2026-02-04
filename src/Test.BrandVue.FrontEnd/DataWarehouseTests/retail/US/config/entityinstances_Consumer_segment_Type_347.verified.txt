@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Preference (Base Consumer_segment)
+  }
+]

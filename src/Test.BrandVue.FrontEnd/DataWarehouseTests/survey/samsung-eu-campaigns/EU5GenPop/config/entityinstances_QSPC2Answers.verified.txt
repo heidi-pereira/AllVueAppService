@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 2,
+    Name: BQ
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Honor
+  },
+  {
+    ClassInstanceId: 5,
+    Name: HTC
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Huawei
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Motorola
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Nokia
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Vivo
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Wiko
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Xiaomi/Mi
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Oppo
+  },
+  {
+    ClassInstanceId: 41,
+    Name: OnePlus
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

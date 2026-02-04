@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Food / Groceries e.g. food, non-alcoholic beverages but excluding non-food items such as toiletries, cleaning products and pet food
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Alcoholic beverages (e.g. beers, wine, spirits etc.) e.g. alcoholic beverages you bought from a store, not at a bar, restaurant or other venue
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Toiletries e.g. haircare, skincare, deodorants, toothpaste, bodywash and moisturizers
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Cleaning / Laundry products e.g. sprays, bleach, laundry products, air fresheners, mops, sponges etc.
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Pet food / Pet supplies e.g. food, toys and other accessories for pets
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Fragrances / Perfume and make up
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Medicines / Prescriptions e.g. both medicines that you need a prescription for and over-the-counter medicines
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Vitamins / Supplements e.g. vitamins, multi-vitamins, nutritional supplements
+  }
+]

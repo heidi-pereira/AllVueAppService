@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung Fold
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Apple iPhone 13
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Huawei Mate
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Microsoft Surface Duo
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

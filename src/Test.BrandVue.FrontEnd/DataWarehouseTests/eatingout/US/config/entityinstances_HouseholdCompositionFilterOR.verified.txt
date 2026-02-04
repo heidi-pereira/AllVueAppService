@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: No children in household
+  },
+  {
+    ClassInstanceId: 2,
+    Name: All under 10 years old
+  },
+  {
+    ClassInstanceId: 3,
+    Name: All between 10 and 18 years old
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Children under 10 and between 10 and 18 years old
+  }
+]

@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Having a treat
+  },
+  {
+    ClassInstanceId: 2,
+    Name: During a work-based journey
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Part of my regular routine
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Get together with friends / family
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Couldn't be bothered to cook
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Whilst out shopping
+  },
+  {
+    ClassInstanceId: 7,
+    Name: To take a break / relax
+  },
+  {
+    ClassInstanceId: 8,
+    Name: During a leisure-based journey
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Spend time with my partner
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Romantic meal / date
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Quick refuel
+  },
+  {
+    ClassInstanceId: 12,
+    Name: To eat a specific type of food
+  },
+  {
+    ClassInstanceId: 13,
+    Name: While out at another leisure activity
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Business meeting / meal
+  },
+  {
+    ClassInstanceId: 15,
+    Name: To try something new or different
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Because I had a voucher / promotion
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Special occasion or celebration
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Cancers that affect only men (Base Personally_affected_Cancers_that_affect_only_men_e_g__prostate_cancer_testicular_cancer)
+  }
+]

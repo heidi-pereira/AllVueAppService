@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Rent from Local Authority / Housing Association
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Own outright
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Part own & part rent (shared ownership)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Own - buying with a mortgage
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Rent privately
+  }
+]

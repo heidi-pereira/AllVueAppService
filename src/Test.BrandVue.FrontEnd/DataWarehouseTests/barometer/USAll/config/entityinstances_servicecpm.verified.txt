@@ -1,0 +1,74 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: How clean the store was
+  },
+  {
+    ClassInstanceId: 2,
+    Name: How long it takes to pay
+  },
+  {
+    ClassInstanceId: 3,
+    Name: How busy the store was
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Availability of fitting rooms
+  },
+  {
+    ClassInstanceId: 5,
+    Name: The availability of items in stock
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Easy to navigate the store
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Helpfulness/ knowledge of staff
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The return / refund policy
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Convenience of store location
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Product reviews
+  },
+  {
+    ClassInstanceId: 11,
+    Name: The images/videos of the products
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Text description of products
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Personalized customer service
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Delivery options
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Shipping cost / speed
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Easy to navigate the site
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Checkout process / payment
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Products matched expectation
+  }
+]

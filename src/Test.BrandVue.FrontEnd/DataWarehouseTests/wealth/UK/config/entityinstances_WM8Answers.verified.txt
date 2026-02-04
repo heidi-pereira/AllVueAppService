@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Structuring a pension / pensions and / or planning for retirement
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Income and other ongoing taxes
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Cash flow
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Inheritance tax planning
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Wills and succession planning
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Business succession
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Marriage
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Children
+  },
+  {
+    ClassInstanceId: 9,
+    Name: School fees
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Divorce
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Later life / Care planning
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

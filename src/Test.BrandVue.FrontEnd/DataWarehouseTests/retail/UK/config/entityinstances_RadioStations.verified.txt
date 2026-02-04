@@ -1,0 +1,94 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these in the last two weeks
+  },
+  {
+    ClassInstanceId: 1,
+    Name: BBC Radio 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: BBC Radio 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: BBC Radio 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: BBC Radio 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: BBC Radio 5 Live
+  },
+  {
+    ClassInstanceId: 6,
+    Name: BBC 6 Music
+  },
+  {
+    ClassInstanceId: 7,
+    Name: BBC Local radio
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Absolute Radio
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Capital
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Classic FM
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Heart
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Jazz FM
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Kerrang!
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Kiss
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LBC 97.3
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Magic
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Planet Rock
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Smooth
+  },
+  {
+    ClassInstanceId: 19,
+    Name: talkSPORT
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Other national commercial radio stations
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Local commercial radio (with adverts)
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Podcasts
+  }
+]

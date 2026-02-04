@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Grocery purchase frequency (Base Grocery_frequency)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yesterday channel (Base Yesterday_channel_asked)
+  }
+]

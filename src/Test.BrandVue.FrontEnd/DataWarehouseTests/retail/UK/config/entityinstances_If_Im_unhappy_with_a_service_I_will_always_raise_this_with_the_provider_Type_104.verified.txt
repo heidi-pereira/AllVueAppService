@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - If I'm unhappy with a service I will always raise this with the provider (Base If_Im_unhappy_with_a_service_I_will_always_raise_this_with_the_provider)
+  }
+]

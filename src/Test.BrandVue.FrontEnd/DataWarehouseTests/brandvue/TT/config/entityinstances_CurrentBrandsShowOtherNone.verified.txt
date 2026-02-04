@@ -1,0 +1,786 @@
+﻿[
+  {
+    ClassInstanceId: 8001,
+    Name: Abellio Bus
+  },
+  {
+    ClassInstanceId: 8002,
+    Name: Aer Lingus
+  },
+  {
+    ClassInstanceId: 8003,
+    Name: Air BnB
+  },
+  {
+    ClassInstanceId: 8004,
+    Name: Air France
+  },
+  {
+    ClassInstanceId: 8005,
+    Name: Alton Towers
+  },
+  {
+    ClassInstanceId: 8006,
+    Name: Arriva Bus
+  },
+  {
+    ClassInstanceId: 8007,
+    Name: Arriva Crosscountry
+  },
+  {
+    ClassInstanceId: 8008,
+    Name: Avanti West Coast
+  },
+  {
+    ClassInstanceId: 8009,
+    Name: Avis
+  },
+  {
+    ClassInstanceId: 8010,
+    Name: Belfast Airport
+  },
+  {
+    ClassInstanceId: 8011,
+    Name: Best Western
+  },
+  {
+    ClassInstanceId: 8012,
+    Name: Birmingham Airport
+  },
+  {
+    ClassInstanceId: 8013,
+    Name: Blackpool Pleasure Beach
+  },
+  {
+    ClassInstanceId: 8014,
+    Name: Bolt
+  },
+  {
+    ClassInstanceId: 8015,
+    Name: Booking.com
+  },
+  {
+    ClassInstanceId: 8016,
+    Name: Brighton Pier
+  },
+  {
+    ClassInstanceId: 8017,
+    Name: Bristol Airport
+  },
+  {
+    ClassInstanceId: 8018,
+    Name: British Airways
+  },
+  {
+    ClassInstanceId: 8019,
+    Name: British Airways Holidays
+  },
+  {
+    ClassInstanceId: 8020,
+    Name: British Library
+  },
+  {
+    ClassInstanceId: 8021,
+    Name: British Museum
+  },
+  {
+    ClassInstanceId: 8022,
+    Name: Brittany Ferries
+  },
+  {
+    ClassInstanceId: 8023,
+    Name: Budget
+  },
+  {
+    ClassInstanceId: 8024,
+    Name: Butlin's
+  },
+  {
+    ClassInstanceId: 8025,
+    Name: c2c
+  },
+  {
+    ClassInstanceId: 8026,
+    Name: Caledonian Sleeper
+  },
+  {
+    ClassInstanceId: 8027,
+    Name: Caravan and Motorhome Club
+  },
+  {
+    ClassInstanceId: 8028,
+    Name: Carnival Cruises
+  },
+  {
+    ClassInstanceId: 8029,
+    Name: Celebrity Cruises
+  },
+  {
+    ClassInstanceId: 8030,
+    Name: Center Parcs
+  },
+  {
+    ClassInstanceId: 8031,
+    Name: Champneys
+  },
+  {
+    ClassInstanceId: 8032,
+    Name: Chester Zoo
+  },
+  {
+    ClassInstanceId: 8033,
+    Name: Chiltern Railways
+  },
+  {
+    ClassInstanceId: 8034,
+    Name: Condé Nast
+  },
+  {
+    ClassInstanceId: 8035,
+    Name: Co-operative Travel
+  },
+  {
+    ClassInstanceId: 8036,
+    Name: CrossCountry Trains
+  },
+  {
+    ClassInstanceId: 8037,
+    Name: Crowne Plaza
+  },
+  {
+    ClassInstanceId: 8038,
+    Name: Cunard
+  },
+  {
+    ClassInstanceId: 8039,
+    Name: Days Inn
+  },
+  {
+    ClassInstanceId: 8040,
+    Name: Disney World Florida
+  },
+  {
+    ClassInstanceId: 8041,
+    Name: Disneyland Paris
+  },
+  {
+    ClassInstanceId: 8042,
+    Name: East Midlands Railway
+  },
+  {
+    ClassInstanceId: 8043,
+    Name: East West Rail
+  },
+  {
+    ClassInstanceId: 8044,
+    Name: easyJet
+  },
+  {
+    ClassInstanceId: 8045,
+    Name: easyJet Holidays
+  },
+  {
+    ClassInstanceId: 8046,
+    Name: Eden Project
+  },
+  {
+    ClassInstanceId: 8047,
+    Name: Edinburgh Airport
+  },
+  {
+    ClassInstanceId: 8048,
+    Name: Edinburgh Castle
+  },
+  {
+    ClassInstanceId: 8049,
+    Name: eDreams
+  },
+  {
+    ClassInstanceId: 8050,
+    Name: Elizabeth Line (Crossrail)
+  },
+  {
+    ClassInstanceId: 8051,
+    Name: Emirates
+  },
+  {
+    ClassInstanceId: 8052,
+    Name: Enterprise
+  },
+  {
+    ClassInstanceId: 8053,
+    Name: Ethiad Airways
+  },
+  {
+    ClassInstanceId: 8054,
+    Name: Europcar
+  },
+  {
+    ClassInstanceId: 8055,
+    Name: Eurostar
+  },
+  {
+    ClassInstanceId: 8056,
+    Name: Expedia
+  },
+  {
+    ClassInstanceId: 8057,
+    Name: First Bus
+  },
+  {
+    ClassInstanceId: 8058,
+    Name: First Choice
+  },
+  {
+    ClassInstanceId: 8059,
+    Name: Flight Centre
+  },
+  {
+    ClassInstanceId: 8060,
+    Name: Four Seasons
+  },
+  {
+    ClassInstanceId: 8061,
+    Name: Fred Olsen Cruise Lines
+  },
+  {
+    ClassInstanceId: 8062,
+    Name: Gatwick Airport
+  },
+  {
+    ClassInstanceId: 8063,
+    Name: Gatwick Express
+  },
+  {
+    ClassInstanceId: 8064,
+    Name: Glasgow Airport
+  },
+  {
+    ClassInstanceId: 8065,
+    Name: Go Ape
+  },
+  {
+    ClassInstanceId: 8066,
+    Name: Go-Ahead
+  },
+  {
+    ClassInstanceId: 8067,
+    Name: Grand Central Railway
+  },
+  {
+    ClassInstanceId: 8068,
+    Name: Great Northern
+  },
+  {
+    ClassInstanceId: 8069,
+    Name: Great Western Railway
+  },
+  {
+    ClassInstanceId: 8070,
+    Name: Greater Anglia Trains
+  },
+  {
+    ClassInstanceId: 8071,
+    Name: Haven Holidays
+  },
+  {
+    ClassInstanceId: 8072,
+    Name: Heathrow Airport
+  },
+  {
+    ClassInstanceId: 8073,
+    Name: Heathrow Express
+  },
+  {
+    ClassInstanceId: 8074,
+    Name: Hertz
+  },
+  {
+    ClassInstanceId: 8075,
+    Name: Hilton
+  },
+  {
+    ClassInstanceId: 8076,
+    Name: Historic Royal Palaces
+  },
+  {
+    ClassInstanceId: 8077,
+    Name: Holiday Inn
+  },
+  {
+    ClassInstanceId: 8078,
+    Name: Hoseasons
+  },
+  {
+    ClassInstanceId: 8079,
+    Name: Hotel du Vin & Bistro
+  },
+  {
+    ClassInstanceId: 8080,
+    Name: Hs2
+  },
+  {
+    ClassInstanceId: 8081,
+    Name: Hull trains
+  },
+  {
+    ClassInstanceId: 8082,
+    Name: Hyatt
+  },
+  {
+    ClassInstanceId: 8083,
+    Name: Iberia
+  },
+  {
+    ClassInstanceId: 8084,
+    Name: ibis Hotels
+  },
+  {
+    ClassInstanceId: 8085,
+    Name: InterContinental
+  },
+  {
+    ClassInstanceId: 8086,
+    Name: Jet2
+  },
+  {
+    ClassInstanceId: 8087,
+    Name: Jet2holidays
+  },
+  {
+    ClassInstanceId: 8088,
+    Name: Jurys Inn
+  },
+  {
+    ClassInstanceId: 8089,
+    Name: KAYAK
+  },
+  {
+    ClassInstanceId: 8090,
+    Name: KLM
+  },
+  {
+    ClassInstanceId: 8091,
+    Name: Kuoni
+  },
+  {
+    ClassInstanceId: 8092,
+    Name: lastminute.com
+  },
+  {
+    ClassInstanceId: 8093,
+    Name: Leeds Bradford Airport
+  },
+  {
+    ClassInstanceId: 8094,
+    Name: LEGOLAND Windsor Resort
+  },
+  {
+    ClassInstanceId: 8095,
+    Name: LNER
+  },
+  {
+    ClassInstanceId: 8096,
+    Name: London City Airport
+  },
+  {
+    ClassInstanceId: 8097,
+    Name: London Northwestern Railway
+  },
+  {
+    ClassInstanceId: 8098,
+    Name: London Overground
+  },
+  {
+    ClassInstanceId: 8099,
+    Name: Lonely Planet
+  },
+  {
+    ClassInstanceId: 8100,
+    Name: Longleat
+  },
+  {
+    ClassInstanceId: 8101,
+    Name: loveholidays
+  },
+  {
+    ClassInstanceId: 8102,
+    Name: Lufthansa
+  },
+  {
+    ClassInstanceId: 8103,
+    Name: Luton Airport
+  },
+  {
+    ClassInstanceId: 8104,
+    Name: Macdonald Hotels & Resorts
+  },
+  {
+    ClassInstanceId: 8105,
+    Name: Malmaison hotels
+  },
+  {
+    ClassInstanceId: 8106,
+    Name: Manchester Airport
+  },
+  {
+    ClassInstanceId: 8107,
+    Name: Mandarin Oriental
+  },
+  {
+    ClassInstanceId: 8108,
+    Name: Marriott
+  },
+  {
+    ClassInstanceId: 8109,
+    Name: MegaBus
+  },
+  {
+    ClassInstanceId: 8110,
+    Name: Mercure Hotels
+  },
+  {
+    ClassInstanceId: 8111,
+    Name: Merseyrail
+  },
+  {
+    ClassInstanceId: 8112,
+    Name: Mr and Mrs Smith
+  },
+  {
+    ClassInstanceId: 8113,
+    Name: National Express
+  },
+  {
+    ClassInstanceId: 8114,
+    Name: National Museums Liverpool
+  },
+  {
+    ClassInstanceId: 8115,
+    Name: National Portrait Gallery
+  },
+  {
+    ClassInstanceId: 8116,
+    Name: National Rail
+  },
+  {
+    ClassInstanceId: 8117,
+    Name: Natural History Museum
+  },
+  {
+    ClassInstanceId: 8118,
+    Name: NetJets
+  },
+  {
+    ClassInstanceId: 8119,
+    Name: Network Rail
+  },
+  {
+    ClassInstanceId: 8120,
+    Name: Northern Railway
+  },
+  {
+    ClassInstanceId: 8121,
+    Name: Norwegian Air
+  },
+  {
+    ClassInstanceId: 8122,
+    Name: Novotel hotels
+  },
+  {
+    ClassInstanceId: 8123,
+    Name: Opodo
+  },
+  {
+    ClassInstanceId: 8124,
+    Name: P&O Cruises
+  },
+  {
+    ClassInstanceId: 8125,
+    Name: Park Inn by Radisson
+  },
+  {
+    ClassInstanceId: 8126,
+    Name: Premier Inn
+  },
+  {
+    ClassInstanceId: 8127,
+    Name: Priceline
+  },
+  {
+    ClassInstanceId: 8128,
+    Name: Princess Cruises
+  },
+  {
+    ClassInstanceId: 8129,
+    Name: Radisson
+  },
+  {
+    ClassInstanceId: 8130,
+    Name: Ramada
+  },
+  {
+    ClassInstanceId: 8131,
+    Name: Ritz Carlton
+  },
+  {
+    ClassInstanceId: 8132,
+    Name: Royal Academy of Arts
+  },
+  {
+    ClassInstanceId: 8133,
+    Name: Royal Botanic Gardens Kew
+  },
+  {
+    ClassInstanceId: 8134,
+    Name: Royal Caribbean International
+  },
+  {
+    ClassInstanceId: 8135,
+    Name: Ryanair
+  },
+  {
+    ClassInstanceId: 8136,
+    Name: Saga Cruises
+  },
+  {
+    ClassInstanceId: 8137,
+    Name: Sandals
+  },
+  {
+    ClassInstanceId: 8138,
+    Name: Santander Cycles
+  },
+  {
+    ClassInstanceId: 8139,
+    Name: Savoy Hotel
+  },
+  {
+    ClassInstanceId: 8140,
+    Name: Science Museum
+  },
+  {
+    ClassInstanceId: 8141,
+    Name: ScotRail
+  },
+  {
+    ClassInstanceId: 8142,
+    Name: SeaWorld
+  },
+  {
+    ClassInstanceId: 8143,
+    Name: Secret Escapes
+  },
+  {
+    ClassInstanceId: 8144,
+    Name: Sheraton
+  },
+  {
+    ClassInstanceId: 8145,
+    Name: Singapore Airlines
+  },
+  {
+    ClassInstanceId: 8146,
+    Name: Sixt
+  },
+  {
+    ClassInstanceId: 8147,
+    Name: Skyscanner
+  },
+  {
+    ClassInstanceId: 8148,
+    Name: Soho House
+  },
+  {
+    ClassInstanceId: 8149,
+    Name: Somerset House
+  },
+  {
+    ClassInstanceId: 8150,
+    Name: South Western Railway
+  },
+  {
+    ClassInstanceId: 8151,
+    Name: Southeastern Railway
+  },
+  {
+    ClassInstanceId: 8152,
+    Name: Southern
+  },
+  {
+    ClassInstanceId: 8153,
+    Name: St Paul's Cathedral
+  },
+  {
+    ClassInstanceId: 8154,
+    Name: Stagecoach Bus
+  },
+  {
+    ClassInstanceId: 8155,
+    Name: Stansted Airport
+  },
+  {
+    ClassInstanceId: 8156,
+    Name: Stansted Express
+  },
+  {
+    ClassInstanceId: 8157,
+    Name: Stena Line
+  },
+  {
+    ClassInstanceId: 8158,
+    Name: Tate
+  },
+  {
+    ClassInstanceId: 8159,
+    Name: TfL Rail
+  },
+  {
+    ClassInstanceId: 8160,
+    Name: ThamesLink
+  },
+  {
+    ClassInstanceId: 8161,
+    Name: The National Gallery
+  },
+  {
+    ClassInstanceId: 8162,
+    Name: The Roman Baths at Bath
+  },
+  {
+    ClassInstanceId: 8163,
+    Name: Thistle Hotels & Resorts
+  },
+  {
+    ClassInstanceId: 8164,
+    Name: Thomas Cook
+  },
+  {
+    ClassInstanceId: 8165,
+    Name: Thorpe Park
+  },
+  {
+    ClassInstanceId: 8166,
+    Name: Trainline
+  },
+  {
+    ClassInstanceId: 8167,
+    Name: Transpennine Express
+  },
+  {
+    ClassInstanceId: 8168,
+    Name: Transport Focus
+  },
+  {
+    ClassInstanceId: 8169,
+    Name: Transport for London
+  },
+  {
+    ClassInstanceId: 8170,
+    Name: Transport for Wales
+  },
+  {
+    ClassInstanceId: 8171,
+    Name: Travelodge
+  },
+  {
+    ClassInstanceId: 8172,
+    Name: TravelSupermarket
+  },
+  {
+    ClassInstanceId: 8173,
+    Name: Tripadvisor
+  },
+  {
+    ClassInstanceId: 8174,
+    Name: Trivago
+  },
+  {
+    ClassInstanceId: 8175,
+    Name: TUI
+  },
+  {
+    ClassInstanceId: 8176,
+    Name: Uber
+  },
+  {
+    ClassInstanceId: 8177,
+    Name: Universal Orlando Resort
+  },
+  {
+    ClassInstanceId: 8178,
+    Name: V&A
+  },
+  {
+    ClassInstanceId: 8179,
+    Name: Viking Cruises
+  },
+  {
+    ClassInstanceId: 8180,
+    Name: Virgin Atlantic
+  },
+  {
+    ClassInstanceId: 8181,
+    Name: Virgin Holidays
+  },
+  {
+    ClassInstanceId: 8182,
+    Name: Vrbo
+  },
+  {
+    ClassInstanceId: 8183,
+    Name: Vueling
+  },
+  {
+    ClassInstanceId: 8184,
+    Name: West Midlands Railway
+  },
+  {
+    ClassInstanceId: 8185,
+    Name: Westminster Abbey
+  },
+  {
+    ClassInstanceId: 8186,
+    Name: Wizz Air
+  },
+  {
+    ClassInstanceId: 8187,
+    Name: ZSL London Zoo
+  },
+  {
+    ClassInstanceId: 8188,
+    Name: On the Beach
+  },
+  {
+    ClassInstanceId: 8189,
+    Name: Hay's Travel
+  },
+  {
+    ClassInstanceId: 8190,
+    Name: MSC Cruises
+  },
+  {
+    ClassInstanceId: 8191,
+    Name: Parkdean Resorts
+  },
+  {
+    ClassInstanceId: 8192,
+    Name: Park Holidays
+  },
+  {
+    ClassInstanceId: 8193,
+    Name: Away Resorts
+  },
+  {
+    ClassInstanceId: 8195,
+    Name: Great British Railways
+  },
+  {
+    ClassInstanceId: 99998,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99999,
+    Name: None of these
+  }
+]

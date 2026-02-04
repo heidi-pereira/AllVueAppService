@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A store / site that only sells one brand e.g. H&M, Zara, Levi’s store
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A store / site that sells lots of different brands e.g. a department store, Amazon, Asos
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Don’t know
+  }
+]

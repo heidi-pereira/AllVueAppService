@@ -1,0 +1,65 @@
+﻿{
+  TotalWeighting: 1.0,
+  _weightingsByQuotaCellString: {
+    1:0: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.39
+    },
+    1:1: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.20400000000000004
+    },
+    1:2: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.006
+    },
+    2:0: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.13
+    },
+    2:1: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.068
+    },
+    2:2: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.002
+    },
+    3:0: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.09100000000000003
+    },
+    3:1: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.047600000000000024
+    },
+    3:2: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.0014000000000000004
+    },
+    4:0: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.039
+    },
+    4:1: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.020400000000000005
+    },
+    4:2: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.0006
+    }
+  }
+}

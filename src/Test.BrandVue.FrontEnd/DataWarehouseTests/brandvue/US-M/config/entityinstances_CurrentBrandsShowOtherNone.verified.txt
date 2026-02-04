@@ -1,0 +1,478 @@
+﻿[
+  {
+    ClassInstanceId: 3001,
+    Name: A&E
+  },
+  {
+    ClassInstanceId: 3002,
+    Name: ABC
+  },
+  {
+    ClassInstanceId: 3003,
+    Name: ABC News
+  },
+  {
+    ClassInstanceId: 3004,
+    Name: Adult Swim
+  },
+  {
+    ClassInstanceId: 3005,
+    Name: American Heroes Channel
+  },
+  {
+    ClassInstanceId: 3006,
+    Name: Animal Planet
+  },
+  {
+    ClassInstanceId: 3007,
+    Name: BabyFirstTV
+  },
+  {
+    ClassInstanceId: 3008,
+    Name: BBC America
+  },
+  {
+    ClassInstanceId: 3009,
+    Name: BODi
+  },
+  {
+    ClassInstanceId: 3010,
+    Name: BEIN Sports
+  },
+  {
+    ClassInstanceId: 3011,
+    Name: BET / BET Her
+  },
+  {
+    ClassInstanceId: 3013,
+    Name: Bloomberg Television
+  },
+  {
+    ClassInstanceId: 3014,
+    Name: Boomerang
+  },
+  {
+    ClassInstanceId: 3015,
+    Name: Bravo
+  },
+  {
+    ClassInstanceId: 3016,
+    Name: Cartoon Network
+  },
+  {
+    ClassInstanceId: 3017,
+    Name: CBS
+  },
+  {
+    ClassInstanceId: 3018,
+    Name: CenturyLink
+  },
+  {
+    ClassInstanceId: 3019,
+    Name: CMT
+  },
+  {
+    ClassInstanceId: 3020,
+    Name: CNBC
+  },
+  {
+    ClassInstanceId: 3021,
+    Name: CNN
+  },
+  {
+    ClassInstanceId: 3022,
+    Name: Comedy Central
+  },
+  {
+    ClassInstanceId: 3023,
+    Name: Cooking Channel
+  },
+  {
+    ClassInstanceId: 3024,
+    Name: C-SPAN
+  },
+  {
+    ClassInstanceId: 3025,
+    Name: Discovery Channel
+  },
+  {
+    ClassInstanceId: 3026,
+    Name: Discovery Familia
+  },
+  {
+    ClassInstanceId: 3027,
+    Name: Discovery Life
+  },
+  {
+    ClassInstanceId: 3028,
+    Name: Dish Network
+  },
+  {
+    ClassInstanceId: 3029,
+    Name: Disney Junior
+  },
+  {
+    ClassInstanceId: 3030,
+    Name: Disney XD
+  },
+  {
+    ClassInstanceId: 3031,
+    Name: Disney+
+  },
+  {
+    ClassInstanceId: 3032,
+    Name: Magnolia Network
+  },
+  {
+    ClassInstanceId: 3033,
+    Name: E!
+  },
+  {
+    ClassInstanceId: 3034,
+    Name: ESPN
+  },
+  {
+    ClassInstanceId: 3035,
+    Name: ESPNU
+  },
+  {
+    ClassInstanceId: 3036,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 3037,
+    Name: Food Network
+  },
+  {
+    ClassInstanceId: 3038,
+    Name: Fox
+  },
+  {
+    ClassInstanceId: 3039,
+    Name: Fox Business Network
+  },
+  {
+    ClassInstanceId: 3040,
+    Name: Fox News Channel
+  },
+  {
+    ClassInstanceId: 3041,
+    Name: Fox Sports
+  },
+  {
+    ClassInstanceId: 3042,
+    Name: Freeform
+  },
+  {
+    ClassInstanceId: 3043,
+    Name: FX Movie Channel
+  },
+  {
+    ClassInstanceId: 3044,
+    Name: FXX
+  },
+  {
+    ClassInstanceId: 3045,
+    Name: FYI
+  },
+  {
+    ClassInstanceId: 3046,
+    Name: Galavisión
+  },
+  {
+    ClassInstanceId: 3047,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 3048,
+    Name: Great American Family
+  },
+  {
+    ClassInstanceId: 3049,
+    Name: Guardian
+  },
+  {
+    ClassInstanceId: 3050,
+    Name: Hallmark Channel
+  },
+  {
+    ClassInstanceId: 3051,
+    Name: Hallmark Mystery
+  },
+  {
+    ClassInstanceId: 3052,
+    Name: HBO
+  },
+  {
+    ClassInstanceId: 3053,
+    Name: HGTV
+  },
+  {
+    ClassInstanceId: 3054,
+    Name: History
+  },
+  {
+    ClassInstanceId: 3055,
+    Name: HLN
+  },
+  {
+    ClassInstanceId: 3056,
+    Name: HSN
+  },
+  {
+    ClassInstanceId: 3057,
+    Name: Hulu
+  },
+  {
+    ClassInstanceId: 3058,
+    Name: IMDb
+  },
+  {
+    ClassInstanceId: 3059,
+    Name: INSP
+  },
+  {
+    ClassInstanceId: 3060,
+    Name: Investigation Discovery
+  },
+  {
+    ClassInstanceId: 3061,
+    Name: LeEco
+  },
+  {
+    ClassInstanceId: 3062,
+    Name: Logo TV
+  },
+  {
+    ClassInstanceId: 3063,
+    Name: Midland
+  },
+  {
+    ClassInstanceId: 3064,
+    Name: MLB Network
+  },
+  {
+    ClassInstanceId: 3067,
+    Name: MotorTrend TV
+  },
+  {
+    ClassInstanceId: 3068,
+    Name: MSNBC
+  },
+  {
+    ClassInstanceId: 3069,
+    Name: MTV
+  },
+  {
+    ClassInstanceId: 3070,
+    Name: MTV Classic
+  },
+  {
+    ClassInstanceId: 3071,
+    Name: Nat Geo Wild
+  },
+  {
+    ClassInstanceId: 3072,
+    Name: National Geographic Channel
+  },
+  {
+    ClassInstanceId: 3073,
+    Name: NBA TV
+  },
+  {
+    ClassInstanceId: 3074,
+    Name: NBC
+  },
+  {
+    ClassInstanceId: 3075,
+    Name: NBC Sports Network
+  },
+  {
+    ClassInstanceId: 3076,
+    Name: Netflix
+  },
+  {
+    ClassInstanceId: 3077,
+    Name: NFL Network
+  },
+  {
+    ClassInstanceId: 3078,
+    Name: Nick at Nite
+  },
+  {
+    ClassInstanceId: 3079,
+    Name: Nick Jr.
+  },
+  {
+    ClassInstanceId: 3080,
+    Name: Nickelodeon
+  },
+  {
+    ClassInstanceId: 3081,
+    Name: NickToons
+  },
+  {
+    ClassInstanceId: 3082,
+    Name: OWN
+  },
+  {
+    ClassInstanceId: 3083,
+    Name: Paramount Network
+  },
+  {
+    ClassInstanceId: 3084,
+    Name: Paramount+
+  },
+  {
+    ClassInstanceId: 3085,
+    Name: PBS
+  },
+  {
+    ClassInstanceId: 3086,
+    Name: Peacock
+  },
+  {
+    ClassInstanceId: 3087,
+    Name: Philo
+  },
+  {
+    ClassInstanceId: 3088,
+    Name: Pop TV
+  },
+  {
+    ClassInstanceId: 3089,
+    Name: Portal from Facebook
+  },
+  {
+    ClassInstanceId: 3090,
+    Name: QVC
+  },
+  {
+    ClassInstanceId: 3091,
+    Name: Reelz Channel
+  },
+  {
+    ClassInstanceId: 3092,
+    Name: RFD-TV
+  },
+  {
+    ClassInstanceId: 3093,
+    Name: Roku
+  },
+  {
+    ClassInstanceId: 3094,
+    Name: SEC Network
+  },
+  {
+    ClassInstanceId: 3095,
+    Name: Showtime
+  },
+  {
+    ClassInstanceId: 3096,
+    Name: SiriusXM
+  },
+  {
+    ClassInstanceId: 3097,
+    Name: Smithsonian Channel
+  },
+  {
+    ClassInstanceId: 3098,
+    Name: Sundance TV
+  },
+  {
+    ClassInstanceId: 3099,
+    Name: Syfy
+  },
+  {
+    ClassInstanceId: 3100,
+    Name: TBS
+  },
+  {
+    ClassInstanceId: 3101,
+    Name: TeenNick
+  },
+  {
+    ClassInstanceId: 3102,
+    Name: Telemundo
+  },
+  {
+    ClassInstanceId: 3103,
+    Name: Tennis Channel
+  },
+  {
+    ClassInstanceId: 3104,
+    Name: The CW
+  },
+  {
+    ClassInstanceId: 3105,
+    Name: The Golf Channel
+  },
+  {
+    ClassInstanceId: 3106,
+    Name: The Science Channel
+  },
+  {
+    ClassInstanceId: 3107,
+    Name: The Weather Channel
+  },
+  {
+    ClassInstanceId: 3108,
+    Name: Travel Channel
+  },
+  {
+    ClassInstanceId: 3109,
+    Name: truTV
+  },
+  {
+    ClassInstanceId: 3110,
+    Name: Tubi
+  },
+  {
+    ClassInstanceId: 3111,
+    Name: TV One
+  },
+  {
+    ClassInstanceId: 3112,
+    Name: Universal Kids
+  },
+  {
+    ClassInstanceId: 3113,
+    Name: Univision
+  },
+  {
+    ClassInstanceId: 3114,
+    Name: USA Network
+  },
+  {
+    ClassInstanceId: 3115,
+    Name: WE TV
+  },
+  {
+    ClassInstanceId: 3116,
+    Name: WGN America
+  },
+  {
+    ClassInstanceId: 3117,
+    Name: YouTube TV
+  },
+  {
+    ClassInstanceId: 3118,
+    Name: Tinder
+  },
+  {
+    ClassInstanceId: 3119,
+    Name: Bumble
+  },
+  {
+    ClassInstanceId: 3120,
+    Name: Hinge
+  },
+  {
+    ClassInstanceId: 99998,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99999,
+    Name: None of these
+  }
+]

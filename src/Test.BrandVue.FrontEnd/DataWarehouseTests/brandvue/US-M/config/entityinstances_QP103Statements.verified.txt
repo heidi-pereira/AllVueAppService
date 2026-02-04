@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Basketball
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tennis
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ice Hockey
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Football
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Motor sports
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Baseball
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Track & Field
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Soccer
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Golf
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Boxing
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Mixed Martial Arts
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Cycling
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Darts
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Padel
+  }
+]

@@ -1,0 +1,59 @@
+@use "../../Styles/layout.scss" as *;
+@use "../../Styles/dimensions.scss" as *;
+
+.tab-link {
+    @include flex-row($align-items: center);
+    font-size: 14px;
+    padding: 16px 28px 12px 28px;
+    color: var(--colour-slate);
+    border-bottom: 4px solid transparent;
+    transition: color 150ms ease;
+
+    span {
+        margin: 0;
+    }
+
+    @media (max-width: $breakpoint-tablet) {
+        span {
+            display: none;
+        }
+
+        i {
+            margin-right: 0 !important;
+        }
+    }
+
+    &:hover {
+        color: var(--colour-slate-dark);
+        border-bottom: 4px solid transparent;
+    }
+
+    i {
+        vertical-align: middle;
+        margin-right: 8px;
+        padding: 2px !important;
+
+        &.rotate {
+            transform: rotate(90deg);
+        }
+    }
+
+    &.data-tab {
+        @media (max-width: $breakpoint-mobile) {
+            display: none; //hide on mobile
+        }
+    }
+}
+
+.active {
+    color: var(--colour-blueSteel);
+    border-bottom: 4px solid var(--colour-blueSteel);
+    box-shadow: 0 0.3rem 0.15rem -0.15rem #d7ebf4;
+    transition: all 150ms ease-in;
+    font-weight: 400;
+
+    &:hover {
+        color: var(--colour-blueSteel-dark);
+        border-bottom: 4px solid var(--colour-blueSteel-dark);
+    }
+}

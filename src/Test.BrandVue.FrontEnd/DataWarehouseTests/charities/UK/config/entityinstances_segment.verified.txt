@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Unaware of charity
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Aware non-supporter
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Previously supported (Over 12M ago)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Currently support (L12M)
+  }
+]

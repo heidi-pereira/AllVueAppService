@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Customer segment (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Do not know them
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Never purchased from them
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Purchased - more than 12 months ago
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Purchased - in the last 12 months
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Purchased - in the last 3 months
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Purchased - in the last month
+  }
+]

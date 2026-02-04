@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Is a future-proof investment
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Helps me manage and control multiple products in one app/system
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Helps me save money
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Helps me keep my house secure
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Helps me keep fit/healthy
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Has good compatibility with other brands
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Makes my life easier and more convenient
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Is easy to use
+  }
+]

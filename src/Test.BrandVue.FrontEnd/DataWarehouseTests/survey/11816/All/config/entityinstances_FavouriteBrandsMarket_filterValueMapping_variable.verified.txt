@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Italians
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Pubs
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Fast Casual
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mc Donalds
+  }
+]

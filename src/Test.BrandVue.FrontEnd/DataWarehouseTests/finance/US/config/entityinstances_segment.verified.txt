@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Unaware
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Never Purchased
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Purchased 1+ Year Ago
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Purchased in the last year
+  }
+]

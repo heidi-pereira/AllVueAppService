@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Mainland US (lower 48 States)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Hawaii / Alaska
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Canada
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Mexico / Caribbean
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Europe including UK
+  },
+  {
+    ClassInstanceId: 6,
+    Name: All other international destinations
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Can’t remember
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

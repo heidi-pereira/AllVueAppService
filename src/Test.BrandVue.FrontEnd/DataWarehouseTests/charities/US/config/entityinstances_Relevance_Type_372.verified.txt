@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Relevance: Neither relevant nor irrelevant (Base Relevance)
+  }
+]

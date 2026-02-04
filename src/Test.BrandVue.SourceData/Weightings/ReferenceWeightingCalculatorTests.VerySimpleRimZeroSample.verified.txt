@@ -1,0 +1,4 @@
+﻿{
+  TotalWeighting: 0.0,
+  _weightingsByQuotaCellString: {}
+}

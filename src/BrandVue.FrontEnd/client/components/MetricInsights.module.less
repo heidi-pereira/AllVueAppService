@@ -1,0 +1,113 @@
+﻿@import "../../less/_vars";
+@import "../../less/_layout";
+
+.metricInsightsCardList {
+    .flex-column;
+    gap: 16px;
+
+    .metricInsightsCard {
+        border: 1px solid @chalk;
+        border-radius: 4px;
+        padding: 16px;
+
+        .metricInsightsCardTitle {
+            color: @slate
+        }
+
+        .metricInsightsCardInsightList {
+            .flex-column;
+            gap: 8px;
+
+            .metricInsight {
+                .flex-row;
+                gap: 32px;
+
+                .metricInsightIcon {
+                    width: 32px;
+
+                    span {
+                        margin-left: 0;
+
+                        i {
+                            font-size: 2.5em;
+                        }
+                    }
+
+                    .gold {
+                        color: @amber;
+                    }
+                }
+
+                .metricInsightText {
+                    p {
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+
+        .userFeedbackCorrectness {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            padding-right: 8px;
+
+            p {
+                font-size: 12px;
+                margin: 0;
+            }
+
+            button {
+                background-color: transparent;
+                border: none;
+                color: @blueSteel;
+                cursor: pointer;
+                font-size: 12px;
+                padding: 6px 6px;
+
+                &:hover {
+                    background-color: @blueSteel-lighter;
+                    border-radius: 50%;
+                }
+
+                &.buttonClicked {
+                    background-color: @blueSteel-lighter;
+                    border-radius: 50%;
+                    box-shadow: 0 0 6px @blueSteel;
+                }
+            }
+
+            .goBackButton {
+                white-space: nowrap;
+                text-decoration: underline;
+                padding: 0;
+                margin: 0;
+                line-height: normal;
+
+                &:hover {
+                    border-radius: 0;
+                }
+            }
+        }
+    }
+
+    .warningBubble {
+        display: flex;
+        align-items: center;
+        padding: 10px 18px 10px 16px;
+        margin-bottom: 6px !important;
+        gap: 1em;
+        font-size: 14px;
+        background: @blueSteel-lighter;
+        border-radius: 6px;
+
+        .ailaInfo {
+            color: @blueSteel;
+        }
+
+        p, a {
+            font-size: 14px;
+        }
+    }
+}

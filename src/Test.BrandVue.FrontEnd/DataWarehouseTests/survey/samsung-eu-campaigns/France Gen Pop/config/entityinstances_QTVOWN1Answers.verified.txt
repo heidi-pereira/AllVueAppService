@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Plasma
+  },
+  {
+    ClassInstanceId: 2,
+    Name: LED
+  },
+  {
+    ClassInstanceId: 3,
+    Name: OLED
+  },
+  {
+    ClassInstanceId: 4,
+    Name: OLED evo
+  },
+  {
+    ClassInstanceId: 5,
+    Name: QNED
+  },
+  {
+    ClassInstanceId: 6,
+    Name: QLED
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Neo QLED
+  },
+  {
+    ClassInstanceId: 8,
+    Name: NanoCell
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Mini LED
+  },
+  {
+    ClassInstanceId: 10,
+    Name: QD-OLED
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Other, please specify
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know / Can’t remember
+  }
+]

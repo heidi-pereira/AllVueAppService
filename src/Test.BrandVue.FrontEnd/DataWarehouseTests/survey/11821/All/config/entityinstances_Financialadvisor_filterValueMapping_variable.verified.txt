@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes - in the last 12 months
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - but not in the last 12 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No - but I would consider using them in the future
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No - and I would not consider using them in the future
+  }
+]

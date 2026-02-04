@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Understanding:Uncertain but known (Base Consumer_segment)
+  }
+]

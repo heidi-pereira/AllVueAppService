@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Logo image3 (Base Logo_image3_asked)
+  }
+]

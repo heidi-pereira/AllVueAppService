@@ -1,0 +1,11 @@
+{
+  "includes": ["introduction", "auth", "workedexamples", "advancedexamples", "concepts"],
+  "theme": "darkula",
+  "language_tabs": [
+    { "shell": "Curl" }, { "javascript": "JavaScript" }, { "javascript--nodejs": "Node.JS" }, { "java": "Java" },
+    { "python": "Python" }
+  ],
+  "user_templates": "./docs/source/templates/openapi3",
+  "customApiKeyValue": "Bearer YourApiKey",
+  "headings": 3
+}

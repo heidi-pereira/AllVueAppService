@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: White
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Hispanic or Latino
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Black or African American
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Native American or American Indian
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Asian / Pacific Islander
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

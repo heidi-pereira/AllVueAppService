@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Trust At All (Base Consumer_segment)
+  }
+]

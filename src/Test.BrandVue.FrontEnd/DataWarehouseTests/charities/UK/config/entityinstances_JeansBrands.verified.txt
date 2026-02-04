@@ -1,0 +1,1774 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: & Other Stories
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 7 for All Mankind
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Abercrombie and Fitch
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Accessorize
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Adidas
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Adler
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Adolfo Dominguez
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Aldi
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Aldo
+  },
+  {
+    ClassInstanceId: 10,
+    Name: All Saints
+  },
+  {
+    ClassInstanceId: 11,
+    Name: American Eagle
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Angels
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Arket
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Armani/EA7/Armani Exchange
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Asda/George
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Asics
+  },
+  {
+    ClassInstanceId: 17,
+    Name: ASOS
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Ben Sherman
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Benetton/United Colours of Benetton
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Bershka
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Boden
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Bonmarche
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Boohoo
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Boss/Hugo Boss/Hugo
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Boux Avenue
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Bravissimo
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Brax
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Burberry
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Burton / Nico
+  },
+  {
+    ClassInstanceId: 30,
+    Name: C&A
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Cache Cache
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Calvin Klein
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Camaïeu
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Cambio
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Carhartt
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Celio
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Champion
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Clarks
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Claudie Pierlot
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Coach
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Coast
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Converse
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Cos
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Cotton Traders
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Debenhams/Maine
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Deichmann
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Desigual
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Diesel
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Dockers
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Dorothy Perkins/Lone Star
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Dr. Martens
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Dune
+  },
+  {
+    ClassInstanceId: 53,
+    Name: ecco
+  },
+  {
+    ClassInstanceId: 54,
+    Name: El Ganso
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Emidio Tucci
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Ernsting's Family/Gina Benotti
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Esprit/EDC
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Etam
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Evans
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Farah
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Farfetch
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Fat Face
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Figleaves
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Fila
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Forever 21
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Fred Perry
+  },
+  {
+    ClassInstanceId: 67,
+    Name: French Connection
+  },
+  {
+    ClassInstanceId: 68,
+    Name: Galeria Kaufhof
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Gap / The Gap
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Gemo
+  },
+  {
+    ClassInstanceId: 71,
+    Name: GEOX
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Gerry Weber
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Görtz
+  },
+  {
+    ClassInstanceId: 74,
+    Name: G-Star
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Guess
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Gymshark
+  },
+  {
+    ClassInstanceId: 77,
+    Name: H&M/Hennes & Mauritz/Divided
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Hollister
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Intimissimi
+  },
+  {
+    ClassInstanceId: 80,
+    Name: J Crew
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Jack & Jones
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Jack Wills
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Jack Wolfskin
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Jacomo
+  },
+  {
+    ClassInstanceId: 85,
+    Name: JD Williams
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Jennyfer
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Jigsaw
+  },
+  {
+    ClassInstanceId: 88,
+    Name: John Lewis
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Jones Bootmakers
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Joules
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Jules
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Kaporal 5
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Karen Millen
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Karstadt
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Kiabi
+  },
+  {
+    ClassInstanceId: 96,
+    Name: KiK
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Kurt Geiger
+  },
+  {
+    ClassInstanceId: 98,
+    Name: L.K Bennett
+  },
+  {
+    ClassInstanceId: 99,
+    Name: La Halle
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Lacoste
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Land's End
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Le Coq Sportif
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Le Temps des Cerises
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Lee
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Lee Cooper
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Levi’s
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Lidl/Esmara/Livergy
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Lipsy
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Littlewoods
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Loewe
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Lois
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Louis Vuitton
+  },
+  {
+    ClassInstanceId: 113,
+    Name: Lululemon
+  },
+  {
+    ClassInstanceId: 114,
+    Name: M&Co
+  },
+  {
+    ClassInstanceId: 115,
+    Name: MAC
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Maje
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Mango/MNG
+  },
+  {
+    ClassInstanceId: 118,
+    Name: Marc O'Polo
+  },
+  {
+    ClassInstanceId: 119,
+    Name: Marks & Spencer/M&S/Per Una
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Massimo Dutti
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Matalan
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Mavi
+  },
+  {
+    ClassInstanceId: 123,
+    Name: McKenzie
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Michael Kors
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Mint Velvet
+  },
+  {
+    ClassInstanceId: 126,
+    Name: Miss Selfridge
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Missguided
+  },
+  {
+    ClassInstanceId: 128,
+    Name: MissPap
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Monki
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Monsoon
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Morrisons/Nutmeg
+  },
+  {
+    ClassInstanceId: 132,
+    Name: Moto
+  },
+  {
+    ClassInstanceId: 133,
+    Name: My Theresa
+  },
+  {
+    ClassInstanceId: 134,
+    Name: Napariji
+  },
+  {
+    ClassInstanceId: 135,
+    Name: Nasty Gal
+  },
+  {
+    ClassInstanceId: 136,
+    Name: Never fully dressed
+  },
+  {
+    ClassInstanceId: 137,
+    Name: New Balance
+  },
+  {
+    ClassInstanceId: 138,
+    Name: New Look / New Frontier
+  },
+  {
+    ClassInstanceId: 139,
+    Name: New Yorker
+  },
+  {
+    ClassInstanceId: 140,
+    Name: Next
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Nike
+  },
+  {
+    ClassInstanceId: 142,
+    Name: Nine West
+  },
+  {
+    ClassInstanceId: 143,
+    Name: Oasis
+  },
+  {
+    ClassInstanceId: 144,
+    Name: Office
+  },
+  {
+    ClassInstanceId: 145,
+    Name: Only
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Orsay
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Outfit
+  },
+  {
+    ClassInstanceId: 148,
+    Name: Paul Smith/PS Paul Smith/Paul Smith Jeans
+  },
+  {
+    ClassInstanceId: 149,
+    Name: Peacocks
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Peek & Cloppenburg
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Pepe Jeans
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Pierre Cardin
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Pimkie
+  },
+  {
+    ClassInstanceId: 154,
+    Name: Poshmark
+  },
+  {
+    ClassInstanceId: 155,
+    Name: Prada
+  },
+  {
+    ClassInstanceId: 156,
+    Name: PrettyLittleThing
+  },
+  {
+    ClassInstanceId: 157,
+    Name: Primark / Atmosphere
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Promod
+  },
+  {
+    ClassInstanceId: 159,
+    Name: Pull & Bear/Pull and Bear
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Puma
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Quiz
+  },
+  {
+    ClassInstanceId: 162,
+    Name: Ralph Lauren/Polo
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Red Herring
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Reebok
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Replay
+  },
+  {
+    ClassInstanceId: 166,
+    Name: Reserved
+  },
+  {
+    ClassInstanceId: 167,
+    Name: River Island
+  },
+  {
+    ClassInstanceId: 168,
+    Name: Russell & Bromley
+  },
+  {
+    ClassInstanceId: 169,
+    Name: s.Oliver
+  },
+  {
+    ClassInstanceId: 170,
+    Name: Sainsbury's / Tu
+  },
+  {
+    ClassInstanceId: 171,
+    Name: Salsa
+  },
+  {
+    ClassInstanceId: 172,
+    Name: Sandro
+  },
+  {
+    ClassInstanceId: 173,
+    Name: Scalpers
+  },
+  {
+    ClassInstanceId: 174,
+    Name: Schuh
+  },
+  {
+    ClassInstanceId: 175,
+    Name: Select
+  },
+  {
+    ClassInstanceId: 176,
+    Name: Sfera
+  },
+  {
+    ClassInstanceId: 177,
+    Name: SimplyBe
+  },
+  {
+    ClassInstanceId: 178,
+    Name: Skechers
+  },
+  {
+    ClassInstanceId: 179,
+    Name: Snipes
+  },
+  {
+    ClassInstanceId: 180,
+    Name: Springfield
+  },
+  {
+    ClassInstanceId: 181,
+    Name: Stradivarius
+  },
+  {
+    ClassInstanceId: 182,
+    Name: Street One
+  },
+  {
+    ClassInstanceId: 183,
+    Name: Superdry
+  },
+  {
+    ClassInstanceId: 184,
+    Name: Sweaty Betty
+  },
+  {
+    ClassInstanceId: 185,
+    Name: T.M Lewin
+  },
+  {
+    ClassInstanceId: 186,
+    Name: Takko
+  },
+  {
+    ClassInstanceId: 187,
+    Name: Tamaris
+  },
+  {
+    ClassInstanceId: 188,
+    Name: Ted Baker
+  },
+  {
+    ClassInstanceId: 189,
+    Name: Tesco/F&F/Florence & Fred
+  },
+  {
+    ClassInstanceId: 190,
+    Name: The North Face/North Face
+  },
+  {
+    ClassInstanceId: 191,
+    Name: Timberland
+  },
+  {
+    ClassInstanceId: 192,
+    Name: Tom Tailor
+  },
+  {
+    ClassInstanceId: 193,
+    Name: Tommy Hilfiger/Tommy Jeans
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Tonni Dress
+  },
+  {
+    ClassInstanceId: 195,
+    Name: Topman
+  },
+  {
+    ClassInstanceId: 196,
+    Name: Topshop
+  },
+  {
+    ClassInstanceId: 197,
+    Name: True Religion
+  },
+  {
+    ClassInstanceId: 198,
+    Name: Ugg
+  },
+  {
+    ClassInstanceId: 199,
+    Name: Umbro
+  },
+  {
+    ClassInstanceId: 200,
+    Name: Under Armour
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Uniqlo
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Urban Outfitters
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Vans
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Vero Moda
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Very/V by Very
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Victorias Secret
+  },
+  {
+    ClassInstanceId: 207,
+    Name: Wallis
+  },
+  {
+    ClassInstanceId: 208,
+    Name: Warehouse
+  },
+  {
+    ClassInstanceId: 209,
+    Name: Weekday
+  },
+  {
+    ClassInstanceId: 210,
+    Name: Whistles
+  },
+  {
+    ClassInstanceId: 211,
+    Name: White Stuff
+  },
+  {
+    ClassInstanceId: 212,
+    Name: Wrangler
+  },
+  {
+    ClassInstanceId: 213,
+    Name: Yours
+  },
+  {
+    ClassInstanceId: 214,
+    Name: Zara
+  },
+  {
+    ClassInstanceId: 215,
+    Name: Zero
+  },
+  {
+    ClassInstanceId: 216,
+    Name: Zerrer
+  },
+  {
+    ClassInstanceId: 217,
+    Name: Mustang
+  },
+  {
+    ClassInstanceId: 218,
+    Name: Lefties
+  },
+  {
+    ClassInstanceId: 219,
+    Name: Bonobo
+  },
+  {
+    ClassInstanceId: 220,
+    Name: BonPrix/BPC
+  },
+  {
+    ClassInstanceId: 221,
+    Name: Tex
+  },
+  {
+    ClassInstanceId: 222,
+    Name: The Denim Company
+  },
+  {
+    ClassInstanceId: 226,
+    Name: Bon Prix
+  },
+  {
+    ClassInstanceId: 227,
+    Name: Groupon
+  },
+  {
+    ClassInstanceId: 228,
+    Name: Kappa
+  },
+  {
+    ClassInstanceId: 229,
+    Name: Versace
+  },
+  {
+    ClassInstanceId: 230,
+    Name: Premier Prix/1er Prix
+  },
+  {
+    ClassInstanceId: 231,
+    Name: 24 Colours
+  },
+  {
+    ClassInstanceId: 232,
+    Name: 24 Hours
+  },
+  {
+    ClassInstanceId: 233,
+    Name: Abanderado
+  },
+  {
+    ClassInstanceId: 234,
+    Name: Abbacino
+  },
+  {
+    ClassInstanceId: 235,
+    Name: About You
+  },
+  {
+    ClassInstanceId: 236,
+    Name: Addicted
+  },
+  {
+    ClassInstanceId: 237,
+    Name: Agatha Ruiz de la Prada
+  },
+  {
+    ClassInstanceId: 238,
+    Name: Aigle
+  },
+  {
+    ClassInstanceId: 239,
+    Name: Aigner
+  },
+  {
+    ClassInstanceId: 240,
+    Name: AIMÉ
+  },
+  {
+    ClassInstanceId: 241,
+    Name: Airness
+  },
+  {
+    ClassInstanceId: 242,
+    Name: Air Force/Air Max/Jordan
+  },
+  {
+    ClassInstanceId: 244,
+    Name: Alcampo
+  },
+  {
+    ClassInstanceId: 245,
+    Name: Ale Hop
+  },
+  {
+    ClassInstanceId: 246,
+    Name: Ali Express
+  },
+  {
+    ClassInstanceId: 247,
+    Name: Alife and Kicken
+  },
+  {
+    ClassInstanceId: 248,
+    Name: Alles Wunder
+  },
+  {
+    ClassInstanceId: 249,
+    Name: Alma Lovis
+  },
+  {
+    ClassInstanceId: 250,
+    Name: Alpe
+  },
+  {
+    ClassInstanceId: 251,
+    Name: Alpha Industries
+  },
+  {
+    ClassInstanceId: 252,
+    Name: Alvaro Moreno
+  },
+  {
+    ClassInstanceId: 253,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 254,
+    Name: Amici
+  },
+  {
+    ClassInstanceId: 255,
+    Name: Amiri
+  },
+  {
+    ClassInstanceId: 256,
+    Name: Amisu
+  },
+  {
+    ClassInstanceId: 257,
+    Name: André
+  },
+  {
+    ClassInstanceId: 258,
+    Name: Anneke
+  },
+  {
+    ClassInstanceId: 259,
+    Name: Angelo Litrico
+  },
+  {
+    ClassInstanceId: 260,
+    Name: Animal
+  },
+  {
+    ClassInstanceId: 261,
+    Name: Ann Summers
+  },
+  {
+    ClassInstanceId: 262,
+    Name: Anna Field
+  },
+  {
+    ClassInstanceId: 263,
+    Name: Apricot
+  },
+  {
+    ClassInstanceId: 264,
+    Name: Arizona
+  },
+  {
+    ClassInstanceId: 265,
+    Name: Armand Thierry
+  },
+  {
+    ClassInstanceId: 266,
+    Name: Athena
+  },
+  {
+    ClassInstanceId: 267,
+    Name: Atlas For Men
+  },
+  {
+    ClassInstanceId: 268,
+    Name: Aubade
+  },
+  {
+    ClassInstanceId: 269,
+    Name: Aussiebum
+  },
+  {
+    ClassInstanceId: 270,
+    Name: Babista
+  },
+  {
+    ClassInstanceId: 271,
+    Name: Babolat
+  },
+  {
+    ClassInstanceId: 272,
+    Name: B&M
+  },
+  {
+    ClassInstanceId: 273,
+    Name: Babou
+  },
+  {
+    ClassInstanceId: 274,
+    Name: Balenciaga
+  },
+  {
+    ClassInstanceId: 275,
+    Name: Banana Republic
+  },
+  {
+    ClassInstanceId: 276,
+    Name: Banned Apparel
+  },
+  {
+    ClassInstanceId: 277,
+    Name: Bathing Ape/BAPE
+  },
+  {
+    ClassInstanceId: 278,
+    Name: Barbour
+  },
+  {
+    ClassInstanceId: 279,
+    Name: Bata
+  },
+  {
+    ClassInstanceId: 280,
+    Name: Bench
+  },
+  {
+    ClassInstanceId: 281,
+    Name: Besson
+  },
+  {
+    ClassInstanceId: 282,
+    Name: Billabong
+  },
+  {
+    ClassInstanceId: 283,
+    Name: Bimba y  Lola
+  },
+  {
+    ClassInstanceId: 284,
+    Name: Birkenstock
+  },
+  {
+    ClassInstanceId: 285,
+    Name: Bizzbee
+  },
+  {
+    ClassInstanceId: 286,
+    Name: Blanco
+  },
+  {
+    ClassInstanceId: 287,
+    Name: Blancheporte
+  },
+  {
+    ClassInstanceId: 288,
+    Name: Bluse
+  },
+  {
+    ClassInstanceId: 289,
+    Name: Carrefour
+  },
+  {
+    ClassInstanceId: 290,
+    Name: Decathalon/Domyos/Quecha
+  },
+  {
+    ClassInstanceId: 291,
+    Name: Denim and Co
+  },
+  {
+    ClassInstanceId: 292,
+    Name: Gucci
+  },
+  {
+    ClassInstanceId: 293,
+    Name: Tres Bien
+  },
+  {
+    ClassInstanceId: 294,
+    Name: Tchibo
+  },
+  {
+    ClassInstanceId: 295,
+    Name: Galeries Lafayette
+  },
+  {
+    ClassInstanceId: 296,
+    Name: New Era
+  },
+  {
+    ClassInstanceId: 297,
+    Name: Supreme
+  },
+  {
+    ClassInstanceId: 298,
+    Name: Bolso
+  },
+  {
+    ClassInstanceId: 299,
+    Name: Bosanova
+  },
+  {
+    ClassInstanceId: 300,
+    Name: Bréal
+  },
+  {
+    ClassInstanceId: 301,
+    Name: Brice
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Bufanda
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Buff
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Buffalo
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Bugatti
+  },
+  {
+    ClassInstanceId: 306,
+    Name: Camel Active
+  },
+  {
+    ClassInstanceId: 307,
+    Name: Camp David
+  },
+  {
+    ClassInstanceId: 308,
+    Name: Camper
+  },
+  {
+    ClassInstanceId: 309,
+    Name: Canada Goose
+  },
+  {
+    ClassInstanceId: 310,
+    Name: Carolina Herrera
+  },
+  {
+    ClassInstanceId: 311,
+    Name: Caroll
+  },
+  {
+    ClassInstanceId: 312,
+    Name: Caterpillar
+  },
+  {
+    ClassInstanceId: 313,
+    Name: Cath Kidston
+  },
+  {
+    ClassInstanceId: 314,
+    Name: Cecil
+  },
+  {
+    ClassInstanceId: 315,
+    Name: Chanel
+  },
+  {
+    ClassInstanceId: 316,
+    Name: Columbia
+  },
+  {
+    ClassInstanceId: 317,
+    Name: Complices
+  },
+  {
+    ClassInstanceId: 318,
+    Name: Cortefiel
+  },
+  {
+    ClassInstanceId: 319,
+    Name: El Corte Ingles/ECI
+  },
+  {
+    ClassInstanceId: 320,
+    Name: kickers
+  },
+  {
+    ClassInstanceId: 321,
+    Name: La Redoubte
+  },
+  {
+    ClassInstanceId: 322,
+    Name: Lancaster
+  },
+  {
+    ClassInstanceId: 323,
+    Name: Lancel
+  },
+  {
+    ClassInstanceId: 324,
+    Name: Leclerc/Tissaia
+  },
+  {
+    ClassInstanceId: 325,
+    Name: Claire's Accessories
+  },
+  {
+    ClassInstanceId: 326,
+    Name: Craghoppers
+  },
+  {
+    ClassInstanceId: 327,
+    Name: Creeks
+  },
+  {
+    ClassInstanceId: 328,
+    Name: Crivit
+  },
+  {
+    ClassInstanceId: 329,
+    Name: Crosshatch
+  },
+  {
+    ClassInstanceId: 330,
+    Name: Dolce & Gabbana/D&G
+  },
+  {
+    ClassInstanceId: 331,
+    Name: Darjeeling
+  },
+  {
+    ClassInstanceId: 332,
+    Name: DC Shoes
+  },
+  {
+    ClassInstanceId: 333,
+    Name: Decimas
+  },
+  {
+    ClassInstanceId: 334,
+    Name: Devred
+  },
+  {
+    ClassInstanceId: 335,
+    Name: Dickies
+  },
+  {
+    ClassInstanceId: 336,
+    Name: Dim
+  },
+  {
+    ClassInstanceId: 337,
+    Name: Christian Dior
+  },
+  {
+    ClassInstanceId: 338,
+    Name: Disney
+  },
+  {
+    ClassInstanceId: 339,
+    Name: Distri Center
+  },
+  {
+    ClassInstanceId: 340,
+    Name: Dsquared
+  },
+  {
+    ClassInstanceId: 341,
+    Name: DKNY/Donna Karan
+  },
+  {
+    ClassInstanceId: 342,
+    Name: Dustin
+  },
+  {
+    ClassInstanceId: 343,
+    Name: Eastpak
+  },
+  {
+    ClassInstanceId: 344,
+    Name: Easy Wear
+  },
+  {
+    ClassInstanceId: 345,
+    Name: Eden Park
+  },
+  {
+    ClassInstanceId: 346,
+    Name: Ellesse
+  },
+  {
+    ClassInstanceId: 347,
+    Name: EMP
+  },
+  {
+    ClassInstanceId: 348,
+    Name: Eram
+  },
+  {
+    ClassInstanceId: 349,
+    Name: Everything5Pounds/E5P
+  },
+  {
+    ClassInstanceId: 350,
+    Name: Firetrap
+  },
+  {
+    ClassInstanceId: 351,
+    Name: Fluchos
+  },
+  {
+    ClassInstanceId: 352,
+    Name: Formula Joven
+  },
+  {
+    ClassInstanceId: 353,
+    Name: Fossil
+  },
+  {
+    ClassInstanceId: 354,
+    Name: Freegun
+  },
+  {
+    ClassInstanceId: 355,
+    Name: Fruit of the Loom
+  },
+  {
+    ClassInstanceId: 356,
+    Name: Gut
+  },
+  {
+    ClassInstanceId: 357,
+    Name: Hunkemöller
+  },
+  {
+    ClassInstanceId: 358,
+    Name: Ikks
+  },
+  {
+    ClassInstanceId: 359,
+    Name: In Extenso
+  },
+  {
+    ClassInstanceId: 360,
+    Name: Inside
+  },
+  {
+    ClassInstanceId: 361,
+    Name: Intersport
+  },
+  {
+    ClassInstanceId: 362,
+    Name: Janina
+  },
+  {
+    ClassInstanceId: 363,
+    Name: JD Sports
+  },
+  {
+    ClassInstanceId: 364,
+    Name: Joma
+  },
+  {
+    ClassInstanceId: 365,
+    Name: joom
+  },
+  {
+    ClassInstanceId: 366,
+    Name: Jupe
+  },
+  {
+    ClassInstanceId: 367,
+    Name: Just Fab
+  },
+  {
+    ClassInstanceId: 368,
+    Name: Kalenjii
+  },
+  {
+    ClassInstanceId: 369,
+    Name: Karrimoor
+  },
+  {
+    ClassInstanceId: 370,
+    Name: Kenzo
+  },
+  {
+    ClassInstanceId: 371,
+    Name: Killstar
+  },
+  {
+    ClassInstanceId: 372,
+    Name: Kipling
+  },
+  {
+    ClassInstanceId: 373,
+    Name: Kookai
+  },
+  {
+    ClassInstanceId: 374,
+    Name: Lascana
+  },
+  {
+    ClassInstanceId: 375,
+    Name: Liebeskind
+  },
+  {
+    ClassInstanceId: 376,
+    Name: Longchamp
+  },
+  {
+    ClassInstanceId: 377,
+    Name: Lonsdale
+  },
+  {
+    ClassInstanceId: 378,
+    Name: Moschino
+  },
+  {
+    ClassInstanceId: 379,
+    Name: Lyle & Scott
+  },
+  {
+    ClassInstanceId: 380,
+    Name: Marca Blanca
+  },
+  {
+    ClassInstanceId: 381,
+    Name: Mary Paz/Mari Paz
+  },
+  {
+    ClassInstanceId: 382,
+    Name: Merkel
+  },
+  {
+    ClassInstanceId: 383,
+    Name: Minelli
+  },
+  {
+    ClassInstanceId: 384,
+    Name: Misako
+  },
+  {
+    ClassInstanceId: 385,
+    Name: Morgan
+  },
+  {
+    ClassInstanceId: 386,
+    Name: Mountain Warehouse
+  },
+  {
+    ClassInstanceId: 387,
+    Name: Naf Naf
+  },
+  {
+    ClassInstanceId: 388,
+    Name: Naketano
+  },
+  {
+    ClassInstanceId: 389,
+    Name: Netto
+  },
+  {
+    ClassInstanceId: 390,
+    Name: NKD
+  },
+  {
+    ClassInstanceId: 391,
+    Name: Otto
+  },
+  {
+    ClassInstanceId: 392,
+    Name: Oxbow
+  },
+  {
+    ClassInstanceId: 393,
+    Name: Oysho
+  },
+  {
+    ClassInstanceId: 394,
+    Name: Paco Martinez
+  },
+  {
+    ClassInstanceId: 395,
+    Name: Panama Jack
+  },
+  {
+    ClassInstanceId: 396,
+    Name: Parfois
+  },
+  {
+    ClassInstanceId: 397,
+    Name: Papaya
+  },
+  {
+    ClassInstanceId: 398,
+    Name: Patagonia
+  },
+  {
+    ClassInstanceId: 399,
+    Name: Pedro del Hierro
+  },
+  {
+    ClassInstanceId: 400,
+    Name: Penguin
+  },
+  {
+    ClassInstanceId: 401,
+    Name: Pep & Co
+  },
+  {
+    ClassInstanceId: 402,
+    Name: Pikolinos
+  },
+  {
+    ClassInstanceId: 403,
+    Name: Playtex
+  },
+  {
+    ClassInstanceId: 404,
+    Name: Quicksilver
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Radley
+  },
+  {
+    ClassInstanceId: 406,
+    Name: Ras
+  },
+  {
+    ClassInstanceId: 407,
+    Name: Regatta
+  },
+  {
+    ClassInstanceId: 408,
+    Name: Rieker
+  },
+  {
+    ClassInstanceId: 409,
+    Name: Rock
+  },
+  {
+    ClassInstanceId: 410,
+    Name: Rouge Gorge
+  },
+  {
+    ClassInstanceId: 411,
+    Name: Roxy
+  },
+  {
+    ClassInstanceId: 412,
+    Name: Salomon
+  },
+  {
+    ClassInstanceId: 413,
+    Name: San Marina
+  },
+  {
+    ClassInstanceId: 414,
+    Name: Scotch & Soda
+  },
+  {
+    ClassInstanceId: 415,
+    Name: Sheego
+  },
+  {
+    ClassInstanceId: 416,
+    Name: Shein
+  },
+  {
+    ClassInstanceId: 417,
+    Name: Shoe Zone
+  },
+  {
+    ClassInstanceId: 418,
+    Name: Slazenger
+  },
+  {
+    ClassInstanceId: 419,
+    Name: Sloggi
+  },
+  {
+    ClassInstanceId: 420,
+    Name: Soccx
+  },
+  {
+    ClassInstanceId: 421,
+    Name: Stone Island
+  },
+  {
+    ClassInstanceId: 422,
+    Name: Studio
+  },
+  {
+    ClassInstanceId: 423,
+    Name: Tally Weijl
+  },
+  {
+    ClassInstanceId: 424,
+    Name: Tati
+  },
+  {
+    ClassInstanceId: 425,
+    Name: Teddy Smith
+  },
+  {
+    ClassInstanceId: 426,
+    Name: Tezenis
+  },
+  {
+    ClassInstanceId: 427,
+    Name: Tous
+  },
+  {
+    ClassInstanceId: 428,
+    Name: Trespass
+  },
+  {
+    ClassInstanceId: 429,
+    Name: Triumph
+  },
+  {
+    ClassInstanceId: 430,
+    Name: Ulla Popken
+  },
+  {
+    ClassInstanceId: 431,
+    Name: Uncle Sam
+  },
+  {
+    ClassInstanceId: 432,
+    Name: Undiz
+  },
+  {
+    ClassInstanceId: 433,
+    Name: Valentino
+  },
+  {
+    ClassInstanceId: 434,
+    Name: Wellensteyn
+  },
+  {
+    ClassInstanceId: 435,
+    Name: Women's Secret
+  },
+  {
+    ClassInstanceId: 436,
+    Name: xti
+  },
+  {
+    ClassInstanceId: 437,
+    Name: Yakuza
+  },
+  {
+    ClassInstanceId: 438,
+    Name: YesStyle
+  },
+  {
+    ClassInstanceId: 439,
+    Name: YSL/Yves Saint Laurent
+  },
+  {
+    ClassInstanceId: 440,
+    Name: Zadig & Voltaire
+  },
+  {
+    ClassInstanceId: 441,
+    Name: Zaful
+  },
+  {
+    ClassInstanceId: 442,
+    Name: Zeeman
+  },
+  {
+    ClassInstanceId: 991,
+    Name: Amazon (991)
+  },
+  {
+    ClassInstanceId: 992,
+    Name: Zalando
+  },
+  {
+    ClassInstanceId: 993,
+    Name: Wish
+  },
+  {
+    ClassInstanceId: 994,
+    Name: Ebay
+  },
+  {
+    ClassInstanceId: 999,
+    Name: I don't know/no idea/no brand name
+  }
+]

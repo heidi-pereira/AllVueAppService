@@ -1,0 +1,17 @@
+@import 'colors.scss';
+
+.loader-bg {
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fade-in 175ms;
+}

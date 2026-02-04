@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Everyday L3M (Base Everyday_L3M)
+  }
+]

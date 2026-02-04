@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes - One car
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - Two cars
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes - Three or more cars
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No
+  }
+]

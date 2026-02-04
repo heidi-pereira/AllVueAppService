@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Activity time hours (Base Consumer_segment)
+  }
+]

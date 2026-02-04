@@ -1,0 +1,87 @@
+@import "_vars";
+@import "_layout";
+
+.weighting-generation-content {
+    .flex-column(@gutter: 24px);
+    padding: 16px 24px;
+    overflow: auto;
+    .scrollbars;
+
+    .json-output {
+        min-height: 300px;
+        height:100%;
+    }
+
+    .wanings_and_errors {
+        overflow: scroll;
+        height: 100%;
+        background-color: @chalk-light;
+        border: 1px @chalk solid;
+        width: 100%;
+        margin: 0 auto;
+        white-space: nowrap;
+
+        .error {
+            color:@lava;
+        }
+    }
+
+    .weighting-generation-form {
+        .flex-column(@gutter: 24px);
+
+        .primary-button {
+            width: 180px;
+        }
+
+        .singleLine {
+            label {
+                margin-right: 5px;
+            }
+        }
+
+        .rounding {
+            .flex-row(@align-items: center, @gutter: 10px);
+            margin-top: 15px;
+
+            label {
+                margin: 0;
+            }
+
+            .dropdown-menu {
+                min-width: 60px;
+            }
+        }
+
+        .postIntoDatabase {
+            position: relative;
+            margin-right: 5px;
+            margin-left: 0px;
+        }
+
+
+        .option {
+            .flex-column();
+            margin-bottom: 15px;
+
+            input[type=checkbox] {
+                margin-right: 10px;
+                width: 16px;
+                height: 16px;
+                vertical-align: text-top;
+                cursor: pointer;
+            }
+
+            label {
+                cursor: pointer;
+                margin: 0;
+            }
+
+            .option-hint {
+                font-size: 12px;
+                padding-top: 10px;
+                padding-left: 26px;
+                color: @slate;
+            }
+        }
+    }
+}

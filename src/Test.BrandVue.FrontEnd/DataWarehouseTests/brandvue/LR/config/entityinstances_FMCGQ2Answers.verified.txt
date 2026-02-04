@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In-store
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Online with delivery
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Click & Collect
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

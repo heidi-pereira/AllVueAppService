@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 2,
+    Name: While watching or reading content on your smartphone, computer or tablet such as Music videos, sports/entertainment highlights, news or tech reviews
+  },
+  {
+    ClassInstanceId: 3,
+    Name: While watching freeview on demand or catch-up TV channels
+  }
+]

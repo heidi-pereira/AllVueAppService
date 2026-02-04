@@ -1,0 +1,17 @@
+[
+    {
+        "SubsetId": "All",
+        "SchemaName": "dbo",
+        "FieldDefinitions": []
+    },
+    {
+        "SubsetId": "Film",
+        "SchemaName": "dbo",
+        "FieldDefinitions": []
+    },
+    {
+        "SubsetId": "TV",
+        "SchemaName": "dbo",
+        "FieldDefinitions": []
+    }
+]

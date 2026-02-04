@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: All of it
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Most of it
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Some of it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: None of it
+  }
+]

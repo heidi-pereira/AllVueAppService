@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: UK
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Europe (excluding the UK)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: North America (e.g. Canada, USA, etc)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Central America (e.g. Mexico, Costa Rica, etc)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: South America (e.g. Argentina, Brazil, etc)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Caribbean (e.g. Antigua, Barbados, etc)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Asia (e.g. China, Japan, India, Russia, etc)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: South-East Asia (e.g. Thailand, Singapore, etc)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Indian Ocean (e.g. Maldives, Mauritius, etc)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Africa (e.g. South Africa, Kenya, etc)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Australasia (e.g. Australia, New Zealand, etc)
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Arabia (e.g. Dubai, Abu Dhabi, etc)
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Can’t remember
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Other
+  }
+]

@@ -1,0 +1,4 @@
+﻿survey Id,name,subset,startDate,includedSegments
+1,Example,All,01/01/2018,Main
+2,Example,Film,01/01/2018,Main
+3,Example,TV,01/01/2018,Main

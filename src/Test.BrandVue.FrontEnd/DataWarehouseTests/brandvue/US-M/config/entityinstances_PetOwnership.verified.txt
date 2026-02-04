@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Pet owner
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Not pet owner
+  }
+]

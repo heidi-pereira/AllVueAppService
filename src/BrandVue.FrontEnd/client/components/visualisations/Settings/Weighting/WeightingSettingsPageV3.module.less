@@ -1,0 +1,57 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.weightingSettingsPage {
+    .flex-column();
+    flex: 1;
+    height: 100%;
+    padding: 30px;
+    overflow-y: auto;
+    .scrollbars;
+
+    .bold {
+        font-weight: 800;
+    }
+
+    .titleBar {
+        display: flex;
+        justify-content: space-between;
+        align-items: stretch;
+        flex-wrap: nowrap;
+    }
+
+    .controlStrip {
+        .flex-row();
+    }
+
+    button {
+        gap: 8px;
+        font-size: 16px;
+    }
+
+    .noWeighting{
+        .body {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 80px;
+    
+            .titleBar {
+                font-size: 20px;
+            }
+    
+            .text {
+                margin: 24px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 10px;
+                color: @slate;
+            }
+        }
+    
+        .helpLink {
+            float:right;
+        }
+    }
+}

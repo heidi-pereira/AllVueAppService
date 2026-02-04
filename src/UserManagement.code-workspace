@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "UserManagement.BackEnd",
+			"path": "UserManagement.BackEnd"
+		},
+		{
+			"name": "UserManagement.FrontEnd",
+			"path": "UserManagement.FrontEnd"
+		},
+		{
+			"name": "UserManagement.Tests",
+			"path": "UserManagement.Tests"
+		},
+		{
+			"name": "Vue.Common.FrontEnd",
+			"path": "Vue.Common.FrontEnd"
+		},
+		{
+			"path": "Vue.Common"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "Run npm dev",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": [
+				"run",
+				"dev"
+			],
+			"cwd": "${workspaceFolder}"
+		}
+
+		]
+	}
+}

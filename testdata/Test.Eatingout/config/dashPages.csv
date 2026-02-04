@@ -1,0 +1,289 @@
+﻿name,menuIcon,pageType,helpText,minUserLevel,startPage,layout,pageTitle,disabled,subset,environment,roles
+Getting Started,,Standard,,100,1,,,,,,
+Market summary,,Standard,,100,,,,,UK,dev|test|beta,
+Food attitudes,,SubPage,"Below are 6 statements that people have mentioned about the food and drinks they eat, both out of home and in home. 
+Q:Please select how much you personally agree or disagree with each statement",100,,,Market Summary,,UK,dev|test|beta,
+Visit frequency,,SubPage,"Approximately how many times every MONTH do you eat in restaurants at each of these times of day?
+Q:Please move your mouse along the scale until it shows the right number in the box on the left and click.",100,,,Market Summary,,UK,dev|test|beta,
+Dietary requirements,,SubPage,"Would you describe yourself as having any of the following dietary requirements?
+Q:Please select all that apply",100,,,Market Summary,,UK,dev|test|beta,
+Customer metrics,,SubPage,,100,,,Market Behaviours,,UK,dev|test|beta,
+TV Platforms,,MinorPage,"Which of the following TV platforms have you used in the last two weeks on any device e.g. TV, mobile, tablet, computer?",100,,,Customer metrics,,UK,dev|test|beta,
+TV Channels,,MinorPage,Which of the following TV channels have you watched in the last two weeks?,100,,,Customer metrics,,UK,dev|test|beta,
+Program Genres,,MinorPage,"Which of the following types of TV programs do you typically watch? NOTE: This includes TV / video watched on your TV, mobile, tablet and computing",100,,,Customer metrics,,UK,dev|test|beta,
+News Sources,,MinorPage,Which of the following sources of news have you read in the last two weeks? NOTE: This includes both physical copies and online versions,100,,,Customer metrics,,UK,dev|test|beta,
+Magazine Genres,,MinorPage,Have you read any of the follow types of content in on magazines / websites in the last two weeks?,100,,,Customer metrics,,UK,dev|test|beta,
+Radio Stations,,MinorPage,"Which of the following radio stations / podcasts have you listened to in the last two weeks? NOTE: This includes radio listened to across any device (e.g. radio, car radio, mobile, computer)",100,,,Customer metrics,,UK,dev|test|beta,
+Sports Followed,,MinorPage,To what extent to you follow the sports listed below?,100,,,Customer metrics,,UK,dev|test|beta,
+Hobbies,,MinorPage,"Which of the following, if any, do you typically do in your spare time?",100,,,Customer metrics,,UK,dev|test|beta,
+Cinema Visits,,MinorPage,Have you seen a film at a cinema in the last two weeks?,100,,,Customer metrics,,UK,dev|test|beta,
+Devices Owned,,MinorPage,Which of the following devices do you own?,100,,,Customer metrics,,UK,dev|test|beta,
+Apps Used,,MinorPage,"Which, if any, of the following online services have you used in the last two weeks?",100,,,Customer metrics,,UK,dev|test|beta,
+Behaviour by time of day,,Standard,,100,,,,,,dev|test|beta,
+Breakfast,,SubPage,,100,,,Behaviour by time of day,,UK,dev|test|beta,
+Breakfast:Location of purchase,,MinorPage,"Thinking about breakfast yesterday, from what type of venue was your MAIN eating / drinking experience?",100,,,Breakfast,,UK,dev|test|beta,
+Breakfast:Channel of purchase,,MinorPage,Which of the following best describes your MAIN breakfast eating / drinking experience yesterday?,100,,,Breakfast,,UK,dev|test|beta,
+Breakfast:Reason for purchase,,MinorPage,Which best describes this breakfast occasion yesterday?,100,,,Breakfast,,UK,dev|test|beta,
+Breakfast:Weather,,MinorPage,How would you describe the weather during this breakfast experience / visit yesterday?,100,,,Breakfast,,UK,dev|test|beta,
+Breakfast:Drinks purchased,,MinorPage,"What drinks, if any, did you personally have during this breakfast experience / visit yesterday?",100,,,Breakfast,,UK,dev|test|beta,
+Breakfast:Food purchased,,MinorPage,"What food, if any, did you personally eat during this breakfast experience / visit yesterday?",100,,,Breakfast,,UK,dev|test|beta,
+Breakfast:Personal spend,,MinorPage,"How much did you personally pay in total i.e. for all people in your party, for this breakfast experience yesterday?",100,,,Breakfast,,UK,dev|test|beta,
+Mid-morning,,SubPage,,100,,,Behaviour by time of day,,UK,dev|test|beta,
+Mid-morning:Location of purchase,,MinorPage,"Thinking about mid-morning yesterday, from what type of venue was your MAIN eating / drinking experience?",100,,,Mid-morning,,UK,dev|test|beta,
+Mid-morning:Channel of purchase,,MinorPage,Which of the following best describes your MAIN mid-morning eating / drinking experience yesterday?,100,,,Mid-morning,,UK,dev|test|beta,
+Mid-morning:Reason for purchase,,MinorPage,Which best describes this mid-morning occasion yesterday?,100,,,Mid-morning,,UK,dev|test|beta,
+Mid-morning:Weather,,MinorPage,How would you describe the weather during this mid-morning experience / visit yesterday?,100,,,Mid-morning,,UK,dev|test|beta,
+Mid-morning:Drinks purchased,,MinorPage,"What drinks, if any, did you personally have during this mid-morning experience / visit yesterday?",100,,,Mid-morning,,UK,dev|test|beta,
+Mid-morning:Food purchased,,MinorPage,"What food, if any, did you personally eat during this mid-morning experience / visit yesterday?",100,,,Mid-morning,,UK,dev|test|beta,
+Mid-morning:Personal spend,,MinorPage,"How much did you personally pay in total i.e. for all people in your party, for this mid-morning experience yesterday?",100,,,Mid-morning,,UK,dev|test|beta,
+Lunch,,SubPage,,100,,,Behaviour by time of day,,UK,dev|test|beta,
+Lunch:Location of purchase,,MinorPage,"Thinking about lunch yesterday, from what type of venue was your MAIN eating / drinking experience?",100,,,Lunch,,UK,dev|test|beta,
+Lunch:Channel of purchase,,MinorPage,Which of the following best describes your MAIN lunch eating / drinking experience yesterday?,100,,,Lunch,,UK,dev|test|beta,
+Lunch:Reason for purchase,,MinorPage,Which best describes this lunch occasion yesterday?,100,,,Lunch,,UK,dev|test|beta,
+Lunch:Weather,,MinorPage,How would you describe the weather during this lunch experience / visit yesterday?,100,,,Lunch,,UK,dev|test|beta,
+Lunch:Drinks purchased,,MinorPage,"What drinks, if any, did you personally have during this lunch experience / visit yesterday?",100,,,Lunch,,UK,dev|test|beta,
+Lunch:Food purchased,,MinorPage,"What food, if any, did you personally eat during this lunch experience / visit yesterday?",100,,,Lunch,,UK,dev|test|beta,
+Lunch:Personal spend,,MinorPage,"How much did you personally pay in total i.e. for all people in your party, for this lunch experience yesterday?",100,,,Lunch,,UK,dev|test|beta,
+Afternoon,,SubPage,,100,,,Behaviour by time of day,,UK,dev|test|beta,
+Afternoon:Location of purchase,,MinorPage,"Thinking about the afternoon yesterday, from what type of venue was your MAIN eating / drinking experience?",100,,,Afternoon,,UK,dev|test|beta,
+Afternoon:Channel of purchase,,MinorPage,Which of the following best describes your MAIN the afternoon eating / drinking experience yesterday?,100,,,Afternoon,,UK,dev|test|beta,
+Afternoon:Reason for purchase,,MinorPage,Which best describes this the afternoon occasion yesterday?,100,,,Afternoon,,UK,dev|test|beta,
+Afternoon:Weather,,MinorPage,How would you describe the weather during this the afternoon experience / visit yesterday?,100,,,Afternoon,,UK,dev|test|beta,
+Afternoon:Drinks purchased,,MinorPage,"What drinks, if any, did you personally have during this the afternoon experience / visit yesterday?",100,,,Afternoon,,UK,dev|test|beta,
+Afternoon:Food purchased,,MinorPage,"What food, if any, did you personally eat during this the afternoon experience / visit yesterday?",100,,,Afternoon,,UK,dev|test|beta,
+Afternoon:Personal spend,,MinorPage,"How much did you personally pay in total i.e. for all people in your party, for this the afternoon experience yesterday?",100,,,Afternoon,,UK,dev|test|beta,
+Early evening,,SubPage,,100,,,Behaviour by time of day,,UK,dev|test|beta,
+Early evening:Location of purchase,,MinorPage,"Thinking about early evening yesterday, from what type of venue was your MAIN eating / drinking experience?",100,,,Early evening,,UK,dev|test|beta,
+Early evening:Channel of purchase,,MinorPage,Which of the following best describes your MAIN early evening eating / drinking experience yesterday?,100,,,Early evening,,UK,dev|test|beta,
+Early evening:Reason for purchase,,MinorPage,Which best describes this early evening occasion yesterday?,100,,,Early evening,,UK,dev|test|beta,
+Early evening:Weather,,MinorPage,How would you describe the weather during this early evening experience / visit yesterday?,100,,,Early evening,,UK,dev|test|beta,
+Early evening:Drinks purchased,,MinorPage,"What drinks, if any, did you personally have during this early evening experience / visit yesterday?",100,,,Early evening,,UK,dev|test|beta,
+Early evening:Food purchased,,MinorPage,"What food, if any, did you personally eat during this early evening experience / visit yesterday?",100,,,Early evening,,UK,dev|test|beta,
+Early evening:Personal spend,,MinorPage,"How much did you personally pay in total i.e. for all people in your party, for this early evening experience yesterday?",100,,,Early evening,,UK,dev|test|beta,
+Evening,,SubPage,,100,,,Behaviour by time of day,,UK,dev|test|beta,
+Evening:Location of purchase,,MinorPage,"Thinking about the evening yesterday, from what type of venue was your MAIN eating / drinking experience?",100,,,Evening,,UK,dev|test|beta,
+Evening:Channel of purchase,,MinorPage,Which of the following best describes your MAIN the evening eating / drinking experience yesterday?,100,,,Evening,,UK,dev|test|beta,
+Evening:Reason for purchase,,MinorPage,Which best describes this the evening occasion yesterday?,100,,,Evening,,UK,dev|test|beta,
+Evening:Weather,,MinorPage,How would you describe the weather during this the evening experience / visit yesterday?,100,,,Evening,,UK,dev|test|beta,
+Evening:Drinks purchased,,MinorPage,"What drinks, if any, did you personally have during this the evening experience / visit yesterday?",100,,,Evening,,UK,dev|test|beta,
+Evening:Food purchased,,MinorPage,"What food, if any, did you personally eat during this the evening experience / visit yesterday?",100,,,Evening,,UK,dev|test|beta,
+Evening:Personal spend,,MinorPage,"How much did you personally pay in total i.e. for all people in your party, for this the evening experience yesterday?",100,,,Evening,,UK,dev|test|beta,
+Summary,fa-smile-o,Standard,,100,,,,,,,
+Summary:Summary scorecard,,SubPage,Performance across the factors that capture the overall performance of each brand.,100,,,Summary,,,,
+Brand sample,,SubPage,Sample for key metrics for active brand,100,,,Summary,,,dev|test|beta,
+Brand sample - BETA ONLY (Cafes),,MinorPage,,100,,,Brand sample,,,dev|test|beta,
+Brand sample - BETA ONLY (Restaurants),,MinorPage,,100,,,Brand sample,,,dev|test|beta,
+Brand sample - BETA ONLY (Fast casual),,MinorPage,,100,,,Brand sample,,,dev|test|beta,
+Brand attention,fa-line-chart,Standard,,100,,,,,,,
+Brand attention: Brand attention scorecard,,SubPage,Performance across the factors that capture the level of excitement and attention around each brand.,100,,,Brand Attention,,,,
+Brand attention: BETA ONLY - Café,,MinorPage,,100,,,Brand attention: Brand attention scorecard,,,dev|test|beta,
+Brand attention: BETA ONLY - Restaurants,,MinorPage,,100,,,Brand attention: Brand attention scorecard,,,dev|test|beta,
+Brand attention: BETA ONLY - Fast casuals,,MinorPage,,100,,,Brand attention: Brand attention scorecard,,,dev|test|beta,
+Positive buzz,,SubPage,"Those who have heard something positive about each brand in the last month (stated as a percentage of all respondents).
+Q: Which of the following have you heard something POSITIVE about in the last month?",100,,,Brand Attention,,,,
+Negative buzz,,SubPage,"Those who have heard something negative about each brand in the last month (stated as a percentage of all respondents).
+Q: Which of the following have you heard something NEGATIVE about in the last month?",100,,,Brand Attention,,,,
+Net buzz,,SubPage,The difference between positive and negative buzz,100,,,Brand Attention,,,,
+Buzz noise,,SubPage,The total of positive and negative buzz,100,,,Brand Attention,,,,
+Advertising awareness,,SubPage,"Those who have seen advertising for each brand in the last month (stated as a percentage of all respondents).
+Q: Have you seen ADVERTISING for any of the following brands in the last month?",100,,,Brand Attention,,,,
+Buzz vs penetration impact map,,SubPage,Buzz vs Penetration Impact Map,100,,,Brand Attention,,,,
+Top of mind,,SubPage,,100,,,Brand Attention,,,dev|test|beta,
+Top of mind - Restaurants,,MinorPage,"The first mention awareness of the restaurant brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about restaurants, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Top of mind - Cafes,,MinorPage,"The first mention awareness of the cafe brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about cafes, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Top of mind - Delivery,,MinorPage,"The first mention awareness of the delivery brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about delivery, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Top of mind - Fast casual,,MinorPage,"The first mention awareness of the fast casual brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about places you would go for a quick bite to eat, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Top of mind - Pubs,,MinorPage,"The first mention awareness of the pub brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about pubs, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Spontaneous awareness,,SubPage,,100,,,Brand Attention,,,,
+Spontaneous awareness - Restaurants,,MinorPage,"The unprompted awareness of the restaurant brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about restaurants, which names come to mind?",100,,,Brand Attention,,,,
+Spontaneous awareness - Cafes,,MinorPage,"The unprompted awareness of the cafe brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about cafes, which names come to mind?",100,,,Brand Attention,,,,
+Spontaneous awareness - Delivery,,MinorPage,"The unprompted awareness of the delivery brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about fast casuals, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Spontaneous awareness - Fast casual,,MinorPage,"The unprompted awareness of the fast casual brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about places you would go for a quick bite to eat, which names come to mind?",100,,,Brand Attention,,,,
+Spontaneous awareness - Pubs,,MinorPage,"The unprompted awareness of the pub brands (stated as a percentage of all respondents who that answered the survey).
+Q: Thinking about pubs, which names come to mind?",100,,,Brand Attention,,,dev|test|beta,
+Spontaneous associations,,SubPage,,100,,,Brand Attention,,,,
+Brand health,fa-line-chart,Standard,Performance across the factors that capture the knowledge and preference for each brand that can lead to a visit and purchase.,100,,,,,,,
+Brand health: Brand health scorecard,,SubPage,Performance across the factors that capture the knowledge and preference for each brand that can lead to a visit and purchase.,100,,,Brand Health,,,,
+Awareness,,SubPage,"The awareness of the brands (stated as a percentage of all respondents who don't state 'I do not know this brand').
+Q: When, if ever, have you visited / ordered from the following? (selected aware or ever used)",100,,,Brand Health,,,,
+Familiarity,,SubPage,"The percentage of people who are both aware AND have an opinion of the brand
+Q: When, if ever, have you visited / ordered from the following? / Q: What is your overall opinion of the following brands?",100,,,Brand Health,,,,
+Affinity,,SubPage,"The affinity level of the brands (stated as a percentage of all respondents who are familiar with the brand and state they 'love' the brand or 'like it a lot').
+Q: How would you describe your opinion of the following brands?",100,,,Brand Health,,,,
+Affinity:Affinity (stacked),,MinorPage,"The affinity level of the brands (stated as a percentage of all respondents who are familiar with the brand and state they 'love' the brand or 'like it a lot').
+Q: How would you describe your opinion of the following brands?",100,,,Affinity,,,,
+Consideration,,SubPage,"The consideration of the brands (stated as a percentage of all respondents).
+Q: Please select all of the brands you would EVER CONSIDER going to eat / order food from",100,,,Brand Health,,,,
+Consideration & preference,,SubPage,"The consideration of the brands and the preference of the brands (stated as a percentage of all respondents).
+Q: Please select all of the brands you would EVER CONSIDER going to eat / order food from / And of the brands you would consider visiting / ordering from, which would describe as your FAVOURITES?",100,,,Brand Health,,,,
+Preference,,SubPage,"The preference of the brands (stated as a percentage of all respondents).
+Q: And of the brands you would consider visiting / ordering from, which would describe as your FAVOURITES?",100,,,Brand Health,,,,
+Advantage,,SubPage,"The level of people stating that a brand is 'one of the best' (stated as a percentage of all respondents).
+Q: What is your overall opinion of the following brands?",100,,,Brand Health,,,,
+Advantage:Advantage (stacked),,MinorPage,"The level of people stating that a brand is 'one of the best' (stated as a percentage of all respondents).
+Q: What is your overall opinion of the following brands?",100,,,Advantage,,,,
+Preference funnel,,SubPage,The Preference Funnel shows how well brands convert awareness into consideration and then consideration into preference. It's a visual representation of where brands need to focus marketing activity.,100,,,Brand Health,,,,
+Brand advantage vs familiarity impact map,,SubPage,Brand Advantage vs Familiarity Impact Map,100,,,Brand Health,,,,
+Brand advantage vs affinity,,SubPage,Brand Advantage vs Affinity Impact Map,100,,,Brand Health,,,,
+Image & occasion,fa-line-chart,Standard,,,,,,,,,
+Image,,SubPage,"Image characteristics most associated with each brand (stated as a percentage of all respondents who are familiar with the brand).
+Q: Which of the words / statements do you MOST associate with [BRAND]?",100,,,Image & occasion,,,,
+Image by consideration,,SubPage,Image statements split by considerers and non considerers of a given brand,100,,,Image & occasion,,,,
+Occasions,,SubPage,"Occasions most associated with each brand (stated as a percentage of all respondents who used the brand in the last 12 months).
+Q: Which of the following OCCASIONS do you MOST associate with [BRAND]?",100,,,Image & occasion,,,,
+Occasions by consideration,,SubPage,Occasion statements split by considerers and non considerers of a given brand,100,,,Image & occasion,,,,
+Demand & usage,fa-line-chart,Standard,,,,,,,,,
+Demand & usage: Demand & usage scorecard,,SubPage,Performance across the factors that capture the demand for each brand that and visit frequency.,100,,,Demand & Usage,,,,
+Usage funnel,,SubPage,The Usage Funnel shows how well brands convert awareness into usage and then users into brand advocates. It's a visual representation of where brands need to focus marketing activity.,100,,,Demand & Usage,,,,
+Penetration (L12M),,SubPage,"Visited a restaurant / takeaway and purchased in the last 12 months:
+Q: When, if ever, have you visited / ordered from the following?",100,,,Demand & Usage,,,,
+Penetration (L3M),,SubPage,"Visited a restaurant / takeaway and purchased in the last 3 months:
+Q: When, if ever, have you visited / ordered from the following?",100,,,Demand & Usage,,,,
+Penetration (LM),,SubPage,"Visited a restaurant / takeaway and purchased in the last month:
+Q: When, if ever, have you visited / ordered from the following?",100,,,Demand & Usage,,,,
+Consumer segment,,SubPage,"Visited a restaurant / takeaway and purchased in the last 12 months, greater than 12 months ago, were aware of a brand, or have never heard of the brand:
+Q: When, if ever, have you visited / ordered from the following?",100,,,Demand & Usage,,,,
+Annual frequency,,SubPage,"The in-store visitation of the brands over the past year (stated as a percentage of all respondents).
+Q: How many times have you VISTED / ORDERED from the following brands in the last 12 months?",100,,,Demand & Usage,,,,
+Annual frequency:Annual frequency (stacked),,MinorPage,"The in-store visitation of the brands over the past year (stated as a percentage of all respondents).
+Q: How many times have you VISTED / ORDERED from the following brands in the last 12 months?",100,,,Annual frequency,,,,
+Rejectors,,SubPage,"Rejectors of the brand - people that would never consider using a given brand:
+Q: Which of the following brands would you NEVER CONSIDER going to eat / order food from?",100,,,Demand & Usage,,,,
+Repertoire,,SubPage,"The other brands that users of a given brand have used in the last 3 months:
+Q: Which, if any, have you VISITED / ORDERED FOOD from in the last 3 months?",100,,,Demand & Usage,,,dev|test,
+Lost demand,,SubPage,"The reasons that one brand was chosen over another:
+Q: Earlier you mentioned you were considering [BRAND], when you used / visited {an alternative brand}. What would have motivated you to use / visit [BRAND] instead?",100,,,Demand & Usage,,,dev|test,
+Adoption pyramid,,SubPage,The Adoption Pyramid shows how well brands convert awareness into consideration and then consideration into penetration. It's a visual representation of where brands need to focus marketing activity.,100,,,Demand & Usage,,,dev|test,
+Choosing where to go,fa-line-chart,Standard,,100,,,,,,,
+Location before visit,,SubPage,Where did you come from before your visit to BRAND?,100,,,Choosing where to go,,,,
+Level of planning,,SubPage,"Determining whether the purchase was planned or spontaneous (stated as a percentage of all respondents who used the brand in the last 12 months).
+Q: When did you decide to [order from / visit] [BRAND]?",100,,,Choosing where to go,,,,
+Reasons for choosing,,SubPage,"Reasons for choosing to visit the BRAND
+Q: What were the main reasons you chose [BRAND] on your last visit?",100,,,Choosing where to go,,,,
+Reasons for choosing:Reasons for choosing by advocacy,,MinorPage,"Reasons for choosing to visit the BRAND split by advocacy of that brand
+Q: What were the main reasons you chose [BRAND] on your last visit?",100,,,Reasons for choosing,,,,
+Marketing influence,,SubPage,"Influence of marketing on the decision making process (stated as a percentage of all respondents who used the brand in the last 12 months).
+Q: Did any of the following influence you in choosing [BRAND] on this occasion?",100,,,Choosing where to go,,,,
+Customer experience scores,fa-line-chart,Standard,,100,,,,,,,
+Customer experience scorecard,,SubPage,The level of customer satisfaction and advocacy for the brands.,100,,,Customer experience scores,,,,
+NPS,,SubPage,"The level of advocacy for the brands by those have been customers in the past 30 days (stated as a Net Promoter Score - the 'percentage of promoters' minus the 'percentage of detractors').
+Q: Considering the places you have visited / ordered from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",100,,,Customer experience scores,,,,
+Promoters,,MinorPage,"The level of advocacy for the brands by those have been customers in the past 30 days (stated as a Net Promoter Score - the 'percentage of promoters' minus the 'percentage of detractors').
+Q: Considering the places you have visited / ordered from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",100,,,Customer experience scores,,,,
+Passives,,MinorPage,"The level of advocacy for the brands by those have been customers in the past 30 days (stated as a Net Promoter Score - the 'percentage of promoters' minus the 'percentage of detractors').
+Q: Considering the places you have visited / ordered from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",100,,,Customer experience scores,,,,
+Detractors,,MinorPage,"The level of advocacy for the brands by those have been customers in the past 30 days (stated as a Net Promoter Score - the 'percentage of promoters' minus the 'percentage of detractors').
+Q: Considering the places you have visited / ordered from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",100,,,Customer experience scores,,,,
+Satisfaction,,SubPage,"Percentage (of those visiting [BRAND] in the last three months) rating their overall satisfaction with their last experience 8-10 on a 0-10 scale.
+Q: Thinking about some of the places you have VISITED / ORDERED FOOD in the last three months, how would you rate your level of SATISFACTION with your last experience?",100,,,Customer experience scores,,,,
+Alternative choice,,SubPage,"Alternative brands considered when visiting a given brand:
+Q: Which other brand, if any, did you also consider when you chose to visit / use [BRAND]?",100,,,Customer experience scores,,,,
+Value for money,,SubPage,"Determining whether people were content with the price they paid (stated as an indexed average score for ""Value for Money"" on a scale of 0-10).
+Q: Based on your last experience at [BRAND], how would you rate on the following factors? - indexed average score for ""Value for Money"" on a scale of 0-10",100,,,Customer experience scores,,,,
+Bill shock,,SubPage,"Determining whether people were shocked with the price they paid (stated as a percentage of all respondents who said it was slightly more or a lot more than they expected to pay, as a percentage of the total).
+Q: Which of these best describes the price you paid? - Selecting ""A lot more"" or ""Slightly more""",100,,,Customer experience scores,,,,
+Price attractiveness vs recommendation map,,SubPage,"Price attractiveness vs Recommendation Map (recommendation is % stating 8-10 on a scale of 0-10)
+Recommendation Q: Considering the places you have visited / ordered from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",100,,,Customer experience scores,,,,
+Experience,,SubPage,"Elements of the customer journey scored as an Index:
+Q:Based on your last experience at #BRAND#, how would you rate on the following factors?",100,,,Customer experience scores,,,,
+Experience - for reports,,SubPage,"Elements of the customer journey scored as an Index:
+Q:Based on your last experience at #BRAND#, how would you rate on the following factors?
+Note: All factors excluding those specific to delivery occasions.",100,,,Customer experience scores,,,dev|test|beta,
+Experience by advocacy,,SubPage,"Elements of the customer journey scored as an Index and split by advocacy:
+Q:Based on your last experience at #BRAND#, how would you rate on the following factors?",100,,,Customer experience scores,,,,
+Experience by advocacy - for reports,,SubPage,"Elements of the customer journey scored as an Index and split by advocacy:
+Q:Based on your last experience at #BRAND#, how would you rate on the following factors?
+Note: All factors excluding those specific to delivery occasions.",100,,,Customer experience scores,,,dev|test|beta,
+Experience profiling,fa-line-chart,Standard,,100,,,,,,,
+Experience scorecard,,SubPage,The level of frequency and value of purchases made,100,,,Experience profiling,,,,
+Food,,SubPage,"Food consumed when visiting [BRAND] (stated as a percentage of all respondents who used the brand in the last 12 months).
+Q: What food, if any, did you eat?",100,,,Experience profiling,,,,
+Drinks,,SubPage,"Drinks consumed when visiting [BRAND] (stated as a percentage of all respondents who used the brand in the last 12 months).
+Q: What drinks, if any, did you have?",100,,,Experience profiling,,,,
+Length of visit (minutes),,SubPage,"Determining how long the visit / order lasted (stated as an average of all respondents who used the brand in the last 12 months).
+Q: How long did the occasion last (in minutes)?",100,,,Experience profiling,,,,
+Spend per person,,SubPage,The average spend per person per visit for each brand,100,,,Experience profiling,,,,
+Discount,,SubPage,"Determining the proportion of people that used a voucher (stated as a percentage of all respondents saying ""Yes"" vs the total).
+Q: Did you use a promotional or discount voucher?",100,,,Experience profiling,,,,
+Discount driven visits,,SubPage,"Determining - of people that used a voucher - which people said that they would not have visited without a discount (stated as a percentage of all respondents saying ""No - would not have gone there"" vs the total).
+Q: If you hadn't had that discount would you have still visited / used [BRAND]?",100,,,Experience profiling,,,,
+Discount type,,SubPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Experience profiling,,,,
+Discount type:A fixed £ amount off the bill,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:A fixed $ amount off the bill,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:10-20 percent discount off food,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:10-20 percent off food,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:25-40 percent discount off food,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:25-40 percent off food,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:50 percent discount off food,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:50 percent off food,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+"Discount type:A free food item (e.g. starter, main, dessert)",,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+"Discount type:A free food item (e.g. appetizer, main, dessert)",,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:A free drink,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:A free drink with the meal,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:2 for 1 on main courses,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:2 main courses for 1,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:Money off - e.g. Tesco Clubcard voucher,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:Coupon,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Discount type:Frequent diner card/reward,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,UK,,
+Discount type:Gift card,,MinorPage,"The type of discount each person used on their most recent visit:
+Q: Which of the following best describes the  promotional or discount voucher you used?",100,,,Discount type,,US,,
+Time of day,,SubPage,"The time of day that each person visited / used each brand:
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Time of day - Breakfast (6am-10 am),,MinorPage,"The percentage of people that visit or use a brand for breakfast (6am-10 am):
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Time of day - Mid-morning (10am-12pm),,MinorPage,"The percentage of people that visit or use a brand mid-morning (10am-12pm):
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Time of day - Lunch (12pm-3pm),,MinorPage,"The percentage of people that visit or use a brand for lunch (12pm-3pm):
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Time of day - Afternoon (3pm-5pm),,MinorPage,"The percentage of people that visit or use a brand in the afternoon (3pm-5pm):
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Time of day - Early evening (5pm-7pm),,MinorPage,"The percentage of people that visit or use a brand in the early evening (5pm-7pm):
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Time of day - Evening (after 7pm),,MinorPage,"The percentage of people that visit or use a brand in the Evening (after 7pm):
+Q: At what time of day did you visit / use [BRAND]?",100,,,Experience profiling,,,,
+Occasion with children,,SubPage,"The percentage of people that visited / ordered with children:
+Q: How many {children} were in the party? (Stating one or more as a percentage of all visits in the last 3 months)",100,,,Experience profiling,,,,
+Party size,,SubPage,"The average party size per visit:
+Q: How many people were in the party? (As an average of all visits in the last 3 months)",100,,,Experience profiling,,,,
+Occasion of visit,,SubPage,"The occasion of the visit
+Q: Which best describes the occasion?",100,,,Experience profiling,,,,
+Lifestage,,SubPage,The lifestage of the key customers,100,,,Experience profiling,,,dev|test,
+Customer profile,,SubPage,"The profile of the users of a given brand:
+Q: Which of the following restaurants do you visit, or would consider visiting? (% shows all customers)",100,,,Experience profiling,,,,
+Delivery And Takeaway,fa-line-chart,Standard,,100,,,,,,dev|test,
+Delivery Awareness,,SubPage,Which of the following are you aware of offering delivery services?,100,,,Delivery And Takeaway,,,dev|test,
+Delivery consideration,,SubPage,Which of the following would you consider ordering food / drink from that would be delivered to you?,100,,,Delivery And Takeaway,,,dev|test,
+Delivery usage,,SubPage,Which of the following have you ordered food / drink from where it was delivered to you in the last 12 months?,100,,,Delivery And Takeaway,,,dev|test,
+Takeaway awareness,,SubPage,Which of the following are you aware of giving you the option to take food / drink away with you rather than eating at their restaurant / cafe?,100,,,Delivery And Takeaway,,,dev|test,
+Takeaway consideration,,SubPage,Which of the following would you consider buying food / drink from that you takeaway with you?,100,,,Delivery And Takeaway,,,dev|test,
+Takeaway usage,,SubPage,Which of the following have you bought food / drink from to takeaway with you in the last 12 months?,100,,,Delivery And Takeaway,,,dev|test,
+Reporting,,Standard,Reporting system,100,,,,,,,SystemAdministrator
+Compare metrics,,Standard,An interface for comparing multiple metrics,100,,,Compare metrics,,,,
+About,,Standard,,100,,,,,,,

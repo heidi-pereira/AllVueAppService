@@ -1,0 +1,172 @@
+@use  "../../Styles/layout.scss" as *;
+@use  "../../Styles/dimensions.scss" as *;
+
+.dropdownContainer{
+    position:absolute;
+    z-index: 10000;
+    right: 0;
+    margin-right:32px;
+    margin-top:5px;
+}
+
+button.nav-button {
+    padding: 0;
+
+    &:focus {
+        outline: none;
+    }
+
+    background-color: transparent;
+    color: var(--header-text-colour);
+    border: none;
+    font-size: 16px;
+    transform: translateY(1px); //to line up with Customer portal
+    @include flex-row($align-items: center);
+    white-space: nowrap;
+
+    &:hover {
+        background-color: transparent;
+        color: var(--header-text-colour);
+    }
+
+    &.subset {
+        margin-left: 24px;
+    }
+}
+.subsetSelector {
+    margin-right: 5px;
+}
+.circular-nav-button-normal {
+    @include flex-row($align-items: center);
+    font-size: 14px;
+    color: var(--colour-slate);
+    position: relative;
+    max-height: 32px;
+
+    &:hover {
+        cursor: pointer;
+
+        .circle {
+            box-shadow: 0 0 0 4px rgba(var(--header-text-colour-rgb), 0.2);
+
+            .material-symbols-outlined {
+                color: var(--colour-slate-dark);
+            }
+
+            img {
+                transform: scale(0.85);
+            }
+        }
+
+        &:after {
+            box-shadow: 0 0 0 2px var(--colour-slate-dark);
+            transform: scale(0.85);
+            opacity: 0.6;
+        }
+
+        .text {
+            color: var(--colour-slate-dark);
+        }
+    }
+
+    &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 32px;
+        width: 32px;
+        border-radius: 50%;
+        box-shadow: 0 0 0 2px var(--colour-slate);
+        transition: all 0.2s ease-in-out;
+    }
+
+    .circle {
+        @include flex-row($justify-content: center, $align-items: center);
+        position: relative;
+        height: 32px;
+        width: 32px;
+        border-radius: 50%;
+        background: rgba(255,255,255,0.2); //20% opacity white overlay on header background colour
+        margin-right: 10px;
+        transition: box-shadow 0.2s ease-in-out;
+
+        .material-symbols-outlined {
+            color: var(--colour-slate);
+            font-size: 24px;
+            padding: 2px;
+        }
+
+        img {
+            border-radius: 50%;
+            transition: all 0.2s ease-in-out;
+        }
+    }
+}
+.circular-nav-button {
+    @include flex-row($align-items: center);
+    font-size: 14px;
+    color: var(--header-text-colour);
+    position: relative;
+    max-height: 32px;
+
+    &:hover {
+        cursor: pointer;
+        color: var(--header-text-colour);
+
+        .circle {
+            box-shadow: 0 0 0 4px rgba(var(--header-border-colour-rgb), 0.2);
+
+            .material-symbols-outlined {
+                color: rgba(var(--header-border-colour-rgb), 0.95);
+            }
+
+            img {
+                transform: scale(0.85);
+            }
+        }
+
+        &:after {
+            transform: scale(0.85);
+            opacity: 0.6;
+        }
+
+        .text {
+            color: rgba(var(--header-border-colour-rgb), 0.95);
+        }
+    }
+
+    &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 32px;
+        width: 32px;
+        border-radius: 50%;
+        box-shadow: 0 0 0 2px var(--header-border-colour);
+        transition: all 0.2s ease-in-out;
+    }
+
+    .circle {
+        @include flex-row($justify-content: center, $align-items: center);
+        position: relative;
+        height: 32px;
+        width: 32px;
+        border-radius: 50%;
+        background: rgba(255,255,255,0.2); //20% opacity white overlay on header background colour
+        margin-right: 10px;
+        transition: box-shadow 0.2s ease-in-out;
+
+        .material-symbols-outlined {
+            color: var(--header-text-colour);
+            font-size: 24px;
+            padding: 2px;
+        }
+
+        img {
+            border-radius: 50%;
+            transition: all 0.2s ease-in-out;
+        }
+    }
+}

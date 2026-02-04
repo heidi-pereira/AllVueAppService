@@ -1,0 +1,483 @@
+@import "_vars";
+@import "_layout";
+
+.averageSelector {
+    align-items: center;
+}
+
+
+.styled-dropnone {
+    padding: 0px;
+    margin: 2px;
+
+    &:after {
+        margin: 0px;
+        content: none;
+    }
+}
+
+.styled-dropdown {
+    .styled-toggle {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 0;
+        border: none;
+        font-size: 24px;
+        vertical-align: unset;
+        background-color: unset;
+        box-shadow: unset;
+        color: @black;
+
+        @media (max-width:500px) {
+            font-size: 20px;
+        }
+
+        .entity-name,
+        .filterTitle {
+            margin-right: 0.35rem;
+            margin-left: 0.1rem;
+        }
+
+        .title-text {
+            .truncate-text();
+            text-align: left;
+        }
+
+        .show > & {
+            text-decoration: underline;
+        }
+
+        &:after {
+            font-size: 14px;
+        }
+
+        &:focus, &:hover, &:active {
+            text-decoration: underline;
+            box-shadow: unset;
+            outline: none !important; // I'm so sorry - need this to override an important in a component's css
+        }
+    }
+
+    .dropdown-header {
+        font-weight: normal;
+    }
+
+    .custom-dropdown-menu {
+        padding: 0;
+
+        .custom-dropdown {
+            .flex-row();
+
+            .items-and-search {
+                flex: 1;
+                max-width: 275px;
+
+                .search-container {
+                    width: 275px;
+                    padding: 0.8rem;
+                }
+
+                .items {
+                    max-height: 275px;
+                    overflow-y: auto;
+                    padding-bottom: .5rem;
+                    padding-top: .5rem;
+
+                    .search-header {
+                        color: @slate;
+                        cursor: default;
+
+                        &:hover {
+                            background-color: transparent;
+                        }
+                    }
+
+                    .search-item {
+                        .truncate-text();
+                        outline: none;
+                    }
+                }
+
+                .search-container + .items {
+                    padding-top: 0;
+                    height: 275px;
+                }
+            }
+
+            .entity-set-members {
+                border-left: 1px solid @chalk;
+                width: 275px;
+
+                .entity-set-name {
+                    .flex-row(@justify-content: space-between);
+                    padding: 1rem 1.5rem 0.6rem 1rem;
+                    font-weight: 600;
+
+                    .edit-link {
+                        color: @blueSteel;
+                        cursor: pointer;
+
+                        &:hover {
+                            text-decoration: underline;
+                        }
+                    }
+                }
+
+                .instances {
+                    height: 275px;
+                    overflow-y: auto;
+
+                    .instance {
+                        .flex-row(@align-items: baseline);
+                        padding: 0.2rem 1.5rem;
+
+                        .active {
+                            font-weight: 600;
+                        }
+
+                        .legend-color {
+                            height: 8px;
+                            width: 8px;
+                            border-radius: 50%;
+                            border: 1px solid black;
+                            margin-right: 0.8rem;
+                            flex-shrink: 0;
+                        }
+                    }
+                }
+            }
+        }
+
+        &.spaced {
+            margin-top: 8px;
+        }
+    }
+
+    .dropdown-item:not(:disabled):not(.disabled) {
+        cursor: pointer;
+
+        &.tabbed {
+            padding-left: 2.25rem;
+        }
+
+        &.active, &:focus, &:active {
+            background-color: unset;
+            color: @black;
+            font-weight: unset;
+        }
+
+        &:hover {
+            background-color: @blueSteel-light;
+            color: @blueSteel-darker;
+        }
+
+        &.selected-dropdown-item {
+            background-color: @blueSteel;
+            color: @white;
+        }
+    }
+
+    .material-symbols-outlined {
+        font-size: 16px;
+    }
+}
+
+.filter-row {
+    .fixed-period-date-picker {
+        .average-selector-disabled {
+
+            .filter-title-disabled {
+                color: #a8a8a8;
+            }
+
+            cursor: not-allowed;
+            color: #c8c8c8;
+        }
+    }
+}
+
+.metric-dropdown,
+.composite-dropdown,
+.instance-operator-dropdown,
+.range-selector,
+.entity-type-dropdown,
+.calculation-type-dropdown,
+.significance-type-dropdown,
+.rounding-dropdown,
+.subset-dropdown,
+.saved-break-dropdown,
+.configure-option-dropdown,
+.add-filter-button,
+.selected-filter-button,
+.report-filter-value-dropdown,
+.wave-option-dropdown,
+.crossmeasure-multiple-choice-dropdown,
+.bulk-add-users-dropdown,
+.users-page-more-info-dropdown,
+.variable-instance-dropdown,
+.exportWeightsDropdownMenu,
+.exportWeightsDropdown {
+    .dropdown-menu {
+        margin-top: 8px;
+        border: 1px solid @chalk;
+        box-shadow: @shadow-08;
+
+
+
+        .dropdown-item {
+            color: @slate-darker;
+            padding: 10px 12px;
+            outline: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            transition: background-color 175ms ease;
+
+            &.tabbed {
+                padding-left: 1.5rem;
+            }
+
+            &:hover {
+                background-color: @blueSteel-lighter;
+            }
+
+            &:active {
+                background-color: @blueSteel-lighter;
+                color: @slate-darker;
+            }
+
+            &:focus {
+                background-color: @blueSteel-light;
+            }
+
+
+            .material-symbols-outlined {
+                color: @slate;
+            }
+
+            i.default {
+                color: @pink;
+            }
+        }
+
+        .separator {
+            margin: 0.5rem 0;
+            height: 1px;
+            background: @chalk;
+            border: none;
+        }
+    }
+
+    .toggle-button {
+        .flex-row(@gutter:0.75rem; @align-items: center; @justify-content: space-between);
+        border: 1px solid @slate-lighter;
+        border-radius: 4px !important;
+        color: @slate-darker;
+        width: 100%;
+
+        &:not(.disabled) {
+            background-color: @white;
+            border-color: @slate-light;
+
+            &:focus,
+            &:active {
+                box-shadow: 0px 0px 3px 3px rgba(224, 226, 229, 0.48);
+            }
+        }
+
+        &.disabled {
+            background: @chalk-lighter;
+            color: @slate-light;
+            cursor: not-allowed;
+
+            .title {
+                &.placeholder {
+                    color: @slate-light;
+                }
+            }
+
+            .material-symbols-outlined {
+                color: @slate-light;
+            }
+        }
+
+        .title {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            flex: 1;
+            text-align: left;
+
+            &.placeholder {
+                color: @slate;
+                background-color: transparent;
+                cursor: pointer;
+            }
+        }
+
+        .hint {
+            color: @slate-light;
+        }
+
+        .material-symbols-outlined {
+            color: @slate;
+        }
+    }
+}
+
+.metric-dropdown,
+.composite-dropdown,
+.instance-operator-dropdown,
+.range-selector,
+.entity-type-dropdown,
+.calculation-type-dropdown,
+.significance-type-dropdown,
+.rounding-dropdown,
+.saved-break-dropdown,
+.configure-option-dropdown,
+.add-filter-button,
+.selected-filter-button,
+.report-filter-value-dropdown,
+.wave-option-dropdown,
+.crossmeasure-multiple-choice-dropdown,
+.bulk-add-users-dropdown,
+.users-page-more-info-dropdown,
+.variable-instance-dropdown {
+    .dropdown-menu {
+
+        .dropdown-item {
+            .flex-row(@justify-content: space-between);
+        }
+    }
+}
+.exportWeightsDropdownMenu {
+    .dropdown-menu {
+
+        .dropdown-header {
+            background-color: @chalk-lighter;
+        }
+
+        .dropdown-item button {
+            .flex-row(@justify-content: flex-start);
+        }
+    }
+}
+.exportWeightsDropdown {
+    z-index: 999;
+    position: fixed;
+
+    .dropdown-menu {
+
+        .dropdown-header {
+            background-color: @chalk-lighter;
+        }
+
+        .dropdown-item button {
+            .flex-row(@justify-content: flex-start);
+        }
+    }
+}
+
+.metric-dropdown {
+
+    .search {
+        border: none !important;
+        border-radius: 0px;
+        box-shadow: none;
+    }
+
+    .dropdown-metrics {
+        overflow-y: auto;
+        .scrollbars;
+
+        &:not(.variable-has-warning) {
+            max-height: 330px;
+
+            @media (max-height: 1000px) {
+                max-height: 250px;
+            }
+
+            @media (max-height: 800px) {
+                max-height: 200px;
+            }
+
+            @media (max-height: 700px) {
+                max-height: 150px;
+            }
+        }
+
+        &.variable-has-warning {
+            max-height: 256px;
+
+            @media (max-height: 1000px) {
+                max-height: 176px;
+            }
+
+            @media (max-height: 800px) {
+                max-height: 126px;
+            }
+
+            @media (max-height: 700px) {
+                max-height: 76px;
+            }
+        }
+
+        .dropdown-item.title {
+            color: @slate;
+
+            &:hover {
+                background-color: unset;
+            }
+        }
+
+        .name-container {
+            .flex-column(@gutter: 5px);
+            overflow: hidden;
+
+            .var-name {
+                font-size: 11px;
+                line-height: 1.5;
+                color: @slate;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .title {
+                flex-grow: 1;
+                line-height: 1.2;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                min-height: 14px;
+                // Stops text from going over 5 lines, falls back to one line on unsupported browsers
+                @supports
+
+                (-webkit-line-clamp: 5) {
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: initial;
+                    display: -webkit-box;
+                    -webkit-line-clamp: 5;
+                    -webkit-box-orient: vertical;
+                }
+            }
+        }
+
+        &:empty {
+            .flex-row(@justify-content: center, @align-items: center);
+
+            &::after {
+                content: "No results";
+                color: @slate;
+                height: 75px;
+            }
+        }
+    }
+
+    &.show {
+        .metric-selector-toggle {
+            box-shadow: 0px 0px 3px 3px rgba(224, 226, 229, 0.48);
+        }
+    }
+}

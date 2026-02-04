@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Philips
+  },
+  {
+    ClassInstanceId: 55,
+    Name: AOC
+  },
+  {
+    ClassInstanceId: 56,
+    Name: ASUS
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Lenovo
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Acer
+  },
+  {
+    ClassInstanceId: 60,
+    Name: BenQ
+  },
+  {
+    ClassInstanceId: 61,
+    Name: MSI
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Dell
+  },
+  {
+    ClassInstanceId: 74,
+    Name: HP
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Iiyama
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Eizo
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Other (please type in)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of above
+  },
+  {
+    ClassInstanceId: 110,
+    Name: AOC (110)
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Iiyama (111)
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Eizo (112)
+  }
+]

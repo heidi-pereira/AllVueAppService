@@ -1,0 +1,23 @@
+@import "../../../../../less/_vars.less";
+@import "../../../../../less/_layout";
+
+.contentAndButtons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+.availableReportsList {
+    max-height: 550px;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.throbber {
+    height: 100%;
+    .flex-row(@justify-content: center; @align-items: center);
+    margin-top: 40px;
+}

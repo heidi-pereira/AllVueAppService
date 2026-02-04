@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Magazine / Website Content (Base Consumer_segment)
+  }
+]

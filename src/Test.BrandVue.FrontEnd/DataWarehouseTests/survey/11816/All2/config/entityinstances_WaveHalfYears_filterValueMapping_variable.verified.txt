@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: H1 2021
+  },
+  {
+    ClassInstanceId: 1,
+    Name: H2 2021
+  },
+  {
+    ClassInstanceId: 2,
+    Name: H1 2022
+  },
+  {
+    ClassInstanceId: 3,
+    Name: H2 2022
+  },
+  {
+    ClassInstanceId: 4,
+    Name: H1 2023
+  }
+]

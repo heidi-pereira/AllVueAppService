@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Education level:Completed secondary education (GCSE / O-Level / CSE or equivalent) (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: breakfast (6am-10am)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: mid-morning (10am-12pm)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: lunch (12pm-3pm)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: afternoon (3pm-5pm)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: early evening (5pm-7pm)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: evening (after 7pm)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: late night (12am-5am)
+  }
+]

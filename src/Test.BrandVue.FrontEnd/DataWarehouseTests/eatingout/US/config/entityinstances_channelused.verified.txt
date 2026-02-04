@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Had the food / drinks at the place
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Took the food / drinks to have at a different location
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ordered food / drinks to be delivered to you
+  }
+]

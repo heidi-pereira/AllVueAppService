@@ -1,0 +1,158 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Foldables
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Mobile Phones S20
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Foldables Launch Phase 2
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Holiday 2021
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Rainbow S22
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Ireland A53
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Night Owl
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Neo QLED
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Apple security
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Rainbow Sustain
+  },
+  {
+    ClassInstanceId: 11,
+    Name: TV Churn
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Why Security
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Das Boot (Germany only)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: B4Q4
+  },
+  {
+    ClassInstanceId: 15,
+    Name: B4Q4 Launch
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Holiday 22
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Diamond Feb 23
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Neo Wow
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Dual Cook
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Why Galaxy
+  },
+  {
+    ClassInstanceId: 21,
+    Name: JTFS
+  },
+  {
+    ClassInstanceId: 22,
+    Name: B5Q5
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Bespoke Home
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Loki
+  },
+  {
+    ClassInstanceId: 25,
+    Name: SE23 FE
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Eurka
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Open always wins
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Neo 24
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Bespoke AI
+  },
+  {
+    ClassInstanceId: 30,
+    Name: BIG Bang
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Q6B6
+  },
+  {
+    ClassInstanceId: 32,
+    Name: S24 FE
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Paradigm
+  },
+  {
+    ClassInstanceId: 35,
+    Name: A56 UK
+  },
+  {
+    ClassInstanceId: 36,
+    Name: S25 Edge UK
+  },
+  {
+    ClassInstanceId: 37,
+    Name: VD One launch
+  },
+  {
+    ClassInstanceId: 38,
+    Name: DA One Launch
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Q7B7
+  }
+]

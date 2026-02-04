@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: -99,
+    Name: Don't know
+  },
+  {
+    ClassInstanceId: 1,
+    Name: It's on the way up, and is much better than it used to be
+  },
+  {
+    ClassInstanceId: 2,
+    Name: It's on the way up, and is a bit better than it used to be
+  },
+  {
+    ClassInstanceId: 3,
+    Name: It's just the same now as it used to be
+  },
+  {
+    ClassInstanceId: 4,
+    Name: It's on the way down, and is not as good as it used to be
+  },
+  {
+    ClassInstanceId: 5,
+    Name: It's on the way down, and is much worse than it used to be
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sunny
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cloudy
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Rainy
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Snowy
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cold
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Warm
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Hot
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Still
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Windy
+  }
+]

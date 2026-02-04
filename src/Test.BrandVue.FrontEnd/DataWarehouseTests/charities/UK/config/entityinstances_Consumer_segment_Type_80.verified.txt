@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Commute (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - Keeping fit and healthy is a regular part of my everyday life (Base Keeping_fit_and_healthy_is_a_regular_part_of_my_daily_routine)
+  }
+]

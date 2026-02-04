@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: UK|Cordless
+  },
+  {
+    ClassInstanceId: 2,
+    Name: UK|Robot
+  },
+  {
+    ClassInstanceId: 3,
+    Name: France|Cordless
+  },
+  {
+    ClassInstanceId: 4,
+    Name: France|Robot
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Germany|Cordless
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Germany|Robot
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Italy|Cordless
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Italy|Robot
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Spain|Cordless
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Spain|Robot
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Ireland|Cordless
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Ireland|Robot
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I intend to watch / read / listen to a lot less
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I intend to watch / read / listen to a little less
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I don't intend to change my media habits
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I intend to watch / read / listen to a little more
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I intend to watch / read / listen to a lot more
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Not applicable / I don't use these services
+  }
+]

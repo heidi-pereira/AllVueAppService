@@ -1,0 +1,16 @@
+﻿name,displayName,field,allText,filterType,valueType,subset,categories,question,active,include,defaultValue
+Gender,,Gender,Male & Female,Profile,Category,,F:Female|M:Male,Are you male or female?,1,,
+Age,,Age,All Ages,Profile,Category,,16-24:16-24|25-39:25-39|40-54:40-54|55-74:55-74,How old are you?,1,,
+Region,,Region,All Regions,Profile,Category,UK|UKMen,L:London|N:North|M:Midlands|S:South,Where do you live?,,,
+Region,,Region,All Regions,Profile,Category,DE|DEMen,NW:North West|SW:South West|B:Bavaria|NE:North East,Where do you live?,,,
+Region,,Region,All Regions,Profile,Category,US,M:Midwest|N:Northeast|S:South|W:West,Where in the USA do you live?,,,
+Location,,Location,All Location Types,Profile,Category,,"1:I live in a city with a population more than 500,000 people|2:I live about a 30 minute drive away from a city of more than 500,000 people|3:I do not live in or a 30 minute drive away from a city of more than 500,000 people","Which of the following best describes the area you live in?
+<inst>Please select one option</inst>",,,
+Dress size,,Dress_size_female,All Dress Sizes,Profile,Category,,1-2:Small|3:Medium|4-6:Large,Typically what size of clothing do you wear for dresses?,1,,
+Household Income,,Household_Income,All Incomes,Profile,Value,US,0-74999:Low|75000-500000:High,What is your ANNUAL HOUSEHOLD income in (USD - $)?,,,
+Household Income,,Household_Income,All Incomes,Profile,Value,DE|DEMen,0-23999:Low|24000-500000:High,What is your ANNUAL HOUSEHOLD income in (EURO -)?,,,
+Ethnicity,,Ethnicity,All Ethnicities,Profile,Category,US,1:White|2:Hispanic / Latino|3: Black / African American,Would you describe yourself as:,,,
+Series type,,Series_Type,,Profile,Category,,ActualValue:Value|MovingAveragePeriodOnPeriodRelativeChange:Relative change|MovingAveragePeriodOnPeriodValueChange:Absolute change,,,,
+Seg,,Seg,All SEGs,Profile,Category,UK|UKMen,1:ABC1|2:C2DE,,,,
+Seg,,Seg,All SEGs,Profile,Category,US,L:Low|H:High,,,,
+Seg,,Seg,All SEGs,Profile,Category,DE|DEMen,L:Low|H:High,,,,

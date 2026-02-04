@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: On sale
+  },
+  {
+    ClassInstanceId: 2,
+    Name: On promotion e.g. 3 for 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No - full price
+  }
+]

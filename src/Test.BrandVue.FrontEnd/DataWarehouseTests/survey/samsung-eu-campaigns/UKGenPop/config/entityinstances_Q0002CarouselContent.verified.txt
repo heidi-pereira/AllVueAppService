@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: ITV (main channel)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Channel 4
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Channel 5
+  },
+  {
+    ClassInstanceId: 4,
+    Name: ITV2
+  },
+  {
+    ClassInstanceId: 5,
+    Name: E4
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Sky 1
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Sky Arts
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 5Star
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Dave
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Quest
+  }
+]

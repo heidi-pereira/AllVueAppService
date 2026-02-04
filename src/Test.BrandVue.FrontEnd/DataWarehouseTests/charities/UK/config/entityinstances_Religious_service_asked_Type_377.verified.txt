@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Religious service (Base Religious_service_asked)
+  }
+]

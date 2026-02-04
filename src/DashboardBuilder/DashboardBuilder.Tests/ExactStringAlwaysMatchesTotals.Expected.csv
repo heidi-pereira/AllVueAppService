@@ -1,0 +1,6 @@
+Text,NumberOfMatches,DirectMatch,StartsEndsMatch,FuzzyMatch,OriginalTexts
+bercrombiefitch,2,,Abercrombie and Fitch,,bercrombie and Fitch
+abercrombefitch,1,,,Abercrombie and Fitch,Abercrombe and Fitch
+abercrombiefitc,1,,Abercrombie and Fitch,,Abercrombie and Fitc
+abercrombiefitch,1,Abercrombie and Fitch,,,Abercrombie and Fitch
+ccessoriz,1,,,,ccessoriz

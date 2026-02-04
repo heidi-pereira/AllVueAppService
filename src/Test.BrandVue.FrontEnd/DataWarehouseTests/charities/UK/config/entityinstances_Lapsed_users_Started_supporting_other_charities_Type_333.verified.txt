@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Started supporting other charities (Base Lapsed_users_Started_supporting_other_charities)
+  }
+]

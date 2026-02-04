@@ -1,0 +1,2 @@
+﻿type,parent,fieldsSheet,metadataSheet,output,displayNameSingular,displayNamePlural
+Brand,Profile,BrandFields,Brands,data-##SUBSET##.csv,Brand,Brands

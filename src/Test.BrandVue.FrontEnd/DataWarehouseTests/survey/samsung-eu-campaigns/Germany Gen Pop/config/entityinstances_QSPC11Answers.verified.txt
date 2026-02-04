@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Google Pixel
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Huawei
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Nokia
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Xiaomi
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Oppo
+  },
+  {
+    ClassInstanceId: 41,
+    Name: OnePlus
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Vodafone
+  },
+  {
+    ClassInstanceId: 43,
+    Name: EE
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Three
+  },
+  {
+    ClassInstanceId: 45,
+    Name: O2
+  },
+  {
+    ClassInstanceId: 46,
+    Name: BT
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  }
+]

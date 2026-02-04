@@ -1,0 +1,904 @@
+﻿@import "_layout";
+
+﻿/*
+** HTML elements
+*/
+html.wait, html.wait * {
+    cursor: wait !important;
+}
+
+.nosel {
+    -webkit-user-select: none; /* Chrome all / Safari all */
+    -moz-user-select: none; /* Firefox all */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none; /* Likely future */
+}
+
+//Override
+i {
+    padding: 0 !important;
+}
+
+.pointer {
+    cursor: pointer;
+    color: @slate-lighter !important;
+
+    &:hover {
+        color: @slate !important;
+    }
+}
+
+.link{
+    text-decoration: underline;
+    color: blue;
+}
+
+.brand-checkbox-container {
+    display: flex;
+    flex-flow: column wrap;
+    max-height: 340px;
+    padding-bottom: 10px;
+    overflow-y: hidden;
+    align-content: flex-start;
+    overflow: auto;
+}
+
+/* A pox be upon IE11 */
+@media all and (-ms-high-contrast:none) {
+    .brand-checkbox-container {
+        height: 330px;
+        padding-bottom: 20px;
+    }
+}
+
+.filterPopup {
+    &.modal-dialog {
+        max-width: 90% !important;
+        margin: 0 auto;
+    }
+
+    .filterName {
+        font-weight: 500;
+        background-color: @blueSteel-lighter;
+
+        a {
+            left: 8px;
+            top: 4px;
+        }
+
+        &.disabled {
+            color: #000;
+            background-color: @chalk-light;
+        }
+    }
+}
+
+
+.brandChoice {
+
+    .nav-item a {
+        font-weight: 600;
+    }
+
+    .tab-pane {
+        padding: 20px 10px 20px 10px;
+        max-height: 400px;
+    }
+
+    .brandItem {
+        display: inline-block;
+        width: 200px;
+
+        > label {
+            font-size: 12px;
+            margin-bottom: 3px;
+            color: #000;
+            text-align: left;
+        }
+    }
+}
+
+.brandChoiceInfo {
+    display: block;
+    width: 300px;
+    float: right;
+    display: none;
+    border: 1px solid #eee;
+    margin: 20px;
+    padding: 10px;
+}
+
+.filterClear {
+    font-size: medium;
+    line-height: 1;
+    color: rgba(0,0,0,0.56);
+    background: none;
+    border: 0;
+}
+
+#chartControls .filterClear {
+    font-size: 14px;
+
+    &:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+ }
+
+.filterDescriptions {
+    .flex-row(@align-items: center, @flex-wrap: wrap, @gutter: .75em, @row-gap: .5rem);
+    font-size: 14px;
+    margin-bottom: 1rem;
+
+    .filterLabel {
+        color: #999;
+    }
+
+    .filterPair {
+        .flex-row(@align-items: center;);
+        border-radius: 1em;
+        background: @blueSteel;
+        padding: .3rem;
+
+        a {
+            font-size: inherit;
+            line-height: inherit;
+        }
+    }
+
+    .filterDescriptionName {
+        color: @white;
+        vertical-align: text-bottom;
+    }
+
+    .filterDescriptionValue {
+        color: @white;
+        vertical-align: text-bottom;
+    }
+
+    .pointer {
+        display: flex;
+        color: @white !important;
+    }
+}
+
+.brandSelectionDescriptions {
+    .flex-row(@gutter: 0.75rem, @row-gap: 0.75rem);
+    flex-flow: row wrap;
+    padding: 2rem 2rem 1rem 2rem;
+
+    .brandSelectionLabel {
+        color: #237393;
+        font-weight: 500;
+    }
+
+    .brandSelectionPair {
+        .flex-row(@align-items: center, @gutter: 0.5rem);
+        border-radius: 2em;
+        background: #FFFFFF;
+        border: 1px solid #CCCCCC;
+        padding: 0.25rem 0.75rem;
+
+        &:hover {
+            box-shadow: 0 0 0 4px @blueSteel-lighter;
+        }
+
+        .brandDeleteIcon {
+            color: @slate-lighter;
+        }
+    }
+
+    .brandSelectionDescriptionValue {
+        font-weight: 500;
+        vertical-align: text-bottom;
+    }
+}
+
+
+
+.filterClear:hover {
+    opacity: 0.9;
+}
+
+.lowSampleBrandWarning{
+    color: #999;
+    font-size: 12px;
+    margin-left: 3px;
+}
+
+.sampleWarning {
+    .flex-row(@align-items: center);
+    background: @amber-lighter;
+    border: 1px solid @amber-dark;
+    padding: 0.2rem 0.5rem;
+    vertical-align: sub;
+    cursor: pointer;
+
+    @media (max-width: 500px) {
+        justify-content: center;
+        width: 100%;
+        padding: 0.4rem;
+        margin-bottom: 1rem;
+    }
+
+    &:hover {
+        background: @amber-light;
+    }
+
+    .material-symbols-outlined {
+        font-size: 16px;
+        color: @amber;
+    }
+}
+
+.noDataError span.message {
+    .material-symbols-outlined("warning");
+}
+
+.material-symbols-outlined(@icon) {
+    &:before {
+        font-size: 18px !important;
+        vertical-align: text-bottom !important;
+        padding-right: 3px;
+        .material-symbols-outlined;
+        content: @icon
+    }
+}
+
+/* Override Bootstrap :punch: */
+.alert-info {
+    background: rgb(207, 237, 251);
+    border: none;
+}
+
+.sampleN {
+    color: @slate;
+    font-family: @font_family;
+    font-size: 14px;
+}
+
+.opts {
+    padding: 16px;
+    color:#999;
+}
+
+.opts label {
+    padding-left: 6px;
+}
+
+.tab-content {
+    padding: 0 !important;
+    margin: 0;
+}
+
+#bhbox1chart {
+    background-color: #FFFADD !important;
+}
+
+.metricTable {
+    border-collapse: collapse;
+}
+
+.metricRowText {
+    font-family: @font_family;
+    font-size: 15px;
+    padding: 0 10px;
+    width: 140px;
+}
+
+.metricRowImg {
+    text-align: center;
+}
+
+.metricRowImg img {
+    height: 30px;
+    padding: 3px;
+}
+
+.metricColImg {
+    text-align: center;
+    vertical-align: bottom;
+    padding: 8px;
+    width: 140px;
+    font-family: @font_family;
+    font-size: 18px;
+}
+
+.metricColImg img {
+    max-height: 23px;
+}
+
+.metricNum {
+    font-family: @font_family;
+    font-size: 30px;
+    text-align: center;
+}
+
+.metricSample {
+    font-family: @font_family;
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+}
+
+.metricPie {
+    font-family: @font_family;
+    font-size: 10px;
+    fill: white;
+    text-anchor: middle;
+    text-align: center;
+}
+
+.metricCell {
+    border: 1px solid #ffffff;
+}
+
+.k-state-selected, .k-state-selected:link, .k-state-selected:visited, .k-list > .k-state-selected, .k-list > .k-state-highlight, .k-panel > .k-state-selected, .k-ghost-splitbar-vertical, .k-ghost-splitbar-horizontal, .k-draghandle.k-state-selected:hover, .k-scheduler .k-scheduler-toolbar .k-state-selected, .k-scheduler .k-today.k-state-selected, .k-marquee-color {
+    color: #fff;
+    background-color: #9C7D5A;
+    border-color: #9C7D5A;
+}
+
+.n {
+}
+
+body.waiting * {
+    cursor: progress !important;
+}
+
+.dbboxtitle {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.dbrank {
+    font-size: 16px;
+    fill: #a7a9ac;
+    color: #a7a9ac;
+}
+
+.bootstrap-select {
+    &.btn-menu {
+        button {
+            border: none;
+        }
+
+        span {
+            width: unset !important;
+        }
+    }
+
+    button {
+        span {
+            vertical-align: middle;
+        }
+    }
+}
+
+.filtermenudropdown {
+    border: 1px solid #dddddd;
+    display: inline-block;
+    background-color: #fff;
+    z-index: 100000;
+    margin-top: 5px;
+    padding: 5px 10px;
+    min-width: 100px;
+    user-select: none;
+    font-weight: normal !important;
+}
+
+.filterdropdownitem {
+    vertical-align: middle;
+    font-weight: normal !important;
+}
+
+
+
+// Use icon name in data attribute
+.material-symbols-outlined[data-icon="barchartorderedIcon"] {
+    background-image: url(../wwwroot/assets/icons/material/barchartordered.svg);
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.material-symbols-outlined {
+    font-variation-settings:
+            'FILL' 1
+}
+
+.no-symbol-fill {
+    font-variation-settings:
+            'FILL' 0
+}
+
+.material-symbols-outlined + span, .material-symbols-outlined + a {
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+.control {
+    font-size: 11px;
+    position: relative;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    cursor: pointer;
+    font-weight: normal !important;
+}
+
+.control input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.control__indicator {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 13px;
+    height: 13px;
+    background: #e6e6e6;
+}
+
+.control--radio .control__indicator {
+    border-radius: 50%;
+}
+
+/* Hover and focus states */
+.control:hover input ~ .control__indicator,
+.control input:focus ~ .control__indicator {
+    background: #ccc;
+}
+
+/* Checked state */
+.control input:checked ~ .control__indicator {
+    background: #42C3DD;
+}
+
+/* Hover state whilst checked */
+.control:hover input:not([disabled]):checked ~ .control__indicator,
+.control input:checked:focus ~ .control__indicator {
+    background: #0e647d;
+}
+
+/* Disabled state */
+.control input:disabled ~ .control__indicator {
+    pointer-events: none;
+    opacity: .6;
+    background: #e6e6e6;
+}
+
+/* Check mark */
+.control__indicator:after {
+    position: absolute;
+    display: none;
+    content: '';
+}
+
+/* Show check mark */
+.control input:checked ~ .control__indicator:after {
+    display: block;
+}
+
+/* Checkbox tick */
+.control--checkbox .control__indicator:after {
+    top: 2px;
+    left: 5.5px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(45deg);
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+}
+
+/* Disabled tick colour */
+.control--checkbox input:disabled ~ .control__indicator:after {
+    border-color: #7b7b7b;
+}
+
+/* Radio button inner circle */
+.control--radio .control__indicator:after {
+    top: 4px;
+    left: 4px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #fff;
+}
+
+/* Disabled circle colour */
+.control--radio input:disabled ~ .control__indicator:after {
+    background: #7b7b7b;
+}
+
+.nav-tabs-custom {
+    box-shadow: none !important;
+}
+
+.nav-tabs-custom > .nav-tabs > li.header {
+    padding: 0;
+}
+
+.filtermenu {
+    display: inline;
+    margin-right: 20px;
+    padding: 5px 0px 5px 0px;
+    color: #000 !important;
+}
+
+.filtermenu a {
+    color: #000 !important;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.filtermenu.active {
+}
+
+.filtermenu.active:hover {
+}
+
+.filtermenu > a > span {
+    font-style: normal !important;
+}
+
+.filtermenu:hover {
+}
+
+#viewmenu {
+    border-bottom: 2px solid @blueSteel-light;
+}
+
+.viewmenu {
+    display: inline-block;
+    vertical-align: bottom;
+    border-bottom: 4px solid white;
+}
+
+.viewmenu a {
+    font-style: normal;
+    font-size: 12px;
+    margin-left: 4px;
+    padding: 4px 12px;
+    color: #000 !important;
+    background: @blueSteel-light;
+    border-radius: 2px 2px 0 0;
+    display: inline-block;
+    transition: none;
+}
+
+.viewmenu.disabled a {
+    color: #ccc !important;
+    cursor: pointer;
+    background: #eee;
+}
+
+.viewmenu a span {
+    display: none;
+}
+
+.viewmenu a.active {
+    font-size: 16px;
+    border: 2px solid @blueSteel-light;
+    border-radius: 4px 4px 0 0;
+    background: #fff;
+    padding: 8px 16px;
+    margin-bottom: -6px;
+    border-bottom: none;
+}
+
+.viewmenu a.active span {
+    display: inline;
+    padding: 0 0 0 8px;
+}
+
+.viewmenu a.active:hover {
+    text-decoration: none;
+}
+
+.viewmenu.active a {
+    /* background-color: #CCF2F7; */
+}
+
+.viewmenu > a > span {
+    font-style: normal !important;
+}
+
+.viewmenu:hover {
+    text-decoration: none;
+}
+
+// For Material Symbols Outlined in micro-tabs
+
+.viewmenu a i.material-symbols-outlined {
+    &:before {
+        content: attr(data-icon);
+    }
+}
+
+// For non-Material Symbols Outlined in micro-tabs
+.viewmenu a i.material-symbols-outlined[data-icon$="Icon"] {
+    &:before {
+        content: none;
+    }
+}
+
+
+
+.benefit, .benefits {
+    border-spacing: 0px;
+}
+
+.benefit {
+    padding: 15px 0 0 15px;
+}
+
+.benefit > div {
+    padding: 15px;
+    border: 1px solid #e4e5e6;
+    height: 100%;
+}
+
+.key-figures {
+    border: 1px solid #e4e5e6;
+    padding: 2em;
+}
+
+.key-figures > p {
+    padding: 0 0 10px 0;
+    margin: 0;
+}
+
+.key-figures > h2 {
+    margin: 0 0 20px 0;
+}
+
+.welcomehelp {
+    border: 1px solid #e4e5e6;
+    padding: 2em;
+    background-color: #e4e5e6;
+}
+
+.welcomehelp > p {
+    padding: 5px 0 5px 0;
+    margin: 0;
+}
+
+.welcomehelp > h3 {
+    margin: 10px 0 0px 0;
+}
+
+
+.figure1 {
+    font-size: 60px;
+    line-height: 55px;
+    color: #04C2DB;
+    font-weight: bold;
+}
+
+.figure2 {
+    font-size: 60px;
+    line-height: 55px;
+    color: #4ED4E5;
+    font-weight: bold;
+}
+
+.figure3 {
+    font-size: 60px;
+    line-height: 55px;
+    color: #E5F9FC;
+    font-weight: bold;
+}
+
+h2 {
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.opts label {
+    font-weight: normal;
+}
+
+/* Should be in layout? */
+
+.sidePanel {
+    -ms-flex: 0 0 230px;
+    flex: 0 0 230px;
+    border-left: 1px dotted @slate-lighter;
+    padding: 0.3rem 1.8rem 0 1.8rem;
+    margin-left: 1.75rem;
+    color: @slate;
+    backdrop-filter: blur(10px);
+
+    @media (max-width: 1000px) {
+        flex: auto;
+        order: -1;
+        padding: 10px 10px 0 10px;
+        border: 1px solid @amber-dark;
+        background: @amber-lighter;
+        margin: 0 0 1rem;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+
+    .sidePanel-header {
+        .flex-row(@justify-content: space-between, @align-items: center);
+        color: @black;
+        font-weight: 500;
+        margin-bottom: 1rem;
+
+        .material-symbols-outlined {
+            color: @amber;
+        }
+    }
+
+    .sidePanel-brands {
+        color: @black;
+    }
+
+    .sidePanel-close {
+        line-height: 1;
+        cursor: pointer;
+
+        .material-symbols-outlined {
+            font-size: 16px;
+            color: @slate;
+
+            &:hover {
+                color: @slate-dark;
+            }
+        }
+    }
+
+    .sidePanel-more-details {
+        color: @black;
+        padding: 0.5rem 0;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    p {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
+    .gentle-highlight {
+        background-color: @amber-lighter;
+        padding: .5rem;
+        border-radius: 4px;
+    }
+}
+
+#filter-strip-controls {
+    .flex-row(@align-items: center, @justify-content: space-between, @gutter: 0.5rem);
+
+    @media (max-width:1024px) {
+        align-items: flex-start;
+    }
+}
+
+#chartControls {
+    .flex-column();
+
+    .date-and-buttons {
+        .flex-row();
+
+        .chart-date-filters {
+            .filter-row {
+                .flex-row(@flex-wrap: wrap, @gutter: 1.5rem, @row-gap: .5rem);
+                flex: 1;
+
+                .filter-menus {
+                    .flex-row(@gutter: 1.5rem);
+                }
+
+                .fixed-period-date-picker {
+                    .flex-row(@flex-wrap: wrap, @gutter: 1.5rem);
+                    margin-right: 1.5rem;
+                }
+            }
+        }
+
+        .chart-control-buttons {
+            .flex-row(@align-items: center, @gutter: 2rem);
+            width: 100%;
+            margin-bottom: .5rem;
+            max-width: fit-content;
+            margin-left: auto;
+
+            #contextButtons {
+                .flex-row(@align-items: center, @justify-content: space-between, @gutter: 0.5rem);
+                align-self: flex-start;
+                margin-left: auto;
+
+                @media (max-width:500px) {
+                    display: none;
+                }
+            }
+
+            .scorecard-filter-row {
+                .flex-row(@align-items: center, @flex-wrap: wrap, @gutter: 1.5rem, @row-gap: .5rem);
+                width: 100%;
+                margin-bottom: .5rem;
+                flex: 1;
+
+                @media (max-width:700px) {
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+
+    .filters-and-warning {
+        .flex-row(@flex-wrap: wrap, @gutter: 2rem);
+        margin-bottom: .5rem;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+}
+
+    #chartControls span.filterTitle {
+        color: gray;
+    }
+
+    #chartControls span.bs-caret {
+        vertical-align: bottom;
+    }
+
+    .selectorShowPrefix {
+        color: #999;
+        margin-right: 5px;
+    }
+
+    .selectorShowPrefix::after {
+        content: "Show";
+    }
+
+.dropdown-menu {
+    font-size: 14px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.24);
+
+    a {
+        font-size: 14px;
+    }
+
+    .dropdown-header {
+        font-size: 14px;
+    }
+}
+
+    .pyramid-block {
+        background-color: @blueSteel-light;
+    }
+
+    @media (max-width: 767.98px) {
+        #headerStrip > span > .btn-secondary span {
+            display: none;
+        }
+
+        .countrySwitch {
+            position: relative;
+            top: 0;
+            right: 0;
+            display: inline-block;
+        }
+    }
+
+
+    .wordle-resetHidden {
+        color: #999;
+        font-size: 10px;
+    }

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Screen Out Bot Respondent 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Screen Out Bot Respondent 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Screen Out Bot Respondent 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Screen Out Bot Respondent 4
+  }
+]

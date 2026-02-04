@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Forgot about the charity (Base Lapsed_users_Forgot_about_the_charity)
+  }
+]

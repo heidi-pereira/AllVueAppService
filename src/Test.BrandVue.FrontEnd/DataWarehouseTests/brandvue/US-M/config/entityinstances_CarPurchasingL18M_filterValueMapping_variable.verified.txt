@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes, within the last 6 months
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes, within the last 12 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, within the last 18 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I don't drive
+  }
+]

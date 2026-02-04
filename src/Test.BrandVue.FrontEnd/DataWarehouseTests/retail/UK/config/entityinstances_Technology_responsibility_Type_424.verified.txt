@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Technology purchases (Base Technology_responsibility)
+  }
+]

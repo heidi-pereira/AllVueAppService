@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Area of employment:Transport / Distribution / Storage (Base Consumer_segment)
+  }
+]

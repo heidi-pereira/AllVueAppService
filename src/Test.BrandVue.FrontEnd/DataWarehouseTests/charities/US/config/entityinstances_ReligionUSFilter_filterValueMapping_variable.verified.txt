@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Protestant
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Roman Catholic
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Mormon
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Orthodox
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Jewish
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Muslim
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Buddhist
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Hindu
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Agnostic
+  },
+  {
+    ClassInstanceId: 9,
+    Name: No religion / I am an Atheist
+  }
+]

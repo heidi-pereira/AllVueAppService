@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Number of bedrooms:Five or more bedrooms (Base Number_of_bedrooms)
+  }
+]

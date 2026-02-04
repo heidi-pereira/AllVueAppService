@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Up to 15 minutes
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 15-29 minutes
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 30-59 minutes
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 1-2 hours
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Over 2 hours
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Don’t know
+  }
+]

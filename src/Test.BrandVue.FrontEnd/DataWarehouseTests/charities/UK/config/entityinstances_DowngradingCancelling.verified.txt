@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Change in disposable income
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Change in opinion on the charity
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Unsatisfied with charity’s actions
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Want to donate to another charity
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Doubt the impact of the donation
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Too much communication from the charity
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Not enough communication from the charity
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (please specify)
+  }
+]

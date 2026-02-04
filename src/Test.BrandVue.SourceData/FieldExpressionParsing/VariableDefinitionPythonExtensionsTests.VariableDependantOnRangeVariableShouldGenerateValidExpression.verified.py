@@ -1,0 +1,1 @@
+﻿result.Over100 if ((result.Over100 == 1) and (any((answer != None and answer >= 0) for answer in response.AgeCategory(AgeCategory=[3])))) else None

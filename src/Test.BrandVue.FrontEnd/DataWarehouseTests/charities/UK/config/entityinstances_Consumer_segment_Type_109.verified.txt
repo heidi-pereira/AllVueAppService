@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Education level:Completed High school education (A-level / Highers or equivalent) (Base Consumer_segment)
+  }
+]

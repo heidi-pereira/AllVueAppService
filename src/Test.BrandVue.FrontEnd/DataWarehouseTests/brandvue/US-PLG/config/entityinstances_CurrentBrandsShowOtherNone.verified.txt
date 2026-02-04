@@ -1,0 +1,182 @@
+﻿[
+  {
+    ClassInstanceId: 1001,
+    Name: Alexis Bittar
+  },
+  {
+    ClassInstanceId: 1002,
+    Name: Armani
+  },
+  {
+    ClassInstanceId: 1003,
+    Name: Barneys New York
+  },
+  {
+    ClassInstanceId: 1004,
+    Name: Calvin Klein
+  },
+  {
+    ClassInstanceId: 1005,
+    Name: Cartier
+  },
+  {
+    ClassInstanceId: 1006,
+    Name: Celine
+  },
+  {
+    ClassInstanceId: 1007,
+    Name: Chanel
+  },
+  {
+    ClassInstanceId: 1008,
+    Name: Church's
+  },
+  {
+    ClassInstanceId: 1009,
+    Name: Coach
+  },
+  {
+    ClassInstanceId: 1011,
+    Name: Dior
+  },
+  {
+    ClassInstanceId: 1012,
+    Name: DKNY
+  },
+  {
+    ClassInstanceId: 1013,
+    Name: Dolce & Gabbana
+  },
+  {
+    ClassInstanceId: 1014,
+    Name: Earls
+  },
+  {
+    ClassInstanceId: 1015,
+    Name: Fossil
+  },
+  {
+    ClassInstanceId: 1016,
+    Name: Gucci
+  },
+  {
+    ClassInstanceId: 1017,
+    Name: Helzberg Diamonds
+  },
+  {
+    ClassInstanceId: 1018,
+    Name: Hugo Boss
+  },
+  {
+    ClassInstanceId: 1019,
+    Name: Jimmy Choo
+  },
+  {
+    ClassInstanceId: 1020,
+    Name: John Hardy (jewelry)
+  },
+  {
+    ClassInstanceId: 1021,
+    Name: Kate Spade
+  },
+  {
+    ClassInstanceId: 1022,
+    Name: Kendra Scott
+  },
+  {
+    ClassInstanceId: 1023,
+    Name: Louis Vuitton
+  },
+  {
+    ClassInstanceId: 1025,
+    Name: Michael Kors
+  },
+  {
+    ClassInstanceId: 1026,
+    Name: MVMT
+  },
+  {
+    ClassInstanceId: 1027,
+    Name: Nine West
+  },
+  {
+    ClassInstanceId: 1028,
+    Name: Oakley
+  },
+  {
+    ClassInstanceId: 1029,
+    Name: Omega
+  },
+  {
+    ClassInstanceId: 1030,
+    Name: Oscar de La Renta
+  },
+  {
+    ClassInstanceId: 1031,
+    Name: Pandora
+  },
+  {
+    ClassInstanceId: 1032,
+    Name: Piercing Pagoda (new name - Banter)
+  },
+  {
+    ClassInstanceId: 1033,
+    Name: Prada
+  },
+  {
+    ClassInstanceId: 1034,
+    Name: RayBan
+  },
+  {
+    ClassInstanceId: 1035,
+    Name: Rolex
+  },
+  {
+    ClassInstanceId: 1036,
+    Name: Saks Off 5th
+  },
+  {
+    ClassInstanceId: 1037,
+    Name: Seiko
+  },
+  {
+    ClassInstanceId: 1038,
+    Name: Swarovski
+  },
+  {
+    ClassInstanceId: 1039,
+    Name: Swatch
+  },
+  {
+    ClassInstanceId: 1040,
+    Name: TAG Heuer
+  },
+  {
+    ClassInstanceId: 1041,
+    Name: Tiffany & Co.
+  },
+  {
+    ClassInstanceId: 1042,
+    Name: Tissot
+  },
+  {
+    ClassInstanceId: 1043,
+    Name: Vera Wang
+  },
+  {
+    ClassInstanceId: 1044,
+    Name: Versace
+  },
+  {
+    ClassInstanceId: 1045,
+    Name: Yves Saint Laurent
+  },
+  {
+    ClassInstanceId: 99998,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99999,
+    Name: None of these
+  }
+]

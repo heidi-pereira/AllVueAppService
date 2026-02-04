@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Time spent commuting:Over 2 hours (Base Consumer_segment)
+  }
+]

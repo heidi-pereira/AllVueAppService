@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fridge or freezer
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Washing machine or dryer
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ovens
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Vacuum cleaner
+  }
+]

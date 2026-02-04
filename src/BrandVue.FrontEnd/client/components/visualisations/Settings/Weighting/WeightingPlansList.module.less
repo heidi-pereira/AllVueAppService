@@ -1,0 +1,53 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.weightingsContainer {
+    margin: 30px 0 10px;
+    max-height: 536px;
+    min-width: 660px;
+    .flex-column();
+
+    .weightingsHeader {
+        .flex-row(@justify-content: flex-start);
+        background-color: @chalk-light;
+        color: @slate-dark;
+        border: 1px solid @chalk;
+        padding: 10px;
+
+        .headerStatus {
+            width: 40px;
+        }
+
+        .headerName {
+            width: 20%;
+        }
+
+        .headerProjectType {
+            width: 15%;
+        }
+
+        .headerSegment {
+            width: 15%;
+        }
+
+        .headerWeightedOn {
+            width: 30%;
+        }
+
+        .headerActions {
+            width: 20%;
+        }
+    }
+
+    .weightingsContent {
+        .flex-column();
+        color: @slate-darker;
+        border: 1px solid @chalk;
+        border-width: 0 1px 1px;
+    }
+
+    .weightingsContentScrollable {
+        .scrollbars();
+        overflow-y: auto;
+    }
+}

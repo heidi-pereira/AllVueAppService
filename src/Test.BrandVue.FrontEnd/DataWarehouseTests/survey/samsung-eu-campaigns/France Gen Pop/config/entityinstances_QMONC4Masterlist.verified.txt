@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Extremely unlikely|Extremely likely|Apple|Neutral|
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Extremely unlikely|Extremely likely|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Extremely unlikely|Extremely likely|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Extremely unlikely|Extremely likely|Philips|Neutral|
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Extremely unlikely|Extremely likely|AOC|Neutral|
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Extremely unlikely|Extremely likely|ASUS|Neutral|
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Extremely unlikely|Extremely likely|Lenovo|Neutral|
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Extremely unlikely|Extremely likely|Acer|Neutral|
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Extremely unlikely|Extremely likely|BenQ|Neutral|
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Extremely unlikely|Extremely likely|MSI|Neutral|
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Extremely unlikely|Extremely likely|Dell|Neutral|
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Extremely unlikely|Extremely likely|HP|Neutral|
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Extremely unlikely|Extremely likely|Iiyama|Neutral|
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Extremely unlikely|Extremely likely|Eizo|Neutral|
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Extremely unlikely|Extremely likely|AOC|Neutral| (110)
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Extremely unlikely|Extremely likely|Iiyama|Neutral| (111)
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Extremely unlikely|Extremely likely|Eizo|Neutral| (112)
+  }
+]

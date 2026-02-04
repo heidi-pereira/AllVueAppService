@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Watch live TV
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Streaming on demand video via app (e.g. Netflix)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Watch Sports
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Playing video games
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Casting from wirelessly connected device (e.g. smartphone, laptop)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Connecting a secondary device via HDMI or other physical connection (e.g. laptop)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Access social media app
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Streaming music or audio via app (e.g. Spotify)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: View or display photos or art
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Access fitness apps
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Streaming free channels (e.g. Roku, Rakuten, Pluto, etc.)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

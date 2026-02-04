@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Would Consider (Base Consumer_segment)
+  }
+]

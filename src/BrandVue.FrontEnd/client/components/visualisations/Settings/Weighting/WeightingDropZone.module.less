@@ -1,0 +1,43 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+@breakpoint-mobile: 550px;
+
+.dropZone {
+    background-color: @chalk-lighter;
+    border-radius: 4px;
+    border-color: gray;
+    border-style: dotted;
+    justify-content: center;
+
+    .button {
+        margin-right: 10px;
+    }
+
+    .dropFileMessage {
+        margin-left: 10px;
+        margin-bottom: 20px;
+        font-size: 14px;
+        color: @slate;
+        text-align: center;
+    }
+
+    &.active {
+        background-color: lighten(@blueSteel-lighter, 3%);
+    }
+
+    .flexContainer {
+        .flex-row(@align-items:center);
+        height: 100%;
+        width: 100%;
+        padding: 16px;
+        outline: 0;
+        align-items: center;
+        justify-content: center;
+
+        .dropFileText {
+            margin-left: 10px;
+            font-size: 14px;
+            color: @slate;
+        }
+    }
+}

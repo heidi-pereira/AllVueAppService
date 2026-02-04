@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Inform me
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Excite me
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Educate me
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Connect me with others
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Relax me
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Entertain me
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Not applicable / I don't use these services
+  }
+]

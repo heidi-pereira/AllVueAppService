@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - I prefer to deal with brands online or via an app wherever possible (Base I_prefer_to_deal_with_brands_online_or_via_an_app_wherever_possible)
+  }
+]

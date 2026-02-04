@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fundraising events:Extreme sports (Base Fundraising_event_Extreme_sports)
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: No
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Option 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Option 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Option 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 5,
+    Name: None of the above
+  }
+]

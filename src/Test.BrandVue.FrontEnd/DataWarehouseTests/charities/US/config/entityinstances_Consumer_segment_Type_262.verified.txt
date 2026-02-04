@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Online purchase frequency:Once a month (Base Consumer_segment)
+  }
+]

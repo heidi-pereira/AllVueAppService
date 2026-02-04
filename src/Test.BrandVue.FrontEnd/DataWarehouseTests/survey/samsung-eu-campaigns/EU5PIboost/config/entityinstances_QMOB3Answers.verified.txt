@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: £0
+  },
+  {
+    ClassInstanceId: 2,
+    Name: £1 - £49
+  },
+  {
+    ClassInstanceId: 3,
+    Name: £50 - £99
+  },
+  {
+    ClassInstanceId: 4,
+    Name: £100 - £149
+  },
+  {
+    ClassInstanceId: 5,
+    Name: £150 - £199
+  },
+  {
+    ClassInstanceId: 6,
+    Name: £200 - £249
+  },
+  {
+    ClassInstanceId: 7,
+    Name: £250 - £299
+  },
+  {
+    ClassInstanceId: 8,
+    Name: £300 - £399
+  },
+  {
+    ClassInstanceId: 9,
+    Name: £400 - £499
+  },
+  {
+    ClassInstanceId: 10,
+    Name: £500 - £599
+  },
+  {
+    ClassInstanceId: 11,
+    Name: £600 - £699
+  },
+  {
+    ClassInstanceId: 12,
+    Name: £700 - £799
+  },
+  {
+    ClassInstanceId: 13,
+    Name: £800 - £899
+  },
+  {
+    ClassInstanceId: 14,
+    Name: £900 - £999
+  },
+  {
+    ClassInstanceId: 15,
+    Name: £1,000 - £1,199
+  },
+  {
+    ClassInstanceId: 16,
+    Name: More than £1,199
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know / Can’t say
+  }
+]

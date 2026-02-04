@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 13-17
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 18-34
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 35-54
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 55+
+  }
+]

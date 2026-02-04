@@ -1,0 +1,1 @@
+export const SHOW_ALL_ROWS_IN_DATAGRID = -1

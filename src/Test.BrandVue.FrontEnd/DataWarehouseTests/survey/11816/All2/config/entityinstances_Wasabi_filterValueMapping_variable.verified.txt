@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Awareness
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Consideration
+  }
+]

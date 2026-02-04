@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - It is worth paying more for good quality products /  You get what you pay for (Base It_is_worth_paying_more_for_good_quality_products_you_get_what_you_pay_for)
+  }
+]

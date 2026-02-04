@@ -1,0 +1,112 @@
+@import "_vars";
+@import "_layout";
+
+.metric-select-list {
+    .flex-column();
+    flex: 1 1 auto;
+    border: 1px solid @slate-lighter;
+    border-radius: 4px;
+
+    .search-container {
+        margin: 0;
+    }
+
+    .count-and-buttons {
+        .flex-row(@justify-content: space-between; @align-items: center;);
+        padding: 15px 10px;
+
+        .buttons {
+            display: flex;
+        }
+
+        .count {
+            color: @slate-dark;
+
+            strong {
+                font-weight: 500;
+            }
+        }
+    }
+
+    .valid-metrics {
+        flex: 1 1 0;
+        margin: 0 10px 10px 0;
+        overflow-y: auto;
+        .scrollbars;
+        min-height: 85px;
+
+        .section-title {
+            margin-bottom: 5px;
+            padding: 0 10px;
+            color: @slate;
+            cursor: default;
+        }
+
+        .metric {
+            .flex-row();
+            color: @slate-darker;
+
+            &:hover {
+                label::before {
+                    border-color: @slate;
+                }
+            }
+
+            &:active {
+                label::before {
+                    box-shadow: 0 0 1px 2px rgba(93, 174, 212, 0.25);
+                }
+            }
+
+            .name-container {
+                .flex-column();
+                cursor: pointer;
+                flex: 1;
+                padding: 12px 10px 6px 0;
+                user-select: none;
+            }
+
+            .name-container ~ label {
+                margin-left: 10px;
+            }
+
+            .checkbox {
+                &:checked + label,
+                &:checked ~ .name-container {
+                    font-weight: 500;
+                }
+            }
+        }
+
+        .variables {
+            margin-bottom: 10px;
+
+            .metric label {
+                flex: 1;
+                padding: 8px 10px 8px 20px;
+
+                &::after { //to compensate for extra padding
+                    top: 15px;
+                    left: 23px;
+                }
+            }
+        }
+
+        .questions {
+            .metric label {
+                padding: 8px 0 15px 20px;
+
+                &::after { //to compensate for extra padding
+                    top: 15px;
+                    left: 23px;
+                }
+            }
+        }
+
+        .no-results {
+            .flex-row(@justify-content: center, @align-items: center);
+            height: 100%;
+            color: @slate;
+        }
+    }
+}

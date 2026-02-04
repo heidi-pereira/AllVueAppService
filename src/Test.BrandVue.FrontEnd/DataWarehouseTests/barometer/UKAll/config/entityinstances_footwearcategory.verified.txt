@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 301,
+    Name: Boots
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Sandals
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Shoes
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Sports shoes
+  },
+  {
+    ClassInstanceId: 3001,
+    Name: Other shoes
+  }
+]

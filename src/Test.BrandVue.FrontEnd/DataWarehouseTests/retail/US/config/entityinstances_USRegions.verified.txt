@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 52,
+    Name: Northeast
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Midwest
+  },
+  {
+    ClassInstanceId: 54,
+    Name: South
+  },
+  {
+    ClassInstanceId: 55,
+    Name: West
+  }
+]

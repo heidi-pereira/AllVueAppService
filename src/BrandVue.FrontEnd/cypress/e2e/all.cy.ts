@@ -1,0 +1,6 @@
+import './allAllVueTabsLoad.cy'
+import './allProductsLoad.cy'
+import './brandPerformancePage.cy'
+import './chartOptions.cy'
+import './homePage.cy'
+import './menuLinks.cy'

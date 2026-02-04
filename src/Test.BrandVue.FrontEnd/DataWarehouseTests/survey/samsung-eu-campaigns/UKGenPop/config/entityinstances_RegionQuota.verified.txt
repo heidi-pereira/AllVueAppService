@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: London
+  },
+  {
+    ClassInstanceId: 2,
+    Name: South
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Midlands
+  },
+  {
+    ClassInstanceId: 4,
+    Name: North
+  }
+]

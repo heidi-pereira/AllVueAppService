@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Myself
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Another family member aged 16 or older
+  },
+  {
+    ClassInstanceId: 3,
+    Name: As a gift for another adult aged 16 or older
+  },
+  {
+    ClassInstanceId: 4,
+    Name: A child aged 15 or younger
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Cannot guarantee disposable income (Base Individual_vs_regular_Cannot_guarantee_disposable_income)
+  }
+]

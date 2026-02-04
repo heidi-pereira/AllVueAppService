@@ -1,0 +1,10 @@
+﻿[
+  {
+    Invert: false,
+    IsRange: false,
+    Name: Range: FF Max Diff,
+    Values: [
+      1
+    ]
+  }
+]

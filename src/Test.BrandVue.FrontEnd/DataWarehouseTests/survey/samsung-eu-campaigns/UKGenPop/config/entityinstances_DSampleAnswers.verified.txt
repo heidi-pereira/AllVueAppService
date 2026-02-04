@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: GEN POP MAIN
+  },
+  {
+    ClassInstanceId: 2,
+    Name: GEN POP BOOST
+  },
+  {
+    ClassInstanceId: 3,
+    Name: GEN Z BOOST
+  },
+  {
+    ClassInstanceId: 4,
+    Name: SP Premium Intender BOOST
+  },
+  {
+    ClassInstanceId: 5,
+    Name: SP Super Premium Intender BOOST
+  },
+  {
+    ClassInstanceId: 6,
+    Name: GEN POP SEUK BOOST
+  },
+  {
+    ClassInstanceId: 7,
+    Name: GEN POP NATRAP BOOST
+  },
+  {
+    ClassInstanceId: 8,
+    Name: TV PREMIUM INTENDER BOOST
+  },
+  {
+    ClassInstanceId: 9,
+    Name: TV SUPER INTENDER BOOST
+  }
+]

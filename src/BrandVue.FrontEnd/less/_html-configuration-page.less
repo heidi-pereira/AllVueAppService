@@ -1,0 +1,239 @@
+@import "_vars";
+@import "_layout";
+@import "_buttons";
+
+@max-option-width: 700px;
+
+#average-configuration-page, #audience-configuration-page, #question-variable-definition-configuration-page {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "header" "content" "footer";
+    color: @slate-dark;
+    font-size: 16px;
+
+    .view-average-configurations, .audience-configurations, .view-variables-configuration {
+        padding: 24px 48px;
+        grid-area: content;
+        min-height: 0;
+        .flex-row(@gutter: 48px);
+
+        .nav-tabs {
+            padding-top: 0;
+        }
+
+        .tab-pane.active {
+            font-weight: inherit;
+        }
+
+        .average-list, .audience-list, .variable-list {
+            .flex-column(@gutter: 8px);
+            width: 360px;
+            margin-right: 48px;
+
+            .tab-content, .audience-list-scroll {
+                .scrollbars;
+                overflow-y: auto;
+                flex: 1;
+
+                .average-list-element, .audience-list-element, .variable-list-element {
+                    .flex-row();
+                    padding: 16px 8px;
+                    cursor: pointer;
+
+                    .default-icon {
+                        .flex-column(@justify-content: center);
+                    }
+
+                    .material-symbols-outlined {
+                        color: @blueSteel;
+                    }
+
+                    .average-name {
+                        flex: 1;
+                    }
+
+                    &.selected {
+                        background-color: @blueSteel-lighter;
+                        font-weight: 500;
+                    }
+
+                    &.disabled {
+                        color: @slate-light;
+
+                        .material-symbols-outlined {
+                            color: @slate-light;
+                        }
+                    }
+                }
+
+                .audience-list-element {
+                    padding: 16px 16px;
+                }
+
+                .audience-list-element-header {
+                    .flex-row();
+                    padding: 16px 0;
+                    color: @slate;
+                }
+
+                .no-averages-message, .no-audiences-message, .no-variables-message {
+                    text-align: center;
+                    color: @slate-light;
+                    padding: 36px 0;
+                }
+            }
+
+            .new-average-dropdown {
+                width: 100%;
+                margin-bottom: 8px;
+
+                .dropdown-menu {
+                    width: 100%;
+                }
+
+                .scrollable-list {
+                    overflow-y: auto;
+                    max-height: 200px;
+                }
+            }
+
+            .new-average-button, .new-audience-button {
+                justify-content: center;
+                width: 100%;
+
+                .new-average-button-text, .new-audience-button-text {
+                    padding-right: 21px;
+                }
+            }
+        }
+
+        .configuration-area {
+            .flex-column();
+            flex: 1;
+
+            .configuration-title {
+                padding: 7px 0;
+                font-size: 20px;
+                font-weight: 500;
+            }
+
+            .configuration-sub-title {
+                padding: 7px 0;
+                font-size: 16px;
+                font-weight: 500;
+                color: @slate;
+            }
+
+            .nothing-selected-message {
+                margin: auto;
+                color: @slate-light;
+            }
+
+            .configure-average, .configure-variable > :first-child {
+                padding-top: 20px;
+            }
+
+            .configure-average, .configure-audience, .configure-variable {
+                flex: 1;
+                padding: 0px 48px 20px 0;
+                .scrollbars;
+                overflow-y: auto;
+
+                .option {
+                    .flex-column(@gutter: 8px);
+                }
+
+                .option-row, .spaced-label-container {
+                    .flex-row(@gutter: 20px, @align-items: baseline, @justify-content: space-between);
+                    max-width: @max-option-width;
+                }
+
+                .subset-message {
+                    margin-top: -10px;
+                    margin-bottom: 20px;
+                    color: @slate-light;
+                    max-width: @max-option-width;
+                }
+
+                .option, .option-row {
+                    margin-bottom: 20px;
+                    flex: 1;
+
+                    .option {
+                        margin-bottom: 0;
+                    }
+
+                    label {
+                        color: @slate;
+                        white-space: nowrap;
+
+                        &.bold {
+                            font-weight: 600;
+                        }
+
+                        &.readonly-option {
+                            color: @slate-dark;
+                        }
+                    }
+
+                    .text-option, .number-option {
+                        height: 38px;
+                    }
+
+                    .text-option, .number-option, .text-area-option {
+                        line-height: 38px;
+                        outline: none;
+                        background-color: @white;
+                        border: 1px solid @slate-lighter;
+                        border-radius: 4px;
+                        padding: 6px 8px;
+                        max-width: @max-option-width;
+
+                        &:hover {
+                            border-color: @slate-light;
+                        }
+
+                        &:focus {
+                            border-color: @blueSteel;
+                            box-shadow: 0px 0px 2px 2px rgba(182, 216, 247, 0.56);
+                        }
+
+                        &::placeholder {
+                            color: @slate;
+                        }
+                    }
+
+                    .text-area-option {
+                        height: 350px;
+                        line-height: 1.5em;
+                    }
+
+                    input[type=checkbox] {
+                        transform: scale(1.2);
+                    }
+
+                    .select-picker {
+                        flex: 1;
+                        max-width: @max-option-width;
+                        width: unset;
+                    }
+                }
+
+                .multiple-breaks-warning {
+                    color: @slate;
+
+                    .material-symbols-outlined {
+                        color: @amber;
+                        margin-right: 10px;
+                    }
+                }
+            }
+
+            .configuration-buttons {
+                .flex-row(@gutter: 16px);
+                padding-top: 24px;
+            }
+        }
+    }
+}

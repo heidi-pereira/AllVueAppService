@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:8082/",
+  "env": {
+    "userEmail": "",
+    "allVueSurveyId": "11270",
+    "product": "/"
+  }
+}

@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: To work from home
+  },
+  {
+    ClassInstanceId: 2,
+    Name: To edit and create documents, presentations, spreadsheets
+  },
+  {
+    ClassInstanceId: 3,
+    Name: To play games via a games console, computer or laptop
+  },
+  {
+    ClassInstanceId: 4,
+    Name: To watch videos, TV or movies
+  },
+  {
+    ClassInstanceId: 5,
+    Name: To browse the internet
+  },
+  {
+    ClassInstanceId: 6,
+    Name: To listen to music (via music player or streaming service, e.g. Spotify)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: To communicate with others (e.g. social media, video calls)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: To view and edit photos and/or videos (e.g. Photoshop)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes - I have used one or more services
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No - but would consider using one
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No - and would not consider using one
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I can’t say as I don’t understand or are not aware of these systems
+  }
+]

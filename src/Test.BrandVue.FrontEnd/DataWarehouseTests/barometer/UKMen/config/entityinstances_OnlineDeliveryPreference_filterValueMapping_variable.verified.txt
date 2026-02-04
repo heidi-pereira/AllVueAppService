@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Same Day Delivery
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Next Day Delivery
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Specific Day Delivery
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Click-and-Collect Instore
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Collection Points / Lockers
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I don't buy clothes online
+  }
+]

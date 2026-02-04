@@ -1,0 +1,9 @@
+body{
+    overflow: hidden;
+}
+
+#authorizedLayout {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

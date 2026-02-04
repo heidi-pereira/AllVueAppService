@@ -1,0 +1,33 @@
+﻿@import "../../../../../../../less/_vars";
+@import "../../../../../../../less/_layout";
+
+.commentTable {
+    border-collapse: collapse;
+    background-color: #ffffff;
+
+    .row {
+        border: 1px solid #dddddd;
+    }
+
+    thead {
+        position: sticky;
+        top: 0px;
+        background-color: #ffffff;
+    }
+
+    .filter {
+        border: 1px solid lightgrey;
+        border-radius: 2px;
+        padding: 4px 4px;
+        margin: 2px 0px;
+        outline: none;
+        transition: border-color 0.3s;
+        width: auto;
+        font-size: 12px;
+    }
+
+    .filter:focus {
+        border-color: darkgrey; /* Darkens the border a little when the input is focused */
+    }
+}
+

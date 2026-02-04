@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: The quality of their products (i.e. materials, stitching, etc.)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: The durability of their products
+  },
+  {
+    ClassInstanceId: 4,
+    Name: The range of styles of their products available
+  },
+  {
+    ClassInstanceId: 6,
+    Name: The retailer generally offers products in your size / fit your body shape
+  },
+  {
+    ClassInstanceId: 7,
+    Name: The comfort of wearing products from the retailer
+  },
+  {
+    ClassInstanceId: 8,
+    Name: How stylish / on-trend products from the retailer are
+  },
+  {
+    ClassInstanceId: 9,
+    Name: The retailer generally offers products that suit your style
+  },
+  {
+    ClassInstanceId: 10,
+    Name: The ethical position of their products
+  }
+]

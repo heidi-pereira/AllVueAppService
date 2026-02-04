@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV Streaming Platforms
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Music Streaming Platforms
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Print Newspapers
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Digital Newspapers
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Print Magazines
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Digital Magazines
+  }
+]

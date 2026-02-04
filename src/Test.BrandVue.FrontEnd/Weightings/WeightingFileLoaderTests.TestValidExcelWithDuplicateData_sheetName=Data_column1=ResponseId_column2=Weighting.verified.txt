@@ -1,0 +1,18 @@
+﻿{
+  DateTimeCreatedUtc: DateTime_1,
+  ErrorResponsesForThisSurveyAndWave: [],
+  ExcelFileName: null,
+  ExtraResponsesInExcel: [],
+  IsValid: false,
+  MaxWeight: null,
+  Messages: [],
+  MinWeight: null,
+  NumberOfBytes: 2686,
+  NumberOfResponsesInDatabaseForThisSurveyAndWave: 0,
+  NumberOfResponsesMatched: 0,
+  NumberOfRows: 1048576,
+  NumberOfRowsInExcelIgnored: 4,
+  NumberOfValidRowsInExcel: 6,
+  SubsetId: All,
+  ValidWeights: null
+}

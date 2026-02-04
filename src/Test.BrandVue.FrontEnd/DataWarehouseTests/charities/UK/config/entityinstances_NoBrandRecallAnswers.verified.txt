@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I don’t remember the name of the brand I purchased
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I didn’t look to see the name of the brand I purchased
+  },
+  {
+    ClassInstanceId: 3,
+    Name: The item has no brand name
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Other
+  }
+]

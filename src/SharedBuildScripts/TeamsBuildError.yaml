@@ -1,0 +1,72 @@
+
+steps:
+- task: PowerShell@2
+  displayName: 'Notify Teams on failure of main'
+  condition:  and(
+    failed(),
+    or(
+      eq(variables.isMasterBuild, 'true'),
+      eq(variables.isHotfix, 'true')
+    )
+   )
+  inputs:
+    targetType: 'inline'
+    script: |
+      $buildTime = Get-Date -Format "dd MMM yyyy HH:mm:ss"
+      $buildUrl = "$(System.TeamFoundationCollectionUri)$(System.TeamProject)/_build/results?buildId=$(Build.BuildId)"
+      $gitUrl = "$(Build.Repository.Uri)/pulls?q=is%3Apr+is%3Aclosed"
+
+      $adaptiveCard = @{
+        type    = "AdaptiveCard"
+        '$schema' = "http://adaptivecards.io/schemas/adaptive-card.json"
+        version = "1.2"
+        msteams = @{
+          width = "Full"
+        }
+        body = @(
+          @{
+            type = "TextBlock"
+            text = "Build **FAILED** for $(buildNameBase)"
+            weight = "Bolder"
+            size = "Medium"
+            color = "Attention"
+            wrap = $true
+          },
+          @{
+            type = "FactSet"
+            facts = @(
+              @{ title = "Build Number:"; value = "$(Build.BuildNumber)" }
+              @{ title = "Branch:"; value = "$(Build.SourceBranch)" }
+              @{ title = "Reason:"; value = "$(Build.Reason)" }
+              @{ title = "Requested For:"; value = "$(Build.RequestedFor)" }
+              @{ title = "Is HotFix build:"; value = "$(isHotfix)" }
+              @{ title = "Is Main build:"; value = "$(isMasterBuild)" }
+              @{ title = "Build time (UTC):"; value = $buildTime }
+            )
+          }
+        )
+        actions = @(
+          @{
+            type = "Action.OpenUrl"
+            title = "View Build"
+            url = $buildUrl
+          },
+          @{
+            type = "Action.OpenUrl"
+            title = "View Git"
+            url = $gitUrl
+          }
+        )
+      }
+      $payload = @{
+        attachments = @(
+          @{
+            contentType = "application/vnd.microsoft.card.adaptive"
+            content     = $adaptiveCard
+          }
+        )
+      } | ConvertTo-Json -Depth 10
+
+
+      Invoke-RestMethod -Uri "$(teamsWebhookUrl)" -Method Post -Body $payload -ContentType 'application/json'
+

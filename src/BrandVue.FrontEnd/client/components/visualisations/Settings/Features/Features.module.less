@@ -1,0 +1,318 @@
+@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.featurespage {
+    width: 100%;
+    height: 100vh;
+    min-height: 0;
+
+    @page-font-size: 14px;
+    font-size: @page-font-size;
+    display: grid;
+    grid-template:
+            'header header'
+            'sidenav content' 1fr / 1fr 4fr;
+    column-gap: 20px;
+}
+
+.newfeature {
+    background: repeating-linear-gradient( -45deg, #FAFAFA, #FAFAFA 10px, #F5F5F5 10px, #F5F5F5 23px );
+
+    td, td span {
+        color: @good-green;
+    }
+}
+
+.oldfeature {
+    background: repeating-linear-gradient( -45deg, #FAFAFA, #FAFAFA 10px, #F5F5F5 10px, #F5F5F5 23px );
+
+    td, td span {
+        color: @bad-red;
+    }
+}
+
+.leftpane {
+    grid-area: sidenav;
+    .flex-column();
+    flex-shrink: 0;
+    border-right: 1px solid @chalk;
+    min-height: 0;
+    background: @white;
+
+    .nav-tabs {
+        padding: 16px 24px 5px 24px;
+    }
+}
+
+.rightpane {
+    overflow: auto;
+    padding: 30px;
+    grid-area: content;
+    width: 100%;
+}
+
+.tabHeader {
+    display: flex;
+    justify-content: space-between;
+
+    h1 {
+        margin: 0;  /* Removes default margin from h1 */
+        .tabHeaderLeft {
+            margin-bottom: 21px;
+            font-size: 20px;
+            font-weight: 200;
+        }
+        
+        .tabHeaderRight {
+            margin-bottom: 21px;
+            font-size: 20px;
+            font-weight: 300;
+        }
+    }
+}
+
+.tabHeaderButtons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 60%;
+
+    input {
+        margin-right: 10px;
+        padding: 5px;
+        width: 30%;
+    }
+
+    button {
+        margin-left: 10px;
+    }
+}
+
+.tabContent {
+    margin-top: 21px; 
+}
+
+.editFeatureSection {
+    padding: 20px;
+
+    input {
+        margin-left: 10px;
+    }
+}
+
+.sidebarcontainer {
+    .flex-column();
+    height: calc(100% - 80px); // Need to calculate this due to component nesting
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    .searchcontainer {
+        padding-top: 24px;
+        margin-bottom: 12px;
+
+        .searchinputgroup {
+            padding: 0;
+            border-radius: 0;
+            border: none;
+            border-bottom: 1px solid @slate-lighter;
+            line-height: 2.5;
+
+            &:focus-within {
+                border-bottom-color: @blueSteel;
+                box-shadow: 0 0.3rem 0.15rem -0.15rem @blueSteel-lighter;
+            }
+
+            .search {
+                padding: 0;
+            }
+
+            .search-icon {
+                align-self: center;
+                cursor: default;
+            }
+        }
+    }
+
+    .titleContainer {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .buttons {
+            visibility: hidden;
+            text-decoration: none;
+        }
+    
+        &:hover .buttons {
+            visibility: visible;
+            background-color: @blueSteel-lighter;
+        }
+
+        .styledDropdown {
+
+            .styledToggle {
+                display: flex;
+                align-items: center;
+                width: 100%;
+                padding: 0;
+                border: none;
+                color: @slate;
+                background-color: unset;
+                box-shadow: unset;
+                display: block;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+            .styledDropdownMenu {
+                background-color: @white !important;
+
+                .styledDropdownItem {
+                    display: flex;
+                    align-items: center;
+
+                    &:hover {
+                        background-color: @blueSteel-lighter;
+                    }
+
+                    .editButton {
+                        font-size: 16px;
+                        margin-right: 4px;
+                        display: flex;
+                        align-items: flex-end;
+                    }
+                }
+            }
+        }
+    }
+
+    .sidebarlist {
+        overflow-x: hidden;
+        overflow-y: auto;
+        height: 100%;
+        .scrollbars;
+
+        .listTitle {
+            padding: 5px 0 0 0;
+            line-height: 2.5;
+            color: @slate;
+            cursor: default;
+        }
+
+        .listitem {
+            width: 100%;
+            cursor: pointer;
+
+            &.selected {
+                background-color: @blueSteel-lighter;
+                font-weight: 500;
+            }
+
+            &:hover {
+                background-color: @blueSteel-lighter;
+
+                div, span {
+                    background-color: transparent;
+
+                    :hover {
+                        background-color: transparent;
+                    }
+                }
+            }
+        }
+
+        &:empty {
+            height: 100%;
+
+            &::after {
+                content: "No results";
+                .flex-row(@justify-content: center, @align-items: center);
+                color: @slate;
+                height: 100%;
+            }
+        }
+    }
+}
+
+.paginationContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    .pageLabel {
+        margin: 0 20px;
+        line-height: 2.5;
+    }
+
+    .btnPrevious {
+        margin-right: 10px;
+    }
+
+    .btnNext {
+        margin-left: 10px;
+    }
+}
+
+.noFeaturesMessage {
+    width: 100%;
+    align-items: center;
+    margin: 2rem;
+}
+
+.featuresTableContainer {
+    overflow: auto; 
+    margin-top: 5px;
+}
+
+.featuresTable {
+    width: 100%;
+    margin-top: 30px;
+    border: 1px solid @slate-lighter;
+
+    th, td {
+        padding: 12px 16px;
+    }
+
+    thead {
+        background-color: @chalk-light;
+        border-bottom: 1px solid @slate-lighter;
+
+        th {
+            color: @slate;
+            font-weight: 400;
+        }
+    }
+
+    tbody {
+        tr {
+            background-color: @white;
+
+            &:not(:last-child) {
+                border-bottom: 1px solid @chalk-light;
+            }
+
+            &:hover {
+                background-color: @chalk-lighter;
+            }
+        }
+
+        td {
+            color: @slate-dark;
+        }
+
+        .rowDeleteXContainer {
+            text-align: right;
+
+            .rowDeleteX { 
+                cursor: pointer;
+
+                :hover {
+                    color: @slate-light;
+                }
+            }
+        }
+    }
+}

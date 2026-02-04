@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Loyalty Scheme Usage (Base Loyalty_Card_Usage)
+  }
+]

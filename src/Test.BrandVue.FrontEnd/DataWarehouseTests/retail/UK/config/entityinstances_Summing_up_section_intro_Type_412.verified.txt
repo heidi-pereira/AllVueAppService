@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Summing up section intro (Base Summing_up_section_intro)
+  }
+]

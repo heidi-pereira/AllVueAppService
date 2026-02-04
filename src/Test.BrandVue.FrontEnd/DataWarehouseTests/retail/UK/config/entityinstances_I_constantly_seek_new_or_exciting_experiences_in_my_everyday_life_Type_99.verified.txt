@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - I constantly seek new or exciting experiences in my everyday life (Base I_constantly_seek_new_or_exciting_experiences_in_my_everyday_life)
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I'm happy to share personal information in order to get advertising that is more tailored to my interests
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Online advertising is well targeted to my interests
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Privacy of my personal data is really important to me
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I'm happy to share my experiences of brands with my network of contacts on social media
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I often see useful / interesting posts from brands on social media
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I'm trying to spend less time online and more time interacting with people face-to-face
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I care about supporting channels / platforms with values that are aligned to my own
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I'm likely to subscribe to a new streaming service temporarily to watch a new show / new season of a show I like
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I prefer bite-sized content / episodes over longer formats
+  },
+  {
+    ClassInstanceId: 10,
+    Name: I prefer to watch weekly episodes over series boxsets
+  },
+  {
+    ClassInstanceId: 11,
+    Name: I prefer streaming a new film release at home over going to the cinema to watch it
+  },
+  {
+    ClassInstanceId: 12,
+    Name: I prefer watching live television over streaming / catch up
+  }
+]

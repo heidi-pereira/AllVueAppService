@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I’ve seen a phone like this in a physical shop
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I’ve seen a phone like this in an online store
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I’ve seen a phone like this in an advert
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I know someone who owns a phone like this
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I own/have owned a phone like this
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

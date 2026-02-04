@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Work
+  },
+  {
+    ClassInstanceId: 3,
+    Name: School / college
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Shops
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cinema / theatre / match / event
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Another pub / bar / café / coffee shop
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Somewhere else
+  }
+]

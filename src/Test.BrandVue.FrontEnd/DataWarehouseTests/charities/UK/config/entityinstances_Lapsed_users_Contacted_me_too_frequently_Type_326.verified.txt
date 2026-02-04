@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Contacted me too frequently (Base Lapsed_users_Contacted_me_too_frequently)
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car insurance
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Home insurance
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Travel insurance
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Pet insurance
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Private Medical / health Insurance
+  }
+]

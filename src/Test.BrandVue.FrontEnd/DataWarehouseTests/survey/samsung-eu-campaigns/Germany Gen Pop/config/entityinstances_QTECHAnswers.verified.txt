@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Safwan Ahmedmia - SuperSaf
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Arun Maini - Mrwhosetheboss
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Tom Honeyands - The Tech Chap
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Chris Barraclough - Tech Spurt
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Hayleigh Chamberlain - Hayls World
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Daniel Rotar - ZoneofTech
+  },
+  {
+    ClassInstanceId: 7,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Don’t know/Can’t Remember
+  },
+  {
+    ClassInstanceId: 9,
+    Name: TA Tech Tips
+  },
+  {
+    ClassInstanceId: 10,
+    Name: ASBYT
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Pete Matheson
+  },
+  {
+    ClassInstanceId: 12,
+    Name: BA Lover of Tech
+  },
+  {
+    ClassInstanceId: 13,
+    Name: GadgetsBoy
+  },
+  {
+    ClassInstanceId: 14,
+    Name: What Gear Reviews
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Alex Gear & Tech
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Proper Honest Tech
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Mark Ellis Reviews
+  }
+]

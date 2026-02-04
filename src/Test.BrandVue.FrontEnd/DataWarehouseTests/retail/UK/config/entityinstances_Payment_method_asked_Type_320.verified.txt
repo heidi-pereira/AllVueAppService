@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Payment Method (Base Payment_method_asked)
+  }
+]

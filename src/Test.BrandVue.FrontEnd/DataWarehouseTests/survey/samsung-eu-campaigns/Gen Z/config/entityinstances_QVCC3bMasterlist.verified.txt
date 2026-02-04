@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: I hate it|I  love it|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: I hate it|I  love it|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 18,
+    Name: I hate it|I  love it|Philips|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: I hate it|I  love it|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: I hate it|I  love it|Aeg|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: I hate it|I  love it|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 38,
+    Name: I hate it|I  love it|Dyson|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: I hate it|I  love it|Electrolux|Neutral|
+  },
+  {
+    ClassInstanceId: 70,
+    Name: I hate it|I  love it|Rowenta|Neutral|
+  },
+  {
+    ClassInstanceId: 71,
+    Name: I hate it|I  love it|Shark|Neutral|
+  },
+  {
+    ClassInstanceId: 72,
+    Name: I hate it|I  love it|Vax|Neutral|
+  },
+  {
+    ClassInstanceId: 73,
+    Name: I hate it|I  love it|MI|Neutral|
+  },
+  {
+    ClassInstanceId: 74,
+    Name: I hate it|I  love it|Cecotec|Neutral|
+  },
+  {
+    ClassInstanceId: 75,
+    Name: I hate it|I  love it|Bissell|Neutral|
+  },
+  {
+    ClassInstanceId: 76,
+    Name: I hate it|I  love it|Roidmi|Neutral|
+  },
+  {
+    ClassInstanceId: 77,
+    Name: I hate it|I  love it|Leifheit|Neutral|
+  },
+  {
+    ClassInstanceId: 78,
+    Name: I hate it|I  love it|Tefal|Neutral|
+  }
+]

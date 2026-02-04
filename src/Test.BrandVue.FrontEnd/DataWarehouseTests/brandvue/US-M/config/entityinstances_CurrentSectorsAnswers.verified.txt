@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personal luxury goods
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Automotive
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Media
+  },
+  {
+    ClassInstanceId: 4,
+    Name: FMCG
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Beauty & personal care
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Home & Technology
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Leisure & Recreation
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Travel & Transport
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Home Services
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Purchased in-person
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Purchased online
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Purchased by mail order / catalogue
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

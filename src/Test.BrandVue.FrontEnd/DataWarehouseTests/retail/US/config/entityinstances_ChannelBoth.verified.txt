@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In-store
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Online
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Both In-store and Online
+  }
+]

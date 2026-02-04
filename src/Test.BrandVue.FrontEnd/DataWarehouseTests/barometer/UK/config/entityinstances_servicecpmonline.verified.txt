@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 8,
+    Name: The return / refund policy
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Product reviews
+  },
+  {
+    ClassInstanceId: 11,
+    Name: The images and videos of the products
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Text description of products
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Personalized customer service (i.e. through live chat or emails)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Delivery options (deliver to home / work, or collect in-store)
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Shipping cost / speed
+  },
+  {
+    ClassInstanceId: 16,
+    Name: How easy it was to navigate or search the site / find the sort of items you wanted to browse
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Checkout process / payment options
+  },
+  {
+    ClassInstanceId: 18,
+    Name: How closely the products resembled what you were expecting when they arrived
+  }
+]

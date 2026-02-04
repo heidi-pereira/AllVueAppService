@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Company>Savanta Group Ltd.</Company>
+    <Product>DashboardBuilder.BrandVueBuilder</Product>
+    <Copyright>Copyright © Savanta Group Ltd. 2020</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DashboardMetadataBuilder\DashboardMetadataBuilder.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="18.12.0" />
+    <PackageReference Include="morelinq" Version="3.3.2" />
+  </ItemGroup>
+</Project>

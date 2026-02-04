@@ -1,0 +1,430 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Is better than other phones
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Has the wow factor to impress you or your friends
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Order it / pre-order it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Gives you space to do more
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Enables you to do things you love in new ways
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Has a versatile screen
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Is water-resistant
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Is their toughest phone yet
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Folds flat
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Folds up
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Has double the screen size like a tablet
+  },
+  {
+    ClassInstanceId: 12,
+    Name: You can draw on the screen
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Is easier to use
+  },
+  {
+    ClassInstanceId: 14,
+    Name: You can do more things than with other phones
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Has professional grade camera quality
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Make nights epic with nightography
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Has built in S Pen
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Low light and portrait photography
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Faster wired charging
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Can write on the screen
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Faster processing
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Be yourself with Samsung
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Connecting you to your world
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Live better with Samsung
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Empowers you to do more
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Your Galaxy, your way
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Has a flex camera
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Is great for multitasking
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Fits in your pocket / bag
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Have the best camera in your social circle
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Share epic photos with friends
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Level up your game with Samsung’s fastest processors yet
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Keep gaming for longer with great battery
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Epic mobile gaming
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Level up your game with Samsung’s fastest processors yet (106)
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Your Privacy. Secured.
+  },
+  {
+    ClassInstanceId: 108,
+    Name: With Knox, you are the only key to your personal data
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Powerful password protection with Knox Vault
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Your financial and personal data encrypted with Knox Vault
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Irresistible design that will get stuck in your head
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Great for taking photos of you and your friends
+  },
+  {
+    ClassInstanceId: 113,
+    Name: Hands free entertainment with its versatile design
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Flip phones are worth switching brand for
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Samsung flip phones are a game changer
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Join the flip side with Samsung
+  },
+  {
+    ClassInstanceId: 117,
+    Name: A phone that’s a fashion statement
+  },
+  {
+    ClassInstanceId: 118,
+    Name: A phone to have fun with
+  },
+  {
+    ClassInstanceId: 119,
+    Name: A big screen you can take with you
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Uninterrupted experience by connecting the phone to other screens
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Flip phones are worth switching brand for (121)
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Has a flex camera (122)
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Easily communicate with anyone using AI Live Translate
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Galaxy AI is here
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Make nights epic with nightography zoom
+  },
+  {
+    ClassInstanceId: 126,
+    Name: Easily find anything online with AI Circle to Search
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Life opens up with Galaxy AI
+  },
+  {
+    ClassInstanceId: 128,
+    Name: A New Era of Samsung AI TV
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Watch any piece of content in 8K, thanks to upscaling
+  },
+  {
+    ClassInstanceId: 130,
+    Name: The AI features provide a whole new viewing experience
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Elevates my experience watching live sports
+  },
+  {
+    ClassInstanceId: 132,
+    Name: Makes working out at home more enjoyable
+  },
+  {
+    ClassInstanceId: 133,
+    Name: Allows me to become fully immersed in what I watch
+  },
+  {
+    ClassInstanceId: 134,
+    Name: Provides the best TV experience ever
+  },
+  {
+    ClassInstanceId: 136,
+    Name: Willkommen zu BESPOKE AI
+  },
+  {
+    ClassInstanceId: 137,
+    Name: Lass AI bei dir einziehen
+  },
+  {
+    ClassInstanceId: 138,
+    Name: Einfach dein Style
+  },
+  {
+    ClassInstanceId: 139,
+    Name: AInfach mehr Energie sparen
+  },
+  {
+    ClassInstanceId: 140,
+    Name: AInfach mehr Energieeffizienz
+  },
+  {
+    ClassInstanceId: 141,
+    Name: AInfach smart Leben
+  },
+  {
+    ClassInstanceId: 142,
+    Name: Open Always Wins
+  },
+  {
+    ClassInstanceId: 143,
+    Name: Open new possibilities with Samsung
+  },
+  {
+    ClassInstanceId: 144,
+    Name: Open more ways to connect with Samsung
+  },
+  {
+    ClassInstanceId: 145,
+    Name: Samsung inspires me to try new things
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Samsung is a brand that represents openness
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Samsung is an Olympic sponsor
+  },
+  {
+    ClassInstanceId: 148,
+    Name: Allows you to be more productive
+  },
+  {
+    ClassInstanceId: 149,
+    Name: Achieves things that non-folding phones can’t
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Samsung are leaders in smartphone innovation
+  },
+  {
+    ClassInstanceId: 151,
+    Name: AI offers enhanced camera experience
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Everyday life is transformed with Galaxy AI
+  },
+  {
+    ClassInstanceId: 154,
+    Name: AI Now Brief allows you to spend more time on what matters
+  },
+  {
+    ClassInstanceId: 155,
+    Name: Easily use AI to work across Apps in your smartphone
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Data is private & secure with Galaxy AI
+  },
+  {
+    ClassInstanceId: 157,
+    Name: A true AI companion
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Has a new AI voice assistant
+  },
+  {
+    ClassInstanceId: 159,
+    Name: Has voice control to allow you to work within Apps
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Samsung Vision AI is transforming how I interact with TVs
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Samsung Vision AI brings picture quality to the next level
+  },
+  {
+    ClassInstanceId: 162,
+    Name: Samsung Vision AI allows me to enjoy TVs even more
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Samsung Vision AI is hassle-free and ultra-convenient
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Samsung provides 7 years of free upgrades so my TV gets better every year
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Samsung Vision AI acts a helpful companion
+  },
+  {
+    ClassInstanceId: 166,
+    Name: Samsung Vision AI is innovative and will improve how I consume TV
+  },
+  {
+    ClassInstanceId: 167,
+    Name: AI simplifies your home life
+  },
+  {
+    ClassInstanceId: 168,
+    Name: Everyday life is transformed with Bespoke AI
+  },
+  {
+    ClassInstanceId: 169,
+    Name: Bespoke AI products can take care of everything
+  },
+  {
+    ClassInstanceId: 170,
+    Name: Bespoke AI allows you to spend more time on what matters
+  },
+  {
+    ClassInstanceId: 171,
+    Name: AI Vision can identify what’s in your fridge and suggest adapted recipes
+  },
+  {
+    ClassInstanceId: 172,
+    Name: Bespoke AI laundry can determine the best cycle in autonomy
+  },
+  {
+    ClassInstanceId: 173,
+    Name: The vacuum cleaner detects the kind of floor thanks to AI Mode
+  },
+  {
+    ClassInstanceId: 174,
+    Name: The new Samsung device is Ultra sleek
+  },
+  {
+    ClassInstanceId: 175,
+    Name: Samsung smartphones have a strong design focus
+  },
+  {
+    ClassInstanceId: 176,
+    Name: Everyday life is transformed with Galaxy AI (176)
+  },
+  {
+    ClassInstanceId: 177,
+    Name: Innovation is at the forefront of Samsung’s products
+  },
+  {
+    ClassInstanceId: 178,
+    Name: The new Samsung device is Ultra powerful
+  },
+  {
+    ClassInstanceId: 179,
+    Name: Ultra Unfolds
+  }
+]

@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Insurance providers
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Price comparison websites
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Banks
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Life insurance and Protection
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Credit cards
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Loans
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Mortgages
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Pensions and Investments
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Credit monitoring services
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Breakdown cover (for cars)
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Methods to pay for goods and services or pay individuals
+  }
+]

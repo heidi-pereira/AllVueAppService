@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fully electric vehicle (e.g. car or van)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Hybrid electric vehicle (plug-in or self-charging)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Solar panels
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Electric heat pump to heat the property
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Solar thermal heating system for hot water
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Biomass boiler (a boiler that runs on wood pellets, chips or logs)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: A smart meter (an energy meter that sends readings to your supplier automatically, without you having to take readings)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: A smart thermostat or other smart heating system (e.g. Nest, Hive)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: A home voice assistant (e.g. Alexa or Google Assistant)
+  }
+]

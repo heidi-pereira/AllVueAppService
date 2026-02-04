@@ -1,0 +1,498 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 3001,
+    Name: Absolute Radio
+  },
+  {
+    ClassInstanceId: 3002,
+    Name: ALL4
+  },
+  {
+    ClassInstanceId: 3003,
+    Name: Amazon Music
+  },
+  {
+    ClassInstanceId: 3004,
+    Name: Amazon Prime Video
+  },
+  {
+    ClassInstanceId: 3005,
+    Name: Apple Music
+  },
+  {
+    ClassInstanceId: 3006,
+    Name: Apple TV
+  },
+  {
+    ClassInstanceId: 3007,
+    Name: Audible
+  },
+  {
+    ClassInstanceId: 3008,
+    Name: Auto Express
+  },
+  {
+    ClassInstanceId: 3009,
+    Name: Badoo
+  },
+  {
+    ClassInstanceId: 3010,
+    Name: BBC
+  },
+  {
+    ClassInstanceId: 3011,
+    Name: BBC 6 Music
+  },
+  {
+    ClassInstanceId: 3012,
+    Name: BBC Good Food
+  },
+  {
+    ClassInstanceId: 3013,
+    Name: BBC iPlayer
+  },
+  {
+    ClassInstanceId: 3014,
+    Name: BBC Radio 1
+  },
+  {
+    ClassInstanceId: 3015,
+    Name: BBC Radio 2
+  },
+  {
+    ClassInstanceId: 3016,
+    Name: BBC Radio 3
+  },
+  {
+    ClassInstanceId: 3017,
+    Name: BBC Radio 4
+  },
+  {
+    ClassInstanceId: 3018,
+    Name: BBC Radio 5Live
+  },
+  {
+    ClassInstanceId: 3019,
+    Name: Bloomberg
+  },
+  {
+    ClassInstanceId: 3020,
+    Name: BritBox
+  },
+  {
+    ClassInstanceId: 3021,
+    Name: TNT Sport (formerly BT Sport)
+  },
+  {
+    ClassInstanceId: 3022,
+    Name: Capital FM
+  },
+  {
+    ClassInstanceId: 3023,
+    Name: Channel 4
+  },
+  {
+    ClassInstanceId: 3024,
+    Name: Channel 5
+  },
+  {
+    ClassInstanceId: 3025,
+    Name: City A.M.
+  },
+  {
+    ClassInstanceId: 3026,
+    Name: Classic FM
+  },
+  {
+    ClassInstanceId: 3027,
+    Name: Conde Nast Traveller
+  },
+  {
+    ClassInstanceId: 3028,
+    Name: Cosmopolitan
+  },
+  {
+    ClassInstanceId: 3029,
+    Name: Daily Express
+  },
+  {
+    ClassInstanceId: 3030,
+    Name: Daily Mail
+  },
+  {
+    ClassInstanceId: 3031,
+    Name: Daily Mirror
+  },
+  {
+    ClassInstanceId: 3032,
+    Name: Daily Star
+  },
+  {
+    ClassInstanceId: 3033,
+    Name: Deezer
+  },
+  {
+    ClassInstanceId: 3034,
+    Name: Disney+
+  },
+  {
+    ClassInstanceId: 3035,
+    Name: Economist
+  },
+  {
+    ClassInstanceId: 3036,
+    Name: eHarmony
+  },
+  {
+    ClassInstanceId: 3037,
+    Name: Elle
+  },
+  {
+    ClassInstanceId: 3038,
+    Name: Empire
+  },
+  {
+    ClassInstanceId: 3039,
+    Name: Esquire
+  },
+  {
+    ClassInstanceId: 3040,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 3041,
+    Name: Gardeners' World
+  },
+  {
+    ClassInstanceId: 3042,
+    Name: GB News
+  },
+  {
+    ClassInstanceId: 3043,
+    Name: Glamour Magazine
+  },
+  {
+    ClassInstanceId: 3044,
+    Name: Good Housekeeping
+  },
+  {
+    ClassInstanceId: 3045,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 3046,
+    Name: GQ
+  },
+  {
+    ClassInstanceId: 3047,
+    Name: Grazia
+  },
+  {
+    ClassInstanceId: 3048,
+    Name: Heart FM
+  },
+  {
+    ClassInstanceId: 3049,
+    Name: Heat Magazine
+  },
+  {
+    ClassInstanceId: 3050,
+    Name: Hello
+  },
+  {
+    ClassInstanceId: 3051,
+    Name: Hits Radio
+  },
+  {
+    ClassInstanceId: 3052,
+    Name: Huffington Post
+  },
+  {
+    ClassInstanceId: 3053,
+    Name: Instagram
+  },
+  {
+    ClassInstanceId: 3054,
+    Name: ITV
+  },
+  {
+    ClassInstanceId: 3055,
+    Name: ITV X
+  },
+  {
+    ClassInstanceId: 3056,
+    Name: Kiss Radio
+  },
+  {
+    ClassInstanceId: 3057,
+    Name: LBC
+  },
+  {
+    ClassInstanceId: 3058,
+    Name: LinkedIn
+  },
+  {
+    ClassInstanceId: 3059,
+    Name: The London Standard
+  },
+  {
+    ClassInstanceId: 3060,
+    Name: Magic
+  },
+  {
+    ClassInstanceId: 3061,
+    Name: Marie Claire
+  },
+  {
+    ClassInstanceId: 3062,
+    Name: Match
+  },
+  {
+    ClassInstanceId: 3063,
+    Name: Men's Health
+  },
+  {
+    ClassInstanceId: 3064,
+    Name: Metro
+  },
+  {
+    ClassInstanceId: 3065,
+    Name: Microsoft Teams
+  },
+  {
+    ClassInstanceId: 3066,
+    Name: MTV
+  },
+  {
+    ClassInstanceId: 3067,
+    Name: Netflix
+  },
+  {
+    ClassInstanceId: 3068,
+    Name: New Statesman
+  },
+  {
+    ClassInstanceId: 3069,
+    Name: Now TV
+  },
+  {
+    ClassInstanceId: 3070,
+    Name: Pinterest
+  },
+  {
+    ClassInstanceId: 3071,
+    Name: Radio Times
+  },
+  {
+    ClassInstanceId: 3072,
+    Name: Reddit
+  },
+  {
+    ClassInstanceId: 3073,
+    Name: Sky TV
+  },
+  {
+    ClassInstanceId: 3074,
+    Name: Smooth FM
+  },
+  {
+    ClassInstanceId: 3075,
+    Name: Snapchat
+  },
+  {
+    ClassInstanceId: 3076,
+    Name: Spectator
+  },
+  {
+    ClassInstanceId: 3077,
+    Name: Spotify
+  },
+  {
+    ClassInstanceId: 3078,
+    Name: talkRADIO
+  },
+  {
+    ClassInstanceId: 3079,
+    Name: TalkSport
+  },
+  {
+    ClassInstanceId: 3080,
+    Name: Tatler
+  },
+  {
+    ClassInstanceId: 3081,
+    Name: The Daily Telegraph
+  },
+  {
+    ClassInstanceId: 3082,
+    Name: The Economist
+  },
+  {
+    ClassInstanceId: 3083,
+    Name: The Financial Times
+  },
+  {
+    ClassInstanceId: 3084,
+    Name: The Guardian
+  },
+  {
+    ClassInstanceId: 3085,
+    Name: The Herald
+  },
+  {
+    ClassInstanceId: 3086,
+    Name: The i Paper
+  },
+  {
+    ClassInstanceId: 3087,
+    Name: The Scotsman
+  },
+  {
+    ClassInstanceId: 3088,
+    Name: The Sun
+  },
+  {
+    ClassInstanceId: 3089,
+    Name: The Times
+  },
+  {
+    ClassInstanceId: 3090,
+    Name: The Week
+  },
+  {
+    ClassInstanceId: 3091,
+    Name: Tidal
+  },
+  {
+    ClassInstanceId: 3092,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 3093,
+    Name: Time Out
+  },
+  {
+    ClassInstanceId: 3094,
+    Name: Times Radio
+  },
+  {
+    ClassInstanceId: 3095,
+    Name: Tinder
+  },
+  {
+    ClassInstanceId: 3096,
+    Name: Top Gear Magazine
+  },
+  {
+    ClassInstanceId: 3097,
+    Name: TV Choice
+  },
+  {
+    ClassInstanceId: 3098,
+    Name: TV Times
+  },
+  {
+    ClassInstanceId: 3099,
+    Name: Twitch
+  },
+  {
+    ClassInstanceId: 3100,
+    Name: X - formerly known as Twitter
+  },
+  {
+    ClassInstanceId: 3101,
+    Name: Vanity Fair
+  },
+  {
+    ClassInstanceId: 3102,
+    Name: Virgin Media
+  },
+  {
+    ClassInstanceId: 3103,
+    Name: Virgin Radio
+  },
+  {
+    ClassInstanceId: 3104,
+    Name: Viz
+  },
+  {
+    ClassInstanceId: 3105,
+    Name: Vogue
+  },
+  {
+    ClassInstanceId: 3106,
+    Name: WeChat
+  },
+  {
+    ClassInstanceId: 3107,
+    Name: What's on TV
+  },
+  {
+    ClassInstanceId: 3108,
+    Name: WhatsApp
+  },
+  {
+    ClassInstanceId: 3109,
+    Name: Wired
+  },
+  {
+    ClassInstanceId: 3110,
+    Name: Women's Health
+  },
+  {
+    ClassInstanceId: 3111,
+    Name: Yahoo!
+  },
+  {
+    ClassInstanceId: 3112,
+    Name: YouTube
+  },
+  {
+    ClassInstanceId: 3113,
+    Name: Zoom
+  },
+  {
+    ClassInstanceId: 3114,
+    Name: Threads
+  },
+  {
+    ClassInstanceId: 3115,
+    Name: Vice
+  },
+  {
+    ClassInstanceId: 3116,
+    Name: Joe
+  },
+  {
+    ClassInstanceId: 3117,
+    Name: LADbible
+  },
+  {
+    ClassInstanceId: 3118,
+    Name: Bumble
+  },
+  {
+    ClassInstanceId: 3119,
+    Name: Hinge
+  },
+  {
+    ClassInstanceId: 3120,
+    Name: GAMINGbible
+  },
+  {
+    ClassInstanceId: 3121,
+    Name: SPORTbible
+  },
+  {
+    ClassInstanceId: 3122,
+    Name: UNILAD
+  },
+  {
+    ClassInstanceId: 3123,
+    Name: Sky Sports
+  }
+]

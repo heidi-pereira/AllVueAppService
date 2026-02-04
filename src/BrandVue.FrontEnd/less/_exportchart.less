@@ -1,0 +1,187 @@
+﻿.export-image {
+    background-color: @white;
+
+    .main-chart {
+        height: 500px;
+    }
+
+    .chart-container {
+        border: none;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .sampleN {
+        font-size: 11px;
+    }
+
+    .title-and-chart {
+        width: 100%;
+        padding: 0;
+    }
+
+    #introtext {
+        display: none;
+    }
+
+    #chartControls .date-and-buttons {
+        margin-bottom: 0.85rem
+    }
+
+    .content-scroll-template {
+        height: auto;
+    }
+
+    .row {
+        margin: 0;
+    }
+}
+
+.export-image .not-exported {
+    display: none!important;
+}
+
+.export-image {
+    .cols2rows3 {
+        margin: 0 20px;
+    }
+}
+
+.export-image .funnel-page .funnel-result-row .cols3 {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.export-image .scorecardControl--vspeers.single-page-exportable {
+    .peerTable, .activeTable {
+        th, td {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+
+        .brand-name {
+            flex-direction: column-reverse;
+            font-size: 14px;
+            height: 100px;
+            white-space: break-spaces;
+            text-align: center;
+            justify-content: flex-start;
+            padding-left: 0;
+            padding-right: 0;
+
+            .brand-color-circle {
+                margin: 0 auto;
+            }
+        }
+
+        .value-cell > *:not(:last-child) {
+            margin-right: 0.3rem;
+        }
+    }
+
+    .peerTable {
+        .table {
+            table-layout: fixed;
+        }
+    }
+}
+
+.export-image .scorecardControl--performance table:first-child {
+    table-layout: auto;
+   td.valueColumn, td.dataColumn{
+       width: 10%;
+       }
+}
+
+.export-image .scorecardControl table tbody tr > td:first-of-type a {
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+.export-image .table td {
+    padding: 1.25em;
+    }
+
+.export-image #reactApp {
+    overflow: hidden;
+    padding: 0;
+}
+
+.export-image .main {
+    padding: 0 32px;
+    height: unset;
+}
+
+.export-image .main > div {
+    margin-left: 0;
+}
+
+.export-image .filterDescriptions {
+    margin-left: 0;
+    margin-bottom: 0;
+
+    .filterLabel {
+        color: rgba(0,0,0,0.87);
+        font-weight: 500;
+    }
+
+    .filterPair {
+        margin: 3px;
+    }
+
+    .filterDescriptionValue {
+        font-weight: 500;
+    }
+}
+
+.export-image .sidePanel {
+    border: none;
+    margin: 0;
+    min-width: 100%;
+    padding-left: 15px;
+
+    .collapse {
+        display: block;
+    }
+
+    p {
+        display: inline-block;
+        padding-right: 8px;
+        padding-left: 0;
+        margin-bottom: 0;
+        margin-top: 20px;
+    }
+}
+
+body.export-image {
+    width: 1392px !important;
+    font-smooth: subpixel-antialiased;
+}
+
+body.export-image:after {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .export-image .main {
+        position: initial;
+        margin-left: 0;
+    }
+}
+
+.export-image .sampleWarning {
+    border-radius: inherit;
+    background: inherit;
+    padding: inherit;
+    vertical-align: inherit;
+    margin-bottom: inherit;
+    margin-left: inherit;
+}
+
+.export-image .sampleWarning::before {
+    content: "";
+    padding: 0;
+}
+
+.export-image .sampleWarning::after {
+    content: ":";
+}

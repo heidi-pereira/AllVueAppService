@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: SEG:C2DE (Base Consumer_segment)
+  }
+]

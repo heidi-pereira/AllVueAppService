@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Other retailers considered (Base Other_retailers_considered)
+  }
+]

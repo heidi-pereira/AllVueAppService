@@ -1,0 +1,86 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None in the last two weeks
+  },
+  {
+    ClassInstanceId: 1,
+    Name: BBC News
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Channel 4 News
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Daily Express / Sunday Express
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Daily Mail / Mail on Sunday
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Daily Mirror / Sunday Mirror
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Daily Record
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Daily Star
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Evening Standard
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Financial Times
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Guardian / The Observer
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Huffington Post
+  },
+  {
+    ClassInstanceId: 12,
+    Name: i News
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Independent
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Local News papers
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Metro
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Sky News
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Telegraph / Sunday Telegraph
+  },
+  {
+    ClassInstanceId: 18,
+    Name: The Sun / The Sun on Sunday
+  },
+  {
+    ClassInstanceId: 19,
+    Name: The Times / The Sunday Times
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Flat / apartment
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Terraced house
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Semi-detached house
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Detached house
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "name": "brandvuereporting",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build_reporting_vendor": "webpack --config webpack-reporting.config.vendor.js",
+    "build_typescript_api": "nswag run GenerateTypescriptApi.nswag.json /runtime:Net60",
+    "watch_reporting": "webpack --watch --config webpack-reporting.config.js",
+    "build_reporting": "webpack --config webpack-reporting.config.js",
+    "publish": "dotnet publish -o ..\\published"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.1",
+    "@types/history": "4.6.0",
+    "@types/moment": "2.13.0",
+    "@types/query-string": "5.1.0",
+    "@types/react": "^16.14.29",
+    "@types/react-dom": "16.8.5",
+    "@types/react-hot-loader": "3.0.3",
+    "@types/react-router": "4.0.27",
+    "@types/react-router-dom": "4.2.2",
+    "@types/reactstrap": "6.0.0",
+    "@types/webpack-env": "1.13.0",
+    "awesome-typescript-loader": "5.2.0",
+    "css-loader": "6.6.0",
+    "css-minimizer-webpack-plugin": "^3.4.1",
+    "file-loader": "6.2.0",
+    "json-loader": "0.5.7",
+    "less": "4.1.3",
+    "less-loader": "11.1.0",
+    "material-icons": "^0.2.0",
+    "mini-css-extract-plugin": "2.5.3",
+    "nswag": "13.18.2",
+    "terser-webpack-plugin": "^5.3.1",
+    "typescript": "2.9.1",
+    "url-loader": "4.1.1",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-middleware": "5.3.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "es6-promise": "^4.2.4",
+    "event-source-polyfill": "0.0.9",
+    "file-saver": "^2.0.2",
+    "font-awesome": "4.7.0",
+    "history": "4.7.2",
+    "isomorphic-fetch": "^3.0.0",
+    "jquery": "^3.5.1",
+    "jquery-validation": "1.19.5",
+    "jquery-validation-unobtrusive": "3.2.6",
+    "moment": "2.29.4",
+    "query-string": "5.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "4.3.1",
+    "react-ultimate-pagination-bootstrap-4": "1.1.0",
+    "reactstrap": "^8.10.1"
+  },
+  "-vs-binding": {
+    "ProjectOpened": [
+      "watch_reporting"
+    ]
+  }
+}

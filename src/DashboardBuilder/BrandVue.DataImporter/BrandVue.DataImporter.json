@@ -1,0 +1,40 @@
+{
+  "DataImporterSettings": {
+    "ConnectionString": "Server=.\\sql2017;Trusted_Connection=True;",
+    "DataLocation": "C:\\brandvuedata\\{ProductName}\\data",
+    "ConfigLocation": "C:\\brandvuedata\\{ProductName}\\config",
+    "BackupLocation": "C:\\brandvuedata\\backups",
+    "ImportLocation": "C:\\brandvuedata\\import",
+    "Environment": "", 
+    "SqlMaxDop": 0,
+    "BulkBatchSize": 1048576,
+    "BulkMaxExceptions": 1000,
+    "UseBackgroundTasks":  "true",
+    "ColumnOverrides": {
+      "id": "BIGINT",
+      "brandid": "INT",
+      "segid": "INT",
+      //"Instore_spend": "INT",
+      //"Online_spend": "INT",
+      "Household_Income": "INT",
+      "Personal_Income": "INT",
+      "Disposable_income": "INT",
+      //"Time_spent_yesterday": "INT",
+      "StartTime": "DATETIME",
+      "IsSurveyComplete": "VARCHAR(10)",
+      //"Last_month_financial1": "INT",
+      //"Last_month_financial2": "INT",
+      //"Last_month_financial3": "INT",
+      //"Last_month_financial4": "INT",
+      //"Last_month_financial5": "INT",
+      //"Last_month_financial6": "INT",
+      //"Last_month_financial7": "INT",
+      //"Last_month_financial8": "INT",
+      //"Direct_debit_amount": "INT",
+      //"Fundraising_support_amount": "INT",
+      //"Individual_amount": "INT",
+      //"Fundraising_amount": "INT",
+      "Personal Income":  "INT" // Aspen
+    }
+  }
+}

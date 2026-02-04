@@ -1,0 +1,342 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Abercrombie and Fitch
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Adidas
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Aldo
+  },
+  {
+    ClassInstanceId: 7,
+    Name: American Eagle
+  },
+  {
+    ClassInstanceId: 11,
+    Name: ASOS
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Banana Republic
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Boohoo
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Clarks
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Converse
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Diesel
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Forever 21
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Gap
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Guess
+  },
+  {
+    ClassInstanceId: 41,
+    Name: H&M
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Hollister
+  },
+  {
+    ClassInstanceId: 48,
+    Name: J Crew
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Levis
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Mango
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Nike
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Primark
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Ralph Lauren
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Reiss
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Skechers
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Superdry
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Ted Baker
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Timberland
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Tommy Hilfiger
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Ugg
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Uniqlo
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Urban Outfitters
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Zara
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 138,
+    Name: Calvin Klein
+  },
+  {
+    ClassInstanceId: 144,
+    Name: Club Monaco
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Columbia
+  },
+  {
+    ClassInstanceId: 149,
+    Name: Dicks Sporting Goods
+  },
+  {
+    ClassInstanceId: 152,
+    Name: DSW
+  },
+  {
+    ClassInstanceId: 154,
+    Name: Express
+  },
+  {
+    ClassInstanceId: 162,
+    Name: JCPenney
+  },
+  {
+    ClassInstanceId: 167,
+    Name: Kohl's
+  },
+  {
+    ClassInstanceId: 168,
+    Name: L.L. Bean
+  },
+  {
+    ClassInstanceId: 169,
+    Name: Land's End
+  },
+  {
+    ClassInstanceId: 176,
+    Name: Lululemon
+  },
+  {
+    ClassInstanceId: 177,
+    Name: Macys
+  },
+  {
+    ClassInstanceId: 178,
+    Name: Madewell
+  },
+  {
+    ClassInstanceId: 179,
+    Name: Marshall's
+  },
+  {
+    ClassInstanceId: 183,
+    Name: New Balance
+  },
+  {
+    ClassInstanceId: 185,
+    Name: Nordstrom
+  },
+  {
+    ClassInstanceId: 186,
+    Name: Nordstrom Rack
+  },
+  {
+    ClassInstanceId: 187,
+    Name: The North Face
+  },
+  {
+    ClassInstanceId: 188,
+    Name: Old Navy
+  },
+  {
+    ClassInstanceId: 189,
+    Name: PacSun
+  },
+  {
+    ClassInstanceId: 190,
+    Name: Patagonia
+  },
+  {
+    ClassInstanceId: 192,
+    Name: Puma
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Reebok
+  },
+  {
+    ClassInstanceId: 198,
+    Name: Saks
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Target
+  },
+  {
+    ClassInstanceId: 208,
+    Name: TJ Maxx
+  },
+  {
+    ClassInstanceId: 211,
+    Name: Under Armour
+  },
+  {
+    ClassInstanceId: 214,
+    Name: Walmart
+  },
+  {
+    ClassInstanceId: 217,
+    Name: Zappos
+  },
+  {
+    ClassInstanceId: 233,
+    Name: ebay
+  },
+  {
+    ClassInstanceId: 235,
+    Name: Costco
+  },
+  {
+    ClassInstanceId: 236,
+    Name: Famous Footwear
+  },
+  {
+    ClassInstanceId: 263,
+    Name: Foot Locker
+  },
+  {
+    ClassInstanceId: 266,
+    Name: Finish Line
+  },
+  {
+    ClassInstanceId: 268,
+    Name: Canada Goose
+  },
+  {
+    ClassInstanceId: 272,
+    Name: Dr. Martens
+  },
+  {
+    ClassInstanceId: 298,
+    Name: ecco
+  },
+  {
+    ClassInstanceId: 299,
+    Name: GEOX
+  },
+  {
+    ClassInstanceId: 300,
+    Name: Depop
+  },
+  {
+    ClassInstanceId: 310,
+    Name: Shein
+  },
+  {
+    ClassInstanceId: 334,
+    Name: Vince
+  },
+  {
+    ClassInstanceId: 336,
+    Name: Aldo Shoes & Accessories
+  },
+  {
+    ClassInstanceId: 342,
+    Name: Asics
+  },
+  {
+    ClassInstanceId: 343,
+    Name: Champion
+  },
+  {
+    ClassInstanceId: 344,
+    Name: Vans
+  },
+  {
+    ClassInstanceId: 345,
+    Name: Wrangler
+  },
+  {
+    ClassInstanceId: 346,
+    Name: Allbirds
+  },
+  {
+    ClassInstanceId: 347,
+    Name: Hoka
+  },
+  {
+    ClassInstanceId: 348,
+    Name: Fitflop
+  },
+  {
+    ClassInstanceId: 349,
+    Name: Carhartt
+  },
+  {
+    ClassInstanceId: 350,
+    Name: Dickies
+  },
+  {
+    ClassInstanceId: 351,
+    Name: Birkenstock
+  },
+  {
+    ClassInstanceId: 354,
+    Name: Lee
+  }
+]

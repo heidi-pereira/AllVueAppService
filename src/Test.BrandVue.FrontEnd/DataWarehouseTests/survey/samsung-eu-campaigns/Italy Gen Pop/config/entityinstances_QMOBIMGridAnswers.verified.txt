@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I trust their product quality
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Leaders in phone cameras
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Great battery life
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Fast processing speeds
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Great screen quality
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Offers the screen sizes I want
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Easy to connect to other technology
+  },
+  {
+    ClassInstanceId: 8,
+    Name: There are benefits of owning more than one type of device from this brand
+  },
+  {
+    ClassInstanceId: 9,
+    Name: You get a lot for the price you pay
+  },
+  {
+    ClassInstanceId: 10,
+    Name: It's simple to buy
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Easy to understand the differences between each model they sell
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Great phone storage
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Ensures long lasting software updates
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Their phones are durable
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Ensures privacy and security
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Are stylish and innovative
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Is the best phone brand for gamers
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Has the best devices for monitoring my health & activity
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Has the best devices for tracking my sleep
+  }
+]

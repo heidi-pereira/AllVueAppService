@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Clothes / shoes
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Leather goods (e.g. handbags, briefcases)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Fashion accessories (e.g. sunglasses, scarves)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Jewellery & watches
+  }
+]

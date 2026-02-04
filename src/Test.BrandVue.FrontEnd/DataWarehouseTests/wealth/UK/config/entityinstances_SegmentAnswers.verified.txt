@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: P1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: P2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: P3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: P4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: P5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: P5_CATI
+  },
+  {
+    ClassInstanceId: 7,
+    Name: P7
+  },
+  {
+    ClassInstanceId: 8,
+    Name: P8
+  },
+  {
+    ClassInstanceId: 9,
+    Name: P9_CATI
+  }
+]

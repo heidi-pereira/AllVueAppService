@@ -1,0 +1,130 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Al Día Dallas
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Barron's
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Chicago Sun-Times
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Chicago Tribune
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Deseret News
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Detroit Free Press
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Detroit News
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Grand Rapids Press
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Investor's Business Daily
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Los Angeles Times
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Miami Herald
+  },
+  {
+    ClassInstanceId: 12,
+    Name: New York Daily News
+  },
+  {
+    ClassInstanceId: 13,
+    Name: New York Post
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Philadelphia Inquirer
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Seattle Times
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Star Tribune
+  },
+  {
+    ClassInstanceId: 17,
+    Name: The Boston Globe
+  },
+  {
+    ClassInstanceId: 18,
+    Name: The Dallas Morning News
+  },
+  {
+    ClassInstanceId: 19,
+    Name: The Epoch Times
+  },
+  {
+    ClassInstanceId: 20,
+    Name: The Hill
+  },
+  {
+    ClassInstanceId: 21,
+    Name: The Mercury News
+  },
+  {
+    ClassInstanceId: 22,
+    Name: The New York Times
+  },
+  {
+    ClassInstanceId: 23,
+    Name: The New York Times en Español
+  },
+  {
+    ClassInstanceId: 24,
+    Name: The Oregonian
+  },
+  {
+    ClassInstanceId: 25,
+    Name: The Plain Dealer
+  },
+  {
+    ClassInstanceId: 26,
+    Name: The Star-Ledger
+  },
+  {
+    ClassInstanceId: 27,
+    Name: The U.S. Sun
+  },
+  {
+    ClassInstanceId: 28,
+    Name: The Wall Street Journal
+  },
+  {
+    ClassInstanceId: 29,
+    Name: The Washington Post
+  },
+  {
+    ClassInstanceId: 30,
+    Name: USA Today
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

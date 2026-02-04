@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Capsule (Anker Nebula)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: CineBeam (LG)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: CinemaX (Optoma)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: NeoPix (Philips)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: PicoPix (Philips)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: PowerLite (Epson)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Screeneo (Philips)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Solar (Anker Nebula)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: The Freestyle (Samsung)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: The Premiere (Samsung)
+  },
+  {
+    ClassInstanceId: 11,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Laser TV (Hisense)
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Smart Projector (Xiaomi/MI)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Xgimi Halo Plus
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Xgimi, Mogo 2 Pro
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Xgimi, Horizon
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Hisense Cube
+  }
+]

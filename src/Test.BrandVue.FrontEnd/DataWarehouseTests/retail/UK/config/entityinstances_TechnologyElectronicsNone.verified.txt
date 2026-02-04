@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 401,
+    Name: Home entertainment technology e.g. TVs, speakers, Hi-Fi sound equipment
+  },
+  {
+    ClassInstanceId: 402,
+    Name: Small home appliances e.g. kettles, toasters, food processors, irons
+  },
+  {
+    ClassInstanceId: 403,
+    Name: Large home appliances e.g. cooker, freezer, washing machine, dishwashers, dryers, vacuum cleaners
+  },
+  {
+    ClassInstanceId: 404,
+    Name: Personal care electronics e.g. shavers, straighteners, hair dryers, dental care
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Mobile phones, tablets & e-readers this includes mobiles bought with or without a contract, tablets and e-readers
+  },
+  {
+    ClassInstanceId: 406,
+    Name: Computers and laptops e.g. desktop computers, laptops but excluding tablet computers, printers, scanners, data storage etc.
+  },
+  {
+    ClassInstanceId: 407,
+    Name: Electronic accessories e.g. headphones, USB sticks, portable chargers
+  },
+  {
+    ClassInstanceId: 408,
+    Name: Photographic equipment e.g. digital camera, 35mm camera, camcorder, etc.
+  }
+]

@@ -1,0 +1,31 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+
+.card {
+    .flex-row();
+
+    .lhhColumn {
+        font-size: 18px;
+        color: @slate;
+        margin-right: 10px;
+    }
+
+    .rhColumn {
+        .flex-column();
+    }
+
+    .title {
+        color: black;
+        font:bolder;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+    .about {
+        color:@slate;
+    }
+
+    margin-bottom: 20px
+}

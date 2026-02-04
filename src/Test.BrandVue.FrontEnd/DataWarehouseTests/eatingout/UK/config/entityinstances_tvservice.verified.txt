@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Freeview / Freeview Play (Free to air digital channels)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Freesat (Free to air channels via Satellite)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: BT
+  },
+  {
+    ClassInstanceId: 4,
+    Name: EE TV
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Sky
+  },
+  {
+    ClassInstanceId: 6,
+    Name: TalkTalk
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Virgin Media
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Netflix
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Sky Go
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Amazon Prime
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Now TV
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Disney+
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Paramount+
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Discovery+
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

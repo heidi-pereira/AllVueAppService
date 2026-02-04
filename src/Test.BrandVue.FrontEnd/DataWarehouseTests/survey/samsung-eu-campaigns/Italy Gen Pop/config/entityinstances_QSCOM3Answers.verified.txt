@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: On the Samsung.com website
+  },
+  {
+    ClassInstanceId: 2,
+    Name: By going to a physical retail store
+  },
+  {
+    ClassInstanceId: 3,
+    Name: On a retailer website
+  },
+  {
+    ClassInstanceId: 4,
+    Name: From online product reviews or articles
+  },
+  {
+    ClassInstanceId: 5,
+    Name: YouTube
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Other Social Media (e.g. Instagram, Facebook, TikTok)
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cancers that affect only women (e.g. ovarian cancer)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cancers that affect only men (e.g. prostate cancer, testicular cancer)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Cancers that affect men and women (e.g. lung cancer, bowel cancer, skin cancer etc.)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Childhood cancers
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Other childhood illnesses
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Miscarriages, stillbirths & neonatal deaths
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Premature and sick babies
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Sexual health
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Mental health
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Physical disabilities
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Learning difficulties and disabilities
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Blindness / visual impairment
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Strokes
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Heart diseases
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Dementia / Alzheimer’s
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Degenerative diseases / serious illnesses
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Terminal illnesses / end of life care
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Homelessness and poverty
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Veteran support
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Multiple sclerosis (MS)
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Diabetes
+  }
+]

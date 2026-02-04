@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: High managerial, administrative or professional e.g. doctor, lawyer, medium / large company director (50+ people)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Intermediate managerial, administrative or professional e.g. teacher, manager, accountant
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Supervisor, administrative or professional e.g. policeman, nurse, secretary, self-employed
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Skilled manual worker e.g. mechanic, plumber, electrician, lorry driver, train driver
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Semi-skilled or unskilled manual worker e.g. waiter, factory worker, receptionist, labourer
+  },
+  {
+    ClassInstanceId: 6,
+    Name: House-wife / house-husband
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Unemployed
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Student
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Retired
+  }
+]

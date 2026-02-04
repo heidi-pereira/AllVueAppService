@@ -1,0 +1,154 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Wide menu choice
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Healthy food options
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Regularly changing menu
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Generous portions
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Specific dishes I like
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Product freshness
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Caters for dietary needs
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Food is attractively priced
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Good quality / taste
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Loyalty programme
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Had a voucher / discount
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Like the meal deals
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Fast service
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Staff are always friendly
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Quick and easy to pay
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Staff are knowledgeable
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Good opening times
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Near to my  home or work
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Near to where I was at the time
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Convenient place to meet
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Good for children
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Good for disabled access
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Good Wi-Fi
+  },
+  {
+    ClassInstanceId: 24,
+    Name: You can book online
+  },
+  {
+    ClassInstanceId: 25,
+    Name: You can always get a seat
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Easy to park
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Music is just right
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Lively, buzzy atmosphere
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Quiet / good place to talk
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Relaxing atmosphere
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Absence of children
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Great spirits and cocktails
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Great coffee / hot drinks
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Great soft drinks
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Great wine list
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Great beers and ciders
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Drinks are attractively priced
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

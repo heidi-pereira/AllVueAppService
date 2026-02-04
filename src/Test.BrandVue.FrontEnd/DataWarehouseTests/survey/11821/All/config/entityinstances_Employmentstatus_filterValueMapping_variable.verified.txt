@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Full-time carer
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Employee
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Business owner (2-49 employees)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Business owner (50+ employees)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Self-employed
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Unemployed
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Retired
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Student
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Full-time home maker
+  }
+]

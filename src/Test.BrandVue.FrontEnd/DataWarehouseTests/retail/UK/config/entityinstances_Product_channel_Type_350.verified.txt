@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Product channel:Online, through their website (Base Product_channel)
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Favourite
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Second favourite
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Third favourite
+  }
+]

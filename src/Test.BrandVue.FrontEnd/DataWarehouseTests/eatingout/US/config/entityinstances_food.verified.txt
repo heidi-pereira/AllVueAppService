@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: I didn't buy any food
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Starter
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Main
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Side dish
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Dessert
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Light bite (savoury)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Light bite (sweet)
+  }
+]

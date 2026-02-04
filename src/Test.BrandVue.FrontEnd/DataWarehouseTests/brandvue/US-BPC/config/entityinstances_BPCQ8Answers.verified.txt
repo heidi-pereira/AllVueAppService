@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Condoms
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Personal lubricants
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Massage gels
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Intimate care products
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Sexual toys
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

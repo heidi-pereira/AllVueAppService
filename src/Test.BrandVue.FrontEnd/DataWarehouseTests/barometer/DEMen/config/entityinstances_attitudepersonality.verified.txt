@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fashion is a passion / pastime that allows me to express my creativity and individuality
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I enjoy discovering new fashion brands that align with my values
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I don’t find fashion shopping enjoyable so I don’t spend much time on it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I find the fashion industry to be size inclusive (petite, plus)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Family and friends often ask me for advice when they are deciding which brands or products to buy
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I find the fashion industry to be religion inclusive (modest wear)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I shop quickly, buying the first products I find that seem good enough
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I often don’t have a specific idea of what I want, I prefer to browse in the shop for inspiration
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I actively search for inspiration online on how to style myself (social media, retailers websites, etc)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: I tend to look for clothing options that are gender neutral / unisex
+  }
+]

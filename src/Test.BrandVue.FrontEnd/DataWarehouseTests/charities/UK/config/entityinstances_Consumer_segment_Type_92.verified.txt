@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Customer Unaddressed mail read:None of it (Base Consumer_segment)
+  }
+]

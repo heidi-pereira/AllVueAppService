@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Three bedrooms
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Five or more bedrooms
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Two bedrooms
+  },
+  {
+    ClassInstanceId: 3,
+    Name: One bedroom / Studio
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Four bedrooms
+  }
+]

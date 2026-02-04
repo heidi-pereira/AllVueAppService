@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Unimportant decision (Base Importance_of_decision)
+  }
+]

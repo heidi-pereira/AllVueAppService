@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: National news channels (E.g. BBC)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Friends and family
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Social media (E.g. Twitter, Facebook)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Local news channels, stations and websites
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Newsgroups and community websites
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Colleagues
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Your employer
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Brands and companies
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Research companies
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Politicians
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Official government advice (E.g. Chief Medical Officer / Chief Medical Advisor)
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Doctors (GP and local health professionals, NHS direct, 111, etc.)
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Scientific experts
+  }
+]

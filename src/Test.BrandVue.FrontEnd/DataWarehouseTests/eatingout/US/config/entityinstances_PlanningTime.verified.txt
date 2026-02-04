@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: As I passed by
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A few minutes before
+  },
+  {
+    ClassInstanceId: 3,
+    Name: An hour or so before
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Earlier that day
+  },
+  {
+    ClassInstanceId: 5,
+    Name: The day before
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Longer ago
+  }
+]

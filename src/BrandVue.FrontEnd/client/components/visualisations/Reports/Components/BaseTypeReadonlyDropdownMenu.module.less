@@ -1,0 +1,92 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.dropdown {
+    .toggle {
+        border: 1px solid @blueSteel;
+
+        &:hover {
+            border: 1px solid @blueSteel-light;
+        }
+    }
+
+    .dropdownMenu {
+        width: 200px;
+        overflow-y: revert;
+        transition: width .25s;
+
+        &.expand {
+            width: 400px;
+        }
+
+        .menuPanes {
+            display: grid;
+            grid-template:
+                "mainPane subPane" 1fr / 190px 1fr;
+
+            .mainPane, .subPane {
+                max-height: 280px;
+
+                @media (max-height: 800px) {
+                    max-height: 230px;
+                }
+            }
+
+            .mainPane {
+                grid-area: mainPane;
+                display: inline-block;
+                overflow-y: auto;
+                .scrollbars;
+
+                .groupedItem {
+                    cursor: revert;
+
+                    &:active {
+                        pointer-events: none;
+                    }
+
+                    &:focus {
+                        background-color: unset;
+
+                        &:hover {
+                            background-color: #E2F1FD;
+                        }
+                    }
+                }
+            }
+
+            .subPane {
+                grid-area: subPane;
+                .flex-column;
+                width: 100%;
+                opacity: 0;
+                animation: fade-in .1s forwards;
+                animation-delay: .05s;
+
+                .itemList {
+                    overflow-y: auto;
+                    .scrollbars;
+                }
+            }
+        }
+    }
+}
+
+.search {
+    padding: 2px 12px;
+    margin: 2px 8px;
+
+    > input {
+        width: 100%;
+    }
+}

@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <Authors>MIG Global Ltd.</Authors>
+    <Description>Uses map files and the main incoming database to build the data used by dashboards</Description>
+    <PackageId>DashboardBuilder</PackageId>
+    <PackageProjectUrl>https://github.com/MIG-Global/DashboardBuilder</PackageProjectUrl>
+    <DebugType>full</DebugType>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Company>Savanta Group Ltd.</Company>
+    <Product>DashboardBuilder</Product>
+    <Copyright>Copyright © Savanta Group Ltd. 2020</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="18.12.0" />
+    <PackageReference Include="AWSSDK.Core" Version="3.7.0.4" />
+    <PackageReference Include="AWSSDK.S3" Version="3.7.0.4" />
+    <PackageReference Include="LevenshteinMinimumEditDistance" Version="1.2.0" />
+    <PackageReference Include="log4net" Version="2.0.12" />
+    <PackageReference Include="NConsolerStandard" Version="1.0.11" />
+    <PackageReference Include="OctoPack" Version="3.6.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Octopus.Client" Version="4.29.0" />
+    <PackageReference Include="Phonix" Version="1.0.2" />
+    <PackageReference Include="Savanta.Logging" Version="1.1.38" />
+    <ProjectReference Include="..\BrandVueBuilder\BrandVueBuilder.csproj" />
+    <ProjectReference Include="..\DashboardMetadataBuilder\DashboardMetadataBuilder.csproj" />
+    <ProjectReference Include="..\EgnyteClient\EgnyteClient.csproj" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="BuildAndPackage.ps1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Aspose.Total.lic">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

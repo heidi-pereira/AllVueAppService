@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: White British
+  },
+  {
+    ClassInstanceId: 2,
+    Name: White Other
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mixed / Multi
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Asian
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Black
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Chinese
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Other ethnic group
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Prefer not to answer
+  }
+]

@@ -1,0 +1,27 @@
+﻿{
+  DateTimeCreatedUtc: DateTime_1,
+  ErrorResponsesForThisSurveyAndWave: [],
+  ExcelFileName: null,
+  ExtraResponsesInExcel: [],
+  IsValid: false,
+  MaxWeight: null,
+  Messages: [
+    {
+      Message: Ignoring row 4 as data is not valid. ResponseId: '(null)' Weight:'0.5',
+      MessageType: ExcelIgnoringRow
+    },
+    {
+      Message: Ignoring row 5 as data is not valid. ResponseId: '1234' Weight:'(null)',
+      MessageType: ExcelIgnoringRow
+    }
+  ],
+  MinWeight: null,
+  NumberOfBytes: 2656,
+  NumberOfResponsesInDatabaseForThisSurveyAndWave: 0,
+  NumberOfResponsesMatched: 0,
+  NumberOfRows: 1048576,
+  NumberOfRowsInExcelIgnored: 3,
+  NumberOfValidRowsInExcel: 2,
+  SubsetId: All,
+  ValidWeights: null
+}

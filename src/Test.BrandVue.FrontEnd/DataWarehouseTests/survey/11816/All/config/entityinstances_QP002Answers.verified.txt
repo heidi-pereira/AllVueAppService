@@ -1,0 +1,254 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 4Seven
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 5 Spike
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 5 Star
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 5 USA
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Alibi
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Animal Planet
+  },
+  {
+    ClassInstanceId: 7,
+    Name: BBC 1
+  },
+  {
+    ClassInstanceId: 8,
+    Name: BBC 2
+  },
+  {
+    ClassInstanceId: 9,
+    Name: BBC 3
+  },
+  {
+    ClassInstanceId: 10,
+    Name: BBC 4
+  },
+  {
+    ClassInstanceId: 11,
+    Name: BBC News
+  },
+  {
+    ClassInstanceId: 12,
+    Name: BLAZE
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Bloomberg Television
+  },
+  {
+    ClassInstanceId: 14,
+    Name: TNT Sport (previously BT Sport)
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Cartoon Network
+  },
+  {
+    ClassInstanceId: 16,
+    Name: CBBC
+  },
+  {
+    ClassInstanceId: 17,
+    Name: CBeebies
+  },
+  {
+    ClassInstanceId: 18,
+    Name: CBS Justice
+  },
+  {
+    ClassInstanceId: 19,
+    Name: CBS Reality
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Challenge TV
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Channel 4
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Channel 5
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Comedy Central
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Dave
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Discovery
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Disney Junior
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Disney XD
+  },
+  {
+    ClassInstanceId: 28,
+    Name: DMAX
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Drama
+  },
+  {
+    ClassInstanceId: 30,
+    Name: E4
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Film4
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Food Network
+  },
+  {
+    ClassInstanceId: 33,
+    Name: G.O.L.D.
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Home
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Horror Channel
+  },
+  {
+    ClassInstanceId: 36,
+    Name: ITV 1
+  },
+  {
+    ClassInstanceId: 37,
+    Name: ITV 2
+  },
+  {
+    ClassInstanceId: 38,
+    Name: ITV 3
+  },
+  {
+    ClassInstanceId: 39,
+    Name: ITV 4
+  },
+  {
+    ClassInstanceId: 40,
+    Name: ITVBe
+  },
+  {
+    ClassInstanceId: 41,
+    Name: More4
+  },
+  {
+    ClassInstanceId: 42,
+    Name: MTV
+  },
+  {
+    ClassInstanceId: 43,
+    Name: National Geographic
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Pick TV
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Pop
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Quest
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Quest Red
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Really
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Sky 1
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Sky Arts
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Sky Atlantic
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Sky Cinema
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Sky Living
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Sky News
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Sky Sports
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Sky Witness
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Sony Movies
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Syfy
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Talking Pictures
+  },
+  {
+    ClassInstanceId: 60,
+    Name: W
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Yesterday
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

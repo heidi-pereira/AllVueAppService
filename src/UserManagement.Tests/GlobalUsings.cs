@@ -1,0 +1,9 @@
+global using System.Linq;
+global using NSubstitute;
+global using Microsoft.EntityFrameworkCore;
+global using BrandVue.EntityFramework.MetaData;
+global using BrandVue.EntityFramework.MetaData.Authorisation.UserFeaturePermissions;
+global using BrandVue.EntityFramework.MetaData.Authorisation.UserDataPermissions;
+global using BrandVue.EntityFramework.MetaData.Authorisation.UserDataPermissions.AllVue;
+global using UserManagement.BackEnd.Infrastructure.Repositories.UserFeaturePermissions;
+global using UserManagement.BackEnd.Infrastructure.Repositories.UserDataPermissions;

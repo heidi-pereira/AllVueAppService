@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: One of the best brands
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Better than most other brands
+  },
+  {
+    ClassInstanceId: 3,
+    Name: As good but not better
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not as good as other brands
+  },
+  {
+    ClassInstanceId: 100,
+    Name: I don't have an opinion of these brands
+  }
+]

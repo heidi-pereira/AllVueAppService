@@ -1,0 +1,214 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 7001,
+    Name: Adidas
+  },
+  {
+    ClassInstanceId: 7002,
+    Name: AMC
+  },
+  {
+    ClassInstanceId: 7003,
+    Name: Annie’s
+  },
+  {
+    ClassInstanceId: 7004,
+    Name: Asics
+  },
+  {
+    ClassInstanceId: 7005,
+    Name: Blink Fitness
+  },
+  {
+    ClassInstanceId: 7006,
+    Name: Bliss Spa
+  },
+  {
+    ClassInstanceId: 7007,
+    Name: Bowflex
+  },
+  {
+    ClassInstanceId: 7008,
+    Name: Brunswick
+  },
+  {
+    ClassInstanceId: 7009,
+    Name: Cabela's
+  },
+  {
+    ClassInstanceId: 7010,
+    Name: Clif
+  },
+  {
+    ClassInstanceId: 7011,
+    Name: Colonial Williamsburg
+  },
+  {
+    ClassInstanceId: 7012,
+    Name: Columbia
+  },
+  {
+    ClassInstanceId: 7013,
+    Name: Converse
+  },
+  {
+    ClassInstanceId: 7014,
+    Name: Crunch Gym
+  },
+  {
+    ClassInstanceId: 7015,
+    Name: Walt Disney Parks and Resorts
+  },
+  {
+    ClassInstanceId: 7016,
+    Name: Dockers
+  },
+  {
+    ClassInstanceId: 7017,
+    Name: Dr. Scholl's shoes
+  },
+  {
+    ClassInstanceId: 7018,
+    Name: Electronic Arts
+  },
+  {
+    ClassInstanceId: 7019,
+    Name: Fairway
+  },
+  {
+    ClassInstanceId: 7020,
+    Name: Flywheel Sports
+  },
+  {
+    ClassInstanceId: 7021,
+    Name: Gibson
+  },
+  {
+    ClassInstanceId: 7022,
+    Name: Go RVing (RV Tourism Board)
+  },
+  {
+    ClassInstanceId: 7023,
+    Name: Great Wolf Lodge
+  },
+  {
+    ClassInstanceId: 7024,
+    Name: GSN
+  },
+  {
+    ClassInstanceId: 7025,
+    Name: Hanes
+  },
+  {
+    ClassInstanceId: 7026,
+    Name: Hot Wheels
+  },
+  {
+    ClassInstanceId: 7027,
+    Name: John Deere
+  },
+  {
+    ClassInstanceId: 7028,
+    Name: K-Swiss
+  },
+  {
+    ClassInstanceId: 7029,
+    Name: LA Fitness
+  },
+  {
+    ClassInstanceId: 7030,
+    Name: Lululemon
+  },
+  {
+    ClassInstanceId: 7031,
+    Name: Mamba
+  },
+  {
+    ClassInstanceId: 7032,
+    Name: Nerf
+  },
+  {
+    ClassInstanceId: 7033,
+    Name: New Balance
+  },
+  {
+    ClassInstanceId: 7034,
+    Name: Nike
+  },
+  {
+    ClassInstanceId: 7035,
+    Name: Nordic Track
+  },
+  {
+    ClassInstanceId: 7036,
+    Name: Orange Theory
+  },
+  {
+    ClassInstanceId: 7037,
+    Name: Patagonia
+  },
+  {
+    ClassInstanceId: 7038,
+    Name: Peloton
+  },
+  {
+    ClassInstanceId: 7039,
+    Name: Planet Fitness
+  },
+  {
+    ClassInstanceId: 7040,
+    Name: PUMA
+  },
+  {
+    ClassInstanceId: 7041,
+    Name: Reebok
+  },
+  {
+    ClassInstanceId: 7042,
+    Name: Schwinn
+  },
+  {
+    ClassInstanceId: 7043,
+    Name: Six Flags
+  },
+  {
+    ClassInstanceId: 7044,
+    Name: Skechers
+  },
+  {
+    ClassInstanceId: 7045,
+    Name: SoulCycle
+  },
+  {
+    ClassInstanceId: 7046,
+    Name: Tappan
+  },
+  {
+    ClassInstanceId: 7047,
+    Name: The North Face
+  },
+  {
+    ClassInstanceId: 7048,
+    Name: Timberland
+  },
+  {
+    ClassInstanceId: 7049,
+    Name: Topgolf
+  },
+  {
+    ClassInstanceId: 7050,
+    Name: Under Armour
+  },
+  {
+    ClassInstanceId: 7051,
+    Name: Wilson Sporting Goods
+  },
+  {
+    ClassInstanceId: 7052,
+    Name: YETI
+  }
+]

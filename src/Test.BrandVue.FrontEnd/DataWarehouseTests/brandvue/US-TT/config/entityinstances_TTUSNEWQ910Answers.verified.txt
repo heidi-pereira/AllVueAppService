@@ -1,0 +1,62 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Adventure / Activity (e.g. sailing, trekking, climbing, etc)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: All-inclusive
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Beach
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Spa / Well-being Retreat
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Travel Trailer / Vacation Park
+  },
+  {
+    ClassInstanceId: 6,
+    Name: City
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Countryside / Rural
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Weekend break
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Luxury
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Cruise
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Ski / Winter Sports
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Camping / Glamping
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Travelling / Backpacking
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know / Can’t remember
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

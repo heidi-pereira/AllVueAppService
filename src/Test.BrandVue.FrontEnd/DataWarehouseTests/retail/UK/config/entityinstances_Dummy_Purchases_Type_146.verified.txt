@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dummy Purchases (Base Dummy_Purchases)
+  }
+]

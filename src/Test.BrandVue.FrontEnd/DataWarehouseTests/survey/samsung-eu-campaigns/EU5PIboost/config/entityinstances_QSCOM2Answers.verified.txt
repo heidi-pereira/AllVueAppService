@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Within the last 2 weeks
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 2 weeks to 1 month ago
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 1 to 2 months ago
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Longer than 2 months ago
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know/Can’t remember
+  }
+]

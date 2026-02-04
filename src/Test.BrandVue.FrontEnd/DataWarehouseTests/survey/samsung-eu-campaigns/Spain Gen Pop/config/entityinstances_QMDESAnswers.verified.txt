@@ -1,0 +1,74 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Central heating and/or cooling systems
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Dishwasher
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Energy metre
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Headphones/ear phones
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Home security/video doorbell
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Lights
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Oven
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Robot Vacuum Cleaner
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Smart Plugs
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sound bar/Speakers
+  },
+  {
+    ClassInstanceId: 11,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Baby monitor/childcare products
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Washing machine/dryer
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Monitor
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Bluetooth tracking devices (e.g. AirTag, SmartTag)
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 100,
+    Name: None of the above
+  }
+]

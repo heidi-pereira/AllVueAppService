@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Single width fridge with one full length door
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A single width, but split with fridge on top and freezer on the bottom
+  },
+  {
+    ClassInstanceId: 3,
+    Name: A large double size American style fridge
+  },
+  {
+    ClassInstanceId: 5,
+    Name: A French style fridge
+  },
+  {
+    ClassInstanceId: 6,
+    Name: A single width, but split with fridge at the bottom and freezer at the top
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: It has not been affected
+  },
+  {
+    ClassInstanceId: 1,
+    Name: It has decreased
+  },
+  {
+    ClassInstanceId: 2,
+    Name: It has increased
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I don’t know
+  }
+]

@@ -1,0 +1,42 @@
+﻿{
+  Definition: {
+    CachedPythonExpression: result.AutoGroupedQ1 if ((result.AutoGroupedQ1 == 1) and (any(r == -1 for r in response.Q1()))) or ((result.AutoGroupedQ1 == 2) and (any(r == 0 for r in response.Q1()))) else None,
+    Groups: [
+      {
+        Component: {
+          ExactValues: null,
+          FromVariableIdentifier: Q1,
+          Inverted: false,
+          Max: -1,
+          Min: -1,
+          Operator: Exactly,
+          ResultEntityTypeNames: []
+        },
+        ToEntityInstanceId: 1,
+        ToEntityInstanceName: -1
+      },
+      {
+        Component: {
+          ExactValues: null,
+          FromVariableIdentifier: Q1,
+          Inverted: false,
+          Max: 0,
+          Min: 0,
+          Operator: Exactly,
+          ResultEntityTypeNames: []
+        },
+        ToEntityInstanceId: 2,
+        ToEntityInstanceName: 0
+      }
+    ],
+    ToEntityTypeDisplayNamePlural: AutoGroupedQ1,
+    ToEntityTypeName: AutoGroupedQ1
+  },
+  DisplayName: AutoGrouped: Q1,
+  Id: 1,
+  Identifier: AutogroupedQ1,
+  ProductShortCode: test,
+  SubProductId: 12345,
+  VariableDependencies: [],
+  VariablesDependingOnThis: []
+}

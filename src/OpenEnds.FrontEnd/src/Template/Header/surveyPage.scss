@@ -1,0 +1,92 @@
+﻿@import 'colors.scss';
+@import 'dimensions.scss';
+@import "layout.scss";
+
+nav.topmenu {
+    background-color: var(--header-background-colour);
+    padding: 0 32px;
+    font-size: 28px;
+    border-bottom: var(--header-border-width) solid var(--header-border-colour);
+
+    @include flex-row($justify-content: center);
+
+    @media (max-width: $breakpoint-tablet) {
+        padding: 0 16px;
+    }
+
+    .navbar-brand {
+        width: 100%;
+
+        @include flex-row();
+
+        & {
+            align-items: center;
+        }
+
+        .page-title-container {
+            margin-right: auto;
+            overflow: hidden;
+            @include flex-row($align-items: center);
+
+            .page-title {
+                font-family: Roboto, Georgia, serif;
+                font-size: 20px;
+                color: var(--header-text-colour);
+                padding: 15px 0 16px 32px;
+                line-height: 1.5;
+                min-height: 1.5em;
+                font-weight: 400;
+                text-align: left;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                @include flex-row($align-items: center);
+
+                @media (max-width: $breakpoint-mobile) {
+                    font-size: 16px;
+                }
+            }
+        }
+
+        .menu-icons-container {
+            @include flex-row($justify-content: space-between);
+
+            & > :not(:last-child) {
+                margin-right: 24px;
+            }
+        }
+
+        .logo-pagetitle-flexbox {
+            @include flex-row($align-items: center);
+
+            &:hover {
+                .material-symbols-outlined {
+                    color: var(--header-border-colour);
+                    transition: color 150ms ease;
+                }
+            }
+
+            .page-title {
+
+                font-family: Georgia;
+                font-size: 26px;
+                color: var(--header-border-colour);
+
+                @include flex-row($align-items: center);
+                @media (max-width: $breakpoint-mobile) {
+                    font-size: 22px;
+                }
+
+                img {
+                    height: 20px;
+                    margin-bottom: 3px;
+                    margin-right: .5rem;
+
+                    @media (max-width: $breakpoint-mobile) {
+                        height: 18px;
+                    }
+                }
+            }
+        }
+    }
+}

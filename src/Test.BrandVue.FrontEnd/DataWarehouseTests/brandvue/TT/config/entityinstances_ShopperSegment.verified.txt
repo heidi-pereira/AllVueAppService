@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Do not know them
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have heard of them but have never used them
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Previously used - more than 12 months ago
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Currently use - currently or in the last 12 months
+  }
+]

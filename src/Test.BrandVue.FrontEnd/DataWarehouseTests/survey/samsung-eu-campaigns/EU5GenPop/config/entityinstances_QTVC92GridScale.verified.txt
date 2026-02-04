@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 3,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Panasonic
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Philips
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Xiaomi
+  },
+  {
+    ClassInstanceId: 8,
+    Name: TCL
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

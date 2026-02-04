@@ -1,0 +1,210 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 9001,
+    Name: 3
+  },
+  {
+    ClassInstanceId: 9002,
+    Name: Affinity Water
+  },
+  {
+    ClassInstanceId: 9003,
+    Name: Anglian Water
+  },
+  {
+    ClassInstanceId: 9004,
+    Name: Asda mobile
+  },
+  {
+    ClassInstanceId: 9005,
+    Name: British Gas
+  },
+  {
+    ClassInstanceId: 9006,
+    Name: BT
+  },
+  {
+    ClassInstanceId: 9007,
+    Name: Bulb
+  },
+  {
+    ClassInstanceId: 9008,
+    Name: Dwr Cymru Welsh Water
+  },
+  {
+    ClassInstanceId: 9009,
+    Name: Ecotricity
+  },
+  {
+    ClassInstanceId: 9010,
+    Name: EDF
+  },
+  {
+    ClassInstanceId: 9011,
+    Name: EE
+  },
+  {
+    ClassInstanceId: 9012,
+    Name: Eon
+  },
+  {
+    ClassInstanceId: 9013,
+    Name: giffgaff
+  },
+  {
+    ClassInstanceId: 9014,
+    Name: Good Energy
+  },
+  {
+    ClassInstanceId: 9015,
+    Name: Homeserve
+  },
+  {
+    ClassInstanceId: 9016,
+    Name: iD Mobile
+  },
+  {
+    ClassInstanceId: 9017,
+    Name: Lycamobile
+  },
+  {
+    ClassInstanceId: 9018,
+    Name: Northumbrian Water
+  },
+  {
+    ClassInstanceId: 9019,
+    Name: npower
+  },
+  {
+    ClassInstanceId: 9020,
+    Name: O2
+  },
+  {
+    ClassInstanceId: 9021,
+    Name: Octopus Energy
+  },
+  {
+    ClassInstanceId: 9022,
+    Name: Ovo Energy
+  },
+  {
+    ClassInstanceId: 9023,
+    Name: People's Energy
+  },
+  {
+    ClassInstanceId: 9024,
+    Name: Plusnet
+  },
+  {
+    ClassInstanceId: 9025,
+    Name: Sainsbury's Energy
+  },
+  {
+    ClassInstanceId: 9026,
+    Name: Scottish Gas
+  },
+  {
+    ClassInstanceId: 9027,
+    Name: ScottishPower
+  },
+  {
+    ClassInstanceId: 9028,
+    Name: Severn Trent
+  },
+  {
+    ClassInstanceId: 9029,
+    Name: Shell Energy
+  },
+  {
+    ClassInstanceId: 9030,
+    Name: South East Water
+  },
+  {
+    ClassInstanceId: 9031,
+    Name: South Staffs Water
+  },
+  {
+    ClassInstanceId: 9032,
+    Name: South West Water
+  },
+  {
+    ClassInstanceId: 9033,
+    Name: Southern Water
+  },
+  {
+    ClassInstanceId: 9034,
+    Name: SSE
+  },
+  {
+    ClassInstanceId: 9035,
+    Name: Switch2
+  },
+  {
+    ClassInstanceId: 9036,
+    Name: Talk Talk
+  },
+  {
+    ClassInstanceId: 9037,
+    Name: Tesco Mobile
+  },
+  {
+    ClassInstanceId: 9038,
+    Name: Thames Water
+  },
+  {
+    ClassInstanceId: 9039,
+    Name: United Utilities
+  },
+  {
+    ClassInstanceId: 9040,
+    Name: Utilita
+  },
+  {
+    ClassInstanceId: 9041,
+    Name: Virgin Media
+  },
+  {
+    ClassInstanceId: 9042,
+    Name: Vodafone
+  },
+  {
+    ClassInstanceId: 9043,
+    Name: Wessex Water
+  },
+  {
+    ClassInstanceId: 9044,
+    Name: Whistl
+  },
+  {
+    ClassInstanceId: 9045,
+    Name: Yorkshire Water
+  },
+  {
+    ClassInstanceId: 9046,
+    Name: Royal Mail
+  },
+  {
+    ClassInstanceId: 9047,
+    Name: Parcelforce
+  },
+  {
+    ClassInstanceId: 9048,
+    Name: DPD
+  },
+  {
+    ClassInstanceId: 9049,
+    Name: EVRi
+  },
+  {
+    ClassInstanceId: 9050,
+    Name: DHL
+  },
+  {
+    ClassInstanceId: 9051,
+    Name: Collect+
+  }
+]

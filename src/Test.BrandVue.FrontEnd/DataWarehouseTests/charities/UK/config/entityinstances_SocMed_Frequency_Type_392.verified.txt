@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Social Media Platform Usage (Daily) (Base SocMed_Frequency)
+  }
+]

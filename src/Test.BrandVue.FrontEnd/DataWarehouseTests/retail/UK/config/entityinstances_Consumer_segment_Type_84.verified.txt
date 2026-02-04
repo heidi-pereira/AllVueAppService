@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cinema frequency:Once a week or more often (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Owning luxury is not for everybody
+  },
+  {
+    ClassInstanceId: 2,
+    Name: The luxury industry is bad for the environment
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Luxury makes me feel good about myself
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Luxury is something I deserve
+  },
+  {
+    ClassInstanceId: 5,
+    Name: The luxury industry is good for the economy
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Buying luxury is good value for money in the long term
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Luxury is self-indulgent
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Luxury makes me feel bad about myself
+  }
+]

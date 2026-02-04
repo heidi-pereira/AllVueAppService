@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sponsorship for their mobile products. This could be sporting or entertainment events, product placement or sponsorship of TV programmes.
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Famous or prominent people with large followings on Social Media talking about their mobile products
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

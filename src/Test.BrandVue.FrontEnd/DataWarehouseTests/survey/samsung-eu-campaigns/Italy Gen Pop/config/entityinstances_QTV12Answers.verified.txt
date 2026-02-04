@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Only look at brands I’m interested in and review the technologies they have in their range before making a decision
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Only look at the technology I’m interested in and see which brands offer that technology before making a decision
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Both the brand and my preferred technology would be equally important in my decision
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Read other people's posts
+  },
+  {
+    ClassInstanceId: 2,
+    Name: "Like" other people's posts (or similar)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Comment on other people's posts
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Write your own posts
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Share other people's posts
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Send direct messages to people
+  }
+]

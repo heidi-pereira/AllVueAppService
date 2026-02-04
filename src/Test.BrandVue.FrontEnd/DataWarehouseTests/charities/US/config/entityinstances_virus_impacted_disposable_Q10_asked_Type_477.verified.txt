@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: virus impacted disposableQ 10 (Base virus_impacted_disposable_Q10_asked)
+  }
+]

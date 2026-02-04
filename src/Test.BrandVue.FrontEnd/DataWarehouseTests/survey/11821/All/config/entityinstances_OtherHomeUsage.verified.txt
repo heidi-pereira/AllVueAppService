@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Holiday home
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Buy to let property to rent out
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Something else (specify)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Don’t know / prefer not to say
+  }
+]

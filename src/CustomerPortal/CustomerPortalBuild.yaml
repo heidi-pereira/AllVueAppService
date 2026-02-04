@@ -1,0 +1,123 @@
+pr: none
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - '*'
+  tags:
+    exclude:
+    - '*'
+  paths:
+    include:
+    - src/BrandVue.EntityFramework
+    - src/CustomerPortal
+    - src/CustomerPortal.Shared
+    - src/CustomerPortal.Tests
+    - src/SharedBuildScripts
+    - src/Vue.Common
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+- template: ../SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: CustomerPortal
+    majorVersion: 1
+    minorVersion: 2
+- name: solution
+  value: 'src/CustomerPortal/CustomerPortal.sln'
+
+name: ${{variables.buildName}}
+
+steps:
+- checkout: self
+  persistCredentials: true
+
+- template: ../SharedBuildScripts/EchoVariables.yaml
+- template: ../SharedBuildScripts/InstallNode.yaml
+- template: ../SharedBuildScripts/DotnetRestore.yaml
+
+# Build
+    
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: build
+    projects: $(solution)
+    zipAfterPublish: false
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      -p:Copyright="$(copyright)"
+      -p:Version=$(packageVersion)
+
+- template: ../SharedBuildScripts/TeamsBuildError.yaml
+
+#Test
+- task: DotNetCoreCLI@2
+  displayName: Test
+  inputs:
+    command: 'test'
+    projects: $(solution)
+    nobuild: true
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      -v=normal
+    testRunTitle: 'Test $(packageVersion)'
+
+
+#Publish
+- task: DotNetCoreCLI@2
+  displayName: Publish
+  inputs:
+    command: publish
+    configuration: $(buildConfiguration)
+    publishWebProjects: false
+    projects: |
+      src/CustomerPortal/CustomerPortal.csproj
+    zipAfterPublish: false
+    arguments: >
+      --configuration $(buildConfiguration)
+      --output publish
+      --no-restore
+      --no-build
+
+- task: OctopusPackNuGet@6
+  displayName: Pack CustomerPortal
+  inputs:
+    PackageId: CustomerPortal
+    PackageVersion: $(packageVersion)
+    SourcePath: publish/CustomerPortal
+    OutputPath: $(Build.ArtifactStagingDirectory)
+    NuGetDescription: 'Savanta Customer Portal'
+    NuGetAuthors: 'Savanta'
+
+- publish: $(Build.ArtifactStagingDirectory)
+
+- template: ../SharedBuildScripts/PushToOctopus.yaml
+
+- task: OctopusCreateRelease@6
+  displayName: Create Test Release
+  condition: and(succeeded(), eq(variables.pushToOctopus, 'true'), eq(variables.octopusChannel, 'Default'))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'AllVue:Customer Portal'
+    ReleaseNumber: $(packageVersion)
+    Channel: 'Default'
+    Packages: 'CustomerPortal:$(packageVersion)'
+
+- task: OctopusDeployRelease@6
+  displayName: Deploy to Test
+  condition: and(succeeded(), eq(variables.pushToOctopus, 'true'), eq(variables.octopusChannel, 'Default'))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'AllVue:Customer Portal'
+    ReleaseNumber: $(packageVersion)
+    Environments: 'Test'
+
+- template: ../SharedBuildScripts/TagBuild.yaml

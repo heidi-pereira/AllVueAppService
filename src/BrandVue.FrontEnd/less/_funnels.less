@@ -1,0 +1,167 @@
+﻿@import "_vars";
+
+.funnel-page {
+    display: flex;
+
+    .chart-container {
+        flex-basis: auto;
+        padding: 20px;
+    }
+
+    .key {
+        margin-bottom: 10px;
+        display: flex;
+        font-weight: 500;
+
+        .key-title {
+            font-size: 16px;
+            padding-right: 50px;
+        }
+
+        .key-item {
+            display: flex;
+            font-size: 14px;
+            padding-right: 50px;
+
+            .key-graphic {
+                height: 20px;
+                width: 20px;
+                margin-right: 10px;
+                flex: none;
+            }
+
+            .average {
+                background: @slate-light;
+            }
+
+            .roundel {
+                border-style: solid;
+                border-radius: 100%;
+                border-width: 2px;
+            }
+        }
+    }
+
+    .funnel-result-row {
+        display: flex;
+        flex-wrap: nowrap;
+        margin-bottom: 30px;
+
+        .metric-names {
+            white-space: nowrap;
+            margin: 51px 10px 0;
+            border-right: 1px solid @chalk;
+            padding-right: 15px;
+            text-align: right;
+        }
+    }
+
+    .cols3 {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .funnel-title {
+        border-bottom: 1px solid @chalk;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .funnel-title-active-brand {
+        font-weight: bold;
+    }
+
+    .bar {
+        height: 20px;
+        z-index: 10;
+        position: relative;
+    }
+
+    .bar-bg {
+        background: none;
+        height: 8px;
+        width: 100%;
+    }
+
+    .bar-fg {
+        background: @blueSteel-dark;
+        border: solid 1px @blueSteel-dark;
+    }
+
+    .bar-fg-low-sample {
+        background-color: @white;
+        border: solid 1px @blueSteel-dark;
+    }
+
+    .bar-avg {
+        background: @slate-light;
+        height: 10px;
+    }
+
+    .funnel-row {
+        .data {
+            margin: 0 10px;
+            flex: 0 0 35px;
+        }
+    }
+
+    .funnel-row-bars {
+        width: 100%;
+        position: relative;
+    }
+
+    .table-row-placeholder {
+        height: 20px;
+    }
+
+    .all-bars {
+        padding-right: 40px;
+    }
+
+    .conversion-delta-bar {
+        background: @white;
+        border: solid 1px;
+        border-left: none;
+        position: absolute;
+        height: 46px;
+
+        .conversion-delta-roundel {
+            background: @white;
+            border-style: solid;
+            border-width: 1px;
+            border-radius: 100%;
+            display: flex;
+            float: right;
+            height: 36px;
+            left: 19px;
+            position: relative;
+            top: 4px;
+            width: 37px;
+            z-index: 12;
+
+            p {
+                font-size: 1rem;
+                font-weight: bold;
+                margin: auto;
+            }
+        }
+    }
+
+    .standard-conversion {
+        border-color: @blueSteel-dark;
+        color: @black;
+    }
+
+    .best-conversion {
+        border-color: @good-green;
+        color: @good-green;
+    }
+
+    .worst-conversion {
+        border-color: @bad-red;
+        color: @bad-red;
+    }
+}

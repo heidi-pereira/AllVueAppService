@@ -1,0 +1,550 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 6001,
+    Name: Acer
+  },
+  {
+    ClassInstanceId: 6002,
+    Name: Adobe
+  },
+  {
+    ClassInstanceId: 6003,
+    Name: Amana
+  },
+  {
+    ClassInstanceId: 6004,
+    Name: Amazon Alexa
+  },
+  {
+    ClassInstanceId: 6005,
+    Name: Amazon Echo
+  },
+  {
+    ClassInstanceId: 6006,
+    Name: Amazon Fire TV Stick
+  },
+  {
+    ClassInstanceId: 6007,
+    Name: Andersen Windows
+  },
+  {
+    ClassInstanceId: 6008,
+    Name: Android
+  },
+  {
+    ClassInstanceId: 6009,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 6010,
+    Name: Apple Watch
+  },
+  {
+    ClassInstanceId: 6011,
+    Name: ASUS
+  },
+  {
+    ClassInstanceId: 6012,
+    Name: Atari
+  },
+  {
+    ClassInstanceId: 6013,
+    Name: Beats by Dr. Dre
+  },
+  {
+    ClassInstanceId: 6014,
+    Name: Behr
+  },
+  {
+    ClassInstanceId: 6015,
+    Name: Beko
+  },
+  {
+    ClassInstanceId: 6016,
+    Name: Belkin
+  },
+  {
+    ClassInstanceId: 6017,
+    Name: Benjamin Moore
+  },
+  {
+    ClassInstanceId: 6018,
+    Name: Bissell
+  },
+  {
+    ClassInstanceId: 6019,
+    Name: Black & Decker
+  },
+  {
+    ClassInstanceId: 6020,
+    Name: BlackBerry
+  },
+  {
+    ClassInstanceId: 6021,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 6022,
+    Name: Bose
+  },
+  {
+    ClassInstanceId: 6023,
+    Name: Bowers & Wilkins
+  },
+  {
+    ClassInstanceId: 6024,
+    Name: Brother
+  },
+  {
+    ClassInstanceId: 6025,
+    Name: Broyhill
+  },
+  {
+    ClassInstanceId: 6026,
+    Name: Canon
+  },
+  {
+    ClassInstanceId: 6027,
+    Name: Casio
+  },
+  {
+    ClassInstanceId: 6028,
+    Name: Cisco
+  },
+  {
+    ClassInstanceId: 6029,
+    Name: Clarion
+  },
+  {
+    ClassInstanceId: 6030,
+    Name: Coleman
+  },
+  {
+    ClassInstanceId: 6031,
+    Name: Compaq
+  },
+  {
+    ClassInstanceId: 6032,
+    Name: CompUSA
+  },
+  {
+    ClassInstanceId: 6033,
+    Name: Craftsman
+  },
+  {
+    ClassInstanceId: 6034,
+    Name: Dell
+  },
+  {
+    ClassInstanceId: 6035,
+    Name: DeWalt
+  },
+  {
+    ClassInstanceId: 6036,
+    Name: DieHard
+  },
+  {
+    ClassInstanceId: 6037,
+    Name: Dolby
+  },
+  {
+    ClassInstanceId: 6038,
+    Name: Dremel
+  },
+  {
+    ClassInstanceId: 6039,
+    Name: Dyson
+  },
+  {
+    ClassInstanceId: 6040,
+    Name: Electrolux
+  },
+  {
+    ClassInstanceId: 6041,
+    Name: Fitbit
+  },
+  {
+    ClassInstanceId: 6042,
+    Name: Frigidaire
+  },
+  {
+    ClassInstanceId: 6043,
+    Name: Fujifilm
+  },
+  {
+    ClassInstanceId: 6044,
+    Name: Garmin
+  },
+  {
+    ClassInstanceId: 6045,
+    Name: Gateway
+  },
+  {
+    ClassInstanceId: 6046,
+    Name: General Electric
+  },
+  {
+    ClassInstanceId: 6047,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 6048,
+    Name: Google Home
+  },
+  {
+    ClassInstanceId: 6049,
+    Name: Hitachi
+  },
+  {
+    ClassInstanceId: 6050,
+    Name: Honeywell
+  },
+  {
+    ClassInstanceId: 6051,
+    Name: Hotpoint
+  },
+  {
+    ClassInstanceId: 6052,
+    Name: HP
+  },
+  {
+    ClassInstanceId: 6053,
+    Name: HTC
+  },
+  {
+    ClassInstanceId: 6054,
+    Name: Huawei
+  },
+  {
+    ClassInstanceId: 6055,
+    Name: IBM
+  },
+  {
+    ClassInstanceId: 6056,
+    Name: Intel
+  },
+  {
+    ClassInstanceId: 6057,
+    Name: Intuit
+  },
+  {
+    ClassInstanceId: 6058,
+    Name: JBL
+  },
+  {
+    ClassInstanceId: 6059,
+    Name: JVC
+  },
+  {
+    ClassInstanceId: 6060,
+    Name: Kenmore
+  },
+  {
+    ClassInstanceId: 6061,
+    Name: Kenwood
+  },
+  {
+    ClassInstanceId: 6062,
+    Name: Keurig
+  },
+  {
+    ClassInstanceId: 6063,
+    Name: Kindle
+  },
+  {
+    ClassInstanceId: 6064,
+    Name: KitchenAid
+  },
+  {
+    ClassInstanceId: 6065,
+    Name: Kodak
+  },
+  {
+    ClassInstanceId: 6066,
+    Name: Kohler
+  },
+  {
+    ClassInstanceId: 6067,
+    Name: La-Z-Boy
+  },
+  {
+    ClassInstanceId: 6068,
+    Name: Lennox
+  },
+  {
+    ClassInstanceId: 6069,
+    Name: Lenovo
+  },
+  {
+    ClassInstanceId: 6070,
+    Name: Lexmark
+  },
+  {
+    ClassInstanceId: 6071,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 6072,
+    Name: Lifetime
+  },
+  {
+    ClassInstanceId: 6073,
+    Name: Logitech
+  },
+  {
+    ClassInstanceId: 6074,
+    Name: Magic Chef
+  },
+  {
+    ClassInstanceId: 6075,
+    Name: Magnavox
+  },
+  {
+    ClassInstanceId: 6076,
+    Name: McAfee
+  },
+  {
+    ClassInstanceId: 6077,
+    Name: Microsoft
+  },
+  {
+    ClassInstanceId: 6078,
+    Name: Miele
+  },
+  {
+    ClassInstanceId: 6079,
+    Name: Milwaukee
+  },
+  {
+    ClassInstanceId: 6080,
+    Name: Miracle-Gro
+  },
+  {
+    ClassInstanceId: 6081,
+    Name: Moen
+  },
+  {
+    ClassInstanceId: 6082,
+    Name: Motorola
+  },
+  {
+    ClassInstanceId: 6083,
+    Name: National
+  },
+  {
+    ClassInstanceId: 6084,
+    Name: Nest
+  },
+  {
+    ClassInstanceId: 6085,
+    Name: Nikon
+  },
+  {
+    ClassInstanceId: 6086,
+    Name: Ninja
+  },
+  {
+    ClassInstanceId: 6087,
+    Name: Nintendo
+  },
+  {
+    ClassInstanceId: 6088,
+    Name: Nokia
+  },
+  {
+    ClassInstanceId: 6089,
+    Name: Norton
+  },
+  {
+    ClassInstanceId: 6090,
+    Name: Oculus
+  },
+  {
+    ClassInstanceId: 6091,
+    Name: Olympus
+  },
+  {
+    ClassInstanceId: 6092,
+    Name: Oracle
+  },
+  {
+    ClassInstanceId: 6093,
+    Name: Otterbox
+  },
+  {
+    ClassInstanceId: 6094,
+    Name: Panasonic
+  },
+  {
+    ClassInstanceId: 6095,
+    Name: Philips
+  },
+  {
+    ClassInstanceId: 6096,
+    Name: Pier Imports
+  },
+  {
+    ClassInstanceId: 6097,
+    Name: Pioneer
+  },
+  {
+    ClassInstanceId: 6098,
+    Name: Playstation
+  },
+  {
+    ClassInstanceId: 6099,
+    Name: Progressive
+  },
+  {
+    ClassInstanceId: 6100,
+    Name: Quicken
+  },
+  {
+    ClassInstanceId: 6101,
+    Name: RCA
+  },
+  {
+    ClassInstanceId: 6102,
+    Name: Ring
+  },
+  {
+    ClassInstanceId: 6103,
+    Name: Rust-Oleum
+  },
+  {
+    ClassInstanceId: 6104,
+    Name: Samsonite
+  },
+  {
+    ClassInstanceId: 6105,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 6106,
+    Name: SanDisk
+  },
+  {
+    ClassInstanceId: 6107,
+    Name: Sanyo
+  },
+  {
+    ClassInstanceId: 6108,
+    Name: Scotts
+  },
+  {
+    ClassInstanceId: 6109,
+    Name: Sealy
+  },
+  {
+    ClassInstanceId: 6110,
+    Name: Sennheiser
+  },
+  {
+    ClassInstanceId: 6111,
+    Name: Serta
+  },
+  {
+    ClassInstanceId: 6112,
+    Name: Seventh Generation
+  },
+  {
+    ClassInstanceId: 6113,
+    Name: Shark
+  },
+  {
+    ClassInstanceId: 6114,
+    Name: Sharp
+  },
+  {
+    ClassInstanceId: 6115,
+    Name: Sherwin Williams
+  },
+  {
+    ClassInstanceId: 6116,
+    Name: Simmons' Beautyrest
+  },
+  {
+    ClassInstanceId: 6117,
+    Name: Skullcandy
+  },
+  {
+    ClassInstanceId: 6118,
+    Name: Sleep Number
+  },
+  {
+    ClassInstanceId: 6119,
+    Name: Sonos
+  },
+  {
+    ClassInstanceId: 6120,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 6121,
+    Name: Stanley
+  },
+  {
+    ClassInstanceId: 6122,
+    Name: Temptations
+  },
+  {
+    ClassInstanceId: 6123,
+    Name: Tempur-Pedic
+  },
+  {
+    ClassInstanceId: 6124,
+    Name: Toro
+  },
+  {
+    ClassInstanceId: 6125,
+    Name: Tupperware
+  },
+  {
+    ClassInstanceId: 6126,
+    Name: Vizio
+  },
+  {
+    ClassInstanceId: 6127,
+    Name: Wayfair
+  },
+  {
+    ClassInstanceId: 6128,
+    Name: Westinghouse
+  },
+  {
+    ClassInstanceId: 6129,
+    Name: Whirlpool
+  },
+  {
+    ClassInstanceId: 6130,
+    Name: Williams-Sonoma
+  },
+  {
+    ClassInstanceId: 6131,
+    Name: Xbox
+  },
+  {
+    ClassInstanceId: 6132,
+    Name: Maytag
+  },
+  {
+    ClassInstanceId: 6133,
+    Name: Toshiba
+  },
+  {
+    ClassInstanceId: 6134,
+    Name: Delta Faucet
+  },
+  {
+    ClassInstanceId: 6135,
+    Name: American Standard
+  },
+  {
+    ClassInstanceId: 6136,
+    Name: Bang & Olufsen
+  }
+]

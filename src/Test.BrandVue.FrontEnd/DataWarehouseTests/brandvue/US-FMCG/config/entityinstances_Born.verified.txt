@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, born-again or evangelical Christian
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No, not born-again or evangelical Christian
+  }
+]

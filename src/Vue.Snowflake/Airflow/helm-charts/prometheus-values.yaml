@@ -1,0 +1,57 @@
+# For prometheus-kube-prometheus-operator-* pod
+prometheusOperator:
+  image:
+    registry: savantabvairflow.azurecr.io
+    repository: prometheus-operator/prometheus-operator
+    tag: v0.83.0
+
+# For alertmanager-* pod
+alertmanager:
+  alertmanagerSpec:
+    image:
+      registry: savantabvairflow.azurecr.io
+      repository: prometheus/alertmanager
+      tag: v0.28.1
+
+# For prometheus-prometheus-* pod
+prometheus:
+  prometheusSpec:
+    image:
+      registry: savantabvairflow.azurecr.io
+      repository: prometheus/prometheus
+      tag: v3.5.0
+
+# For prometheus-grafana-* pod
+grafana:
+  image:
+    registry: savantabvairflow.azurecr.io
+    repository: grafana/grafana
+    tag: 12.0.2
+  # This chart also uses a sidecar for dashboards/datasources
+  sidecar:
+    image:
+      registry: savantabvairflow.azurecr.io
+      repository: kiwigrid/k8s-sidecar
+      tag: 1.30.3
+
+# For prometheus-kube-state-metrics-* pod
+kube-state-metrics:
+  image:
+    registry: savantabvairflow.azurecr.io
+    repository: kube-state-metrics/kube-state-metrics
+    tag: v2.16.0
+
+# For prometheus-prometheus-node-exporter-* pods
+prometheus-node-exporter:
+  image:
+    registry: savantabvairflow.azurecr.io
+    repository: prometheus/node-exporter
+    tag: v1.9.1
+
+# This image is used as a sidecar in both Prometheus and Alertmanager
+# We can set it globally.
+prometheus-config-reloader:
+  image:
+    registry: savantabvairflow.azurecr.io
+    repository: prometheus-operator/prometheus-config-reloader
+    tag: v0.83.0

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: High school incomplete or less
+  },
+  {
+    ClassInstanceId: 2,
+    Name: High school graduate or GED (includes technical / vocational training that doesn’t count towards college credit)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Some college (some community college, associate’s degree)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Four year college degree / bachelor’s degree
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Some postgraduate or professional schooling, no postgraduate degree
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Postgraduate or professional degree, including master’s, doctorate, medical or law degree
+  }
+]

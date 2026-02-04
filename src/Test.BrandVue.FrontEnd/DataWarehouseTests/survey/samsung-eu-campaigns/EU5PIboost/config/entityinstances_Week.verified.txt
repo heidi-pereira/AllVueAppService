@@ -1,0 +1,322 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Week 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Week 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Week 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Week 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Week 5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Week 6
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Week 7
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Week 8
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Week 9
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Week 10
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Week 11
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Week 12
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Week 13
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Week 14
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Week 15
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Week 16
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Week 17
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Week 18
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Week 19
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Week 20
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Week 21
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Week 22
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Week 23
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Week 24
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Week 25
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Week 26
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Week 27
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Week 28
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Week 29
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Week 30
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Week 31
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Week 32
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Week 33
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Week 34
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Week 35
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Week 36
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Week 37
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Week 38
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Week 39
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Week 40
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Week 41
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Week 42
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Week 43
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Week 44
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Week 45
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Week 46
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Week 47
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Week 48
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Week 49
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Week 50
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Week 51
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Week 52
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Week 53
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Week 54
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Week 55
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Week 56
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Week 57
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Week 58
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Week 59
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Week 60
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Week 61
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Week 62
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Week 63
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Week 64
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Week 65
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Week 66
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Week 67
+  },
+  {
+    ClassInstanceId: 68,
+    Name: Week 68
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Week 69
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Week 70
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Week 71
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Week 72
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Week 73
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Week 74
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Week 75
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Week 76
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Week 77
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Week 78
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Week 79
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Week 80
+  }
+]

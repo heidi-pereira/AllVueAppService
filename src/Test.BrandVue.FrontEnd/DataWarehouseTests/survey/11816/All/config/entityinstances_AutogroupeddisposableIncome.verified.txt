@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 0 - 999
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 1000 - 1999
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 2000 - 2999
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 3000 - 3999
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 4000 - 5000
+  },
+  {
+    ClassInstanceId: 6,
+    Name: 5001 - 6000
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 6001 - 7000
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 7001 - 8000
+  },
+  {
+    ClassInstanceId: 9,
+    Name: 8001 - 9000
+  },
+  {
+    ClassInstanceId: 10,
+    Name: 9001 - 10000
+  }
+]

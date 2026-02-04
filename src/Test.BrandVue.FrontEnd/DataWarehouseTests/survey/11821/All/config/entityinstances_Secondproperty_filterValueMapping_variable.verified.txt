@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes - 1 additional property
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - 2 additional properties
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes - 3 additional properties
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Yes - 4 additional properties
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Yes - 5 or more additional properties
+  },
+  {
+    ClassInstanceId: 5,
+    Name: No
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Don’t know / prefer not to say
+  }
+]

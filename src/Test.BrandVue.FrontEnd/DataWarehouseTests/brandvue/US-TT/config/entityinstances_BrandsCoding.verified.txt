@@ -1,0 +1,430 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 8001,
+    Name: A&P
+  },
+  {
+    ClassInstanceId: 8002,
+    Name: AerLingus
+  },
+  {
+    ClassInstanceId: 8003,
+    Name: Aeromexico
+  },
+  {
+    ClassInstanceId: 8004,
+    Name: Air Canada
+  },
+  {
+    ClassInstanceId: 8005,
+    Name: Air France
+  },
+  {
+    ClassInstanceId: 8006,
+    Name: Air New Zealand
+  },
+  {
+    ClassInstanceId: 8007,
+    Name: AirTran Airways
+  },
+  {
+    ClassInstanceId: 8008,
+    Name: Alaska Airlines
+  },
+  {
+    ClassInstanceId: 8009,
+    Name: Allegiant Air
+  },
+  {
+    ClassInstanceId: 8010,
+    Name: American Airlines
+  },
+  {
+    ClassInstanceId: 8011,
+    Name: American Eagle Airlines
+  },
+  {
+    ClassInstanceId: 8012,
+    Name: American Express Travel
+  },
+  {
+    ClassInstanceId: 8013,
+    Name: Amtrak
+  },
+  {
+    ClassInstanceId: 8014,
+    Name: Asiana Airlines
+  },
+  {
+    ClassInstanceId: 8015,
+    Name: British Airways
+  },
+  {
+    ClassInstanceId: 8016,
+    Name: Carnival Cruise Line
+  },
+  {
+    ClassInstanceId: 8017,
+    Name: Cathay Pacific
+  },
+  {
+    ClassInstanceId: 8018,
+    Name: Celebrity Cruises
+  },
+  {
+    ClassInstanceId: 8019,
+    Name: choicehotels.com
+  },
+  {
+    ClassInstanceId: 8020,
+    Name: Comfort Inn
+  },
+  {
+    ClassInstanceId: 8021,
+    Name: Comfort Suites
+  },
+  {
+    ClassInstanceId: 8022,
+    Name: Country Inns & Suites
+  },
+  {
+    ClassInstanceId: 8023,
+    Name: Courtyard by Marriott
+  },
+  {
+    ClassInstanceId: 8024,
+    Name: Crowne Plaza
+  },
+  {
+    ClassInstanceId: 8025,
+    Name: Days Inn
+  },
+  {
+    ClassInstanceId: 8026,
+    Name: Delta Air Lines
+  },
+  {
+    ClassInstanceId: 8027,
+    Name: Destination America
+  },
+  {
+    ClassInstanceId: 8028,
+    Name: DoubleTree
+  },
+  {
+    ClassInstanceId: 8029,
+    Name: EasyJet
+  },
+  {
+    ClassInstanceId: 8030,
+    Name: Econo Lodge
+  },
+  {
+    ClassInstanceId: 8031,
+    Name: Embassy Suites
+  },
+  {
+    ClassInstanceId: 8032,
+    Name: Emirates
+  },
+  {
+    ClassInstanceId: 8033,
+    Name: Enterprise
+  },
+  {
+    ClassInstanceId: 8034,
+    Name: Etihad Airways
+  },
+  {
+    ClassInstanceId: 8035,
+    Name: Excellence
+  },
+  {
+    ClassInstanceId: 8036,
+    Name: Fairfield Inn
+  },
+  {
+    ClassInstanceId: 8037,
+    Name: Fairmont Hotels and Resorts
+  },
+  {
+    ClassInstanceId: 8038,
+    Name: Four Seasons
+  },
+  {
+    ClassInstanceId: 8039,
+    Name: Frontier Airlines
+  },
+  {
+    ClassInstanceId: 8040,
+    Name: Grand Hyatt
+  },
+  {
+    ClassInstanceId: 8041,
+    Name: Greyhound
+  },
+  {
+    ClassInstanceId: 8042,
+    Name: Hampton Inn
+  },
+  {
+    ClassInstanceId: 8043,
+    Name: Hawaiian Airlines
+  },
+  {
+    ClassInstanceId: 8044,
+    Name: Hilton
+  },
+  {
+    ClassInstanceId: 8045,
+    Name: Hilton Garden Inn
+  },
+  {
+    ClassInstanceId: 8046,
+    Name: Holiday Inn
+  },
+  {
+    ClassInstanceId: 8048,
+    Name: Holland America Line
+  },
+  {
+    ClassInstanceId: 8049,
+    Name: Homewood Suites
+  },
+  {
+    ClassInstanceId: 8050,
+    Name: HotelTonight
+  },
+  {
+    ClassInstanceId: 8051,
+    Name: Hyatt
+  },
+  {
+    ClassInstanceId: 8052,
+    Name: Hyatt House
+  },
+  {
+    ClassInstanceId: 8053,
+    Name: Hyatt Place
+  },
+  {
+    ClassInstanceId: 8054,
+    Name: Hyatt Regency
+  },
+  {
+    ClassInstanceId: 8055,
+    Name: InterContinental Hotels Group
+  },
+  {
+    ClassInstanceId: 8056,
+    Name: Japan Airlines
+  },
+  {
+    ClassInstanceId: 8057,
+    Name: JetBlue
+  },
+  {
+    ClassInstanceId: 8059,
+    Name: Keystone
+  },
+  {
+    ClassInstanceId: 8060,
+    Name: KLM Royal Dutch Airlines
+  },
+  {
+    ClassInstanceId: 8061,
+    Name: Korean Air
+  },
+  {
+    ClassInstanceId: 8062,
+    Name: La Quinta Inns & Suites
+  },
+  {
+    ClassInstanceId: 8063,
+    Name: Lufthansa
+  },
+  {
+    ClassInstanceId: 8064,
+    Name: Malaysia Airlines
+  },
+  {
+    ClassInstanceId: 8065,
+    Name: Mandarin Oriental
+  },
+  {
+    ClassInstanceId: 8066,
+    Name: Marriott
+  },
+  {
+    ClassInstanceId: 8067,
+    Name: Mercury
+  },
+  {
+    ClassInstanceId: 8068,
+    Name: Norwegian Airlines
+  },
+  {
+    ClassInstanceId: 8069,
+    Name: Norwegian Cruise Lines
+  },
+  {
+    ClassInstanceId: 8070,
+    Name: Omni Hotels & Resorts
+  },
+  {
+    ClassInstanceId: 8071,
+    Name: Park Hyatt
+  },
+  {
+    ClassInstanceId: 8072,
+    Name: Princess Cruises
+  },
+  {
+    ClassInstanceId: 8073,
+    Name: Qantas
+  },
+  {
+    ClassInstanceId: 8074,
+    Name: Qatar Airways
+  },
+  {
+    ClassInstanceId: 8075,
+    Name: Quality Inn
+  },
+  {
+    ClassInstanceId: 8076,
+    Name: Radisson
+  },
+  {
+    ClassInstanceId: 8077,
+    Name: Ramada
+  },
+  {
+    ClassInstanceId: 8078,
+    Name: Red Roof Inn
+  },
+  {
+    ClassInstanceId: 8079,
+    Name: Renaissance Inn
+  },
+  {
+    ClassInstanceId: 8080,
+    Name: Residence Inn
+  },
+  {
+    ClassInstanceId: 8081,
+    Name: Ritz-Carlton
+  },
+  {
+    ClassInstanceId: 8082,
+    Name: Royal Caribbean Cruises
+  },
+  {
+    ClassInstanceId: 8083,
+    Name: Shangri-La
+  },
+  {
+    ClassInstanceId: 8084,
+    Name: Sheraton
+  },
+  {
+    ClassInstanceId: 8085,
+    Name: Singapore Airlines
+  },
+  {
+    ClassInstanceId: 8086,
+    Name: Sleep Inn
+  },
+  {
+    ClassInstanceId: 8087,
+    Name: Southwest
+  },
+  {
+    ClassInstanceId: 8088,
+    Name: Spirit Airlines
+  },
+  {
+    ClassInstanceId: 8089,
+    Name: SpringHill Suites
+  },
+  {
+    ClassInstanceId: 8090,
+    Name: St. Regis Hotels & Resorts
+  },
+  {
+    ClassInstanceId: 8091,
+    Name: Starwood Hotels and Resorts Worldwide
+  },
+  {
+    ClassInstanceId: 8092,
+    Name: Super Motels
+  },
+  {
+    ClassInstanceId: 8093,
+    Name: Thai Airways
+  },
+  {
+    ClassInstanceId: 8094,
+    Name: The Peninsula
+  },
+  {
+    ClassInstanceId: 8095,
+    Name: Trivago
+  },
+  {
+    ClassInstanceId: 8096,
+    Name: Trump Hotels
+  },
+  {
+    ClassInstanceId: 8097,
+    Name: Turkish Airlines
+  },
+  {
+    ClassInstanceId: 8098,
+    Name: United Airlines
+  },
+  {
+    ClassInstanceId: 8099,
+    Name: Universal Studios
+  },
+  {
+    ClassInstanceId: 8100,
+    Name: Viceroy Hotels & Resorts
+  },
+  {
+    ClassInstanceId: 8101,
+    Name: Viking Ocean Cruises
+  },
+  {
+    ClassInstanceId: 8102,
+    Name: Virgin America
+  },
+  {
+    ClassInstanceId: 8103,
+    Name: Virgin Atlantic
+  },
+  {
+    ClassInstanceId: 8104,
+    Name: Virgin Voyages
+  },
+  {
+    ClassInstanceId: 8105,
+    Name: W Hotels
+  },
+  {
+    ClassInstanceId: 8106,
+    Name: Waldorf Astoria Hotels & Resorts
+  },
+  {
+    ClassInstanceId: 8107,
+    Name: Westin Hotels
+  },
+  {
+    ClassInstanceId: 8108,
+    Name: Wyndham Hotels & Resorts
+  }
+]

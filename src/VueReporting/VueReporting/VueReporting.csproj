@@ -1,0 +1,81 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
+    <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
+    <PreserveCompilationContext>true</PreserveCompilationContext>
+    <IsPackable>false</IsPackable>
+    <OutputPath>bin</OutputPath>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
+    <NpmInstallStampFile>node_modules/.install-stamp</NpmInstallStampFile>
+    <NodeEnv Condition=" '$(Configuration)' == 'Release' ">--env prod</NodeEnv>
+    <UserSecretsId>f1765c60-a9b0-4972-a407-2e946b582929</UserSecretsId>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Remove="ClientApp\globals.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="22.1.2" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.9.1" />
+    <PackageReference Include="Egnyte.Api" Version="2.0.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.19.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.15" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NJsonSchema" Version="10.3.1" />
+    <PackageReference Include="Quartz" Version="3.0.7" />
+    <PackageReference Include="Quartz.Serialization.Json" Version="3.0.7" />
+    <PackageReference Include="Savanta.Logging" Version="1.1.38" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\globals.ts" />
+  </ItemGroup>
+  
+  <Target Name="InstallNode" BeforeTargets="NSwag" Inputs="package.json" Outputs="$(NpmInstallStampFile)">
+    <!-- Ensure Node.js is installed -->
+    <Exec Command="node --version" ContinueOnError="true">
+      <Output TaskParameter="ExitCode" PropertyName="ErrorCode" />
+    </Exec>
+    <Error Condition="'$(ErrorCode)' != '0'" Text="Node.js is required to build and run this project. To continue, please install Node.js from https://nodejs.org/, and then restart your command prompt or IDE." />
+
+    <Message Importance="high" Text="Installing node_modules..." />
+    <Exec Command="npm install" />
+    <Touch Files="$(NpmInstallStampFile)" AlwaysCreate="true" />
+  </Target>
+  
+  <Target Name="VendorJs" AfterTargets="InstallNode" Inputs="package.json" Outputs="wwwroot/dist/vendor_reporting.js">
+    <Message Importance="high" Text="Building vendor JS" />
+    <Exec Command="npm run build_reporting_vendor -- $(NodeEnv)" />
+  </Target>
+  
+  <Target Name="NSwag" AfterTargets="AfterBuild" Inputs="bin/$(AssemblyName).dll; GenerateTypescriptApi.nswag.json; package.json" Outputs="ClientApp/reportingApi.ts">
+    <Message Importance="high" Text="Running nswag" />
+    <Exec Command="npm run build_typescript_api" />
+  </Target>
+
+  <Target Name="RunWebpack" AfterTargets="AfterBuild; NSwag" Inputs="ClientApp/**" Outputs="wwwroot/dist/reporting.js" Condition=" '$(Configuration)' == 'Release' ">
+    <Message Importance="high" Text="Running webpack $(NodeEnv)" />
+    <Exec Command="npm run build_reporting -- $(NodeEnv)" />
+  </Target>
+  <Target Name="AfterClean">
+    <Delete Files="ClientApp\reportingApi.ts" />
+  </Target>
+</Project>

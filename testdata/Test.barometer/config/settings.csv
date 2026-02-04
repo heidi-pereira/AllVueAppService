@@ -1,0 +1,4 @@
+﻿setting,value,notes
+Name,Barometer,Browser title of dashboard
+Source database,Morar,File = Separate Data.xlsx file in this folder containing all data | Morar = Morar survey portal | Cloud = Cloud survey portal | BBS = BBS survey portal
+Short code,Barometer,Path to data

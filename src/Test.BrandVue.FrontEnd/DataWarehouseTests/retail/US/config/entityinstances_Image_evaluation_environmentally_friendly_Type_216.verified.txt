@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Image:Environmentally friendly (Base Image_evaluation_environmentally_friendly)
+  }
+]

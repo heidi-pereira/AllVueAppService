@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Sofas / armchairs
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Beds and / or mattresses
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Furniture excluding beds, mattresses, sofas and armchairs e.g. bookcases, dining tables, coffee tables, desks, drawers
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Dining & cookware e.g. crockery, cutlery, pot & pans, ovenware, utensils etc.
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Home furnishings e.g. bedding, cushions, towels, storage, candles, wall art, mirrors, clocks, etc.
+  }
+]

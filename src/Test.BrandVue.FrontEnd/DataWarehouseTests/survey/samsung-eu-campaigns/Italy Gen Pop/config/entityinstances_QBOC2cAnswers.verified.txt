@@ -1,0 +1,94 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Traditional Television
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Radio
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Magazine
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Newspaper
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cinema
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Posters, billboards or displayed on public transport
+  },
+  {
+    ClassInstanceId: 7,
+    Name: In store advertising
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Online adverts
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Online articles or product reviews
+  },
+  {
+    ClassInstanceId: 10,
+    Name: YouTube adverts
+  },
+  {
+    ClassInstanceId: 11,
+    Name: YouTube product reveiws
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Twitter (X)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Instagram
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Other social media site
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Pinterest
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Retailer promotional leaflets
+  },
+  {
+    ClassInstanceId: 20,
+    Name: LinkedIn
+  },
+  {
+    ClassInstanceId: 21,
+    Name: While streaming films or programmes on TV
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Catalogues
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of above
+  }
+]

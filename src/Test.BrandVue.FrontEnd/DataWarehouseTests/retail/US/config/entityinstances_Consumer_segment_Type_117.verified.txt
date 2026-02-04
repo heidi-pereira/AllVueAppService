@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Customer Addressed mail read:All of it (Base Consumer_segment)
+  }
+]

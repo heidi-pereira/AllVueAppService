@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Football
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tennis
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Rugby Union
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Rugby League
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Athletics
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Golf
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Cricket
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Formula 1
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Boxing
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Cycling
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Motor sports other than Formula 1
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Darts
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Padel
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: UK
+  },
+  {
+    ClassInstanceId: 2,
+    Name: France
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Germany
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Italy
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Spain
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Ireland
+  }
+]

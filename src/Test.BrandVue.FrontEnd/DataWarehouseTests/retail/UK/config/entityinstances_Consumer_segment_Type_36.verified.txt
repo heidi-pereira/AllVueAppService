@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Area of employment:Local / National Government (Base Consumer_segment)
+  }
+]

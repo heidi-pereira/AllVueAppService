@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Delivery Aggregator Usage (L12M) (Base Retail_Delivery_Aggregators_Usage)
+  }
+]

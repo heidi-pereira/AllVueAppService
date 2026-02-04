@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: July 2022
+  },
+  {
+    ClassInstanceId: 2,
+    Name: August 2022
+  },
+  {
+    ClassInstanceId: 3,
+    Name: September 2022 
+  }
+]

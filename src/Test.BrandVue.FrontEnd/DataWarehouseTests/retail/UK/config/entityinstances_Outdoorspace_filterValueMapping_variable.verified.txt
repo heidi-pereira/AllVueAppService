@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: A private garden (i.e. only you and your household can use)
+  },
+  {
+    ClassInstanceId: 1,
+    Name: A communal garden (i.e. shared use with other residents with no dedicated areas)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A shared balcony / roof terrace (i.e. other residents can use)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: A private balcony / roof terrace (i.e. only you and your household can use)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: There is no outdoor space in my property
+  }
+]

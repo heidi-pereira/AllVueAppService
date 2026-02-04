@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Purchase (Dealer financed)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Purchase (Bank - or other - financed)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Leased (Dealer financed)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Leased (Bank - or other - financed)
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: No financing required (paid up front and in full)
+  }
+]

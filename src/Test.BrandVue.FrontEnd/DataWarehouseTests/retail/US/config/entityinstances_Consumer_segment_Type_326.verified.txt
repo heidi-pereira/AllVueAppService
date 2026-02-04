@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Penetration (LM) (Base Consumer_segment)
+  }
+]

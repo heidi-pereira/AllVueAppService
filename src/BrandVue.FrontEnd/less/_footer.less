@@ -1,0 +1,76 @@
+﻿@import "_layout";
+
+.footer {
+    grid-area: footer;
+    .flex-row(@justify-content: center);
+    color: @slate;
+    background: var(--header-border-colour);
+    width: 100%;
+
+    .footer-container {
+        .flex-row(@justify-content: space-between, @align-items: center);
+        width: 1200px;
+        font-size: 14px;
+        color: @slate-dark;
+        padding: 5px 0;
+
+        .footer-links {
+            .flex-row(@gutter: 40px);
+
+            a {
+                display: none; //hiding for now
+                color: inherit;
+                font-size: inherit;
+                text-decoration: none;
+                cursor: pointer;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+
+        .footer-logo {
+            .flex-row(@align-items: baseline, @gutter: 8px);
+            font-family: Georgia;
+            font-size: 20px;
+            // Change font colour between black and white depending on the background colour - https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
+            --switch: calc((var(--header-border-colour-l) - 60%) * -100);
+            color: hsl(0, 0%, var(--switch));
+
+            .from-text {
+                &::after {
+                    content: 'From';
+                }
+
+                @media (max-width: 500px) {
+                    display: none;
+                }
+            }
+
+
+            .logo {
+                background: url(../wwwroot/assets/img/savanta-logo.svg);
+                background-size: contain;
+                background-repeat: no-repeat;
+                height: 15px;
+                width: 78px;
+                cursor: pointer;
+                display: block;
+
+                @media (max-width: 500px) {
+                    width: 72px;
+                }
+            }
+        }
+
+        @media (max-width: 1200px) {
+            width: 100%;
+            padding: 5px 15px;
+        }
+
+        @media (max-width: 500px) {
+            padding: 10px;
+        }
+    }
+}

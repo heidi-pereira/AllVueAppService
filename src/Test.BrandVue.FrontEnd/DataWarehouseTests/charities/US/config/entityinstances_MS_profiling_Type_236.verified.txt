@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: MS profiling (Base MS_profiling)
+  }
+]

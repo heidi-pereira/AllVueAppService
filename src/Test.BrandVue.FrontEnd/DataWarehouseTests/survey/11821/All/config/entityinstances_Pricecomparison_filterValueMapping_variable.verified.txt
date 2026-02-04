@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes - researched and purchased products
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - researched products but not purchased
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No - but would use if I was purchasing a new product
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No - and would not consider
+  }
+]

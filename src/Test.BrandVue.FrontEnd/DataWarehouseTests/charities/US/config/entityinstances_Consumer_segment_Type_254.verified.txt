@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Occupation:Part-time (8-29 hours) (Base Consumer_segment)
+  }
+]

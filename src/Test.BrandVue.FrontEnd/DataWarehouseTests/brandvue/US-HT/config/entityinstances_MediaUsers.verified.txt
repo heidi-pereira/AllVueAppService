@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Satellite TV Viewers
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Terrestrial TV Viewers
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Radio Listeners
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Social Media Users
+  }
+]

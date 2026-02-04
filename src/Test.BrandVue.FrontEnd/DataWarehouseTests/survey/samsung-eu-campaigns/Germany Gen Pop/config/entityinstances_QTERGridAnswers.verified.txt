@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 3,
+    Name: Inclusive
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Arrogant
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Authentic
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Cool
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Youthful
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Bold
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Playful
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Visionary
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Old
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Aspirational
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Serious
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Stylish
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Ethical
+  }
+]

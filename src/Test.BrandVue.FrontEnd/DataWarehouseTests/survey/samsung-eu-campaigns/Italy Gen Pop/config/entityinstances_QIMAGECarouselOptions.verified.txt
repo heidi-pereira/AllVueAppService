@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: The look and feel of the advertising goes well with #TAG_QIMAGE#
+  },
+  {
+    ClassInstanceId: 2,
+    Name: The advertising is easy to understand
+  },
+  {
+    ClassInstanceId: 3,
+    Name: The advertising told me something new about #TAG_QIMAGE#
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I enjoyed watching/seeing/hearing it
+  },
+  {
+    ClassInstanceId: 5,
+    Name: The advertising made me want to find out more about #TAG_QIMAGE#
+  },
+  {
+    ClassInstanceId: 6,
+    Name: The advertising stood out from others I’ve seen
+  },
+  {
+    ClassInstanceId: 7,
+    Name: It felt boring
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I can relate to the content of the advertising
+  },
+  {
+    ClassInstanceId: 9,
+    Name: It was clear this advertising was for #TAG_QIMAGE#
+  },
+  {
+    ClassInstanceId: 10,
+    Name: It felt like a #TAG_QIMAGE# ad
+  },
+  {
+    ClassInstanceId: 11,
+    Name: I’m more likely to consider #TAG_QIMAGE# as a result of this ad
+  },
+  {
+    ClassInstanceId: 12,
+    Name: The ad is for people like me
+  },
+  {
+    ClassInstanceId: 13,
+    Name: What the ad was saying is relevant to me
+  },
+  {
+    ClassInstanceId: 14,
+    Name: The style of the ads (pictures, colours and imagery) is appealing
+  }
+]

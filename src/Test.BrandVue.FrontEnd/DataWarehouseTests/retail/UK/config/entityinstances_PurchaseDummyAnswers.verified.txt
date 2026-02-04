@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Jeans (1)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Jeans
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Jeans (3)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: T-Shirts (4)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: T-Shirts
+  },
+  {
+    ClassInstanceId: 6,
+    Name: T-Shirts (6)
+  }
+]

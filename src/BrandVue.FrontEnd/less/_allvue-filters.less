@@ -1,0 +1,274 @@
+@import "_vars";
+@import "_layout";
+
+.add-filter-button {
+
+    .dropdown-menu {
+        overflow: hidden;
+    }
+
+    .filter-dropdown-page-one {
+        position: relative;
+        top: 0px;
+
+        &-enter,
+        &-exit-done {
+            left: -300px;
+        }
+
+        &-enter-active {
+            left: 0px;
+            transition: left 200ms ease-in-out;
+        }
+
+        &-exit,
+        &-enter-done {
+            left: 0px;
+        }
+
+        &-exit-active {
+            left: -300px;
+            transition: left 200ms ease-in-out;
+        }
+    }
+
+    .filter-dropdown-page-two {
+        position: absolute;
+        top: 0px;
+        left: 300px;
+        height: 100%;
+
+        padding: 0.5rem 0;
+
+        .flex-column();
+        .apply-filter-buttons {
+            margin-top: auto;
+        }
+
+        &-enter,
+        &-exit-done {
+            left: 300px;
+        }
+
+        &-enter-active {
+            left: 0px;
+            transition: left 200ms ease-in-out;
+        }
+
+        &-exit,
+        &-enter-done {
+            left: 0px;
+        }
+
+        &-exit-active {
+            left: 300px;
+            transition: left 200ms ease-in-out;
+        }
+    }
+
+    .dropdown-metrics {
+        width: 300px;
+        min-height: 250px;
+
+        .dropdown-item {
+            .flex-row(@justify-content: space-between, @align-items: center);
+
+            .forward-icon {
+                color: @slate;
+                font-size: 20px;
+                margin-left: 5px;
+            }
+
+            &:hover {
+                .forward-icon {
+                    color: @slate-darker;
+                    transition: color 175ms ease;
+                }
+            }
+        }
+    }
+
+    .filter-instances {
+        .dropdown-item {
+            padding-left: 18px;
+            white-space: normal;
+
+            .selected-filter-icon {
+                display: none;
+            }
+        }
+    }
+
+    .filter-name {
+        all: unset;
+        .flex-row(@align-items: center, @gutter: 10px);
+        padding: 6px 10px;
+        width: 100%;
+        box-sizing: border-box;
+        cursor: pointer;
+
+        .var-name {
+            margin-top: 2px;
+            max-width: 250px;
+        }
+
+        .back-icon {
+            font-size: 21px;
+            color: @slate;
+            transform: translateY(-1px);
+        }
+
+        &:hover {
+            background-color: @blueSteel-lighter;
+            transition: background-color 175ms ease;
+
+            .back-icon {
+                color: @slate-darker;
+                transition: color 175ms ease;
+            }
+        }
+    }
+
+    .no-filters-message {
+        width: 250px;
+        padding: 10px 10px 2px 10px;
+        color: @slate;
+        text-align: center;
+
+        p {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.empty-dropdown {
+    width: 300px;
+}
+
+.filter-instances {
+    .flex-column();
+    width: 300px;
+    max-height: 335px;
+    overflow-y: auto;
+    overflow-wrap: anywhere;
+    .scrollbars;
+
+    @media (max-height: 800px) {
+        max-height: 265px;
+    }
+
+    @media (max-height: 750px) {
+        max-height: 215px;
+    }
+
+    @media (max-height: 700px) {
+        max-height: 165px;
+    }
+
+    @media (max-height: 650px) {
+        max-height: 115px;
+    }
+
+    .filter-instance-checkbox {
+        .flex-row();
+        padding: 7px 15px;
+
+        .filter-instance-label {
+            width: 100%;
+            padding-left: 5px;
+            margin-left: -5px; // to allow for shadow overflow
+            &::after {
+                left: 8px; // to allow for shadow overflow
+            }
+        }
+
+        .checkbox {
+            &:checked + label {
+                font-weight: 500;
+            }
+        }
+
+        &:last-child {
+            padding-bottom: 0;
+        }
+    }
+}
+
+.apply-filter-buttons {
+    .flex-row(@gutter: 10px);
+    padding: 15px 15px 7px 15px;
+
+    button {
+        width: 75px;
+        justify-content: center;
+    }
+}
+
+.filter-buttons {
+    .flex-row(@justify-content: flex-start, @align-items: center, @gutter: 10px, @flex-wrap: wrap);
+    row-gap: 10px;
+    margin-right: auto;
+
+    .selected-filter-button {
+        .dropdown-menu {
+            min-width: 190px;
+            width: 100%;
+
+            .filter-instances {
+                width: unset;
+                max-width: 565px;
+
+                .dropdown-item {
+                    justify-content: flex-start;
+                    white-space: normal;
+                    padding-right: 15px;
+
+                    .title.selected {
+                        font-weight: 500;
+                    }
+
+                    .selected-filter-icon {
+                        width: 24px;
+                        flex-shrink: 0;
+
+                        .material-symbols-outlined {
+                            color: @slate;
+                            font-size: 16px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.remove-filter-button {
+    border-radius: 4px;
+    cursor: pointer;
+
+    &:focus {
+        background: @blueSteel-dark;
+        outline: 0;
+    }
+}
+
+.filter-name-container {
+    .flex-row();
+    max-width: 500px;
+
+    .filter-name {
+        max-width: 125px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .filter-description {
+        font-weight: 500;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+

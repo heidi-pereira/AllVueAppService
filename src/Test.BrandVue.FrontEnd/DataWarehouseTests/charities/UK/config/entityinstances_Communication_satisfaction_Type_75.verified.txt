@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Communication Satisfaction:Neither dissatisfied nor satisfied (Base Communication_satisfaction)
+  }
+]

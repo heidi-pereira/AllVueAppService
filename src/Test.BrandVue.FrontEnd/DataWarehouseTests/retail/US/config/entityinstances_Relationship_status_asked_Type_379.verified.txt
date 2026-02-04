@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Relationship status market (Base Relationship_status_asked)
+  }
+]

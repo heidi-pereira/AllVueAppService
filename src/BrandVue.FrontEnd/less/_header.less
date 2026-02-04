@@ -1,0 +1,212 @@
+@import "_vars";
+
+.highcharts-loading,
+.loading-container {
+    position: absolute;
+    box-sizing: border-box;
+    left: 0;
+    top: 0;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: var(--header-background-colour);
+}
+
+.row-one .product-dropdown-toggle {
+	display: none;
+}
+
+.row-one .mainmenu {
+	display: none;
+}
+
+.account-menu {
+	font-size: 14px;
+	width: 240px;
+	color: var(--header-menu-text-colour);
+	background-color: var(--header-background-colour);
+	background-clip: padding-box;
+	box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.14), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 5px 5px rgba(0, 0, 0, 0.2);
+	border-bottom-left-radius: .25rem;
+	border-bottom-right-radius: .25rem;
+	margin: 0 0 0 0;
+	padding: 0;
+	list-style: none;
+
+	:before,
+	:after {
+		content: '';
+		display: table;
+		box-sizing: unset;
+	}
+
+	:after {
+		clear: both;
+	}
+
+	.separator {
+		border-bottom: 1px solid var(--header-border-colour);
+		border-top: 0;
+		border-left: 0;
+		border-right: 0;
+	}
+
+	ul {
+		margin: 20px 0 0 0;
+		opacity: 0;
+		visibility: hidden;
+		position: absolute;
+		top: 46px;
+		left: 0;
+		z-index: 1;
+		//10% opacity white overlay to lighten ul background (--header-background-colour) by 10%
+		background: rgba(white, 0.1);
+		transition: all .3s ease-in-out;
+		padding: 0;
+		list-style: none;
+		box-sizing: content-box;
+	}
+
+	li {
+		float: left;
+		position: relative;
+		display: list-item;
+		//10% opacity white overlay to lighten ul background (--header-background-colour) by 10%
+		background: rgba(white, 0.1);
+		text-align: left;
+		margin: 0 0 0 0;
+		box-sizing: content-box;
+	}
+
+	li ul {
+		background-clip: padding-box;
+		box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.14), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 5px 5px rgba(0, 0, 0, 0.2);
+		border-radius: .25rem;
+		background: var(--header-background-colour);
+		left: -170px;
+		top: 0px;
+	}
+
+	ul li {
+		float: none;
+		display: block;
+		border: 1px;
+	}
+
+	a {
+		float: left;
+		padding: 12px 30px;
+		text-align: left;
+		width: 180px;
+		display: flex;
+		cursor: pointer;
+		color: var(--header-menu-text-colour);
+		box-sizing: content-box;
+
+		&.readonly {
+			cursor: inherit;
+			display: block;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+	}
+
+	span.text {
+		padding-left: 10px;
+		padding-top: 5px;
+	}
+
+
+	ul a {
+		width: 130px;
+		display: block;
+		white-space: nowrap;
+		float: none;
+	}
+
+	li:hover > ul {
+		opacity: 1;
+		visibility: visible;
+		margin: 0;
+	}
+
+	li a:hover,
+	ul a:hover {
+		background-color: rgba(var(--header-border-colour-rgb), 0.24);
+		color: var(--header-border-colour) !important;
+	}
+
+	li.node > a:after {
+		content: '';
+		position: absolute;
+		right: 25px;
+		top: 20px;
+		border-top: 6px solid transparent;
+		border-bottom: 6px solid transparent;
+		border-left: 6px solid var(--header-text-colour);
+	}
+
+	li.node:hover > a:after {
+		border-left: 6px solid var(--header-border-colour);
+	}
+
+	li.with-right-hand-icon a > span:last-child {
+		position: relative;
+		margin-left: auto;
+		align-self: flex-end;
+		left: 15px;
+	}
+}
+
+// Media query for collapsing top menu
+
+@media (max-width: 920px) {
+	.row-one .products.menu .options {
+		display: none;
+		position: absolute;
+		top: 40px;
+		left: -30px;
+		right: auto;
+		padding: 5px 20px 10px;
+		background: black;
+		min-width: 100%;
+		z-index: 100000;
+		box-shadow: 0 2px 14px rgba(0, 0, 0, 0.05);
+		box-sizing: border-box;
+	}
+
+    .row-one .product-dropdown-toggle {
+        display: block;
+    }
+
+	.row-one .products.menu .options.open {
+		display: block;
+	}
+
+	.row-one .products.menu .options .product-bar-link {
+		margin: 0 0;
+		padding: 10px 0;
+		border: none;
+		display: block;
+		white-space: nowrap;
+		position: relative;
+	}
+
+	.row-one .products.menu .options .product-bar-link:after {
+		top: 0px;
+		left: -20px;
+		width: 4px;
+		height: 100%;
+		opacity: 0;
+	}
+
+	.row-one .products.menu .options .product-bar-link.active:after {
+		opacity: 1;
+	}
+
+}

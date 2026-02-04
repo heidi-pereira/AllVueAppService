@@ -1,0 +1,28 @@
+@import "../../../../../less/_vars";
+
+.instanceSelector {
+    min-height: 200px;
+
+    &.disabled {
+        background-color: @chalk-lighter;
+    }
+
+    .breakInstanceSelector {
+        border: 1px solid @slate-lighter;
+        border-radius: 4px;
+        padding: 15px 15px 15px 10px;
+        min-height: 200px;
+        max-height: 100%;
+        overflow-y: auto;
+    
+        & > *:not(:last-child) {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.instanceCheckboxLabel {
+    &.disabled {
+        color: @slate-lighter !important;
+    }
+}

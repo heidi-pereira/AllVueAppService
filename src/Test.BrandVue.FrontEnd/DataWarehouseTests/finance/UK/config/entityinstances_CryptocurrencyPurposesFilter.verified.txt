@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: To pay for goods and services
+  },
+  {
+    ClassInstanceId: 2,
+    Name: As an investment
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Other (please specify)
+  }
+]

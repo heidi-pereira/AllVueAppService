@@ -1,0 +1,206 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Extremely unlikely|Extremely likely|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Extremely unlikely|Extremely likely|Xiaomi|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Extremely unlikely|Extremely likely|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Extremely unlikely|Extremely likely|Philips|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Extremely unlikely|Extremely likely|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Extremely unlikely|Extremely likely|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Extremely unlikely|Extremely likely|AEG|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Extremely unlikely|Extremely likely|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Extremely unlikely|Extremely likely|Hoover|Neutral|
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Extremely unlikely|Extremely likely|Dyson|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Extremely unlikely|Extremely likely|Electrolux|Neutral|
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Extremely unlikely|Extremely likely|Ufesa|Neutral|
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Extremely unlikely|Extremely likely|Grundig|Neutral|
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Extremely unlikely|Extremely likely|Ecovacs|Neutral|
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Extremely unlikely|Extremely likely|Eureka|Neutral|
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Extremely unlikely|Extremely likely|Eziclean|Neutral|
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Extremely unlikely|Extremely likely|Eufy|Neutral|
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Extremely unlikely|Extremely likely|Karcher|Neutral|
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Extremely unlikely|Extremely likely|Mova|Neutral|
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Extremely unlikely|Extremely likely|Vactidy|Neutral|
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Extremely unlikely|Extremely likely|Roborock|Neutral|
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Extremely unlikely|Extremely likely|Lebon|Neutral|
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Extremely unlikely|Extremely likely|Rowenta|Neutral|
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Extremely unlikely|Extremely likely|Shark|Neutral|
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Extremely unlikely|Extremely likely|Vax|Neutral|
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Extremely unlikely|Extremely likely|MI|Neutral|
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Extremely unlikely|Extremely likely|Cecotec|Neutral|
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Extremely unlikely|Extremely likely|Bissell|Neutral|
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Extremely unlikely|Extremely likely|Roidmi|Neutral|
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Extremely unlikely|Extremely likely|Leifheit|Neutral|
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Extremely unlikely|Extremely likely|Tefal|Neutral|
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Extremely unlikely|Extremely likely|Dreame|Neutral|
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Extremely unlikely|Extremely likely|Ariete|Neutral|
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Extremely unlikely|Extremely likely|Black & Decker|Neutral|
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Extremely unlikely|Extremely likely|Thomson|Neutral|
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Extremely unlikely|Extremely likely|Numatic|Neutral|
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Extremely unlikely|Extremely likely|Levoit|Neutral|
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Extremely unlikely|Extremely likely|Gtech|Neutral|
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Extremely unlikely|Extremely likely|Tower|Neutral|
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Extremely unlikely|Extremely likely|Taurus|Neutral|
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Extremely unlikely|Extremely likely|Ecovacs|Neutral| (101)
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Extremely unlikely|Extremely likely|Eureka|Neutral| (102)
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Extremely unlikely|Extremely likely|Eziclean|Neutral| (103)
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Extremely unlikely|Extremely likely|Eufy|Neutral| (104)
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Extremely unlikely|Extremely likely|Kaercher|Neutral|
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Extremely unlikely|Extremely likely|Mova|Neutral| (106)
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Extremely unlikely|Extremely likely|Vactidy|Neutral| (107)
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Extremely unlikely|Extremely likely|Roborock|Neutral| (108)
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Extremely unlikely|Extremely likely|Lebon|Neutral| (109)
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Extremely unlikely|Extremely likely|Ufesa|Neutral| (110)
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Extremely unlikely|Extremely likely|Grundig|Neutral| (111)
+  }
+]

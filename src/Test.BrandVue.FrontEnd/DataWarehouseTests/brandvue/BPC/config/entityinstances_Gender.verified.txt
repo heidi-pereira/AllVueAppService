@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Female
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Male
+  }
+]

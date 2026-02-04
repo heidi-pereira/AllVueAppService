@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Harry Ramsden’s at motorway service stations (Welcome Break)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Harry Ramsden’s ‘quick service’ restaurants (e.g. in a shopping centre)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Harry Ramsden’s ‘full service’ restaurants or pubs
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Not sure
+  }
+]

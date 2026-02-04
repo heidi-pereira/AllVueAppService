@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have held this phone before and interacted with it
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have held this phone before but not interacted with it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I haven’t held this phone before
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know/Can’t remember
+  }
+]

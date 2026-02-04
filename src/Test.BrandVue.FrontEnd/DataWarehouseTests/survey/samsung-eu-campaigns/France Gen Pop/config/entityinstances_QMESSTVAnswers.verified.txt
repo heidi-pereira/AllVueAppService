@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Provides the best TV experience ever
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Provides the most impressive TV experience
+  },
+  {
+    ClassInstanceId: 3,
+    Name: More Wow than ever
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Offers wow-worthy TV picture quality
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Offers wow-worthy TV sound quality
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Provides the best TV experience ever (6)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

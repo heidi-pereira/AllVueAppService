@@ -1,0 +1,32 @@
+﻿@import "_vars";
+@import "_layout";
+
+.all-bars {
+    .flex-column(@gutter: 24px);
+}
+
+.single-bar {
+    .flex-column(@gutter: 4px);
+
+    > div:first-child {
+        .flex-row();
+
+        .data {
+            margin-left: auto;
+        }
+
+        .delta {
+            display: none;
+        }
+    }
+
+    .bar-bg {
+        background: @chalk-light;
+        height: 8px;
+    }
+
+    .bar-fg {
+        height: 8px;
+        background: @blueSteel;
+    }
+}

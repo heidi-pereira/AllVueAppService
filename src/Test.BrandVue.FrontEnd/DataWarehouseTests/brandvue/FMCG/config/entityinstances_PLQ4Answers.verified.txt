@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Spend more
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Spend the same
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Spend less
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Don't know
+  }
+]

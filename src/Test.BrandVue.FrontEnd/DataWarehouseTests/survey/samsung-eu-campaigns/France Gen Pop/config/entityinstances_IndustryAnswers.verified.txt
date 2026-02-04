@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Advertising
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Market Research
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Marketing
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Journalism
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Public Relations
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Banking
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Education
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Manufacture or retail of consumer electronics
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of above
+  }
+]

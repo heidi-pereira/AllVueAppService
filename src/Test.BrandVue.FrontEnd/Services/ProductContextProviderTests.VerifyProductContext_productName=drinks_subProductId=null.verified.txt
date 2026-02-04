@@ -1,0 +1,131 @@
+﻿{
+  AllowPartialDays: false,
+  DayIsFromResponseEndTime: true,
+  DefaultAveragesToInclude: null,
+  DisableAutoMetricFiltering: true,
+  GenerateFromAnswersTable: true,
+  GenerateFromSurveyIds: true,
+  HasSingleClient: false,
+  IncludeAllDefaultAverages: true,
+  IsAllVue: false,
+  IsContinuous: false,
+  IsSurveyGroup: true,
+  IsSurveyOpen: true,
+  KeepInMemory: true,
+  KimbleProposalId: null,
+  NonMapFileSurveyIds: [
+    7396,
+    7543,
+    7687,
+    7896,
+    8115,
+    8325,
+    8466,
+    8703,
+    8934,
+    9133,
+    9389,
+    9666,
+    9914,
+    10133,
+    10510,
+    10765,
+    11146,
+    11373,
+    11598,
+    11815,
+    25513
+  ],
+  NonMapFileSurveys: [
+    {
+      SurveyId: 7396,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 7543,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 7687,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 7896,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 8115,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 8325,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 8466,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 8703,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 8934,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 9133,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 9389,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 9666,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 9914,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 10133,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 10510,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 10765,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 11146,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 11373,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 11598,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 11815,
+      SurveyName: drinks
+    },
+    {
+      SurveyId: 25513,
+      SurveyName: drinks
+    }
+  ],
+  ShortCode: drinks,
+  SubProductId: null,
+  SurveyAuthCompanyId: Savanta,
+  SurveyGroupId: 4,
+  SurveyName: drinks,
+  SurveyUid: 
+}

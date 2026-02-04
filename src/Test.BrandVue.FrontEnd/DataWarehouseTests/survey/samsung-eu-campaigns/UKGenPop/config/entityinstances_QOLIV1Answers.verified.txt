@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Jamie Oliver
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Nigella Lawson
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Gordon Ramsey
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Rick Stein
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Traditionalists
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Browsers
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Expressers
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Social Savvies
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Productives
+  }
+]

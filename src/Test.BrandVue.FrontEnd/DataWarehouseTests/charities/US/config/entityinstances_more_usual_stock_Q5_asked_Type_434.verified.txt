@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: than usual stockQ 5 (Base more_usual_stock_Q5_asked)
+  }
+]

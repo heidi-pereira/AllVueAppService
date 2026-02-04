@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Holidaying in the UK (not abroad)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Travelling / Holidaying overseas
+  }
+]

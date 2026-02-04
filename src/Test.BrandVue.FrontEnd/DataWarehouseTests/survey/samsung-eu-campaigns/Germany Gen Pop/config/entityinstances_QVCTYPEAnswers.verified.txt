@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A stick style cordless/rechargeable
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Upright or corded plug in
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Robot Vacuum
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

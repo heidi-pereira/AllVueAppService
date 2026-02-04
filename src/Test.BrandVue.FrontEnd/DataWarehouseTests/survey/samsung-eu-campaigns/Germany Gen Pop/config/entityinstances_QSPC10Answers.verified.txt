@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Google Pixel
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Huawei
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Nokia
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Xiaomi
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Oppo
+  },
+  {
+    ClassInstanceId: 41,
+    Name: OnePlus
+  },
+  {
+    ClassInstanceId: 99,
+    Name: I would not be interested in buying a phone with 5G technology
+  }
+]

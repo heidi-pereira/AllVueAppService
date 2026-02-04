@@ -1,0 +1,29 @@
+@import 'colors.scss';
+@import "dimensions.scss";
+@import "layout.scss";
+
+.search-filter-sort {
+  @include flex-row($justify-content: flex-start, $align-items: center);
+  gap: 16px;
+  max-width: 1000px;
+  width: 100%;
+
+  @media (max-width: $breakpoint-mobile) {
+    @include flex-column($justify-content: flex-start, $align-items: center);
+    margin: 16px;
+  }
+  
+  .buttons {
+    @include flex-row($justify-content: flex-start, $align-items: center);
+    width: 100%;
+  }
+
+  .left-buttons {
+    @include flex-row($justify-content: space-between, $align-items: center);
+    gap: 10px;
+  }
+
+  .right-buttons {
+    margin-left: auto;
+  }
+}

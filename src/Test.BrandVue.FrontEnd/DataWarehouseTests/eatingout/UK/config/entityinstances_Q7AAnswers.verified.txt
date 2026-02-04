@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am working normal hours
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I am working fewer hours than normal
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I am working more hours than normal
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have been furloughed on 80% pay
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I have been furloughed on 80% pay and my employer is topping up the additional 20%
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I have been made redundant
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I have been made to take unpaid leave
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I was not working before the outbreak and still am not
+  }
+]

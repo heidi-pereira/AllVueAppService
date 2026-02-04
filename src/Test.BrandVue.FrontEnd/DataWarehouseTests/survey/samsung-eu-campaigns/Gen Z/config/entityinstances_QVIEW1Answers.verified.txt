@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A lot less likely
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Slightly less likely
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Made no difference
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Slightly more likely
+  },
+  {
+    ClassInstanceId: 5,
+    Name: A lot more likely
+  }
+]

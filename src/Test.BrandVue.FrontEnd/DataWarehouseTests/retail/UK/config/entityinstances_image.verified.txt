@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Quality
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Good service
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Good value
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Premium
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Friendly
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Exciting
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Trusted
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Stylish
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Convenient
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Easy to find what you want
+  },
+  {
+    ClassInstanceId: 11,
+    Name: For people like you
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Wide range of product
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Ethical
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Environmentally friendly
+  }
+]

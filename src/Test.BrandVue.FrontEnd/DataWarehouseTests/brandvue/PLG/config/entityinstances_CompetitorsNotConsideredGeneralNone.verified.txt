@@ -1,0 +1,558 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 1001,
+    Name: Acne Studios
+  },
+  {
+    ClassInstanceId: 1002,
+    Name: Agent Provocateur
+  },
+  {
+    ClassInstanceId: 1003,
+    Name: McQueen
+  },
+  {
+    ClassInstanceId: 1004,
+    Name: Apple Watch
+  },
+  {
+    ClassInstanceId: 1005,
+    Name: Aquascutum
+  },
+  {
+    ClassInstanceId: 1006,
+    Name: Armani
+  },
+  {
+    ClassInstanceId: 1007,
+    Name: Asprey
+  },
+  {
+    ClassInstanceId: 1008,
+    Name: Audemars Piguet
+  },
+  {
+    ClassInstanceId: 1009,
+    Name: Balenciaga
+  },
+  {
+    ClassInstanceId: 1010,
+    Name: Bally
+  },
+  {
+    ClassInstanceId: 1011,
+    Name: Balmain
+  },
+  {
+    ClassInstanceId: 1012,
+    Name: Barbour
+  },
+  {
+    ClassInstanceId: 1013,
+    Name: Baume & Mercier
+  },
+  {
+    ClassInstanceId: 1014,
+    Name: Belstaff
+  },
+  {
+    ClassInstanceId: 1015,
+    Name: Bollinger
+  },
+  {
+    ClassInstanceId: 1016,
+    Name: Boodles
+  },
+  {
+    ClassInstanceId: 1017,
+    Name: Bottega Veneta
+  },
+  {
+    ClassInstanceId: 1018,
+    Name: Boucheron
+  },
+  {
+    ClassInstanceId: 1019,
+    Name: Breguet
+  },
+  {
+    ClassInstanceId: 1020,
+    Name: Breitling
+  },
+  {
+    ClassInstanceId: 1021,
+    Name: Burberry
+  },
+  {
+    ClassInstanceId: 1022,
+    Name: Bvlgari
+  },
+  {
+    ClassInstanceId: 1023,
+    Name: Calvin Klein
+  },
+  {
+    ClassInstanceId: 1024,
+    Name: Carolina Herrera
+  },
+  {
+    ClassInstanceId: 1025,
+    Name: Cartier
+  },
+  {
+    ClassInstanceId: 1026,
+    Name: Celine
+  },
+  {
+    ClassInstanceId: 1027,
+    Name: Cerruti 1881
+  },
+  {
+    ClassInstanceId: 1028,
+    Name: Chanel
+  },
+  {
+    ClassInstanceId: 1029,
+    Name: Chaumet
+  },
+  {
+    ClassInstanceId: 1030,
+    Name: Chloé
+  },
+  {
+    ClassInstanceId: 1031,
+    Name: Chopard
+  },
+  {
+    ClassInstanceId: 1032,
+    Name: Church's
+  },
+  {
+    ClassInstanceId: 1033,
+    Name: Club Monaco
+  },
+  {
+    ClassInstanceId: 1034,
+    Name: Coach
+  },
+  {
+    ClassInstanceId: 1035,
+    Name: De Beers
+  },
+  {
+    ClassInstanceId: 1036,
+    Name: Dior
+  },
+  {
+    ClassInstanceId: 1037,
+    Name: DKNY
+  },
+  {
+    ClassInstanceId: 1038,
+    Name: Dolce & Gabbana
+  },
+  {
+    ClassInstanceId: 1039,
+    Name: Duchamp
+  },
+  {
+    ClassInstanceId: 1040,
+    Name: Dunhill
+  },
+  {
+    ClassInstanceId: 1041,
+    Name: Zegna
+  },
+  {
+    ClassInstanceId: 1042,
+    Name: Escada
+  },
+  {
+    ClassInstanceId: 1043,
+    Name: Farfetch
+  },
+  {
+    ClassInstanceId: 1044,
+    Name: Fay
+  },
+  {
+    ClassInstanceId: 1045,
+    Name: Fendi
+  },
+  {
+    ClassInstanceId: 1046,
+    Name: Fortnum & Mason
+  },
+  {
+    ClassInstanceId: 1047,
+    Name: Furla
+  },
+  {
+    ClassInstanceId: 1048,
+    Name: Gieves & Hawkes
+  },
+  {
+    ClassInstanceId: 1049,
+    Name: Girard-Perregaux
+  },
+  {
+    ClassInstanceId: 1050,
+    Name: Givenchy
+  },
+  {
+    ClassInstanceId: 1051,
+    Name: Graff
+  },
+  {
+    ClassInstanceId: 1052,
+    Name: Gucci
+  },
+  {
+    ClassInstanceId: 1053,
+    Name: Guerlain
+  },
+  {
+    ClassInstanceId: 1054,
+    Name: Harrods
+  },
+  {
+    ClassInstanceId: 1055,
+    Name: Harry Winston
+  },
+  {
+    ClassInstanceId: 1056,
+    Name: Harvey Nichols
+  },
+  {
+    ClassInstanceId: 1057,
+    Name: Hermès
+  },
+  {
+    ClassInstanceId: 1058,
+    Name: Hublot
+  },
+  {
+    ClassInstanceId: 1059,
+    Name: Boss
+  },
+  {
+    ClassInstanceId: 1060,
+    Name: Issey Miyake
+  },
+  {
+    ClassInstanceId: 1061,
+    Name: IWC
+  },
+  {
+    ClassInstanceId: 1062,
+    Name: Jaeger-LeCoultre
+  },
+  {
+    ClassInstanceId: 1063,
+    Name: Jil Sander
+  },
+  {
+    ClassInstanceId: 1064,
+    Name: Jimmy Choo
+  },
+  {
+    ClassInstanceId: 1065,
+    Name: John Lobb
+  },
+  {
+    ClassInstanceId: 1066,
+    Name: Joseph
+  },
+  {
+    ClassInstanceId: 1067,
+    Name: Kate Spade
+  },
+  {
+    ClassInstanceId: 1068,
+    Name: Kenzo
+  },
+  {
+    ClassInstanceId: 1069,
+    Name: Kurt Geiger
+  },
+  {
+    ClassInstanceId: 1070,
+    Name: Lanvin
+  },
+  {
+    ClassInstanceId: 1071,
+    Name: Liberty
+  },
+  {
+    ClassInstanceId: 1072,
+    Name: Loewe
+  },
+  {
+    ClassInstanceId: 1073,
+    Name: Longchamp
+  },
+  {
+    ClassInstanceId: 1074,
+    Name: Longines
+  },
+  {
+    ClassInstanceId: 1075,
+    Name: Loro Piana
+  },
+  {
+    ClassInstanceId: 1076,
+    Name: Louis Vuitton
+  },
+  {
+    ClassInstanceId: 1077,
+    Name: Marc Jacobs
+  },
+  {
+    ClassInstanceId: 1078,
+    Name: Marc O'Polo
+  },
+  {
+    ClassInstanceId: 1079,
+    Name: MaxMara
+  },
+  {
+    ClassInstanceId: 1080,
+    Name: Michael Kors
+  },
+  {
+    ClassInstanceId: 1081,
+    Name: Michele
+  },
+  {
+    ClassInstanceId: 1082,
+    Name: Mikimoto
+  },
+  {
+    ClassInstanceId: 1083,
+    Name: Misfit
+  },
+  {
+    ClassInstanceId: 1084,
+    Name: Miu Miu
+  },
+  {
+    ClassInstanceId: 1085,
+    Name: Moncler
+  },
+  {
+    ClassInstanceId: 1086,
+    Name: Monologue
+  },
+  {
+    ClassInstanceId: 1087,
+    Name: Montblanc
+  },
+  {
+    ClassInstanceId: 1088,
+    Name: Moschino
+  },
+  {
+    ClassInstanceId: 1089,
+    Name: Mulberry
+  },
+  {
+    ClassInstanceId: 1090,
+    Name: Net-A-Porter
+  },
+  {
+    ClassInstanceId: 1091,
+    Name: Nina Ricci
+  },
+  {
+    ClassInstanceId: 1092,
+    Name: Oakley
+  },
+  {
+    ClassInstanceId: 1093,
+    Name: Omega
+  },
+  {
+    ClassInstanceId: 1094,
+    Name: Pandora
+  },
+  {
+    ClassInstanceId: 1095,
+    Name: Patek Philippe
+  },
+  {
+    ClassInstanceId: 1096,
+    Name: Paul Smith
+  },
+  {
+    ClassInstanceId: 1097,
+    Name: Persol
+  },
+  {
+    ClassInstanceId: 1098,
+    Name: Piaget
+  },
+  {
+    ClassInstanceId: 1099,
+    Name: Police
+  },
+  {
+    ClassInstanceId: 1100,
+    Name: Polo Ralph Lauren
+  },
+  {
+    ClassInstanceId: 1101,
+    Name: Prada
+  },
+  {
+    ClassInstanceId: 1102,
+    Name: Pringle
+  },
+  {
+    ClassInstanceId: 1103,
+    Name: Purdey
+  },
+  {
+    ClassInstanceId: 1104,
+    Name: Rado
+  },
+  {
+    ClassInstanceId: 1105,
+    Name: Ralph Lauren
+  },
+  {
+    ClassInstanceId: 1106,
+    Name: Ray-Ban
+  },
+  {
+    ClassInstanceId: 1107,
+    Name: Rigby & Peller
+  },
+  {
+    ClassInstanceId: 1108,
+    Name: Roger Vivier
+  },
+  {
+    ClassInstanceId: 1109,
+    Name: Rolex
+  },
+  {
+    ClassInstanceId: 1110,
+    Name: Saint Laurent
+  },
+  {
+    ClassInstanceId: 1111,
+    Name: Ferragamo
+  },
+  {
+    ClassInstanceId: 1112,
+    Name: Selfridges
+  },
+  {
+    ClassInstanceId: 1113,
+    Name: Stella McCartney
+  },
+  {
+    ClassInstanceId: 1114,
+    Name: Stuart Weitzman
+  },
+  {
+    ClassInstanceId: 1115,
+    Name: Swarovski
+  },
+  {
+    ClassInstanceId: 1116,
+    Name: TAG Heuer
+  },
+  {
+    ClassInstanceId: 1117,
+    Name: Tiffany
+  },
+  {
+    ClassInstanceId: 1118,
+    Name: Tissot
+  },
+  {
+    ClassInstanceId: 1119,
+    Name: Tod’s
+  },
+  {
+    ClassInstanceId: 1120,
+    Name: Tom Ford
+  },
+  {
+    ClassInstanceId: 1121,
+    Name: Tommy Hilfiger
+  },
+  {
+    ClassInstanceId: 1122,
+    Name: Tory Burch
+  },
+  {
+    ClassInstanceId: 1123,
+    Name: Trussardi
+  },
+  {
+    ClassInstanceId: 1124,
+    Name: Tudor
+  },
+  {
+    ClassInstanceId: 1125,
+    Name: Tumi
+  },
+  {
+    ClassInstanceId: 1126,
+    Name: Ulysse Nardin
+  },
+  {
+    ClassInstanceId: 1127,
+    Name: Urban Decay
+  },
+  {
+    ClassInstanceId: 1128,
+    Name: Vacheron Constantin
+  },
+  {
+    ClassInstanceId: 1129,
+    Name: Valentino
+  },
+  {
+    ClassInstanceId: 1130,
+    Name: Van Cleef & Arpels
+  },
+  {
+    ClassInstanceId: 1131,
+    Name: Vera Bradley
+  },
+  {
+    ClassInstanceId: 1132,
+    Name: Vera Wang
+  },
+  {
+    ClassInstanceId: 1133,
+    Name: Verdura
+  },
+  {
+    ClassInstanceId: 1134,
+    Name: Versace
+  },
+  {
+    ClassInstanceId: 1135,
+    Name: Viktor&Rolf
+  },
+  {
+    ClassInstanceId: 1136,
+    Name: Vivienne Westwood
+  },
+  {
+    ClassInstanceId: 1137,
+    Name: Wempe
+  },
+  {
+    ClassInstanceId: 1138,
+    Name: Zenith
+  }
+]

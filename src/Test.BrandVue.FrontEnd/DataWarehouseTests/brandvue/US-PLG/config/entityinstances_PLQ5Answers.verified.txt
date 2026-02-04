@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Price
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quality of materials
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Provenance (e.g. where it is from)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Rarity / Uniqueness
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Brand
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Craftsmanship
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Long lasting
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Standout (e.g. a statement piece)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Sustainable (e.g. materials used or brand ethics)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Exclusiveness / Limited edition
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (specify)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

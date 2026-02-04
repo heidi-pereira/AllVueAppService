@@ -1,0 +1,43 @@
+@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+.categoryLabel {
+    color: @slate;
+    margin-bottom: 16px;
+}
+
+.option {
+    .flex-column();
+    margin-bottom: 15px;
+
+    input[type=checkbox] {
+        margin-right: 10px;
+        width: 16px;
+        height: 16px;
+        vertical-align: text-top;
+        cursor: pointer;
+    }
+
+    label {
+        cursor: pointer;
+        margin: 0;
+    }
+}
+
+.optionLabel {
+    width: 80%;
+    padding: 8px 0;
+    margin-right: auto;
+}
+
+.averageHint {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 26px;
+    color: @slate;
+}
+
+.subOptionList {
+    margin-top: 12px;
+    margin-left: 28px;
+}

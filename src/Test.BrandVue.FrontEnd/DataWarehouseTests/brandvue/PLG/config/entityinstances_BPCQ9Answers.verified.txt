@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Single vitamins
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Multi-vitamins
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Age related supplements
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Specialist supplements (such as for good vision / good bone health etc)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Omega 3 & fish oil supplements
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

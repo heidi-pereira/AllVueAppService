@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung Dual Cook Flex: An Oven. Two Doors. Endless Possibilities)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Samsung Dual Cook Flex:  Double doors:
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Samsung Dual Cook Flex: Double capacity
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Samsung Dual Cook Flex: Multiple recipes/different temperature:
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Samsung Dual Cook Flex: AirFry/Steam cooking
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Take control of your appliances and personalise your experiences
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Samsung domestic appliances have modern design and colours
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung domestic appliances are good value
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Samsung allows you to personalise your space in your way
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Samsung is a brand that fits your lifestyle
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Samsung domestic appliances are innovative
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Samsung makes products which easily connect to other devices
+  },
+  {
+    ClassInstanceId: 14,
+    Name: There is currently a promotional offer on Samsung domestic appliances
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

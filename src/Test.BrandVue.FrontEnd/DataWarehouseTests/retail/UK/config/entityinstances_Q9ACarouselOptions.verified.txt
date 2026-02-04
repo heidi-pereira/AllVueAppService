@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Got better
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Stayed the same
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Got worse
+  }
+]

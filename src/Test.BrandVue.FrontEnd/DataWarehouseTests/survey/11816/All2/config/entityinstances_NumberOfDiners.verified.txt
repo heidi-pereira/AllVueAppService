@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Adults (aged 16+)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Children (aged 2 to 15)
+  }
+]

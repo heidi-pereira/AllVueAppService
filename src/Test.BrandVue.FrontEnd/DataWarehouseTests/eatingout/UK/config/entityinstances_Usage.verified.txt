@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I own one and use it regularly
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I own one and use it occasionally
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I own one but do not use it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have seen / heard of these BUT I do not own one
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I have NEVER seen / heard of these
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

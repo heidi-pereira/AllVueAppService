@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Once a day: (Base Consumer_segment)
+  }
+]

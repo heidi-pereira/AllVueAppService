@@ -1,0 +1,240 @@
+@import "../../../../../../less/_vars.less";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 100%;
+  margin-top:-20px;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  width: 100%;
+}
+
+.header {
+  color: @slate-darker;
+  font-size: 14px;
+  align-self: center;
+  padding-bottom: 16px;
+}
+
+.body {
+  display: grid;
+  min-height: 320px;
+  grid-template-columns: 65% 35%;
+}
+
+.listPane {
+  padding-right: 4px;
+  overflow-y: auto;
+}
+
+.templateList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.item,
+.itemSelected {
+  position: relative;
+  padding: 12px 12px 10px 12px;
+  border: 1px solid @chalk-light;
+  border-radius: 2px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.item:hover {
+  background: @chalk-lighter;
+}
+
+.itemSelected {
+  background: @blueSteel-lightest;
+  border: 1px solid @blueSteel-light;
+}
+
+.itemTopRow {
+  display: grid;
+  grid-template-columns: 40px 1fr 32px;
+  align-items: center;
+  gap: 0;
+}
+
+.left {
+  display: contents;
+}
+
+.itemIcon {
+  align-self: normal;
+  margin-top:10px;
+}
+
+.itemMain {
+  grid-column: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 0;
+}
+
+.right {
+  grid-column: 3;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.itemIcon {
+  color: #7E0181;
+}
+
+.kebab {
+  background: transparent;
+  border: none;
+  padding: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.menu {
+  position: absolute;
+  right: 0;
+  top: 24px;
+  background: @white;
+  border: 1px solid @chalk;
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  z-index: 20;
+}
+
+.menuItem {
+  display: block;
+  padding: 8px 12px;
+  width: 180px;
+  text-align: left;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.menuItem:hover {
+  background: @chalk-light;
+}
+
+.itemMain {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 0px;
+}
+
+.itemName {
+  font-weight: 500;
+}
+
+.itemDesc {
+  color: @slate-darker;
+  font-size: 14px;
+}
+
+.itemMetaRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: @slate;
+  font-size: 12px;
+}
+
+.matchBadge {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  background: @blueSteel-lightest;
+  color: @blueSteel-dark;
+  border: 1px solid @blueSteel-light;
+  border-radius: 999px;
+  font-size: 11px;
+  padding: 2px 8px;
+}
+
+.matchBadge > span {
+  font-weight: 700;
+  margin-right: 4px;
+}
+
+.detailPane {
+  background: @white;
+}
+
+.detailCard {
+  padding: 12px;
+}
+
+.detailTitle {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.detailRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 0;
+}
+
+.detailValue {
+  color: @slate-darker;
+  font-weight: 600;
+}
+
+.calendar {
+  font-size: 18px;
+}
+
+.itemWrapper {
+  position: relative;
+}
+
+.hamburger {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  z-index: 2;
+}
+
+.toggle {
+  font-size:20px;
+}
+
+.hamburger :global(.btn-menu),
+.hamburger :global(.styled-toggle) {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: inherit;
+}
+
+.hamburger :global(.btn-menu:hover),
+.hamburger :global(.btn-menu:focus),
+.hamburger :global(.btn-menu:active),
+.hamburger :global(.styled-toggle:hover),
+.hamburger :global(.styled-toggle:focus),
+.hamburger :global(.styled-toggle:active),
+.hamburger :global(.show > .btn-menu.dropdown-toggle),
+.hamburger :global(.show > .styled-toggle.dropdown-toggle) {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.hamburger :global(.dropdown-toggle::after) {
+  display: none;
+}

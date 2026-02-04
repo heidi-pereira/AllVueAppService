@@ -1,0 +1,262 @@
+﻿[
+  {
+    ClassInstanceId: 22,
+    Name: Pizza Hut Restaurants
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Fridays
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Five Guys
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Burger King
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Costa
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Domino's
+  },
+  {
+    ClassInstanceId: 136,
+    Name: IKEA
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Just Eat
+  },
+  {
+    ClassInstanceId: 142,
+    Name: KFC
+  },
+  {
+    ClassInstanceId: 145,
+    Name: McDonald's
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Papa John's
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Pizza Hut Delivery
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Starbucks
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Subway
+  },
+  {
+    ClassInstanceId: 173,
+    Name: UberEats
+  },
+  {
+    ClassInstanceId: 324,
+    Name: Carl's Jr.
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Popeyes
+  },
+  {
+    ClassInstanceId: 426,
+    Name: Taco Bell
+  },
+  {
+    ClassInstanceId: 600,
+    Name: 100 Montaditos
+  },
+  {
+    ClassInstanceId: 606,
+    Name: Apeteat
+  },
+  {
+    ClassInstanceId: 617,
+    Name: Café & Tapas
+  },
+  {
+    ClassInstanceId: 618,
+    Name: Café & Té
+  },
+  {
+    ClassInstanceId: 621,
+    Name: Cañas y Tapas
+  },
+  {
+    ClassInstanceId: 622,
+    Name: Cantina Mariachi
+  },
+  {
+    ClassInstanceId: 624,
+    Name: Cervecería Gambrinus
+  },
+  {
+    ClassInstanceId: 630,
+    Name: Dehesa Santa María
+  },
+  {
+    ClassInstanceId: 632,
+    Name: Don G
+  },
+  {
+    ClassInstanceId: 643,
+    Name: Foster's Hollywood
+  },
+  {
+    ClassInstanceId: 645,
+    Name: FrescCo
+  },
+  {
+    ClassInstanceId: 651,
+    Name: Ginos
+  },
+  {
+    ClassInstanceId: 653,
+    Name: Glovo
+  },
+  {
+    ClassInstanceId: 654,
+    Name: Goiko Grill
+  },
+  {
+    ClassInstanceId: 660,
+    Name: Hamburguesa Nostra
+  },
+  {
+    ClassInstanceId: 664,
+    Name: Indalo Tapas
+  },
+  {
+    ClassInstanceId: 676,
+    Name: La Cruz Blanca
+  },
+  {
+    ClassInstanceId: 680,
+    Name: La Sureña
+  },
+  {
+    ClassInstanceId: 681,
+    Name: La Tagliatella
+  },
+  {
+    ClassInstanceId: 690,
+    Name: Lizarran
+  },
+  {
+    ClassInstanceId: 695,
+    Name: MásQMenos
+  },
+  {
+    ClassInstanceId: 707,
+    Name: Panaria
+  },
+  {
+    ClassInstanceId: 709,
+    Name: Pannus
+  },
+  {
+    ClassInstanceId: 710,
+    Name: Pans & Company
+  },
+  {
+    ClassInstanceId: 711,
+    Name: Papizza
+  },
+  {
+    ClassInstanceId: 712,
+    Name: Pasta City
+  },
+  {
+    ClassInstanceId: 723,
+    Name: Ribs
+  },
+  {
+    ClassInstanceId: 726,
+    Name: Rodilla
+  },
+  {
+    ClassInstanceId: 728,
+    Name: Santagloria
+  },
+  {
+    ClassInstanceId: 739,
+    Name: Sushi Shop
+  },
+  {
+    ClassInstanceId: 742,
+    Name: Telepizza
+  },
+  {
+    ClassInstanceId: 743,
+    Name: The Good Burger (TGB)
+  },
+  {
+    ClassInstanceId: 744,
+    Name: Vapiano
+  },
+  {
+    ClassInstanceId: 745,
+    Name: Vips
+  },
+  {
+    ClassInstanceId: 746,
+    Name: Vips Smart
+  },
+  {
+    ClassInstanceId: 747,
+    Name: Volapié
+  },
+  {
+    ClassInstanceId: 752,
+    Name: 365 café
+  },
+  {
+    ClassInstanceId: 768,
+    Name: Dunkin' Coffee
+  },
+  {
+    ClassInstanceId: 770,
+    Name: Granier
+  },
+  {
+    ClassInstanceId: 774,
+    Name: La Mafia
+  },
+  {
+    ClassInstanceId: 777,
+    Name: Muerde la Pasta
+  },
+  {
+    ClassInstanceId: 778,
+    Name: Ogi Berri
+  },
+  {
+    ClassInstanceId: 779,
+    Name: panishop
+  },
+  {
+    ClassInstanceId: 782,
+    Name: Polvillo
+  },
+  {
+    ClassInstanceId: 783,
+    Name: Pomodoro Pizza
+  },
+  {
+    ClassInstanceId: 785,
+    Name: Turris
+  },
+  {
+    ClassInstanceId: 786,
+    Name: Viena de Capellanes
+  }
+]

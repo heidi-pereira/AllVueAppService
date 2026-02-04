@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Not at all likely|Much more likely|The advanced ecobubble™ technology works by mixing air, water and detergent, it cleverly creates bubbles that wash your clothes at cooler temperatures, helping you to bring down your energy bills|Neutral|
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Not at all likely|Much more likely|The Digital Inverter Technology motor ramps up the performance but not the noise. The components and engineering are backed by a 10 year warranty, giving you peace of mind for years to come.|Neutral|
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Not at all likely|Much more likely|The AddWash™ door to quickly drop in anything extra during the wash - whether that's a stray sock you missed, extra softener or a hand-washed garment for final rinsing.|Neutral|
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not at all likely|Much more likely|QuickDrive™ technology take the load and get a full clean in just 39 minutes|Neutral|
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Not at all likely|Much more likely|#WMC7_CODE5_PIPE# - With an intelligent, easy-to-use control panel,  the smart washing machines remember your family’s laundry habits and suggests your favourite cycles first. Then when the washing’s done, you’ll get a notification on your phone with the SmartThings app|Neutral|
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Not at all likely|Much more likely|SmartThings app lets you schedule your wash from anywhere and choose the exactly the right laundry ‘recipe’ for your clothes|Neutral|
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Not at all likely|Much more likely|Hygiene Steam banishes the things you can't see; bacteria, pollen, dust mites and more. The steam is released upwards to make sure every last item gets a deep and even clean. 99.9% of bacteria are obliterated and allergens inactivated|Neutral|
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Not at all likely|Much more likely|Auto-dose - A washing machine that knows just the right amount of detergent for any load. No more over filling and wasting liquid, or under filling and ending up with stained clothes. The dispenser holds enough liquid for 16 loads - that’ll see you through for around 1 month of washing|Neutral|
+  }
+]

@@ -1,0 +1,670 @@
+﻿[
+  {
+    ClassInstanceId: 22,
+    Name: Pizza Hut Restaurants
+  },
+  {
+    ClassInstanceId: 25,
+    Name: TGI Fridays
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Five Guys
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Burger King
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Chipotle
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Domino's
+  },
+  {
+    ClassInstanceId: 139,
+    Name: Joe & The Juice
+  },
+  {
+    ClassInstanceId: 142,
+    Name: KFC
+  },
+  {
+    ClassInstanceId: 145,
+    Name: McDonald's
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Papa John's
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Pizza Hut Delivery
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Pret A Manger
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Shake Shack
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Starbucks
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Subway
+  },
+  {
+    ClassInstanceId: 173,
+    Name: UberEats
+  },
+  {
+    ClassInstanceId: 191,
+    Name: Smashburger
+  },
+  {
+    ClassInstanceId: 193,
+    Name: MOD Pizza
+  },
+  {
+    ClassInstanceId: 238,
+    Name: Jollibee
+  },
+  {
+    ClassInstanceId: 300,
+    Name: A&W
+  },
+  {
+    ClassInstanceId: 301,
+    Name: Amazon Restaurants
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Applebee's
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Arby's
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Au Bon Pain
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Auntie Anne's
+  },
+  {
+    ClassInstanceId: 307,
+    Name: Baskin Robbins
+  },
+  {
+    ClassInstanceId: 308,
+    Name: Beef 'O' Brady's
+  },
+  {
+    ClassInstanceId: 309,
+    Name: Big Boy
+  },
+  {
+    ClassInstanceId: 310,
+    Name: Biggby Coffee
+  },
+  {
+    ClassInstanceId: 311,
+    Name: BJ's
+  },
+  {
+    ClassInstanceId: 313,
+    Name: Blue Apron
+  },
+  {
+    ClassInstanceId: 314,
+    Name: Bob Evans
+  },
+  {
+    ClassInstanceId: 315,
+    Name: Bojangles
+  },
+  {
+    ClassInstanceId: 316,
+    Name: Bonefish Grill
+  },
+  {
+    ClassInstanceId: 317,
+    Name: Boston Market
+  },
+  {
+    ClassInstanceId: 318,
+    Name: Braum's
+  },
+  {
+    ClassInstanceId: 319,
+    Name: Bruegger's Bagels
+  },
+  {
+    ClassInstanceId: 320,
+    Name: Buffalo Wild Wings
+  },
+  {
+    ClassInstanceId: 321,
+    Name: California Pizza Kitchen
+  },
+  {
+    ClassInstanceId: 322,
+    Name: Captain D's Seafood Kitchen
+  },
+  {
+    ClassInstanceId: 323,
+    Name: Caribou Coffee
+  },
+  {
+    ClassInstanceId: 324,
+    Name: Carl's Jr.
+  },
+  {
+    ClassInstanceId: 325,
+    Name: Carrabba's Italian Grill
+  },
+  {
+    ClassInstanceId: 326,
+    Name: Caviar
+  },
+  {
+    ClassInstanceId: 327,
+    Name: Charleys Philly Steaks
+  },
+  {
+    ClassInstanceId: 328,
+    Name: Checkers
+  },
+  {
+    ClassInstanceId: 330,
+    Name: Chick-fil-A
+  },
+  {
+    ClassInstanceId: 331,
+    Name: Chili's
+  },
+  {
+    ClassInstanceId: 332,
+    Name: Chuck E. Cheese's
+  },
+  {
+    ClassInstanceId: 333,
+    Name: Church's Chicken
+  },
+  {
+    ClassInstanceId: 334,
+    Name: Cicis
+  },
+  {
+    ClassInstanceId: 335,
+    Name: Cinnabon
+  },
+  {
+    ClassInstanceId: 336,
+    Name: Cold Stone Creamery
+  },
+  {
+    ClassInstanceId: 337,
+    Name: Corner Bakery Cafe
+  },
+  {
+    ClassInstanceId: 338,
+    Name: Cracker Barrel Old Country Store
+  },
+  {
+    ClassInstanceId: 339,
+    Name: Culver's
+  },
+  {
+    ClassInstanceId: 340,
+    Name: Del Taco
+  },
+  {
+    ClassInstanceId: 341,
+    Name: Denny's
+  },
+  {
+    ClassInstanceId: 342,
+    Name: Dickey's Barbecue Pit
+  },
+  {
+    ClassInstanceId: 344,
+    Name: DoorDash
+  },
+  {
+    ClassInstanceId: 345,
+    Name: Dairy Queen
+  },
+  {
+    ClassInstanceId: 346,
+    Name: Dunkin'
+  },
+  {
+    ClassInstanceId: 347,
+    Name: Dutch Bros Coffee
+  },
+  {
+    ClassInstanceId: 348,
+    Name: Einstein Bros Bagels
+  },
+  {
+    ClassInstanceId: 349,
+    Name: El Pollo Loco
+  },
+  {
+    ClassInstanceId: 351,
+    Name: Fazoli's
+  },
+  {
+    ClassInstanceId: 352,
+    Name: Firehouse Subs
+  },
+  {
+    ClassInstanceId: 354,
+    Name: Freddy's
+  },
+  {
+    ClassInstanceId: 355,
+    Name: Friendly's
+  },
+  {
+    ClassInstanceId: 357,
+    Name: Godfather's Pizza
+  },
+  {
+    ClassInstanceId: 359,
+    Name: Golden Corral
+  },
+  {
+    ClassInstanceId: 360,
+    Name: Great American Cookies
+  },
+  {
+    ClassInstanceId: 361,
+    Name: GrubHub
+  },
+  {
+    ClassInstanceId: 362,
+    Name: Hardee's
+  },
+  {
+    ClassInstanceId: 363,
+    Name: Hooters
+  },
+  {
+    ClassInstanceId: 364,
+    Name: Huddle House
+  },
+  {
+    ClassInstanceId: 365,
+    Name: Hungry Howie's Pizza
+  },
+  {
+    ClassInstanceId: 366,
+    Name: IHOP
+  },
+  {
+    ClassInstanceId: 367,
+    Name: In-N-Out Burger
+  },
+  {
+    ClassInstanceId: 368,
+    Name: Jack in the Box
+  },
+  {
+    ClassInstanceId: 369,
+    Name: Jamba Juice
+  },
+  {
+    ClassInstanceId: 370,
+    Name: Jason's Deli
+  },
+  {
+    ClassInstanceId: 371,
+    Name: Jersey Mike's Subs
+  },
+  {
+    ClassInstanceId: 372,
+    Name: Jet's Pizza
+  },
+  {
+    ClassInstanceId: 373,
+    Name: Jimmy John's
+  },
+  {
+    ClassInstanceId: 374,
+    Name: Johnny Rockets
+  },
+  {
+    ClassInstanceId: 375,
+    Name: Krispy Kreme
+  },
+  {
+    ClassInstanceId: 376,
+    Name: Krystal
+  },
+  {
+    ClassInstanceId: 377,
+    Name: Little Caesars
+  },
+  {
+    ClassInstanceId: 378,
+    Name: Logan's Roadhouse
+  },
+  {
+    ClassInstanceId: 379,
+    Name: Long John Silver's
+  },
+  {
+    ClassInstanceId: 380,
+    Name: LongHorn Steakhouse
+  },
+  {
+    ClassInstanceId: 381,
+    Name: Marco's Pizza
+  },
+  {
+    ClassInstanceId: 382,
+    Name: McAlister's Deli
+  },
+  {
+    ClassInstanceId: 383,
+    Name: Mellow Mushroom
+  },
+  {
+    ClassInstanceId: 384,
+    Name: Menchie's
+  },
+  {
+    ClassInstanceId: 385,
+    Name: Moe's
+  },
+  {
+    ClassInstanceId: 387,
+    Name: Munchery
+  },
+  {
+    ClassInstanceId: 388,
+    Name: Noodles & Company
+  },
+  {
+    ClassInstanceId: 389,
+    Name: O'Charley's
+  },
+  {
+    ClassInstanceId: 390,
+    Name: Olive Garden
+  },
+  {
+    ClassInstanceId: 391,
+    Name: Outback Steakhouse
+  },
+  {
+    ClassInstanceId: 392,
+    Name: P.F. Chang's
+  },
+  {
+    ClassInstanceId: 393,
+    Name: Panda Express
+  },
+  {
+    ClassInstanceId: 394,
+    Name: Panera Bread
+  },
+  {
+    ClassInstanceId: 396,
+    Name: Papa Murphy's
+  },
+  {
+    ClassInstanceId: 397,
+    Name: Peet's
+  },
+  {
+    ClassInstanceId: 398,
+    Name: Pei Wei
+  },
+  {
+    ClassInstanceId: 399,
+    Name: Penn Station East Coast Subs
+  },
+  {
+    ClassInstanceId: 400,
+    Name: Perkins
+  },
+  {
+    ClassInstanceId: 401,
+    Name: Pizza Pro
+  },
+  {
+    ClassInstanceId: 402,
+    Name: Pizza Ranch
+  },
+  {
+    ClassInstanceId: 403,
+    Name: Plated
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Popeyes
+  },
+  {
+    ClassInstanceId: 406,
+    Name: Postmates
+  },
+  {
+    ClassInstanceId: 407,
+    Name: Potbelly Sandwich Works
+  },
+  {
+    ClassInstanceId: 408,
+    Name: Qdoba
+  },
+  {
+    ClassInstanceId: 409,
+    Name: Quiznos
+  },
+  {
+    ClassInstanceId: 410,
+    Name: Raising Cane's
+  },
+  {
+    ClassInstanceId: 411,
+    Name: Rally's
+  },
+  {
+    ClassInstanceId: 412,
+    Name: Red Lobster
+  },
+  {
+    ClassInstanceId: 413,
+    Name: Red Robin
+  },
+  {
+    ClassInstanceId: 414,
+    Name: Rita's
+  },
+  {
+    ClassInstanceId: 415,
+    Name: Rosati's Pizza
+  },
+  {
+    ClassInstanceId: 416,
+    Name: Round Table
+  },
+  {
+    ClassInstanceId: 417,
+    Name: Rubio's
+  },
+  {
+    ClassInstanceId: 418,
+    Name: Ruby Tuesday
+  },
+  {
+    ClassInstanceId: 419,
+    Name: Sarku Japan
+  },
+  {
+    ClassInstanceId: 420,
+    Name: Sbarro
+  },
+  {
+    ClassInstanceId: 421,
+    Name: Schlotzsky's
+  },
+  {
+    ClassInstanceId: 422,
+    Name: Seamless
+  },
+  {
+    ClassInstanceId: 423,
+    Name: Smoothie King
+  },
+  {
+    ClassInstanceId: 424,
+    Name: Sonic Drive-In
+  },
+  {
+    ClassInstanceId: 425,
+    Name: Steak 'n Shake
+  },
+  {
+    ClassInstanceId: 426,
+    Name: Taco Bell
+  },
+  {
+    ClassInstanceId: 429,
+    Name: Taco John's
+  },
+  {
+    ClassInstanceId: 430,
+    Name: Texas Roadhouse
+  },
+  {
+    ClassInstanceId: 431,
+    Name: The Cheesecake Factory
+  },
+  {
+    ClassInstanceId: 432,
+    Name: The Coffee Bean & Tea Leaf
+  },
+  {
+    ClassInstanceId: 434,
+    Name: Tim Hortons
+  },
+  {
+    ClassInstanceId: 435,
+    Name: Togo's Sandwiches
+  },
+  {
+    ClassInstanceId: 436,
+    Name: Tropical Smoothie Cafe
+  },
+  {
+    ClassInstanceId: 437,
+    Name: Villa Fresh Italian Kitchen
+  },
+  {
+    ClassInstanceId: 438,
+    Name: Village Inn
+  },
+  {
+    ClassInstanceId: 440,
+    Name: Waffle House
+  },
+  {
+    ClassInstanceId: 441,
+    Name: Wendy's
+  },
+  {
+    ClassInstanceId: 442,
+    Name: Wetzel's Pretzels
+  },
+  {
+    ClassInstanceId: 443,
+    Name: Whataburger
+  },
+  {
+    ClassInstanceId: 444,
+    Name: Which Wich
+  },
+  {
+    ClassInstanceId: 445,
+    Name: White Castle
+  },
+  {
+    ClassInstanceId: 446,
+    Name: Wienerschnitzel
+  },
+  {
+    ClassInstanceId: 447,
+    Name: Wingstop
+  },
+  {
+    ClassInstanceId: 448,
+    Name: Yelp Eat24
+  },
+  {
+    ClassInstanceId: 449,
+    Name: Yogurtland
+  },
+  {
+    ClassInstanceId: 450,
+    Name: Zaxby's
+  },
+  {
+    ClassInstanceId: 451,
+    Name: Zoes Kitchen
+  },
+  {
+    ClassInstanceId: 452,
+    Name: On The Border - Mexican Grill & Cantina
+  },
+  {
+    ClassInstanceId: 453,
+    Name: Buffalo Wild Wings (453)
+  },
+  {
+    ClassInstanceId: 454,
+    Name: Anthony's Coal Fired Pizza & Wings
+  },
+  {
+    ClassInstanceId: 455,
+    Name: Bartaco
+  },
+  {
+    ClassInstanceId: 456,
+    Name: Uncle Julio's
+  },
+  {
+    ClassInstanceId: 457,
+    Name: Piada
+  },
+  {
+    ClassInstanceId: 458,
+    Name: Crumbl
+  },
+  {
+    ClassInstanceId: 459,
+    Name: First Watch
+  },
+  {
+    ClassInstanceId: 460,
+    Name: Sweetgreen
+  },
+  {
+    ClassInstanceId: 461,
+    Name: Paris Baguette
+  },
+  {
+    ClassInstanceId: 462,
+    Name: Cava
+  }
+]

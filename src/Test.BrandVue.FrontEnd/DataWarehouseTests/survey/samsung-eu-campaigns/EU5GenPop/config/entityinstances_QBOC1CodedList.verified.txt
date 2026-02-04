@@ -1,0 +1,110 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Beko
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 22,
+    Name: AEG
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Haier
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Hotpoint
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Indesit
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Miele
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Siemens
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Whirlpool
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Balay
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Bauknecht
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Candy
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Hoover
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Electrolux
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Neff
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Zanussi
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Brandt
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Smeg
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Constructa
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Gorenje
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Amica
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Fagor
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Faure
+  }
+]

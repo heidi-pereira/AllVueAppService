@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Smartphone
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Smart Watch
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Tablet
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Laptop
+  },
+  {
+    ClassInstanceId: 5,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Smarthub
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Smartspeaker (no screen)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Monitor
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (please specify)
+  }
+]

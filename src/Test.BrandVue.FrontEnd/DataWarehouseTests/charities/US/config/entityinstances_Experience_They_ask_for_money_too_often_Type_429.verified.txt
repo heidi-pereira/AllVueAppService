@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supporter opinion:They ask for money too often (Base Experience_They_ask_for_money_too_often)
+  }
+]

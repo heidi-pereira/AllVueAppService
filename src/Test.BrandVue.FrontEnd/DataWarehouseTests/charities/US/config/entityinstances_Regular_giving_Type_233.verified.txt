@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Methods for donating regularly (Base Regular_giving)
+  }
+]

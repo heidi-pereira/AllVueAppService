@@ -1,0 +1,51 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.reloaDataSection {
+    .flex-row();
+    flex: 1;
+
+    div {
+        padding-right: 15px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .last, .buttonGroup {
+        flex-grow: 4;
+        text-align: left;
+    }
+
+    .buttonGroup {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        button {
+            margin-right: 2px;
+
+            i {
+                margin-left: 6px;
+                font-size: 24px;
+                margin-top: -4px;
+                margin-bottom: -4px;
+            }
+        }
+    }
+
+    .warning {
+        color: @lava;
+    }
+
+    .failure {
+        color: @bad-red;
+    }
+
+    .success {
+        color: @good-green;
+    }
+}
+.syncData {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}

@@ -1,0 +1,450 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Galaxy S21 / S21+ / S21 Ultra 5G
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Galaxy S21 Ultra 5G
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Galaxy S20 FE / S20 FE 5G
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Galaxy S20 / S20+ / S20 Ultra 5G
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Galaxy S22/ S22+
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Galaxy S22/ S22+/ S22 Ultra 5G
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Galaxy S20 / S20+ / S20 5G / S20+ 5G
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Other Galaxy S Series
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Galaxy Note 20 / Note 20 Ultra
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Galaxy Z Fold / Galaxy Z Fold2
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Galaxy Z Fold2 / Galaxy Z Fold3
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Galaxy Z Flip / Z Flip 5G
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Galaxy Z Flip 5G / Galaxy Z Flip3
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Galaxy A Series
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Galaxy S21 FE 5G
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Galaxy A53 5G
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Galaxy Z Fold 2/3/4
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Galaxy Z Flip 5G/3/4
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Galaxy S23/ S23+
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Galaxy 23/S23+/S23 Ultra
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Other  Galaxy
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Other Galaxy
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Galaxy A54
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Galaxy Z Fold5
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Galaxy Z Flip5
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Galaxy S23 FE
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Galaxy S24/S24+
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Galaxy S24 Ultra
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Galaxy A35
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Galaxy A55
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Galaxy Z Fold6
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Galaxy Z Flip6
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Galaxy S24 FE
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 50,
+    Name: iPhone 11 / 11 Pro / 11 Pro Max
+  },
+  {
+    ClassInstanceId: 51,
+    Name: iPhone 12 / 12 Pro / 12 Pro Max
+  },
+  {
+    ClassInstanceId: 52,
+    Name: iPhone 12 Mini
+  },
+  {
+    ClassInstanceId: 53,
+    Name: iPhone XR
+  },
+  {
+    ClassInstanceId: 54,
+    Name: iPhone SE
+  },
+  {
+    ClassInstanceId: 55,
+    Name: iPhone 13
+  },
+  {
+    ClassInstanceId: 56,
+    Name: iPhone 13 Mini
+  },
+  {
+    ClassInstanceId: 57,
+    Name: iPhone 13 Pro
+  },
+  {
+    ClassInstanceId: 58,
+    Name: iPhone 13 / Pro / Pro Max
+  },
+  {
+    ClassInstanceId: 59,
+    Name: iPhone 14 / iPhone 14 Plus
+  },
+  {
+    ClassInstanceId: 60,
+    Name: iPhone 14/ Pro / Pro Max
+  },
+  {
+    ClassInstanceId: 61,
+    Name: iPhone 15/15 Plus
+  },
+  {
+    ClassInstanceId: 62,
+    Name: iPhone 15 Pro/15 Pro Max
+  },
+  {
+    ClassInstanceId: 63,
+    Name: iPhone 16/16 Plus
+  },
+  {
+    ClassInstanceId: 64,
+    Name: iPhone 16 Pro/16 Pro Max
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Other iPhone
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Other iPhone (71)
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Mi 11 / 11 Pro / Ultra / Lite
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Mi Mix Fold
+  },
+  {
+    ClassInstanceId: 74,
+    Name: RedMi Note 10 / Note 10 Pro / Note 10T 5G
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Other Mi Series
+  },
+  {
+    ClassInstanceId: 76,
+    Name: RedMi Series
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Poco Series
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Xiaomi 11T / 11T Pro
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Xiaomi 11T Pro
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Xiaomi 12 / 12 Pro
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Xiaomi 13 / 13 Pro
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Xiaomi 14 / 14 Pro
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Other Xiaomi
+  },
+  {
+    ClassInstanceId: 92,
+    Name: P40 / P40 Pro
+  },
+  {
+    ClassInstanceId: 93,
+    Name: P50 / P50 Pro
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Mate 40 Pro
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Nova Series
+  },
+  {
+    ClassInstanceId: 96,
+    Name: Other P Series
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Other Huawei
+  },
+  {
+    ClassInstanceId: 98,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these (99)
+  },
+  {
+    ClassInstanceId: 100,
+    Name: P40
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Other Huawei P-Series
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Other Huawei (115)
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Other Honor
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Pixel
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Pixel 6
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Other Google
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Pixel 7
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Pixel 7a
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Pixel 8
+  },
+  {
+    ClassInstanceId: 126,
+    Name: Pixel 8 Pro Max
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Pixel 8a
+  },
+  {
+    ClassInstanceId: 128,
+    Name: Pixel Fold
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Pixel 7/7a
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Find X5 / X5 Pro / X5 Lite
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Other Oppo
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Razr 40/50
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Pixel 9
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Pixel 9 Pro/Pro XL
+  },
+  {
+    ClassInstanceId: 162,
+    Name: Pixel 9 Pro Fold
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Galaxy S25/S25+
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Galaxy S25 Ultra
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Galaxy S25 Edge
+  },
+  {
+    ClassInstanceId: 167,
+    Name: iPhone 16e
+  },
+  {
+    ClassInstanceId: 168,
+    Name: Galaxy A26
+  },
+  {
+    ClassInstanceId: 169,
+    Name: Galaxy A36
+  },
+  {
+    ClassInstanceId: 170,
+    Name: Galaxy A56
+  },
+  {
+    ClassInstanceId: 171,
+    Name: Galaxy Z Fold7
+  },
+  {
+    ClassInstanceId: 172,
+    Name: Galaxy Z Flip7
+  },
+  {
+    ClassInstanceId: 173,
+    Name: Galaxy Z Flip7 FE
+  },
+  {
+    ClassInstanceId: 998,
+    Name: None of these (998)
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Don't know
+  },
+  {
+    ClassInstanceId: 1000,
+    Name: Samsung (1000)
+  },
+  {
+    ClassInstanceId: 1001,
+    Name: Samsung (1001)
+  },
+  {
+    ClassInstanceId: 1002,
+    Name: Apple (1002)
+  },
+  {
+    ClassInstanceId: 1003,
+    Name: Xiaomi
+  },
+  {
+    ClassInstanceId: 1004,
+    Name: Huawei
+  },
+  {
+    ClassInstanceId: 1005,
+    Name: Oppo
+  },
+  {
+    ClassInstanceId: 1006,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 1007,
+    Name: Motorola
+  }
+]

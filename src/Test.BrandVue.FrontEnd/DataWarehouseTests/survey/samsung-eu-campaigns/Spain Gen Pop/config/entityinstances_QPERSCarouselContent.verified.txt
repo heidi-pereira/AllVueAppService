@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: People like me would find it interesting to watch/listen to/see the ad for this Samsung product
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I’d like to watch/listen to/see the ad for this Samsung product again some time
+  },
+  {
+    ClassInstanceId: 3,
+    Name: It said / showed something about the #TAG_QIMAGE# product that made it worthwhile watching it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: If I was talking to someone about these types of products I would mention something I saw or heard in the ad about #TAG_QIMAGE#
+  },
+  {
+    ClassInstanceId: 5,
+    Name: It made me more likely to want to buy the #TAG_QIMAGE# product being advertised
+  },
+  {
+    ClassInstanceId: 6,
+    Name: The ad left me with a more positive opinion of the #TAG_QIMAGE# product being advertised
+  },
+  {
+    ClassInstanceId: 7,
+    Name: It made me more likely to visit the #TAG_QIMAGE# website
+  }
+]

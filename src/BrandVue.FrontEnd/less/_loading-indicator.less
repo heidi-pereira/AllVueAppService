@@ -1,0 +1,204 @@
+@import "_layout";
+@import "_vars";
+@import "_metric-change-on-period";
+
+.throbber-container {
+    .flex-row(@justify-content: center, @align-items: center);
+}
+
+.throbber-container-fixed {
+    height: 500px;
+    .flex-row(@justify-content: center, @align-items: center);
+}
+
+@keyframes flickerAnimation {
+    0%   { opacity:1; }
+    50%  { opacity:0.6; }
+    100% { opacity:1; }
+}
+
+.page-placeholder {
+    .flex-column(@gutter: 25px);
+    padding-bottom: 32px;
+
+    .result-placeholder {
+        animation: flickerAnimation 1.5s infinite;
+        padding: 0 10px;
+
+        .result {
+            .flex-row(@justify-content: space-between, @gutter: 12px);
+            margin-bottom: 16px;
+
+            .q-text {
+                height: 22px;
+                width: 120px;
+                background-color: @slate-lighter;
+            }
+
+            .value {
+                height: 22px;
+                width: 60px;
+                background-color: @chalk-light;
+            }
+        }
+
+        .result-page-chart {
+            .result-page-bar {
+                height: 33px;
+                width: 100%;
+                background-color: @chalk-light;
+            }
+        }
+    }
+}
+
+.category-comparison-placeholder {
+    .flex-column(@gutter: 25px);
+
+    .metric-placeholder {
+        animation: flickerAnimation 1.5s infinite;
+
+        .metric {
+            .flex-row(@align-items: baseline, @gutter: 12px);
+            margin-bottom: 12px;
+
+            .score {
+                height: 28px;
+                width: 60px;
+                background-color: @slate-lighter;
+            }
+
+            .metric-label {
+                height: 24px;
+                width: 100px;
+                background-color: @chalk-light;
+            }
+        }
+
+        @bar-height: 11.5px;
+
+        .with-top-bar(@width) {
+            .top-bar {
+                height: @bar-height;
+                width: @width;
+                background-color: @slate-lighter;
+            }
+        }
+
+        .with-bottom-bar(@width) {
+            .bottom-bar {
+                height: @bar-height;
+                width: @width;
+                background-color: @chalk-light;
+            }
+        }
+
+        .chart-1 {
+            .with-top-bar(75%);
+            .with-bottom-bar(65%)
+        }
+
+        .chart-2 {
+            .with-top-bar(55%);
+            .with-bottom-bar(45%)
+        }
+
+        .chart-3 {
+            .with-top-bar(90%);
+            .with-bottom-bar(85%)
+        }
+    }
+
+    .inline-legend {
+        animation: flickerAnimation 1.5s infinite;
+
+        .legend-container {
+            display: flex;
+            grid-gap: 10px;
+            margin-bottom: 13px;
+
+            .legend-icon {
+                display: inline-block;
+                width: 12px;
+                height: 12px;
+                margin-right: 10px;
+                background-color: @slate-lighter;
+            }
+
+            .entity, .average {
+                display: inline-block;
+                background-color: @chalk-light;
+            }
+
+            .entity {
+                height: 12px;
+                width: 80px;
+            }
+
+            .average {
+                height: 12px;
+                width: 160px;
+            }
+        }
+
+        .legend-footer {
+            height: 12px;
+            width: 200px;
+            background-color: @chalk-light;
+            margin-bottom: 5px;
+        }
+    }
+}
+
+.card-description-placeholder {
+    .flex-column(@align-items: center, @gutter: 6px);
+    animation: flickerAnimation 1.5s infinite;
+
+    .first-sentence {
+        height: 1.5rem;
+        width: 90%;
+        background: @chalk-light;
+    }
+    .second-sentence:extend(.card-description-placeholder .first-sentence all) {
+        width: 65%;
+    }
+}
+
+.table-row-placeholder {
+    height: 2.3em;
+    background: @chalk-light;
+    animation: flickerAnimation 1.5s infinite;
+}
+
+.metric-change-placeholder:extend(.metric-change all) {
+
+    animation: flickerAnimation 1.5s infinite;
+
+    .content {
+        height: 1.5em;
+        .flex-row(@gutter: 1ch);
+
+        .metric-name {
+            background: @slate-lighter;
+            width: 10ch;
+        }
+
+        .change-phrase {
+            background: @chalk-light;
+            flex-grow: 1;
+            max-width: 22ch;
+        }
+    }
+
+    .data {
+        height: 1.5em;
+        .score-value {
+            background: @slate-lighter;
+            width: 4ch;
+        }
+        .metric-delta {
+            background: @slate-lighter;
+            width: 5ch;
+        }
+    }
+}

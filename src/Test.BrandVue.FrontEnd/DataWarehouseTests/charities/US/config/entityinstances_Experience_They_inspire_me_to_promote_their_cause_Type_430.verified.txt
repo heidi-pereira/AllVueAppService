@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supporter opinion:They inspire me to promote their cause (Base Experience_They_inspire_me_to_promote_their_cause)
+  }
+]

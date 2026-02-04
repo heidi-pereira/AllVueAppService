@@ -1,0 +1,93 @@
+@import "_layout";
+
+.brandvue-tooltip {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+    font-family: @font_family;
+    font-size: 14px;
+    color: @slate-lighter;
+    padding: 12px 16px;
+
+    .tooltip-header {
+        grid-column: 1 / -1;
+        font-weight: 500;
+        color: @white;
+        text-align: center;
+
+        &.light {
+            font-weight: normal;
+        }
+
+        &.margin-bottom {
+            margin-bottom: 10px;
+        }
+
+        &.margin-bottom-half {
+            margin-bottom: 5px;
+        }
+    }
+
+    .tooltip-label {
+        text-align: left;
+
+        &.bold {
+            color: @white;
+            font-weight: 500;
+        }
+    }
+
+    .tooltip-value {
+        text-align: right;
+
+        &.bold {
+            color: @white;
+            font-weight: 500;
+        }
+    }
+}
+
+.custom-tooltip-container {
+    .custom-tooltip-title {
+        .flex-row(@align-items: center, @gutter: 7px);
+        margin-bottom: 7px;
+        font-weight: 500;
+        color: @white;
+    }
+
+    .custom-tooltip-point {
+        margin-bottom: 5px;
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+    }
+
+    .custom-tooltip-row {
+        .flex-row(@align-items: center, @gutter: 7px, @justify-content: space-between);
+
+        .custom-tooltip-offset-container {
+            margin-left: 30px;
+        }
+    }
+
+    .custom-tooltip-light {
+        color: @slate;
+    }
+
+    .custom-tooltip-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+
+        &.active {
+            border: 2px solid green;
+        }
+    }
+
+    .custom-tooltip-square {
+        width: 10px;
+        height: 10px;
+        margin-top: -2px;
+    }
+}

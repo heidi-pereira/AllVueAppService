@@ -1,0 +1,1 @@
+﻿result.YoungSpendingCategory if ((result.YoungSpendingCategory == 1) and (((any(1 <= r <= 30 for r in response.Age()) and any(1 <= r <= 20 for r in response.MaximumSpend())) or any(1 <= r <= 200 for r in response.NumberOfParakeets())))) else None

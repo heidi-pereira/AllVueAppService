@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: products new daysLQ 1 (Base products_new_days_LQ1)
+  }
+]

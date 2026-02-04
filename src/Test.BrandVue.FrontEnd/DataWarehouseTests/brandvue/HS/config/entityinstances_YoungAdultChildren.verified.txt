@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: No - None of these
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - Over 18 years old, living at home and still financially dependent
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes - Over 18 years old living at home but not financially dependent
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Yes - Over 18 years old, not living at home but still, at least partially, financially dependent
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Yes - Over 18 years old not living at home and not financially dependent
+  }
+]

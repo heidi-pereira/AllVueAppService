@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Loyalty Scheme Awareness (Base Loyalty_Card_Awareness)
+  }
+]

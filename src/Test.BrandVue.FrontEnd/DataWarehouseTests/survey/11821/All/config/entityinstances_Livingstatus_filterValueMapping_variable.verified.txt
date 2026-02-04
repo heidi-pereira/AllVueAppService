@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Homeowner
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Living at home with parents
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tenant (in private housing)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Tenant (living in social / council housing)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Other
+  }
+]

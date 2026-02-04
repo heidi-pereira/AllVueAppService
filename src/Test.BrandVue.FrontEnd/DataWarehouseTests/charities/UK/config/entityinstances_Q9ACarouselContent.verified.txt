@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Your physical health
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Your mental health
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Your job security
+  }
+]

@@ -1,0 +1,323 @@
+﻿@import 'colors.scss';
+@import "dimensions.scss";
+@import "layout.scss";
+//
+// ToDo: Remove bootstrap https://app.shortcut.com/mig-global/story/88087/remove-bootstrap-from-customerportal#
+//
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/tooltip";
+
+body {
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+}
+
+$breakpoint-tablet: 768px;
+
+.card {
+    background-color: $colorWhite;
+    box-shadow: $shadow-01;
+    align-items: center;
+    transition: box-shadow 175ms;
+
+    @media (max-width: $breakpoint-mobile) {
+        margin: 0 16px 16px 16px;
+    }
+
+    &:hover {
+        box-shadow: $shadow-08;
+
+        .lock-container i {
+            color: $slate-darker;
+        }
+    }
+}
+
+.survey-group-wave-container {
+    @include flex-row($justify-content: space-between, $align-items: center);
+    padding: 24px;
+    margin-bottom: 24px;
+    cursor: pointer;
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 12px 0px;
+        margin-bottom: 16px;
+    }
+
+    .left-items {
+        @include flex-column($gutter: 10px);
+
+        @media (max-width: $breakpoint-mobile) {
+            padding: 4px 16px;
+            width: 100%;
+        }
+
+        .survey-name {
+            @include flex-row();
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-size: 20px;
+
+            .material-symbols-outlined {
+                margin-right: 10px;
+                color: $slate;
+            }
+
+            @media (max-width: $breakpoint-tablet) {
+                font-size: 16px;
+
+                .material-symbols-outlined {
+                    font-size: 18px;
+                }
+            }
+
+            @media (max-width: $breakpoint-mobile) {
+                font-size: 16px;
+
+                .material-symbols-outlined {
+                    display: none;
+                }
+            }
+        }
+
+        .survey-details {
+            @include flex-row($gutter: 20px);
+            color: $slate;
+            font-size: 16px;
+
+            @media (max-width: $breakpoint-tablet) {
+                font-size: 14px;
+            }
+
+            @media (max-width: $breakpoint-mobile) {
+                font-size: 12px;
+            }
+
+            .survey-percentage {
+                color: $amber-dark;
+            }
+
+            .survey-responses {
+                color: $lime-dark;
+            }
+
+            .info-bold {
+                font-weight: 500;
+            }
+        }
+
+        .survey-paused, .error {
+            color: $colorErrorRed;
+        }
+    }
+}
+
+.survey-container {
+    @include flex-row($justify-content: space-between, $align-items: flex-start);
+    font-size: 14px;
+    margin-bottom: 24px;
+    cursor: pointer;
+    height: 142px;
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 12px 0px;
+        margin-bottom: 16px;
+    }
+
+    .left-items {
+        display: flex;
+        align-items: center;
+        margin-left: 32px;
+        margin-top: auto;
+        margin-bottom: auto;
+
+        @media (max-width: $breakpoint-mobile) {
+            padding: 4px 16px;
+            width: 100%;
+        }
+    }
+
+    .survey-container {
+        @include flex-row($justify-content: space-between);
+    }
+
+    .pause-icon, .completed-icon, .in-progress-icon {
+        transition: transform .5s;
+        width: 40px;
+        height: 40px;
+        margin-right: 24px;
+        font-size: 40px;
+
+        @media (max-width: $breakpoint-mobile) {
+            display: none;
+        }
+    }
+
+    .pause-icon {
+        color: $slate-light;
+    }
+
+    .in-progress-icon {
+        color: $amber-dark;
+    }
+
+    .completed-icon {
+        color: $lime-dark;
+    }
+
+    .lock-container {
+        width: 75px;
+        height: 75px;
+        position: relative;;
+
+        .grey-triangle {
+            left: 0;
+            top: 0;
+            transition: transform .5s;
+            width: 0;
+            height: 0;
+            border-left: 75.2px solid transparent;
+            border-top: 75.2px solid $chalk-light;
+            position: absolute;
+            z-index: 1;
+
+            @media (max-width: $breakpoint-mobile) {
+                display: none;
+            }
+
+            @media (max-width: $breakpoint-tablet) {
+                display: none;
+            }
+        }
+
+        .lock-icon {
+            font-size: 17.5px;
+            color: $slate;
+            left: 75%;
+            top: 25%;
+            transform: translate(-50%, -50%);
+            position: absolute;
+            z-index: 2;
+
+            @media (max-width: $breakpoint-mobile) {
+                display: none;
+            }
+
+            @media (max-width: $breakpoint-tablet) {
+                display: none;
+            }
+        }
+    }
+
+    .survey-details {
+        @media (max-width: $breakpoint-mobile) {
+            width: 100%;
+        }
+
+        .survey-name {
+            font-size: 20px;
+            color: $slate-darker;
+
+            @media (max-width: $breakpoint-mobile) {
+                font-size: 16px;
+            }
+
+            @media (max-width: $breakpoint-tablet) {
+                font-size: 16px;
+            }
+        }
+
+        .survey-info {
+            @include flex-row($align-items: baseline);
+            margin-top: 12px;
+            color: $slate;
+
+            @media (max-width: $breakpoint-mobile) {
+                font-size: 12px;
+            }
+
+            .survey-text {
+                margin-right: 12px;
+            }
+
+            .survey-percentage,
+            .survey-responses {
+                margin-right: 12px;
+
+                .info-bold {
+                    font-size: 16px;
+                    font-weight: 500;
+
+                    @media (max-width: $breakpoint-mobile) {
+                        font-size: 14px;
+                    }
+                }
+
+                @media (max-width: $breakpoint-mobile) {
+                    font-size: 12px;
+                }
+            }
+
+            .survey-multi-wave {
+                color: $purple;
+            }
+
+            .survey-responses {
+                width: 150px;
+            }
+
+            .survey-percentage{
+                width: 105px;
+                color: $amber-dark;
+            }
+
+            .completed-text {
+                color: $lime-dark;
+            }
+
+            .survey-date {
+                margin-left: 24px;
+
+                &.launched {
+                    @media (max-width: $breakpoint-mobile) {
+                        display: none;
+                    }
+                }
+            }
+
+            .survey-paused {
+                margin-left: 24px;
+                color: $colorErrorRed;
+            }
+
+            .error {
+                color: $colorErrorRed;
+            }
+
+
+            .date {
+                font-weight: 500;
+
+                @media (max-width: $breakpoint-mobile) {
+                    @include flex-column($align-items: center);
+                }
+            }
+        }
+    }
+
+    .mobile-percentage {
+        display: none;
+    }
+
+    .survey-details {
+        @include flex-column();
+    }
+}
+
+a {
+    color: $colorBlack;
+    text-decoration: none;
+}

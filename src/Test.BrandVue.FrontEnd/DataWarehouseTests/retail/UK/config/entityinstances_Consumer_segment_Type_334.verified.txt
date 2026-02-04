@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Position of employment:Caring / Leisure / Service Customer Occupation (Base Consumer_segment)
+  }
+]

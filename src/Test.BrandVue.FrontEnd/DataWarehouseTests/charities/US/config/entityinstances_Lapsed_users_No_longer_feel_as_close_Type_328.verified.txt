@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:No longer feel as close (Base Lapsed_users_No_longer_feel_as_close)
+  }
+]

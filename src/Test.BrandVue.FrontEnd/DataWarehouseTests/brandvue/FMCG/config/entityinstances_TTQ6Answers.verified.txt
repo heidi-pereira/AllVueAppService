@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Safe
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Happy
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Excited
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Embarrassed
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Bored
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Nervous
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don't know
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Not applicable
+  }
+]

@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Premier current account
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Business bank account
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Foreign money transfers or payments (e.g. through a bank, online, pre-paid card)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Credit or charge card
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Buy to let mortgage
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Personal loan
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Car financing
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Private health insurance
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Life insurance
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

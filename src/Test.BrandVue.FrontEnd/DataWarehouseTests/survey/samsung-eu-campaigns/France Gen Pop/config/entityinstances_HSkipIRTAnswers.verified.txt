@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Show the IRT exactly as the respondent would see it
+  },
+  {
+    ClassInstanceId: 2,
+    Name: SKIP the entire IRT and jump to the next section
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Household Inc 1-20000
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Household Inc 20001-50000
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Household Inc 50001-75000
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Household Inc 75001-100000
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Household Inc 100001-200000
+  }
+]

@@ -1,0 +1,208 @@
+@import "_vars";
+@import "_layout";
+
+.question-list-container {
+    .flex-column();
+    height: calc(100% - 80px); // Need to calculate this due to component nesting
+    width: 100%;
+    padding: 16px 24px;
+}
+
+.question-search-container {
+    margin-bottom: 12px;
+
+    .question-search-input-group {
+        padding: 0;
+        border-radius: 0;
+        border: none;
+        border-bottom: 1px solid @slate-lighter;
+        line-height: 2.5;
+
+        &:focus-within {
+            border-bottom-color: @blueSteel;
+            box-shadow: 0 0.3rem 0.15rem -0.15rem @blueSteel-lighter;
+        }
+
+        .search {
+            padding: 0;
+        }
+
+        .search-icon {
+            align-self: center;
+            cursor: default;
+        }
+    }
+}
+
+.new-variable-button {
+    margin-bottom: 10px;
+    justify-content: center;
+
+    .new-variable-button-text {
+        transform: translateY(1px);
+    }
+}
+
+.question-list {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100%;
+    .scrollbars;
+
+    .metric-list-item {
+        width: 100%;
+        cursor: pointer;
+
+        &.selected {
+            background-color: @blueSteel-lighter;
+            font-weight: 500;
+        }
+
+        &.title {
+            padding: 5px 0 0 0;
+            line-height: 2.5;
+            color: @slate;
+            cursor: default;
+        }
+
+        :hover {
+            background-color: @blueSteel-lighter;
+
+            div, span {
+                background-color: transparent;
+
+                :hover {
+                    background-color: transparent;
+                }
+            }
+        }
+
+        .title-container {
+            .flex-row(@justify-content: space-between, @align-items: center);
+            padding: 12px 5px 12px 12px;
+
+            .name-container {
+                flex: 1;
+            }
+
+            &:hover {
+                .buttons {
+                    .metric-list-item-menu {
+                        .styled-toggle {
+                            visibility: visible;
+                        }
+                    }
+                }
+            }
+
+            .buttons {
+                .metric-list-item-menu {
+                    .styled-toggle {
+                        display: block;
+                        visibility: hidden;
+                        text-decoration: none;
+                        cursor: pointer;
+                        padding: 0 5px 0 5px;
+
+                        &.dropdownopen {
+                            display: block;
+                        }
+
+                        .material-symbols-outlined {
+                            font-size: 20px;
+                            color: @slate;
+                        }
+
+                        &:hover {
+                            .material-symbols-outlined {
+                                color: @slate-darker;
+                            }
+                        }
+                    }
+
+                    .dropdown-menu {
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    .variable-items, .split-by-items {
+                        .dropdown-item:last-child {
+                            border-bottom: 1px solid @slate-lighter;
+                        }
+                    }
+
+                    .dropdown-item {
+                        .flex-row(@align-items: center);
+                        padding: 10px 15px 10px 10px;
+                        margin: 0;
+                        cursor: pointer;
+                        background: @white;
+
+                        .menu-icon {
+                            font-size: 16px;
+                            color: @slate;
+                            margin-right: 10px;
+                        }
+
+                        .split-by-name {
+                            max-width: 200px;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            margin: 0;
+                        }
+
+                        .checkmark {
+                            color: @blueSteel;
+                            margin-left: 10px;
+                            font-size: 16px;
+                        }
+
+                        &:hover {
+                            background: @blueSteel-lighter;
+
+                            .menu-icons {
+                                color: @slate-darker;
+                            }
+                        }
+
+                        &:focus {
+                            outline: 0;
+                            background: @blueSteel-lighter;
+                        }
+                    }
+                }
+            }
+
+            .edit-input {
+                line-height: 1.2;
+                flex-grow: 1;
+                border: none;
+                outline: none;
+                background-color: @white;
+                transform: translate(-2px, -1px);
+                margin: 2px;
+
+                &:hover {
+                    border: none;
+                    background-color: @white;
+                }
+
+                &:focus {
+                    border: none;
+                    box-shadow: 0 0 0 1px @blueSteel;
+                }
+            }
+        }
+    }
+
+    &:empty {
+        height: 100%;
+
+        &::after {
+            content: "No results";
+            .flex-row(@justify-content: center, @align-items: center);
+            color: @slate;
+            height: 100%;
+        }
+    }
+}

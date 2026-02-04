@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Strongly approve
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Somewhat approve
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Neither approve nor disapprove
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Somewhat disapprove
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Strongly disapprove
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know / Have not heard of
+  }
+]

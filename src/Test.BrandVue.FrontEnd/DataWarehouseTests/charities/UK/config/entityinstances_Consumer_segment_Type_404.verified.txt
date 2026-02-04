@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Support Status:Aware but never supported (Base Consumer_segment)
+  }
+]

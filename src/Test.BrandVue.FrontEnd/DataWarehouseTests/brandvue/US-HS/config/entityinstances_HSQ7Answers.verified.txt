@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I never change provider unless I have to
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Once I find a provider, I tend to stick with it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I will look into switching providers every few years
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I will look into switching providers every year or more frequently
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Not applicable
+  }
+]

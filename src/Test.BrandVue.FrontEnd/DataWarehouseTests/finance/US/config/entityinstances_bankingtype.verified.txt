@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 17,
+    Name: Personal current account
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Cash savings / deposit account (including cash ISA, instant access savings account, notice savings account, fixed term savings bonds etc.)
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Business current account (if you have your own business where you are the owner or director)
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Foreign exchange services / international payments
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Premium bonds from NS&I
+  }
+]

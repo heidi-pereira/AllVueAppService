@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Never - this was my first visit
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Last 6-10 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Last 2-5 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: More than a year ago
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Last 12 months
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Last month
+  }
+]

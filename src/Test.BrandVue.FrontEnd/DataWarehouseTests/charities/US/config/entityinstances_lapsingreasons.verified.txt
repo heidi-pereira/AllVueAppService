@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Change in disposable income
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Change in personal circumstances
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Have started supporting other charities
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I just haven’t had the opportunity to
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I no longer feel as close
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I don’t see my donation having an impact
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I don’t trust the charity anymore
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The charity contacted me too frequently
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I had supported the charity enough
+  },
+  {
+    ClassInstanceId: 10,
+    Name: I forgot about the charity
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (specify)
+  }
+]

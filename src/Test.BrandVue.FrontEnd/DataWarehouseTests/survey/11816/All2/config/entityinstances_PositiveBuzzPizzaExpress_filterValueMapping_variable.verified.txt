@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Pizza Express
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Casual Dining
+  }
+]

@@ -1,0 +1,52 @@
+@import "_layout";
+
+.settings-page {
+    .flex-row();
+    height: 100%;
+
+    .configuration-page {
+        height: 100%;
+    }
+
+    .settings-side-panel {
+        width: 200px;
+        background: @white;
+        border-right: 1px solid @chalk;
+        box-shadow: 0px 0px 5px @chalk;
+
+        padding: 28px 0;
+        .flex-column(@gutter: 24px);
+
+        .side-panel-link {
+            .flex-row(@align-items: center);
+
+            font-size: 14px;
+            padding: 8px 28px;
+            color: @slate;
+            border-right: 4px solid transparent;
+            transition: color 150ms ease;
+
+            &:hover {
+                color: @slate-dark;
+                border-right: 4px solid transparent;
+            }
+
+            &.active {
+                color: @blueSteel;
+                border-right: 4px solid @blueSteel;
+                //box-shadow: 0 0.3rem 0.15rem -0.15rem #d7ebf4; TODO: Add right box shadow
+                transition: all 150ms ease-in;
+                font-weight: 400;
+
+                &:hover {
+                    color: @blueSteel-dark;
+                    border-right: 4px solid @blueSteel-dark;
+                }
+            }
+        }
+    }
+
+    #ErrorView {
+        flex: 1;
+    }
+}

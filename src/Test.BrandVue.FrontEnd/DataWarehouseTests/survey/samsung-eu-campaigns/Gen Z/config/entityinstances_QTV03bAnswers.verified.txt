@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I would not replace my current device unless it broke down
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I bought the device recently, so have no need to replace
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I am planning to move house soon, so I will wait until after I’ve moved
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I would like to buy a new TV, but is not a priority
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I am happy with my current device
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I expect my personal circumstances to change (e.g. financial situation)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: New TVs have nothing much to offer beyond what my current TV is
+  },
+  {
+    ClassInstanceId: 8,
+    Name: My personal financial circumstances mean I don’t want to spend money / can’t spend money on a new TV
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t Know / Other
+  }
+]

@@ -1,0 +1,154 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Abarth
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Alfa Romeo
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Audi
+  },
+  {
+    ClassInstanceId: 3,
+    Name: BMW
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Citroen
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cupra
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Dacia
+  },
+  {
+    ClassInstanceId: 7,
+    Name: DS
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Fiat
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Ford
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Honda
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Hyundai
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Jaguar
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Jeep
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Kia
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Land Rover
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Lexus
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Mazda
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Mercedes-Benz
+  },
+  {
+    ClassInstanceId: 19,
+    Name: MG
+  },
+  {
+    ClassInstanceId: 20,
+    Name: MINI
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Mitsubishi
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Nissan
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Peugeot
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Polestar
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Porsche
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Renault
+  },
+  {
+    ClassInstanceId: 27,
+    Name: SEAT
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Skoda
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Smart
+  },
+  {
+    ClassInstanceId: 30,
+    Name: SsangYong
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Subaru
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Suzuki
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Tesla
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Toyota
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Vauxhall
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Volkswagen
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Volvo
+  }
+]

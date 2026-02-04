@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Image:Easy to find what you want (Base Image_evaluation_easy_to_find)
+  }
+]

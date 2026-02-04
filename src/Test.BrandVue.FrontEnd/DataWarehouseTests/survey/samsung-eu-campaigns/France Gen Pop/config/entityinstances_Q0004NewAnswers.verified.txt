@@ -1,0 +1,90 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Time Out
+  },
+  {
+    ClassInstanceId: 2,
+    Name: ES Magazine
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Stylist
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Stella
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Metro
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Grazia
+  },
+  {
+    ClassInstanceId: 7,
+    Name: The Sun
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Daily Mirror
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Daily Record
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Daily Star
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Daily Mail
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Daily Express
+  },
+  {
+    ClassInstanceId: 13,
+    Name: i (newspaper)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: London Evening Standard
+  },
+  {
+    ClassInstanceId: 15,
+    Name: The Telegraph
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Financial Times
+  },
+  {
+    ClassInstanceId: 17,
+    Name: The Metro
+  },
+  {
+    ClassInstanceId: 18,
+    Name: The Guardian
+  },
+  {
+    ClassInstanceId: 19,
+    Name: The Times
+  },
+  {
+    ClassInstanceId: 20,
+    Name: GQ
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Glamour
+  },
+  {
+    ClassInstanceId: 97,
+    Name: None of the above
+  }
+]

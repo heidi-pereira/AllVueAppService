@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		/* Bootstrap 3.3.7 parity */
+	
+	.panel-group
+	{
+		margin-bottom: 50px;
+	}
+	
+	.panel-default
+	{
+		border-color: #ddd;
+	}
+	
+	.panel 
+	{
+		margin-bottom: 5px;
+		background-color: #fff;
+		border: 1px solid #CBCBCB;
+		border-radius: 4px;
+		-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+		box-shadow: 0 1px 1px rgba(0,0,0,.05);
+	}
+	
+	.card-header 
+	{
+		padding: 10px 15px;
+		border-bottom: 1px solid transparent;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;	
+	}
+	
+	.card-title title
+	{
+		margin-bottom: 0px;
+		vertical-align: middle;
+		position:relative;
+	}
+	
+	h4.title
+	{
+		font-size:18px;
+		margin:0px;
+	}
+	
+	.icon
+	{
+		margin-top:30px;
+	}
+	
+	
+	/*Custom Styles*/
+	
+	.summary-cards
+	{
+		font-size: 16px;
+		color: #6f6f6f;
+		font-weight: 300;
+		font-family: inherit;
+		line-height: 26pt;
+		letter-spacing: 1px;
+	}
+	
+	.article-summary
+	{
+		font-size: 18px;
+		color: #6f6f6f;
+		font-weight: 300;
+		text-align: center;
+		vertical-align: middle;
+		padding: 20px 10px 0px 10px;
+	}
+	
+	.author
+	{
+		font-size: 10px;
+		color: #6f6f6f;
+		font-weight: 500;
+		text-align: center;
+		vertical-align: middle;
+	}
+	
+	.iconography
+	{
+		font-size: 40px;
+		color: #477c2e;
+		text-align: center;
+	}
+
+	.btn-custom:hover
+	{
+		background-color: #CBCBCB;
+		color: #000;
+		border-color: #CBCBCB;
+	}
+		
+	.btn-custom
+	{
+		color: #FFF;
+		background-color: #477c2e;
+		border-color: #477c2e;
+	}
+	
+	.btn-article
+	{
+		vertical-align: bottom;
+	}
+	
+	.btn-container
+	{
+		position: absolute;
+		bottom: 0;
+		left: 50%;
+		margin-left: -45px;
+	}
+	
+	.spacer
+	{
+		padding: 20px 0px;
+	}
+	
+	.underline
+	{
+		border-top: 3px solid #477c2e;
+		box-shadow: 0 20px 20px -20px #333;
+		width: 5%;
+	}
+	
+	.card-image1
+	{
+		display: table;
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+		min-height: 200px;
+		border-radius: 5px 5px 0px 0px;
+		background-image: url("../clientdata/pages/FutureDining.jpg");
+		background-image: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%), url("../clientdata/pages/FutureDining.jpg");
+		text-align: center;
+		vertical-align: middle;
+		font-size: 40px;
+		font-weight: 300;
+		text-shadow: 0px 2px #000;
+		color: #FFF; 
+		background-position: center; 
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-top: 15%;
+		padding-bottom: 15%;
+		padding-left: 10px;
+		padding-right: 10px;
+		
+	}
+	
+	.card-image2
+	{
+		display: table;
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+		min-height: 200px;
+		border-radius: 5px 5px 0px 0px;
+		background-image: url("../clientdata/pages/ProdTesting.jpg");
+		background-image: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%), url("../clientdata/pages/ProdTesting.jpg");
+		text-align: center;
+		vertical-align: middle;
+		font-size: 40px;
+		font-weight: 300;
+		text-shadow: 0px 2px #000;
+		color: #FFF; 
+		background-position: center; 
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-top: 10%;
+		padding-bottom: 10%;
+		padding-left: 10px;
+		padding-right: 10px;
+		
+	}
+	
+	.card-image3
+	{
+		display: table;
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+		min-height: 200px;
+		border-radius: 5px 5px 0px 0px;
+		background-image: url("../clientdata/pages/PapaJohns.jpg");
+		background-image: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%), url("../clientdata/pages/PapaJohns.jpg");
+		text-align: center;
+		vertical-align: middle;
+		font-size: 34px;
+		font-weight: 300;
+		text-shadow: 0px 2px #000;
+		color: #FFF; 
+		background-position: center; 
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		padding-left: 10px;
+		padding-right: 10px;
+		
+	}
+	
+	.cards
+	{
+		width: 90%;
+		background-color: white;
+		box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+		border-radius: 5px;
+		padding: 0px;
+		height: 100%;
+	}
+	
+	.article
+	{
+		height: 250px;
+		padding-top: 5%;
+	}
+	
+	.tutorial-wrap
+	{
+		min-width: 90%;
+	}
+	
+	.title-format
+	{
+		border-bottom: 1px #CBCBCB solid;
+		border-top: 1px #CBCBCB solid;
+		vertical-align: middle;
+		padding: 10px 0px;
+		height: 100%;
+		font-weight: 400;
+	}
+	
+	.row-spacing
+	{
+		padding-bottom:20px
+	}
+
+	.vertical-align 
+	{
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    flex-direction: row;
+	}
+	
+	</style>
+</head>
+<body style="padding-bottom:200px">
+<h2 class="display-4" style="padding-top:0px;margin-top:0px;padding-bottom:20px;" align="center">How BrandVue can help you<hr class="underline"/></h2>
+	<div class="tutorial-wrap container">
+		<div class="row row-spacing">
+			<div class="col">
+				<h2 class="text-center title-format vertical-align">Evaluate Public Sentiment</h2>
+			</div>		
+			<div class="col">
+				<h2 class="text-center title-format vertical-align">Investigating conversion</h2>
+			</div>	
+			<div class="col align-middle">
+				<h2 class="text-center title-format vertical-align">Customer Profiles</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col text-center">
+				<i class="material-icons iconography ">favorite</i>
+			</div>
+			<div class="col text-center">
+				<i class="material-icons iconography">person_add</i>
+			</div>
+			<div class="col text-center">
+				<i class="material-icons iconography">people</i>
+			</div>
+		</div>
+		<div class="row row-spacing">
+			<div class="col">
+				<p class="summary-cards">Understanding public sentiments of brands is important. Sentiment is predictive of future performance.</p>
+				<p class="summary-cards">On this demo, we take a look at net buzz - a topline measure of the prevailing opinion of a brand - as a first step in evaluating the public sentiment of a brand.</p>
+			</div>
+			<div class="col">
+				<p class="summary-cards">In order to gain more customers every brand has to think how they move people from not knowing the brand to purchasing from the brand.</p>
+				<p class="summary-cards">On this demo, we take a look at brand awareness, moving through to consideration and finally analysing which groups we can most easily convert to purchasing customers.</p>
+			</div>
+			<div class="col">
+				<p class="summary-cards">An effective brand strategy starts by answering the question "Who is my customer?"</p>
+				<p class="summary-cards">On this demo, we take a look at the profile of your customers, and the profiles of your competitors customers.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<div class="text-center">
+					<button type="button" data-tour="Tour1" class="btn btn-primary align-center" style="font-size:1.2em" align="center">Evaluate public sentiment</button>
+				</div>
+			</div>
+			<div class="col">
+				<div class="text-center">
+					<button type="button" data-tour="Tour2" class="btn btn-primary align-center" style="font-size:1.2em" align="center">Investigate conversion</button>
+				</div>
+			</div>
+			<div class="col">
+				<div class="text-center">
+					<button type="button" data-tour="Tour3" class="btn btn-primary align-center" style="font-size:1.2em" align="center">Identify customers</button>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="spacer-wrap">
+<div class="row">
+<div class="col spacer">
+</div>
+</div>
+</div>
+<div class="article-wrap" style="padding-top:40px;">
+	<div class="row">
+		<div class="col">
+			<h2 class="display-4" style="padding-top:20px" align="center">Recent Articles<hr class="underline"/></h2>
+		</div>
+	</div>
+	<div class="row" style="padding-top:50px;">
+		<div class="container tutorial-wrap">
+		<div class="row">
+				<div class="col">
+					<div class="container cards card-block h-100">
+						<div class="card-image3">Negative Buzz: Papa John's will get worse before it gets better</div>
+						<p class="article-summary">The Papa John’s story reminds us of the truism that bad press is bad for business. The BrandVue data helps us understand more about how news and sentiment affects consumer choices.</p>
+						<p class="author">Julian Dailly | September 6, 2018</p><br/><br/><br/>
+						<div class="text-center btn-container" style="padding-bottom:20px">
+							<a href="https://www.morarhpi.com/post/papa-johns" target="_blank" class="btn btn-custom btn-md">To article</a>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="container cards h-100 card-block">
+						<div class="card-image1">i, Waiter</div>
+						<p class="article-summary">Casual brands are beginning to bring in new technology to the dining experience - but how much should they embrace?</p>
+						<p class="author">Sam Ashby | August 13, 2018</p><br/><br/><br/>
+						<div class="text-center btn-container" style="padding-bottom:20px">
+							<a href="https://www.morarhpi.com/post/suitable-technology-dining" target="_blank" class="btn btn-custom btn-md">To article</a>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="container cards h-100 card-block">
+						<div class="card-image2">Avoiding consumer backlash</div>
+						<p class="article-summary">Avoiding a consumer backlash by doing the right kind of product testing. There can be consumer backlash when much-loved brands reformulate their product.</p>
+						<p class="author">Martin Dinkele | July 23, 2018</p><br/><br/><br/>
+						<div class="text-center btn-container" style="padding-bottom:20px">
+							<a href="https://www.morarhpi.com/post/avoiding-a-consumer-backlash" target="_blank" class="btn btn-custom btn-md">To article</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

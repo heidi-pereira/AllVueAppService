@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: BaseMeasure: Consumer_segment GreaterThan 3 (Base Consumer_segment)
+  }
+]

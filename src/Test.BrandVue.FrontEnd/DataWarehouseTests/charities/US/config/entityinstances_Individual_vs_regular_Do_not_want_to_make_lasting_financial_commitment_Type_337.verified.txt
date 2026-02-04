@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Do not want to make lasting financial commitment (Base Individual_vs_regular_Do_not_want_to_make_lasting_financial_commitment)
+  }
+]

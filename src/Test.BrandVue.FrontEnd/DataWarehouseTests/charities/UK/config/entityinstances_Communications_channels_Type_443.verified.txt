@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Touch Points (Base Communications_channels)
+  }
+]

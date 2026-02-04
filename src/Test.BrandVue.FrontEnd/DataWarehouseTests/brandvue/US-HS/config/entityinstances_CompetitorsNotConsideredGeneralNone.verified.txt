@@ -1,0 +1,130 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 9001,
+    Name: ADT
+  },
+  {
+    ClassInstanceId: 9002,
+    Name: Amazon Fire TV
+  },
+  {
+    ClassInstanceId: 9003,
+    Name: Amazon Video
+  },
+  {
+    ClassInstanceId: 9004,
+    Name: Apple TV+
+  },
+  {
+    ClassInstanceId: 9005,
+    Name: AT&T
+  },
+  {
+    ClassInstanceId: 9006,
+    Name: Boost Mobile
+  },
+  {
+    ClassInstanceId: 9007,
+    Name: Cinemax
+  },
+  {
+    ClassInstanceId: 9008,
+    Name: Consumer Cellular
+  },
+  {
+    ClassInstanceId: 9009,
+    Name: Cox Communications
+  },
+  {
+    ClassInstanceId: 9010,
+    Name: Cricket Wireless
+  },
+  {
+    ClassInstanceId: 9011,
+    Name: DirecTV
+  },
+  {
+    ClassInstanceId: 9012,
+    Name: EarthLink
+  },
+  {
+    ClassInstanceId: 9013,
+    Name: Eero
+  },
+  {
+    ClassInstanceId: 9014,
+    Name: Fiber One
+  },
+  {
+    ClassInstanceId: 9015,
+    Name: Fuse
+  },
+  {
+    ClassInstanceId: 9016,
+    Name: Gazprom
+  },
+  {
+    ClassInstanceId: 9017,
+    Name: Google Fi
+  },
+  {
+    ClassInstanceId: 9018,
+    Name: Life Lock
+  },
+  {
+    ClassInstanceId: 9019,
+    Name: MetroPCS
+  },
+  {
+    ClassInstanceId: 9020,
+    Name: Pluto TV
+  },
+  {
+    ClassInstanceId: 9021,
+    Name: RCN
+  },
+  {
+    ClassInstanceId: 9022,
+    Name: Sling TV
+  },
+  {
+    ClassInstanceId: 9023,
+    Name: Sprint
+  },
+  {
+    ClassInstanceId: 9024,
+    Name: Straight Talk Wireless
+  },
+  {
+    ClassInstanceId: 9025,
+    Name: Terminix
+  },
+  {
+    ClassInstanceId: 9026,
+    Name: T-Mobile
+  },
+  {
+    ClassInstanceId: 9027,
+    Name: TracFone Wireless
+  },
+  {
+    ClassInstanceId: 9028,
+    Name: US Cellular
+  },
+  {
+    ClassInstanceId: 9029,
+    Name: Verizon Wireless
+  },
+  {
+    ClassInstanceId: 9030,
+    Name: Virgin Mobile
+  },
+  {
+    ClassInstanceId: 9031,
+    Name: Xfinity Mobile
+  }
+]

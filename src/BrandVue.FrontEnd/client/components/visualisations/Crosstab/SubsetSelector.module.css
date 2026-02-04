@@ -1,0 +1,16 @@
+.label {
+    display: flex;
+    color: #6E7881;
+    align-items: center;
+    margin: 0;
+    font-size: 14px;
+    margin-bottom: 16px !important;
+}
+
+.subsetDropdownButton {
+    width: 100%;
+}
+
+.subsetDropdownMenu {
+    width: 100%;
+}

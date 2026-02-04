@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Change in disposable income (Base Lapsed_users_Change_in_disposable_income)
+  }
+]

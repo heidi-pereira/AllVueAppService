@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: IR|Dublin
+  },
+  {
+    ClassInstanceId: 2,
+    Name: IR|Northern and Western
+  },
+  {
+    ClassInstanceId: 3,
+    Name: IR|Southern
+  },
+  {
+    ClassInstanceId: 4,
+    Name: IR|Eastern & Midland ex. Dublin
+  }
+]

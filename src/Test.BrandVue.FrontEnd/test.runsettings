@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <RunConfiguration>
+        <MaxCpuCount>5</MaxCpuCount>
+    </RunConfiguration>
+    <DataCollectionRunSettings>
+        <DataCollectors>
+            <DataCollector friendlyName="XPlat Code Coverage">
+                <Configuration>
+                    <Exclude>
+                        [TestCommon]*,
+                        [*]BrandVue.EntityFramework.Migrations*
+                    </Exclude>
+                    <ExcludeByFile>
+                        **/Program.cs,
+                        **/Startup.cs,
+                        **/IoCConfig.cs
+                    </ExcludeByFile>
+                    <ExcludeByAttribute>Obsolete,GeneratedCodeAttribute,CompilerGeneratedAttribute</ExcludeByAttribute>
+                </Configuration>
+            </DataCollector>
+        </DataCollectors>
+    </DataCollectionRunSettings>
+</RunSettings>

@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Better fitting products
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Better priced products
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Better quality products
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Products available in my size
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Better range of styles
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Shorter queues
+  },
+  {
+    ClassInstanceId: 7,
+    Name: More helpful staff
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Better store layout
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 999,
+    Name: I was only browsing
+  }
+]

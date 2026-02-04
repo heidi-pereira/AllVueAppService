@@ -1,0 +1,210 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A&E
+  },
+  {
+    ClassInstanceId: 2,
+    Name: ABC
+  },
+  {
+    ClassInstanceId: 3,
+    Name: AMC
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Animal Planet
+  },
+  {
+    ClassInstanceId: 5,
+    Name: BET
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Bounce TV
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Bravo
+  },
+  {
+    ClassInstanceId: 8,
+    Name: CBS
+  },
+  {
+    ClassInstanceId: 9,
+    Name: CNN
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Comedy Central
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Discovery Channel
+  },
+  {
+    ClassInstanceId: 12,
+    Name: ESPN
+  },
+  {
+    ClassInstanceId: 13,
+    Name: ESPN 2
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Food Network
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Fox
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Fox News Channel
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Fox Sports 1
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Freeform
+  },
+  {
+    ClassInstanceId: 19,
+    Name: FX
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Game Show Network
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Grit
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Hallmark Channel
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Hallmark Movie & Mysteries
+  },
+  {
+    ClassInstanceId: 24,
+    Name: HBO
+  },
+  {
+    ClassInstanceId: 25,
+    Name: HGTV
+  },
+  {
+    ClassInstanceId: 26,
+    Name: History
+  },
+  {
+    ClassInstanceId: 27,
+    Name: INSP
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Investigation Discovery
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Ion
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Lifetime
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Me TV
+  },
+  {
+    ClassInstanceId: 32,
+    Name: MSNBC
+  },
+  {
+    ClassInstanceId: 33,
+    Name: MTV
+  },
+  {
+    ClassInstanceId: 34,
+    Name: National Geographic
+  },
+  {
+    ClassInstanceId: 35,
+    Name: NBC
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Nick at Nite
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Nickelodeon
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Oxygen
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Paramount Network
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Reelzchannel
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Syfy
+  },
+  {
+    ClassInstanceId: 42,
+    Name: TBS
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Telemundo
+  },
+  {
+    ClassInstanceId: 44,
+    Name: The CW
+  },
+  {
+    ClassInstanceId: 45,
+    Name: TLC
+  },
+  {
+    ClassInstanceId: 46,
+    Name: TNT
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Travel Channel
+  },
+  {
+    ClassInstanceId: 48,
+    Name: TV Land
+  },
+  {
+    ClassInstanceId: 49,
+    Name: UniMás
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Univision
+  },
+  {
+    ClassInstanceId: 51,
+    Name: USA Network
+  },
+  {
+    ClassInstanceId: 52,
+    Name: WE TV
+  }
+]

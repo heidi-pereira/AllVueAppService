@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Length of tenancy: 5 to 9 years (Base Consumer_segment)
+  }
+]

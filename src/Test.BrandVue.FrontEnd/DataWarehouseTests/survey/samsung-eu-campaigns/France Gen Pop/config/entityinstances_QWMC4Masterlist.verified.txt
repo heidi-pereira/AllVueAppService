@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Extremely unlikely|Extremely likely|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Extremely unlikely|Extremely likely|Hisense|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Extremely unlikely|Extremely likely|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Extremely unlikely|Extremely likely|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Extremely unlikely|Extremely likely|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Extremely unlikely|Extremely likely|AEG|Neutral|
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Extremely unlikely|Extremely likely|Haier|Neutral|
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Extremely unlikely|Extremely likely|Hotpoint|Neutral|
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Extremely unlikely|Extremely likely|Indesit|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Extremely unlikely|Extremely likely|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Extremely unlikely|Extremely likely|Siemens|Neutral|
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Extremely unlikely|Extremely likely|Whirlpool|Neutral|
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Extremely unlikely|Extremely likely|Balay|Neutral|
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Extremely unlikely|Extremely likely|Bauknecht|Neutral|
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Extremely unlikely|Extremely likely|Candy|Neutral|
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Extremely unlikely|Extremely likely|Hoover|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Extremely unlikely|Extremely likely|Electrolux|Neutral|
+  }
+]

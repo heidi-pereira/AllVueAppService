@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: High managerial, administrative or professional
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Supervisor, administrative or professional
+  },
+  {
+    ClassInstanceId: 2,
+    Name: House-wife / house-husband
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Semi-skilled or unskilled manual worker
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Student
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Intermediate managerial, administrative or professional
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Unemployed
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Skilled manual worker
+  }
+]

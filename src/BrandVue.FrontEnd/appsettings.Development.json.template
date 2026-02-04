@@ -1,0 +1,10 @@
+// Initial setup: Right click on the FrontEnd project, and click "Manage User Secrets". Any settings there will override the main app settings, but not be shown in git.
+// Below are some most commonly changed settings. This works for other projects such as tests too.
+{
+  "allowLocalToBypassConfiguredAuthServer": true, // Set to false if you want to test locally with a real auth server
+  "authServerUrl": "", // To use a local auth server, use https://localhost:44378 and run dev from disk since it's easier to run in https mode
+  "chartConfigurationEnabled": true, // Set true for db config
+  "loadConfigFromSql": true, // Set true for db config
+  "productsToLoadDataFor": "retail", // Product loaded
+  "useSubProductPathPrefix": false // Set to true for "survey" product, i.e. AllVue
+}

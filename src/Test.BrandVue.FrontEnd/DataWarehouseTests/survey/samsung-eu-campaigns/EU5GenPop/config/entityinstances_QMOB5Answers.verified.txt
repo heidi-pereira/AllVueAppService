@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: O2
+  },
+  {
+    ClassInstanceId: 2,
+    Name: EE
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Three
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Vodafone
+  },
+  {
+    ClassInstanceId: 5,
+    Name: BT Mobile
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Virgin Mobile
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Tesco Mobile
+  },
+  {
+    ClassInstanceId: 9,
+    Name: giffgaff
+  },
+  {
+    ClassInstanceId: 10,
+    Name: VOXI
+  },
+  {
+    ClassInstanceId: 11,
+    Name: iD Mobile
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Sky Mobile
+  },
+  {
+    ClassInstanceId: 13,
+    Name: 48
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Clear Mobile
+  },
+  {
+    ClassInstanceId: 15,
+    Name: eir Mobile
+  },
+  {
+    ClassInstanceId: 16,
+    Name: GoMo
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Lycamobile
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Harvey Norman
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

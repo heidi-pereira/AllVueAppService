@@ -1,0 +1,98 @@
+@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+.weightingModalOption{
+    padding-left: 24px;
+}
+
+.segmentLabel {
+    display: flex;
+    align-items: baseline;
+
+    .segmentHelp {
+        margin-left: 5px;
+        margin-bottom: 5px;
+        > * > * {
+            font-size: 16px;
+        }
+    }
+}
+
+.modalBody {
+    .dropDownContainer {
+        .dropDown {
+            display: block;
+
+            .dropDownToggle {
+                background-color: @white;
+                border-color: @slate-light;
+                .flex-row(@justify-content: space-between, @align-items: center);
+                border: 1px solid @slate-lighter;
+                border-radius: 4px !important;
+                color: @slate-darker;
+                width: 100%;
+
+                .symbol {
+                    color: @slate;
+                }
+
+                &:hover {
+                    border-color: @slate-light;
+                }
+            }
+
+            .dropDownMenu {
+                width: 100%;
+                overflow-x: hidden;
+
+                .dropDownContents {
+                    width: 100%;
+                    margin-top: 8px;
+                    border: 1px solid @chalk;
+                    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 8px 10px rgba(0, 0, 0, 0.14);
+
+                    .dropDownItem {
+                        padding: 10px 15px;
+                        font-weight: 400;
+                        font-size: 15px;
+                        transition: background-color 175ms ease;
+
+                        &.disabled {
+                            color: @slate-lighter;
+                        }
+
+                        &:not(&.disabled) {
+                            &:hover {
+                                background-color: @blueSteel-lighter;
+                            }
+
+                            &:active {
+                                background-color: @blueSteel-lighter;
+                                color: @slate-darker;
+                                outline: none;
+                            }
+
+                            &:focus {
+                                background-color: @blueSteel-light;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .waveSelector {
+        .waveSelectorDropdown {
+            div.waveSelectorDropdownMenu {
+                max-height: unset;
+
+                div.variableList {
+                    .scrollbars;
+                    overflow-y: auto;
+                    max-height: 240px;
+                }
+            }
+        }
+    }
+}

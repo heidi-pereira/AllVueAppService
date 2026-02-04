@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 2,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Miele
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 98,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know/Can’t remember
+  }
+]

@@ -1,0 +1,327 @@
+﻿@import "../../../less/_vars";
+@import "../../../less/_layout";
+
+.brandAnalysisPage {
+    position: relative;
+    min-width: 400px;
+
+    .cardMulti {
+        padding: 32px 132px 32px 32px;
+        margin-bottom: 0;
+    }
+}
+
+.cardContent {
+    .flex-column();
+    padding: 12px 24px 12px 24px;
+
+    .evenJustified {
+        justify-content: space-between;
+    }
+}
+
+.exploreButton {
+    .flex-row(@justify-content: flex-end);
+    margin-top: 16px;
+}
+
+.cardAdditionalText {
+    text-align: center;
+    padding-bottom: 12px;
+}
+
+.cardAdditionalText:only-child {
+    margin: 0 auto;
+}
+
+
+.cardPadded {
+    margin-left: -8px;
+    padding: 10px 0;
+}
+
+.good {
+    color: @good-green;
+    font-weight: bold;
+}
+
+.bad {
+    color: @bad-red;
+    font-weight: bold;
+}
+
+.scorecardComponent {
+    .flex-row(@align-items:center);
+    padding: 6px 12px 0 48px;
+
+    .title, .label {
+        font-weight: 400;
+        font-size: 24px;
+    }
+
+    .title {
+        padding: 10px 0 0 0;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 0;
+        font-weight: normal;
+        text-align: center;
+    }
+
+    .cardRoundel {
+        display: flex;
+        min-width: 120px;
+
+        .roundel {
+            display: flex;
+            border: 1px solid var(--header-border-colour);
+            background-color: var(--header-border-colour);
+            border-radius: 100%;
+            height: 72px;
+            width: 72px;
+            margin: auto;
+
+            &.barometer {
+                border: 1px @wgsn-blue-light;
+                background-color: @wgsn-blue-light;
+            }
+
+            .label {
+                margin: auto;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-weight: normal;
+                // Change font colour between black and white depending on the background colour - https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
+                --switch: calc((var(--header-border-colour-l) - 60%) * -100);
+                color: hsl(0, 0%, var(--switch));
+            }
+        }
+    }
+
+    .cardRoundel.throbber {
+        animation: flickerAnimation 1.5s infinite;
+    }
+
+    .placeholder {
+        font-size: 20px;
+    }
+}
+
+.subtext {
+    padding: 10px;
+
+    &.noData {
+        padding: 20px;
+        color: @slate;
+    }
+
+    &.error {
+        padding: 20px;
+        color: @lava;
+    }
+}
+
+.subtext.throbber {
+    flex-grow: 1;
+    animation: flickerAnimation 1.5s infinite;
+
+    div {
+        background-color: @slate-lighter;
+        border-radius: 4px;
+        height: 24px;
+        width: 60%;
+        margin-bottom: 5px;
+    }
+
+    div:first-child {
+        width: 100%;
+    }
+}
+
+.brandAnalysisSubPage {
+    align-items: center;
+    padding: 20px ~"min(20%, 300px)";
+
+    &:not(:last-child) {
+        border-bottom: solid;
+        border-width: 1px;
+        border-color: @chalk;
+    }
+
+    .scorecardComponent {
+        justify-content: center;
+    }
+
+    .cardContent {
+        width: 100%;
+
+        .subPageCardTitle {
+            .flex-row(@justify-content: center, @align-items: center, @gutter:24px);
+
+            .titleIcon {
+                border: 2px solid @punk-light;
+                border-radius: 100%;
+                color: @punk-dark;
+                padding: 4px;
+                height: 36px;
+                width: 36px;
+            }
+
+            .titleText {
+                color: @punk-darker;
+                font-size: 26px;
+                font-weight: 300;
+            }
+        }
+
+        .subPageFlexRow {
+            .flex-row(@justify-content: center, @gutter: 20px);
+            padding: 20px 0 10px;
+
+            h4 {
+                color: @punk-dark;
+                font-weight: 500;
+                margin: 1.2em 0 1.8em;
+            }
+
+            .subPageTextContainer {
+                min-width: 300px;
+                padding-right: 30px;
+                padding-bottom: 20px;
+
+                li {
+                    font-size: 14px;
+
+                    &.link {
+                        color: @blueSteel;
+                        list-style-type: disc;
+                        text-decoration: none;
+
+                        a {
+                            font-size: inherit;
+                        }
+
+                        &:last-child {
+                            margin-bottom: 20px;
+                        }
+                    }
+                }
+
+                .metricInsight {
+                    .flex-row(@align-items: flex-end);
+                    gap: 32px;
+
+                    .metricInsightIcon {
+                        width: 32px;
+
+                        span {
+                            margin-left: 0;
+
+                            i {
+                                font-size: 2.5em;
+                            }
+                        }
+
+                        .gold {
+                            color: @amber;
+                        }
+                    }
+
+                    .metricInsightText {
+                        p {
+                            font-family: "Roboto", "Segoe UI", Arial, sans-serif;
+                            font-size: 14px;
+                        }
+                    }
+
+                    &:not(last-child) {
+                        margin-bottom: 32px;
+                    }
+                }
+
+                .button {
+                    width: fit-content;
+                    margin-top: 32px;
+                }
+
+                .pointer {
+                    cursor: pointer;
+                }
+            }
+
+            > div:not(:last-of-type) {
+                border-right: 1px solid @chalk-light;
+            }
+
+            .subPageChartContainer, .subPageTextContainer {
+                min-width: 200px;
+
+                > div {
+                    background-color: rgba(255, 255, 255, 0.7);
+                    border-radius: 4px;
+                }
+
+                &.narrow {
+                    width: 35%;
+                }
+
+                &.equal {
+                    width: 50%;
+                }
+
+                &.wide {
+                    width: 65%;
+                }
+            }
+        }
+
+        .toolTip {
+            padding-top: 20px;
+            padding-left: 40px;
+            font-size: small;
+            color: @blueSteel;
+
+            .toolTipContent {
+                display: flex;
+                align-items: center;
+
+                .material-symbols-outlined {
+                    font-size: medium;
+                    margin-right: 4px;
+                }
+            }
+        }
+    }
+
+    & p {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+}
+
+.cardSubtext {
+    margin-left: 20px;
+
+    &.fullWidth {
+        width: auto;
+    }
+}
+
+.brandAnalysisFooter {
+    .flex-row;
+
+    .footerTitle {
+        color: @punk-darker;
+        font-weight: bold;
+        font-size: 16px;
+        margin: 0 20px 20px;
+    }
+
+    .footerText {
+        margin: 0 20px;
+        width: 80%;
+    }
+
+    .footerImg {
+        height: 130px;
+        align-self: end;
+    }
+}

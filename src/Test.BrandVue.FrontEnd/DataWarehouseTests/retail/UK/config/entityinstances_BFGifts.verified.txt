@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes - for friends and family
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes - for me
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not sure / don't know
+  }
+]

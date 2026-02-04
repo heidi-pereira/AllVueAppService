@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: UK|Camp 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: UK|Camp 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: France|Camp 1
+  },
+  {
+    ClassInstanceId: 4,
+    Name: France|Camp 2
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Germany|Camp 1
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Germany|Camp 2
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Italy|Camp 1
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Italy|Camp 2
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Spain|Camp 1
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Spain|Camp 2
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Ireland|Camp 1
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Ireland|Camp 2
+  }
+]

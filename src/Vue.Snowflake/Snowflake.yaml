@@ -1,0 +1,60 @@
+trigger:
+  branches:
+    include:
+      - main
+  paths:
+    include:
+      - src/BrandVue.Snowflake/*
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  packageVersion: '1.0.$(Build.BuildId)'
+
+steps:
+  - task: ArchiveFiles@1
+    displayName: 'Package DCM Files'
+    inputs:
+      rootFolderOrFile: 'src/BrandVue.Snowflake/DCM'
+      includeRootFolder: false
+      archiveType: 'zip'
+      archiveFile: '$(Build.ArtifactStagingDirectory)/DCM.$(packageVersion).zip'
+
+  - task: PublishBuildArtifacts@2
+    displayName: 'Publish DCM Package'
+    inputs:
+      PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+      ArtifactName: 'dcm-package'
+      
+  - task: ArchiveFiles@3
+    displayName: 'Package DBT Files'
+    inputs:
+      rootFolderOrFile: 'src/BrandVue.Snowflake/DBT'
+      includeRootFolder: false
+      archiveType: 'zip'
+      archiveFile: '$(Build.ArtifactStagingDirectory)/DBT.$(packageVersion).zip'
+
+  - task: PublishBuildArtifacts@4
+    displayName: 'Publish DBT Package'
+    inputs:
+      PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+      ArtifactName: 'dbt-package'
+      
+  - task: OctopusPush@5
+    displayName: Push to Octopus
+    condition: succeeded()
+    inputs:
+      OctoConnectedServiceName: 'Savanta Cloud Octopus'
+      Space: 'Default'
+      Packages: '$(Build.ArtifactStagingDirectory)/*.zip'
+      Replace: 'false'
+  - task: OctopusCreateRelease@6
+    displayName: 'Create DCM Octopus Release'
+    inputs:
+      OctoConnectedServiceName: 'Savanta Cloud Octopus'
+      Space: 'Default'
+      Project: 'SnowflakeDCM'
+      ReleaseNumber: '$(packageVersion)'
+      DefaultPackageVersion: '$(packageVersion)'
+      ReleaseNotes: ''

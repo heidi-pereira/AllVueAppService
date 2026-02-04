@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: I definitely would consider going
+  },
+  {
+    ClassInstanceId: 1,
+    Name: I may or may not consider going
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I probably would consider going
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I definitely would not consider going
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I probably would not consider going
+  }
+]

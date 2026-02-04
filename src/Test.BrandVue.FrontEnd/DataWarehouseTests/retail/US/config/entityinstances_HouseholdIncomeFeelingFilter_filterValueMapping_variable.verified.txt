@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Living comfortably on present income
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Coping on present income
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quite difficult on present income
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Very difficult on present income
+  }
+]

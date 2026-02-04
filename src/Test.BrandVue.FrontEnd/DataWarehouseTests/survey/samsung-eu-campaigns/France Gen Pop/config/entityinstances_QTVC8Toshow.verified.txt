@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: QLED
+  },
+  {
+    ClassInstanceId: 2,
+    Name: OLED
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 8K QLED
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 8K OLED
+  },
+  {
+    ClassInstanceId: 5,
+    Name: OLED evo
+  },
+  {
+    ClassInstanceId: 6,
+    Name: QNED
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Neo QLED
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 8K Neo QLED
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Micro LED
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Mini LED
+  },
+  {
+    ClassInstanceId: 11,
+    Name: QD-OLED
+  },
+  {
+    ClassInstanceId: 12,
+    Name: ULED
+  },
+  {
+    ClassInstanceId: 13,
+    Name: NanoCell
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Micro RGB
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don't know
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

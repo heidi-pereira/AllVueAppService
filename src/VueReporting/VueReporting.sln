@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VueReporting", "VueReporting\VueReporting.csproj", "{6F5C8251-859C-460F-BA58-A4822C941CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueReportingTests", "VueReportingTests\VueReportingTests.csproj", "{A0D936E4-9AB2-482E-B6DE-7FBF334941A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5C8251-859C-460F-BA58-A4822C941CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5C8251-859C-460F-BA58-A4822C941CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5C8251-859C-460F-BA58-A4822C941CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5C8251-859C-460F-BA58-A4822C941CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D936E4-9AB2-482E-B6DE-7FBF334941A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D936E4-9AB2-482E-B6DE-7FBF334941A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D936E4-9AB2-482E-B6DE-7FBF334941A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D936E4-9AB2-482E-B6DE-7FBF334941A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D30E87E2-5535-436A-BA76-676743693CC7}
+	EndGlobalSection
+EndGlobal

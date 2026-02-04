@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Homeowner
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Renting
+  }
+]

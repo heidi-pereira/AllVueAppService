@@ -1,0 +1,31 @@
+@use "../../Styles/layout" as *;
+
+.warning-banner {
+    @include flex-row($align-items: center);
+    color: var(--colour-amber-darker);
+    border-bottom: 1px solid var(--colour-amber-light);
+    background-color: var(--colour-amber-lighter);
+    padding: 16px 24px;
+    font-size: 0.875rem;
+
+    :global(.material-symbols-outlined) {
+        color: var(--colour-amber-darker);
+        font-size: 16px;
+        margin-right: 8px;
+        vertical-align: middle;
+    }
+
+    .remove-button {
+        cursor: pointer;
+        margin-left: auto;
+    }
+
+    .message {
+        a {
+            font-family: 'Roboto', sans-serif;
+            color: var(--colour-blueSteel);
+            font-size: 14px;
+            text-decoration: underline;
+        }
+    }
+}

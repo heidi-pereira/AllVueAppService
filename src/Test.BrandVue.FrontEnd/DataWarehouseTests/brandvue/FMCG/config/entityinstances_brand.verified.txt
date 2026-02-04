@@ -1,0 +1,870 @@
+﻿[
+  {
+    ClassInstanceId: 4001,
+    Name: Actimel
+  },
+  {
+    ClassInstanceId: 4002,
+    Name: Activia
+  },
+  {
+    ClassInstanceId: 4003,
+    Name: Aero
+  },
+  {
+    ClassInstanceId: 4004,
+    Name: Alpen
+  },
+  {
+    ClassInstanceId: 4005,
+    Name: Alpro
+  },
+  {
+    ClassInstanceId: 4006,
+    Name: Anchor
+  },
+  {
+    ClassInstanceId: 4007,
+    Name: Aptamil
+  },
+  {
+    ClassInstanceId: 4008,
+    Name: Ariel
+  },
+  {
+    ClassInstanceId: 4009,
+    Name: Arla
+  },
+  {
+    ClassInstanceId: 4010,
+    Name: Aunt Bessie's
+  },
+  {
+    ClassInstanceId: 4011,
+    Name: Babybel
+  },
+  {
+    ClassInstanceId: 4012,
+    Name: Bassetts
+  },
+  {
+    ClassInstanceId: 4013,
+    Name: Batchelors
+  },
+  {
+    ClassInstanceId: 4014,
+    Name: Baxters
+  },
+  {
+    ClassInstanceId: 4015,
+    Name: Bear
+  },
+  {
+    ClassInstanceId: 4016,
+    Name: Belvita
+  },
+  {
+    ClassInstanceId: 4017,
+    Name: Ben & Jerry's
+  },
+  {
+    ClassInstanceId: 4018,
+    Name: Benecol
+  },
+  {
+    ClassInstanceId: 4019,
+    Name: Ben's Original
+  },
+  {
+    ClassInstanceId: 4020,
+    Name: Bertolli
+  },
+  {
+    ClassInstanceId: 4021,
+    Name: Birds Eye
+  },
+  {
+    ClassInstanceId: 4022,
+    Name: Bisto
+  },
+  {
+    ClassInstanceId: 4023,
+    Name: Bol
+  },
+  {
+    ClassInstanceId: 4024,
+    Name: Bold
+  },
+  {
+    ClassInstanceId: 4025,
+    Name: Bounty
+  },
+  {
+    ClassInstanceId: 4026,
+    Name: Branston
+  },
+  {
+    ClassInstanceId: 4027,
+    Name: Bueno
+  },
+  {
+    ClassInstanceId: 4028,
+    Name: Butterkist
+  },
+  {
+    ClassInstanceId: 4029,
+    Name: Cadbury
+  },
+  {
+    ClassInstanceId: 4030,
+    Name: Campbell's
+  },
+  {
+    ClassInstanceId: 4031,
+    Name: Carte D'or
+  },
+  {
+    ClassInstanceId: 4032,
+    Name: Cathedral City
+  },
+  {
+    ClassInstanceId: 4033,
+    Name: Cauldron
+  },
+  {
+    ClassInstanceId: 4034,
+    Name: Chicago Town
+  },
+  {
+    ClassInstanceId: 4035,
+    Name: Cif
+  },
+  {
+    ClassInstanceId: 4036,
+    Name: Comfort
+  },
+  {
+    ClassInstanceId: 4037,
+    Name: Cornetto
+  },
+  {
+    ClassInstanceId: 4038,
+    Name: Cow & Gate
+  },
+  {
+    ClassInstanceId: 4039,
+    Name: Dairylea
+  },
+  {
+    ClassInstanceId: 4040,
+    Name: Danone
+  },
+  {
+    ClassInstanceId: 4041,
+    Name: Dolmio
+  },
+  {
+    ClassInstanceId: 4042,
+    Name: Domestos
+  },
+  {
+    ClassInstanceId: 4043,
+    Name: Doritos
+  },
+  {
+    ClassInstanceId: 4044,
+    Name: Douwe Egberts
+  },
+  {
+    ClassInstanceId: 4045,
+    Name: Dr Oetker
+  },
+  {
+    ClassInstanceId: 4046,
+    Name: Duracell
+  },
+  {
+    ClassInstanceId: 4047,
+    Name: Ella's Kitchen
+  },
+  {
+    ClassInstanceId: 4048,
+    Name: Fairy
+  },
+  {
+    ClassInstanceId: 4049,
+    Name: Ferrero Rocher
+  },
+  {
+    ClassInstanceId: 4050,
+    Name: Finish
+  },
+  {
+    ClassInstanceId: 4051,
+    Name: Flake
+  },
+  {
+    ClassInstanceId: 4052,
+    Name: Flora
+  },
+  {
+    ClassInstanceId: 4053,
+    Name: Fox's
+  },
+  {
+    ClassInstanceId: 4054,
+    Name: Galaxy
+  },
+  {
+    ClassInstanceId: 4055,
+    Name: Ginsters
+  },
+  {
+    ClassInstanceId: 4056,
+    Name: Golden Wonder
+  },
+  {
+    ClassInstanceId: 4057,
+    Name: Green & Black's
+  },
+  {
+    ClassInstanceId: 4058,
+    Name: Haagen-Dazs
+  },
+  {
+    ClassInstanceId: 4059,
+    Name: Haribo
+  },
+  {
+    ClassInstanceId: 4060,
+    Name: Heinz
+  },
+  {
+    ClassInstanceId: 4061,
+    Name: Hellmann’s
+  },
+  {
+    ClassInstanceId: 4062,
+    Name: Homepride
+  },
+  {
+    ClassInstanceId: 4063,
+    Name: Hovis
+  },
+  {
+    ClassInstanceId: 4064,
+    Name: Hula Hoops
+  },
+  {
+    ClassInstanceId: 4065,
+    Name: Jacob's
+  },
+  {
+    ClassInstanceId: 4066,
+    Name: Jaffa Cakes
+  },
+  {
+    ClassInstanceId: 4067,
+    Name: John West
+  },
+  {
+    ClassInstanceId: 4068,
+    Name: Jordans
+  },
+  {
+    ClassInstanceId: 4069,
+    Name: Kellogg's
+  },
+  {
+    ClassInstanceId: 4070,
+    Name: Kenco
+  },
+  {
+    ClassInstanceId: 4071,
+    Name: Kettle
+  },
+  {
+    ClassInstanceId: 4072,
+    Name: Kiddylicious
+  },
+  {
+    ClassInstanceId: 4073,
+    Name: Kinder
+  },
+  {
+    ClassInstanceId: 4074,
+    Name: Kingsmill
+  },
+  {
+    ClassInstanceId: 4075,
+    Name: KitKat
+  },
+  {
+    ClassInstanceId: 4076,
+    Name: Knorr
+  },
+  {
+    ClassInstanceId: 4077,
+    Name: KP
+  },
+  {
+    ClassInstanceId: 4078,
+    Name: Kraft
+  },
+  {
+    ClassInstanceId: 4079,
+    Name: Lavazza
+  },
+  {
+    ClassInstanceId: 4080,
+    Name: Lenor
+  },
+  {
+    ClassInstanceId: 4081,
+    Name: Lindt
+  },
+  {
+    ClassInstanceId: 4082,
+    Name: Lurpak
+  },
+  {
+    ClassInstanceId: 4083,
+    Name: M&M's
+  },
+  {
+    ClassInstanceId: 4084,
+    Name: Magnum
+  },
+  {
+    ClassInstanceId: 4085,
+    Name: Maltesers
+  },
+  {
+    ClassInstanceId: 4086,
+    Name: Marmite
+  },
+  {
+    ClassInstanceId: 4087,
+    Name: Mars
+  },
+  {
+    ClassInstanceId: 4088,
+    Name: Maynards Bassetts
+  },
+  {
+    ClassInstanceId: 4089,
+    Name: McCain
+  },
+  {
+    ClassInstanceId: 4090,
+    Name: McCoy's
+  },
+  {
+    ClassInstanceId: 4091,
+    Name: McDougalls
+  },
+  {
+    ClassInstanceId: 4092,
+    Name: McVitie's
+  },
+  {
+    ClassInstanceId: 4093,
+    Name: Mr Kipling
+  },
+  {
+    ClassInstanceId: 4094,
+    Name: Müller
+  },
+  {
+    ClassInstanceId: 4095,
+    Name: Napolina
+  },
+  {
+    ClassInstanceId: 4096,
+    Name: Nescafé
+  },
+  {
+    ClassInstanceId: 4097,
+    Name: Nespresso
+  },
+  {
+    ClassInstanceId: 4098,
+    Name: Nestlé
+  },
+  {
+    ClassInstanceId: 4099,
+    Name: Nestle cereal
+  },
+  {
+    ClassInstanceId: 4100,
+    Name: Nutella
+  },
+  {
+    ClassInstanceId: 4101,
+    Name: Old El Paso
+  },
+  {
+    ClassInstanceId: 4102,
+    Name: Oreo
+  },
+  {
+    ClassInstanceId: 4103,
+    Name: Oxo
+  },
+  {
+    ClassInstanceId: 4104,
+    Name: Patak's
+  },
+  {
+    ClassInstanceId: 4105,
+    Name: Pedigree
+  },
+  {
+    ClassInstanceId: 4106,
+    Name: Persil
+  },
+  {
+    ClassInstanceId: 4107,
+    Name: PG Tips
+  },
+  {
+    ClassInstanceId: 4108,
+    Name: Philadelphia
+  },
+  {
+    ClassInstanceId: 4109,
+    Name: Pilgrims Choice
+  },
+  {
+    ClassInstanceId: 4110,
+    Name: Pizza Express Cook at home - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4111,
+    Name: Polo
+  },
+  {
+    ClassInstanceId: 4112,
+    Name: Pot Noodle
+  },
+  {
+    ClassInstanceId: 4113,
+    Name: President
+  },
+  {
+    ClassInstanceId: 4114,
+    Name: Princes
+  },
+  {
+    ClassInstanceId: 4115,
+    Name: Pringles
+  },
+  {
+    ClassInstanceId: 4116,
+    Name: Purina
+  },
+  {
+    ClassInstanceId: 4117,
+    Name: Quaker
+  },
+  {
+    ClassInstanceId: 4118,
+    Name: Quality Street
+  },
+  {
+    ClassInstanceId: 4119,
+    Name: Quorn
+  },
+  {
+    ClassInstanceId: 4120,
+    Name: Richmond
+  },
+  {
+    ClassInstanceId: 4121,
+    Name: Ritz
+  },
+  {
+    ClassInstanceId: 4122,
+    Name: Robinsons
+  },
+  {
+    ClassInstanceId: 4123,
+    Name: Rowntrees
+  },
+  {
+    ClassInstanceId: 4124,
+    Name: Rustlers
+  },
+  {
+    ClassInstanceId: 4125,
+    Name: Sharwood's
+  },
+  {
+    ClassInstanceId: 4126,
+    Name: SMA
+  },
+  {
+    ClassInstanceId: 4127,
+    Name: Smarties
+  },
+  {
+    ClassInstanceId: 4128,
+    Name: Snickers
+  },
+  {
+    ClassInstanceId: 4129,
+    Name: Surf
+  },
+  {
+    ClassInstanceId: 4130,
+    Name: Tetley
+  },
+  {
+    ClassInstanceId: 4131,
+    Name: Toblerone
+  },
+  {
+    ClassInstanceId: 4132,
+    Name: Tofoo
+  },
+  {
+    ClassInstanceId: 4133,
+    Name: Twinings
+  },
+  {
+    ClassInstanceId: 4134,
+    Name: Twix
+  },
+  {
+    ClassInstanceId: 4135,
+    Name: Typhoo
+  },
+  {
+    ClassInstanceId: 4136,
+    Name: Walkers
+  },
+  {
+    ClassInstanceId: 4137,
+    Name: Wall's
+  },
+  {
+    ClassInstanceId: 4138,
+    Name: Warburtons
+  },
+  {
+    ClassInstanceId: 4139,
+    Name: Weetabix
+  },
+  {
+    ClassInstanceId: 4140,
+    Name: Whiskas
+  },
+  {
+    ClassInstanceId: 4141,
+    Name: Wotsits
+  },
+  {
+    ClassInstanceId: 4142,
+    Name: Wrigley's
+  },
+  {
+    ClassInstanceId: 4143,
+    Name: Yeo Valley
+  },
+  {
+    ClassInstanceId: 4144,
+    Name: Yorkie
+  },
+  {
+    ClassInstanceId: 4145,
+    Name: Yorkshire Tea
+  },
+  {
+    ClassInstanceId: 4146,
+    Name: Young's seafood
+  },
+  {
+    ClassInstanceId: 4147,
+    Name: Itsu Grocery - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4148,
+    Name: Wasabi Home Bento - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4150,
+    Name: Yo! At home - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4151,
+    Name: Wagamama - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4152,
+    Name: Nando's - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4153,
+    Name: LEON - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4154,
+    Name: Pret - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4156,
+    Name: Gourmet Burger Kitchen - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4157,
+    Name: Ed's Easy Diner - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4158,
+    Name: Costa Coffee - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4159,
+    Name: Greggs - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4160,
+    Name: Starbucks - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4161,
+    Name: Thorntons - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4162,
+    Name: Pasta Evangelists - (found in supermarkets)
+  },
+  {
+    ClassInstanceId: 4163,
+    Name: Tyrrell's
+  },
+  {
+    ClassInstanceId: 4164,
+    Name: Popchips
+  },
+  {
+    ClassInstanceId: 4165,
+    Name: Monster Munch
+  },
+  {
+    ClassInstanceId: 4166,
+    Name: Snack-a-Jacks
+  },
+  {
+    ClassInstanceId: 4167,
+    Name: Pom-Bear
+  },
+  {
+    ClassInstanceId: 4168,
+    Name: Pipers
+  },
+  {
+    ClassInstanceId: 4169,
+    Name: Sensations
+  },
+  {
+    ClassInstanceId: 4170,
+    Name: Quavers
+  },
+  {
+    ClassInstanceId: 4171,
+    Name: Dorset Cereals
+  },
+  {
+    ClassInstanceId: 4172,
+    Name: Proper
+  },
+  {
+    ClassInstanceId: 4173,
+    Name: Kallo
+  },
+  {
+    ClassInstanceId: 4174,
+    Name: Popworks
+  },
+  {
+    ClassInstanceId: 4175,
+    Name: MOMA
+  },
+  {
+    ClassInstanceId: 4176,
+    Name: Flahavan's
+  },
+  {
+    ClassInstanceId: 4177,
+    Name: Graze
+  },
+  {
+    ClassInstanceId: 4178,
+    Name: Sunbites
+  },
+  {
+    ClassInstanceId: 4179,
+    Name: Smith's
+  },
+  {
+    ClassInstanceId: 4180,
+    Name: Off The Eaten Path
+  },
+  {
+    ClassInstanceId: 4181,
+    Name: Alvalle
+  },
+  {
+    ClassInstanceId: 4182,
+    Name: Cheetos
+  },
+  {
+    ClassInstanceId: 4183,
+    Name: Kurkure
+  },
+  {
+    ClassInstanceId: 4184,
+    Name: Eat Real
+  },
+  {
+    ClassInstanceId: 4185,
+    Name: Hippeas
+  },
+  {
+    ClassInstanceId: 4186,
+    Name: Scott's
+  },
+  {
+    ClassInstanceId: 4187,
+    Name: Charlie Bigham's
+  },
+  {
+    ClassInstanceId: 4188,
+    Name: Walkers Squares
+  },
+  {
+    ClassInstanceId: 4189,
+    Name: Walkers French Fries
+  },
+  {
+    ClassInstanceId: 4190,
+    Name: KP Skips
+  },
+  {
+    ClassInstanceId: 4191,
+    Name: KP Nik Naks
+  },
+  {
+    ClassInstanceId: 4192,
+    Name: Takis
+  },
+  {
+    ClassInstanceId: 4193,
+    Name: Walkers Bugles
+  },
+  {
+    ClassInstanceId: 4194,
+    Name: Space Raiders
+  },
+  {
+    ClassInstanceId: 4195,
+    Name: Huel
+  },
+  {
+    ClassInstanceId: 4196,
+    Name: Jackson's
+  },
+  {
+    ClassInstanceId: 4197,
+    Name: Chipsticks
+  },
+  {
+    ClassInstanceId: 4198,
+    Name: Frazzles
+  },
+  {
+    ClassInstanceId: 4199,
+    Name: Rana
+  },
+  {
+    ClassInstanceId: 4200,
+    Name: Biotiful Gut Health
+  },
+  {
+    ClassInstanceId: 4201,
+    Name: Frubes
+  },
+  {
+    ClassInstanceId: 4202,
+    Name: Petits Filous
+  },
+  {
+    ClassInstanceId: 4203,
+    Name: Fage Total
+  },
+  {
+    ClassInstanceId: 4204,
+    Name: Mutti
+  },
+  {
+    ClassInstanceId: 4205,
+    Name: Filippo Berio
+  },
+  {
+    ClassInstanceId: 4206,
+    Name: Galbani
+  },
+  {
+    ClassInstanceId: 4207,
+    Name: Sacla
+  },
+  {
+    ClassInstanceId: 4208,
+    Name: The Collective
+  },
+  {
+    ClassInstanceId: 4209,
+    Name: Ryvita
+  },
+  {
+    ClassInstanceId: 4210,
+    Name: Jason's Sourdough
+  },
+  {
+    ClassInstanceId: 4211,
+    Name: St Pierre
+  },
+  {
+    ClassInstanceId: 4212,
+    Name: HG
+  },
+  {
+    ClassInstanceId: 4213,
+    Name: Vanish
+  },
+  {
+    ClassInstanceId: 4214,
+    Name: Zoflora
+  },
+  {
+    ClassInstanceId: 4215,
+    Name: Mr Muscle
+  },
+  {
+    ClassInstanceId: 4216,
+    Name: Flash
+  },
+  {
+    ClassInstanceId: 4217,
+    Name: Febreze
+  },
+  {
+    ClassInstanceId: 4218,
+    Name: Dettol
+  },
+  {
+    ClassInstanceId: 4219,
+    Name: Daz
+  }
+]

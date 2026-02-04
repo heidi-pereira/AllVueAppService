@@ -1,0 +1,56 @@
+@import 'colors.scss';
+@import "dimensions.scss";
+@import "layout.scss";
+
+.search {
+  @include flex-row($align-items: center);
+  height: 2.3rem;
+  width: 300px;
+  grid-area: search;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid $slate-lighter;
+  background-color: $colorWhite;
+  margin: 24px 0;
+  transition: color 225ms ease, box-shadow 225ms ease, width 0.1s;
+
+  @media (max-width: $breakpoint-tablet) {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+
+  .material-symbols-outlined {
+    margin-left: 5px;
+  }
+
+  &:focus-within {
+    border-bottom-color: $blueSteel;
+    box-shadow: 0 0.3rem 0.15rem -0.15rem #d7ebf4;
+
+    .search-icon {
+      color: $slate-darker;
+    }
+  }
+
+  &::placeholder {
+    color: $slate;
+  }
+
+  input {
+    flex: auto;
+    border: none;
+    background-color: transparent;
+    color: $slate-darker;
+    font-size: 14px;
+    font-weight: 400;
+    min-width: 0px;
+    padding-left: 0;
+  }
+
+  label {
+    margin-left: 0;
+    font-size: 22px;
+    color: $slate;
+    cursor: pointer;
+  }
+}

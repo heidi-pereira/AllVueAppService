@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Doing more than enough to support
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Doing about enough to support
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Not doing enough to support
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Doing nowhere near enough to support
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

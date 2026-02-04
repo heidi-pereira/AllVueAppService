@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: have:Children under 18 at home (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,24 @@
+.survey-vue-scroll-template {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-columns: 100%;
+    grid-template-areas: "header" "content";
+    position: relative;
+    overflow: hidden;
+
+    .survey-vue-page-header {
+        grid-area: header;
+        z-index: 2; //Needed for box-shadow to show on top of the cards
+    }
+
+    .survey-vue-disabled-msg {
+        padding: 25px 32px;
+        font-size: 22px;
+    }
+
+    .allvuelayout {
+        grid-area: content;
+        overflow: hidden;
+    }
+}

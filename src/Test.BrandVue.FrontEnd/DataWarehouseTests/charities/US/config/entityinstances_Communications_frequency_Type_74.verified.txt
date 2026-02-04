@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Communication Frequency:Happy with current frequency (Base Communications_frequency)
+  }
+]

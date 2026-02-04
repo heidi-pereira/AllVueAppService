@@ -1,0 +1,6 @@
+﻿[
+  {
+    ResponseId: 1,
+    Weight: 1234.0
+  }
+]

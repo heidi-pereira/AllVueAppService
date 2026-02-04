@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Working from home
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Education / Schoolwork / Learning
+  },
+  {
+    ClassInstanceId: 3,
+    Name: TV / Video streaming
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Listening to music / podcasts / radio
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Socialising
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Gaming
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Shopping
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Reading (news, popular culture, articles, etc.)
+  }
+]

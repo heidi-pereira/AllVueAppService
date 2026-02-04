@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: New group 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: New group 1 - Copy
+  },
+  {
+    ClassInstanceId: 3,
+    Name: New group 1 - Copy - Copy
+  }
+]

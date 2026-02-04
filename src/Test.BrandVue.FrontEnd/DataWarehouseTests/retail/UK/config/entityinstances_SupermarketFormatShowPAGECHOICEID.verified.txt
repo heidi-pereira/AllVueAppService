@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Tesco
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tesco Express
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Tesco Metro
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Tesco Extra
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Sainsbury's
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Sainsbury's Local
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Waitrose
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Little Waitrose
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Not sure / don't know
+  }
+]

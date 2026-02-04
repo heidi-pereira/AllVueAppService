@@ -1,0 +1,25 @@
+﻿@import "../../less/_vars";
+@import "../../less/_layout";
+
+.sidePanelHeader {
+    .flex-row(@justify-content: space-between, @align-items: center);
+    flex: 0;
+    gap: 10px;
+    margin-bottom: 16px;
+
+    .headerTitle {
+        font-size: 16px;
+        color: @slate-darker;
+        margin-right: auto;
+    }
+
+    .closeButton, .returnButton {
+        color: @slate;
+        cursor: pointer;
+        user-select: none;
+
+        &:hover {
+            color: @slate-darker;
+        }
+    }
+}

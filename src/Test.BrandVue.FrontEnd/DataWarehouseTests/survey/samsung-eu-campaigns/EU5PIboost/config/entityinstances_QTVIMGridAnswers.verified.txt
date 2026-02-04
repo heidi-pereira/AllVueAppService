@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 40,
+    Name: Easy to connect with other products
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Is a leader in TV innovation
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Is a premium brand
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Has standout design & style
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Has superior picture quality
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Is a brand I trust
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Has superior sound quality
+  },
+  {
+    ClassInstanceId: 47,
+    Name: You get a lot for the price you pay
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Their TV features and controls are easy to navigate
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Is the best TV brand for gamers
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Easy to understand the differences between the products they sell
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Makes products that are built to last
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Has energy efficient products
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Offers the best Smart TV experience
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Has the best TVs for watching films
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Has the best TVs for watching sports
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Is compatible with third party devices and apps
+  }
+]

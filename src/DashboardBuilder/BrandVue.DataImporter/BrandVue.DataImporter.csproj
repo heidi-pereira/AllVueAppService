@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net50</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Company>Savanta Group Ltd.</Company>
+    <Product>DashboardBuilder.DataImporter</Product>
+    <Copyright>Copyright © Savanta Group Ltd. 2020</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BrandVue.DataImporter.json" />
+    <None Remove="Restore-PostDeploy.ps1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Restore-PostDeploy.ps1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="BrandVue.DataImporter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Savanta.Logging" Version="1.0.93" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+</Project>

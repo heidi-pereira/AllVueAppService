@@ -1,0 +1,53 @@
+@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+button.validationMessageButton {
+    gap: 0;
+}
+
+.validationMessageButton {
+    .flex-row( @align-items: center);
+    background-color: @white;
+    padding: 4px 6px;
+    border-radius: 5px;
+    width: max-content;
+    border-width: 1px;
+    border-style: solid;
+    font-weight: 400;
+    transition: filter, background-color 175ms ease;
+
+    &:active {
+        filter: drop-shadow(0px 0px 3px);
+    }
+
+    &:focus {
+        outline: none;
+    }
+
+    &.warningColor {
+        color: @amber-dark;
+        border-color: @amber;
+
+        &:hover {
+            background-color: @amber-light;
+        }
+    }
+
+    &.errorColor {
+        color: @bad-red;
+        border-color: @bad-red;
+
+        &:hover {
+            background-color: @lava-light;
+        }
+    }
+
+    .symbol {
+        font-size: 18px;
+    }
+
+    .text {
+        font-size: 14px;
+        margin: 0 4px;
+    }
+}

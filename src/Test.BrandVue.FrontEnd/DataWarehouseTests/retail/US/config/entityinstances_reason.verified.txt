@@ -1,0 +1,86 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Not sure / don't know
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Lowest price(s)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: The right balance of quality and price
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Convenient location of the store
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Friendly / Helpful staff
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Wide range of #PAGECHOICEALT# to choose from
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Wide range of different categories apart from #PAGECHOICEALT#
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Specific products / brands you wanted
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Good delivery / collection options
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Easy to use / navigate website
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Best after sales support
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Easy to navigate the store / the range
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Sold other products you needed
+  },
+  {
+    ClassInstanceId: 13,
+    Name: A nice store to visit (ambience / design)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Good quality products
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Special discounts / promotions
+  },
+  {
+    ClassInstanceId: 17,
+    Name: You have a loyalty card / membership / store card
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Seen an advert
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Received email / leaflet from this brand
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Close to other stores you were visiting
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

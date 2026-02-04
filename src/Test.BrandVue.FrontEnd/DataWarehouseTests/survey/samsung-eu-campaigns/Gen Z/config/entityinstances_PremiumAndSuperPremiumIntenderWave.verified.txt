@@ -1,0 +1,838 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Wave 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Wave 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Wave 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Wave 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Wave 5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Wave 6
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Wave 7
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Wave 8
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Wave 9
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Wave 10
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Wave 11
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Wave 12
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Wave 13
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Wave 14
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Wave 15
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Wave 16
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Wave 17
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Wave 18
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Wave 19
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Wave 20
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Wave 21
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Wave 22
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Wave 23
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Wave 24
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Wave 25
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Wave 26
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Wave 27
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Wave 28
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Wave 29
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Wave 30
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Wave 31
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Wave 32
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Wave 33
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Wave 34
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Wave 35
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Wave 36
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Wave 37
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Wave 38
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Wave 39
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Wave 40
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Wave 41
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Wave 42
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Wave 43
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Wave 44
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Wave 45
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Wave 46
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Wave 47
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Wave 48
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Wave 49
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Wave 50
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Wave 51
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Wave 52
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Wave 53
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Wave 54
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Wave 55
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Wave 56
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Wave 57
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Wave 58
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Wave 59
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Wave 60
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Wave 61
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Wave 62
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Wave 63
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Wave 64
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Wave 65
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Wave 66
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Wave 67
+  },
+  {
+    ClassInstanceId: 68,
+    Name: Wave 68
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Wave 69
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Wave 70
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Wave 71
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Wave 72
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Wave 73
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Wave 74
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Wave 75 (no data)
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Wave 76 (no data)
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Wave 77
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Wave 78
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Wave 79
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Wave 80
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Wave 81
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Wave 82
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Wave 83
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Wave 84
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Wave 85
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Wave 86
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Wave 87
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Wave 88
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Wave 89
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Wave 90
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Wave 91
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Wave 92
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Wave 93
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Wave 94
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Wave 95
+  },
+  {
+    ClassInstanceId: 96,
+    Name: Wave 96
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Wave 97
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Wave 98
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Wave 99
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Wave 100
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Wave 101
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Wave 102
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Wave 103
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Wave 104
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Wave 105
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Wave 106
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Wave 107
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Wave 108
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Wave 109
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Wave 110
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Wave 111
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Wave 112
+  },
+  {
+    ClassInstanceId: 113,
+    Name: Wave 113
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Wave 114
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Wave 115
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Wave 116
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Wave 117
+  },
+  {
+    ClassInstanceId: 118,
+    Name: Wave 118
+  },
+  {
+    ClassInstanceId: 119,
+    Name: Wave 119
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Wave 120
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Wave 121
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Wave 122
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Wave 123
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Wave 124
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Wave 125
+  },
+  {
+    ClassInstanceId: 126,
+    Name: Wave 126
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Wave 127
+  },
+  {
+    ClassInstanceId: 128,
+    Name: Wave 128
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Wave 129
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Wave 130
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Wave 131
+  },
+  {
+    ClassInstanceId: 132,
+    Name: Wave 132
+  },
+  {
+    ClassInstanceId: 133,
+    Name: Wave 133
+  },
+  {
+    ClassInstanceId: 134,
+    Name: Wave 134
+  },
+  {
+    ClassInstanceId: 135,
+    Name: Wave 135
+  },
+  {
+    ClassInstanceId: 136,
+    Name: Wave 136
+  },
+  {
+    ClassInstanceId: 137,
+    Name: Wave 137
+  },
+  {
+    ClassInstanceId: 138,
+    Name: Wave 138
+  },
+  {
+    ClassInstanceId: 139,
+    Name: Wave 139
+  },
+  {
+    ClassInstanceId: 140,
+    Name: Wave 140
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Wave 141
+  },
+  {
+    ClassInstanceId: 142,
+    Name: Wave 142
+  },
+  {
+    ClassInstanceId: 143,
+    Name: Wave 143
+  },
+  {
+    ClassInstanceId: 144,
+    Name: Wave 144
+  },
+  {
+    ClassInstanceId: 145,
+    Name: Wave 145
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Wave 146
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Wave 147
+  },
+  {
+    ClassInstanceId: 148,
+    Name: Wave 148
+  },
+  {
+    ClassInstanceId: 149,
+    Name: Wave 149
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Wave 150
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Wave 151
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Wave 152
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Wave 153
+  },
+  {
+    ClassInstanceId: 154,
+    Name: Wave 154
+  },
+  {
+    ClassInstanceId: 155,
+    Name: Wave 155
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Wave 156
+  },
+  {
+    ClassInstanceId: 157,
+    Name: Wave 157
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Wave 158
+  },
+  {
+    ClassInstanceId: 159,
+    Name: Wave 159
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Wave 160
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Wave 161
+  },
+  {
+    ClassInstanceId: 162,
+    Name: Wave 162
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Wave 163
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Wave 164
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Wave 165
+  },
+  {
+    ClassInstanceId: 166,
+    Name: Wave 166
+  },
+  {
+    ClassInstanceId: 167,
+    Name: Wave 167
+  },
+  {
+    ClassInstanceId: 168,
+    Name: Wave 168
+  },
+  {
+    ClassInstanceId: 169,
+    Name: Wave 169
+  },
+  {
+    ClassInstanceId: 170,
+    Name: Wave 170
+  },
+  {
+    ClassInstanceId: 171,
+    Name: Wave 171
+  },
+  {
+    ClassInstanceId: 172,
+    Name: Wave 172
+  },
+  {
+    ClassInstanceId: 173,
+    Name: Wave 173
+  },
+  {
+    ClassInstanceId: 174,
+    Name: Wave 174
+  },
+  {
+    ClassInstanceId: 175,
+    Name: Wave 175
+  },
+  {
+    ClassInstanceId: 176,
+    Name: Wave 176
+  },
+  {
+    ClassInstanceId: 177,
+    Name: Wave 177
+  },
+  {
+    ClassInstanceId: 178,
+    Name: Wave 178
+  },
+  {
+    ClassInstanceId: 179,
+    Name: Wave 179
+  },
+  {
+    ClassInstanceId: 180,
+    Name: Wave 180
+  },
+  {
+    ClassInstanceId: 181,
+    Name: Wave 181
+  },
+  {
+    ClassInstanceId: 182,
+    Name: Wave 182
+  },
+  {
+    ClassInstanceId: 183,
+    Name: Wave 183
+  },
+  {
+    ClassInstanceId: 184,
+    Name: Wave 184
+  },
+  {
+    ClassInstanceId: 185,
+    Name: Wave 185
+  },
+  {
+    ClassInstanceId: 186,
+    Name: Wave 186
+  },
+  {
+    ClassInstanceId: 187,
+    Name: Wave 187
+  },
+  {
+    ClassInstanceId: 188,
+    Name: Wave 188
+  },
+  {
+    ClassInstanceId: 189,
+    Name: Wave 189
+  },
+  {
+    ClassInstanceId: 190,
+    Name: Wave 190
+  },
+  {
+    ClassInstanceId: 191,
+    Name: Wave 191
+  },
+  {
+    ClassInstanceId: 192,
+    Name: Wave 192
+  },
+  {
+    ClassInstanceId: 193,
+    Name: Wave 193
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Wave 194
+  },
+  {
+    ClassInstanceId: 195,
+    Name: Wave 195
+  },
+  {
+    ClassInstanceId: 196,
+    Name: Wave 196
+  },
+  {
+    ClassInstanceId: 197,
+    Name: Wave 197
+  },
+  {
+    ClassInstanceId: 198,
+    Name: Wave 198
+  },
+  {
+    ClassInstanceId: 199,
+    Name: Wave 199
+  },
+  {
+    ClassInstanceId: 200,
+    Name: Wave 200
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Wave 201
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Wave 202
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Wave 203
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Wave 204
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Wave 205
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Wave 206
+  },
+  {
+    ClassInstanceId: 207,
+    Name: Wave 207
+  },
+  {
+    ClassInstanceId: 208,
+    Name: Wave 208
+  },
+  {
+    ClassInstanceId: 209,
+    Name: Wave 209
+  }
+]

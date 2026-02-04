@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Bought 2nd hand / pre-owned clothing
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Had clothes repaired
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Resold old clothing on e.g. eBay
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Donated clothes to e.g. a charity
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Recycled clothes
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Threw unwanted clothes away in the bin (i.e. not recycled)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

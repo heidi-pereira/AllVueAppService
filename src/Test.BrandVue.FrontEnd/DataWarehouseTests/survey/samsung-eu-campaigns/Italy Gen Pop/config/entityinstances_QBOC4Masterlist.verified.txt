@@ -1,0 +1,98 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Extremely unlikely|Extremely likely|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Extremely unlikely|Extremely likely|Hisense|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Extremely unlikely|Extremely likely|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Extremely unlikely|Extremely likely|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Extremely unlikely|Extremely likely|Aeg|Neutral|
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Extremely unlikely|Extremely likely|Hotpoint-Aristo|Neutral|
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Extremely unlikely|Extremely likely|Indesit|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Extremely unlikely|Extremely likely|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Extremely unlikely|Extremely likely|Siemens|Neutral|
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Extremely unlikely|Extremely likely|Teka|Neutral|
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Extremely unlikely|Extremely likely|Whirlpool|Neutral|
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Extremely unlikely|Extremely likely|Balay|Neutral|
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Extremely unlikely|Extremely likely|Bauknecht|Neutral|
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Extremely unlikely|Extremely likely|Candy|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Extremely unlikely|Extremely likely|Electrolux|Neutral|
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Extremely unlikely|Extremely likely|Gaggenau|Neutral|
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Extremely unlikely|Extremely likely|Neff|Neutral|
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Extremely unlikely|Extremely likely|Zanussi|Neutral|
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Extremely unlikely|Extremely likely|Brandt|Neutral|
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Extremely unlikely|Extremely likely|Smeg|Neutral|
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Extremely unlikely|Extremely likely|Constructa|Neutral|
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Extremely unlikely|Extremely likely|Gorenje|Neutral|
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Extremely unlikely|Extremely likely|Amica|Neutral|
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Extremely unlikely|Extremely likely|Gaggenau|Neutral| (103)
+  }
+]

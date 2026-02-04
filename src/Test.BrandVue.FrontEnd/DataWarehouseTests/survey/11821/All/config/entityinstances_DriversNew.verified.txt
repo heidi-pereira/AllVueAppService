@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Having a range of products / services that are sufficiently flexible to be tailored to your needs
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Ease of dealing with the company (e.g. in branch, online, telephone)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Offers products / services that are good value for money
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Provide effective and clear communication
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Feeling supported and treated fairly
+  }
+]

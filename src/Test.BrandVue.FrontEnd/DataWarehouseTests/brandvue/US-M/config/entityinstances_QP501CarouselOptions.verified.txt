@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: 6 or more
+  }
+]

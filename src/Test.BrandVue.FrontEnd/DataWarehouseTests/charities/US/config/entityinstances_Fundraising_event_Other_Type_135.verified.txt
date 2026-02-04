@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fundraising events:Other (Base Fundraising_event_Other)
+  }
+]

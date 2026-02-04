@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Position of employment:Director / Senior Official / Senior Manager (Base Consumer_segment)
+  }
+]

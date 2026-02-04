@@ -1,0 +1,48 @@
+@use "sass:math";
+@import 'dimensions';
+
+@mixin width-less-than($width) {
+    @media screen and (max-width: $width) {
+        @content;
+    }
+}
+
+@mixin width-greater-than($width) {
+    @media screen and (min-width: $width - 1) {
+        @content;
+    }
+}
+
+@mixin is-mobile {
+    @media screen and #{$media-phone} {
+        @content;
+    }
+
+    @include width-less-than(850px) {
+        @content;
+    }
+}
+
+.hide-lt {
+    @each $break in 1200px, 1000px, 800px, 685px, 650px {
+        &-#{math.div($break, 1px)} {
+            @include width-less-than($break) {
+                display: none !important;
+            }
+        }
+    }
+}
+
+.hide-mobile {
+    @media screen and #{$media-phone} {
+        display: none !important;
+    }
+
+    @include width-less-than(850px) {
+        display: none !important;
+    }
+}
+
+.hide {
+    display: none;
+}

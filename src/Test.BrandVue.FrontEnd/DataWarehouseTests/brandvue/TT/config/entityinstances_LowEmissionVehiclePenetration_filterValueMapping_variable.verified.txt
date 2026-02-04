@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Never considered and no intention in N6M
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Never considered but would consider in N6M
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Intend to buy electric / hybrid car in N6M
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Have bought electric / hybrid car in L6M
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Bought electric / hybrid car 6M+ ago and plan to buy one for next car
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Support Status:Previously supported (Base Consumer_segment)
+  }
+]

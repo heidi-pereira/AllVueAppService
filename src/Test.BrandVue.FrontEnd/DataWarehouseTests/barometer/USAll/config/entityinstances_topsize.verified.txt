@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: XS or smaller
+  },
+  {
+    ClassInstanceId: 2,
+    Name: S
+  },
+  {
+    ClassInstanceId: 3,
+    Name: M
+  },
+  {
+    ClassInstanceId: 4,
+    Name: L
+  },
+  {
+    ClassInstanceId: 5,
+    Name: XL
+  },
+  {
+    ClassInstanceId: 6,
+    Name: XXL or larger
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None of your business
+  }
+]

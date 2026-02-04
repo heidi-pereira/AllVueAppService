@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Chief Medical Officer, Chris Whitty
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Chief Scientific Adviser, Sir Patrick Vallance
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Prime Minister, Boris Johnson
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Health Secretary, Matt Hancock
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Chancellor of the Exchequer, Rishi Sunak
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Leader of the Opposition, Jeremy Corbyn
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Cabinet Office Minister, Michael Gove
+  },
+  {
+    ClassInstanceId: 8,
+    Name: World Health Organisation Director General, Tedros Adhanom
+  },
+  {
+    ClassInstanceId: 9,
+    Name: US President, Donald Trump
+  },
+  {
+    ClassInstanceId: 10,
+    Name: French President, Emmanuel Macron
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Leader of the Opposition, Sir Keir Starmer
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Foreign Secretary, Dominic Raab
+  }
+]

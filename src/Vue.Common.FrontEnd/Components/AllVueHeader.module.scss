@@ -1,0 +1,11 @@
+.header {
+    :global(.material-symbols-outlined) {
+        font-variation-settings:
+                'FILL' 1
+    }
+
+    :global(.no-symbol-fill) {
+        font-variation-settings:
+                'FILL' 0
+    }
+}

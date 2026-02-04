@@ -1,0 +1,98 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Hisense|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Aeg|Neutral|
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Hotpoint-Aristo|Neutral|
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Indesit|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Siemens|Neutral|
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Teka|Neutral|
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Whirlpool|Neutral|
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Balay|Neutral|
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Bauknecht|Neutral|
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Candy|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Electrolux|Neutral|
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Gaggenau|Neutral|
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Neff|Neutral|
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Zanussi|Neutral|
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Brandt|Neutral|
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Smeg|Neutral|
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Constructa|Neutral|
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Gorenje|Neutral|
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Amica|Neutral|
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Gaggenau|Neutral| (103)
+  }
+]

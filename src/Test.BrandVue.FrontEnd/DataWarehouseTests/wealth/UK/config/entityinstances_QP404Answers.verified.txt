@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Bus / Tram
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Car
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Motorcycle
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Train
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Underground / Subway / Metro
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Bicycle
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Walk
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Other mode of transport
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Work from home
+  }
+]

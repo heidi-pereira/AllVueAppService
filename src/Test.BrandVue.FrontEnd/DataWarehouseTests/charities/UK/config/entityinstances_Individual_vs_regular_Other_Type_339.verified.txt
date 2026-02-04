@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Other (Base Individual_vs_regular_Other)
+  }
+]

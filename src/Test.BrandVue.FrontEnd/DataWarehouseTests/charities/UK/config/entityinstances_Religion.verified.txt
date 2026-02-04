@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Christian
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Muslim
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Hindu
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Jew
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Sikh
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Buddhist
+  },
+  {
+    ClassInstanceId: 96,
+    Name: Prefer not to say
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None
+  }
+]

@@ -1,0 +1,14 @@
+{
+    "stryker-config": {
+        "project": "BrandVue.SourceData.csproj",
+        "project-info": {
+            "name": "github.com/MIG-Global/Vue",
+            "version": "master",
+            "module": "cli"
+        },
+        "baseline": {
+            "enabled": true,
+            "fallback-version": "master"
+        }
+    }
+}

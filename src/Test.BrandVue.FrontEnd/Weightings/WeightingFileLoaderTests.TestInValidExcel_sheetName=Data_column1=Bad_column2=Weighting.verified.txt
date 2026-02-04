@@ -1,0 +1,23 @@
+﻿{
+  DateTimeCreatedUtc: DateTime_1,
+  ErrorResponsesForThisSurveyAndWave: [],
+  ExcelFileName: null,
+  ExtraResponsesInExcel: [],
+  IsValid: false,
+  MaxWeight: null,
+  Messages: [
+    {
+      Message: Failed to find a sheet with columns named ResponseId and Weight,
+      MessageType: ExcelMissingSheet
+    }
+  ],
+  MinWeight: null,
+  NumberOfBytes: 2574,
+  NumberOfResponsesInDatabaseForThisSurveyAndWave: 0,
+  NumberOfResponsesMatched: 0,
+  NumberOfRows: 0,
+  NumberOfRowsInExcelIgnored: 0,
+  NumberOfValidRowsInExcel: 0,
+  SubsetId: All,
+  ValidWeights: null
+}

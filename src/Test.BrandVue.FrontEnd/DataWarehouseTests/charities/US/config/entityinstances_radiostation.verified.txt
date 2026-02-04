@@ -1,0 +1,122 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Bloomberg Radio
+  },
+  {
+    ClassInstanceId: 2,
+    Name: CBS News Radio
+  },
+  {
+    ClassInstanceId: 3,
+    Name: ESPN Radio
+  },
+  {
+    ClassInstanceId: 4,
+    Name: KBRG-FM (San Jose, CA)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: KBTQ-FM (Harlingen, TX)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: KGBT La Jefa
+  },
+  {
+    ClassInstanceId: 7,
+    Name: KHOT-FM (Phoenix, AZ)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: KLNV-FM (San Diego, CA)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: KLTN-FM (Houston, TX)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: KMYO-FM (San Antonio, TX)
+  },
+  {
+    ClassInstanceId: 11,
+    Name: KQMR-FM (Phoenix, AZ)
+  },
+  {
+    ClassInstanceId: 12,
+    Name: KSOL-FM (San Francisco, CA)
+  },
+  {
+    ClassInstanceId: 13,
+    Name: KSPN-AM (Los Angeles, CA)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: KTNQ-AM (Los Angeles, CA)
+  },
+  {
+    ClassInstanceId: 15,
+    Name: KVBH-FM (San Antonio, TX)
+  },
+  {
+    ClassInstanceId: 16,
+    Name: NPR
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Que Buena
+  },
+  {
+    ClassInstanceId: 18,
+    Name: The Ward Guenther Show
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Univision Radio
+  },
+  {
+    ClassInstanceId: 20,
+    Name: WADO-AM (New York, NY)
+  },
+  {
+    ClassInstanceId: 21,
+    Name: WAQI-AM (Miami, FL)
+  },
+  {
+    ClassInstanceId: 22,
+    Name: WEPN-FM (New York, NY)
+  },
+  {
+    ClassInstanceId: 23,
+    Name: WJSR-FM (Richmond, VA)
+  },
+  {
+    ClassInstanceId: 24,
+    Name: WKNR-AM (Cleveland, OH)
+  },
+  {
+    ClassInstanceId: 25,
+    Name: WOJO-FM (Chicago, IL)
+  },
+  {
+    ClassInstanceId: 26,
+    Name: WPPN-FM (Des Plaines, IL)
+  },
+  {
+    ClassInstanceId: 27,
+    Name: WQBU-FM (Garden City, NY)
+  },
+  {
+    ClassInstanceId: 28,
+    Name: WTLX-FM (Monona, Wisconsin)
+  },
+  {
+    ClassInstanceId: 29,
+    Name: WWGK-AM (Cleveland, OH)
+  },
+  {
+    ClassInstanceId: 30,
+    Name: WXNY-FM (New York, NY)
+  }
+]

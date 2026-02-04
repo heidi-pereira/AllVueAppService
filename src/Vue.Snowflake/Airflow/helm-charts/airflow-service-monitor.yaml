@@ -1,0 +1,23 @@
+apiVersion: monitoring.coreos.com/v1
+kind: ServiceMonitor
+metadata:
+  # This ServiceMonitor MUST be created in the same namespace as Prometheus
+  name: airflow-statsd-monitor
+  namespace: monitoring # <-- CRITICAL: Must be your monitoring namespace
+  labels:
+    # This label allows the Prometheus instance to find this ServiceMonitor.
+    # The default for the helm chart is 'release: prometheus', but verify if you changed it.
+    release: prometheus
+spec:
+  # This section tells the ServiceMonitor where to look for the service.
+  namespaceSelector:
+    matchNames:
+    - live # <-- CRITICAL: The namespace where your Airflow service lives.
+  selector:
+    matchLabels:
+      # Use the label you identified in Step 1.
+      component: statsd
+  # This section tells the ServiceMonitor which port to scrape.
+  endpoints:
+  - port: statsd-scrape # <-- The port NAME you found in Step 2.
+    interval: 30s # Optional: How often to scrape.

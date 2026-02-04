@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I constantly seek new or exciting experiences in my everyday life
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Keeping fit and healthy is a regular part of my daily routine
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I do everything I can on a daily basis to act in an environmentally responsible way
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I prefer to deal with brands online or via an app wherever possible
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I rarely worry about money
+  },
+  {
+    ClassInstanceId: 6,
+    Name: My day revolves around my family’s schedule
+  },
+  {
+    ClassInstanceId: 7,
+    Name: If I’m unhappy with a service I will always raise this with the provider
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I try to save whatever spare money I have
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I always keep on top of the news / current affairs and read a variety of different sources
+  },
+  {
+    ClassInstanceId: 10,
+    Name: It is worth paying more for good quality products: you get what you pay for
+  }
+]

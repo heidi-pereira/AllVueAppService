@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am considering taking short breaks / holidays in school holidays
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I will avoid taking short breaks / holidays in school holidays
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I will take short breaks / holidays in a combination of school holidays and non-school holidays
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Unaffected by school holidays (will neither seek nor avoid)
+  }
+]

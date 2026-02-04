@@ -1,0 +1,498 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Northern Ireland
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Scotland
+  },
+  {
+    ClassInstanceId: 3,
+    Name: North-West
+  },
+  {
+    ClassInstanceId: 4,
+    Name: North-East
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Yorkshire & The Humber
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Wales
+  },
+  {
+    ClassInstanceId: 7,
+    Name: West Midlands
+  },
+  {
+    ClassInstanceId: 8,
+    Name: East Midlands
+  },
+  {
+    ClassInstanceId: 9,
+    Name: South-West
+  },
+  {
+    ClassInstanceId: 10,
+    Name: South-East
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Eastern
+  },
+  {
+    ClassInstanceId: 12,
+    Name: London
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Aquitaine
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Auvergne
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Bourgogne
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Bretagne
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Centre
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Champagne-Ardenne
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Corse
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Franche-Comté
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Ile de France
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Languedoc-Roussillon
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Limousin
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Lorraine
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Midi-Pyrénées
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Nord Pas de Calais
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Normandie
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Provence Alpes Côte d’azur
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Pays de la Loire
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Picardie
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Poitou-Charentes
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Rhône-Alpes
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Rheinland-Pfalz
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Baden- Würtemberg
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Mecklenburg- Vorpommern
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Sachsen
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Nordrhein- Westfalen
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Bayern
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Hamburg
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Niedersachsen
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Brandenburg
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Saarland
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Berlin
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Sachsen-Anhalt
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Bremen
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Thüringen
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Hessen
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Schleswig- Holstein
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Piemonte
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Valle d'Aosta
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Lombardia
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Trentino-Alto Adige
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Veneto
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Friuli-Venezia Giulia
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Liguria
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Emilia-Romagna
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Toscana
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Umbria
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Marche
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Lazio
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Abruzzo
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Molise
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Campania
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Puglia
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Basilicata
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Calabria
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Sicilia
+  },
+  {
+    ClassInstanceId: 68,
+    Name: Sardegna
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Álava
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Albacete
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Alicante/Alacant
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Almería
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Ávila
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Badajoz
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Balears (Illes)
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Barcelona
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Burgos
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Cáceres
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Cádiz
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Castellón/Castelló
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Ciudad Real
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Córdoba
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Coruña (A)
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Cuenca
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Girona
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Granada
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Guadalajara
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Guipúzcoa
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Huelva
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Huesca
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Jaén
+  },
+  {
+    ClassInstanceId: 92,
+    Name: León
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Lleida
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Rioja (La)
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Lugo
+  },
+  {
+    ClassInstanceId: 96,
+    Name: Madrid
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Málaga
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Murcia
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Navarra
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Ourense
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Asturias
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Palencia
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Palmas (Las)
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Pontevedra
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Salamanca
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Santa Cruz de Tenerife
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Cantabria
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Segovia
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Sevilla
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Soria
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Tarragona
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Teruel
+  },
+  {
+    ClassInstanceId: 113,
+    Name: Toledo
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Valencia
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Valladolid
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Vizcaya
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Zamora
+  },
+  {
+    ClassInstanceId: 118,
+    Name: Zaragoza
+  },
+  {
+    ClassInstanceId: 119,
+    Name: Ceuta
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Melilla
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Dublin
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Northern and Western
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Southern
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Eastern & Midland ex. Dublin
+  }
+]

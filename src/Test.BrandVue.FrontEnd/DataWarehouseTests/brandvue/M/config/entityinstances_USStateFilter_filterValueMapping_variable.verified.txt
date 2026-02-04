@@ -1,0 +1,206 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Alabama
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Alaska
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Arizona
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Arkansas
+  },
+  {
+    ClassInstanceId: 4,
+    Name: California
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Colorado
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Connecticut
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Delaware
+  },
+  {
+    ClassInstanceId: 8,
+    Name: District of Columbia
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Florida
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Georgia
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Hawaii
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Idaho
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Illinois
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Indiana
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Iowa
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Kansas
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Kentucky
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Louisiana
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Maine
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Maryland
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Massachusetts
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Michigan
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Minnesota
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Mississippi
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Missouri
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Montana
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Nebraska
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Nevada
+  },
+  {
+    ClassInstanceId: 29,
+    Name: New Hampshire
+  },
+  {
+    ClassInstanceId: 30,
+    Name: New Jersey
+  },
+  {
+    ClassInstanceId: 31,
+    Name: New Mexico
+  },
+  {
+    ClassInstanceId: 32,
+    Name: New York
+  },
+  {
+    ClassInstanceId: 33,
+    Name: North Carolina
+  },
+  {
+    ClassInstanceId: 34,
+    Name: North Dakota
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Ohio
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Oklahoma
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Oregon
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Pennsylvania
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Rhode Island
+  },
+  {
+    ClassInstanceId: 40,
+    Name: South Carolina
+  },
+  {
+    ClassInstanceId: 41,
+    Name: South Dakota
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Tennessee
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Texas
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Utah
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Vermont
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Virginia
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Washington
+  },
+  {
+    ClassInstanceId: 48,
+    Name: West Virginia
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Wisconsin
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Wyoming
+  }
+]

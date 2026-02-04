@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Decision maker
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Not the business decision maker
+  }
+]

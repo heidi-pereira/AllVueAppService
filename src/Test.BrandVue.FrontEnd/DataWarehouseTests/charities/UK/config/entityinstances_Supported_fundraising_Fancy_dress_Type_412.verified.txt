@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supported fundraising event:Fancy dress (Base Supported_fundraising_Fancy_dress)
+  }
+]

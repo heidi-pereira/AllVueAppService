@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Not sure / don't know
+  },
+  {
+    ClassInstanceId: 1,
+    Name: More excited than last year
+  },
+  {
+    ClassInstanceId: 2,
+    Name: About the same as last year
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Less excited than last year
+  },
+  {
+    ClassInstanceId: 100,
+    Name: I don't know what Black Friday or Cyber Monday is
+  }
+]

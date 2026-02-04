@@ -1,0 +1,8 @@
+﻿setting,value,notes
+Name,Barometer,Browser title of dashboard
+Source database,Morar,File = Separate Data.xlsx file in this folder containing all data | Morar = Morar survey portal | Cloud = Cloud survey portal | BBS = BBS survey portal
+Short code,Barometer,Path to data
+DashboardBuilderType,BrandVueRepeatingSections,BrandVue/MyVue/….
+DashboardBuilderSpecifics,BrandVue,None/BrandVue/Prezzo/Cloud/….. (will change over time)
+MonitorPingUrlSuccess,https://nosnch.in:443/cad157c393,
+MonitorPingUrlFail,https://nosnch.in:443/cad157c393?s=1,

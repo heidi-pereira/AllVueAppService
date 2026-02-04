@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Social Media Platforms Used (Base Social_media_usage)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: have:No children at home (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Local radio
+  },
+  {
+    ClassInstanceId: 2,
+    Name: National radio
+  },
+  {
+    ClassInstanceId: 3,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Newspaper(s)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Social media
+  },
+  {
+    ClassInstanceId: 6,
+    Name: News websites
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Somewhere else
+  }
+]

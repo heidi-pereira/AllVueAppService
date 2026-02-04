@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have coronavirus having been tested positive
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I believe I have coronavirus but not been tested
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I think I have symptoms  (i.e. coughing / high temperature / shortness of breath), but haven’t been tested yet
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have no symptoms of coronavirus
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I have recovered from coronavirus having been tested
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I have recovered from coronavirus having not been tested
+  }
+]

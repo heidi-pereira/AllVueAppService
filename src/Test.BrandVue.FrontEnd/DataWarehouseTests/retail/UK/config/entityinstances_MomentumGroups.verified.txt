@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Good Momentum
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Static Momentum
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Poor Momentum
+  }
+]

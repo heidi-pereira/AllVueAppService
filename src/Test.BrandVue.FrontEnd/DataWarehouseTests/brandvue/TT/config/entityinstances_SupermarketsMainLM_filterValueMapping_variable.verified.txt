@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: ALDI
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Wal-Mart
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Safeway
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Albertsons
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Stop & Shop
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Costco
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Save A Lot
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Market Basket
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Whole Foods
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Target
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Kroger
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Trader Joe's
+  }
+]

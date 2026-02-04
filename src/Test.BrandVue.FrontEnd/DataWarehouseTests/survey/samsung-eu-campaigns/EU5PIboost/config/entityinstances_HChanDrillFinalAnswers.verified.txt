@@ -1,0 +1,462 @@
+﻿[
+  {
+    ClassInstanceId: 101,
+    Name: TV - UK
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Social Media - UK
+  },
+  {
+    ClassInstanceId: 103,
+    Name: OOH - UK
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Print - UK
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Radio - UK
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Digital - UK
+  },
+  {
+    ClassInstanceId: 201,
+    Name: TV - France
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Social Media - France
+  },
+  {
+    ClassInstanceId: 203,
+    Name: OOH - France
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Print - France
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Radio - France
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Digital - France
+  },
+  {
+    ClassInstanceId: 301,
+    Name: TV - Germany
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Social Media - Germany
+  },
+  {
+    ClassInstanceId: 303,
+    Name: OOH - Germany
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Print - Germany
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Radio - Germany
+  },
+  {
+    ClassInstanceId: 306,
+    Name: Digital - Germany
+  },
+  {
+    ClassInstanceId: 401,
+    Name: TV - Italy
+  },
+  {
+    ClassInstanceId: 402,
+    Name: Social Media - Italy
+  },
+  {
+    ClassInstanceId: 403,
+    Name: OOH - Italy
+  },
+  {
+    ClassInstanceId: 404,
+    Name: Print - Italy
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Radio - Italy
+  },
+  {
+    ClassInstanceId: 406,
+    Name: Digital - Italy
+  },
+  {
+    ClassInstanceId: 501,
+    Name: TV - Spain
+  },
+  {
+    ClassInstanceId: 502,
+    Name: Social Media - Spain
+  },
+  {
+    ClassInstanceId: 503,
+    Name: OOH - Spain
+  },
+  {
+    ClassInstanceId: 504,
+    Name: Print - Spain
+  },
+  {
+    ClassInstanceId: 505,
+    Name: Radio - Spain
+  },
+  {
+    ClassInstanceId: 506,
+    Name: Digital - Spain
+  },
+  {
+    ClassInstanceId: 601,
+    Name: TV - Ireland
+  },
+  {
+    ClassInstanceId: 602,
+    Name: Social Media - Ireland
+  },
+  {
+    ClassInstanceId: 603,
+    Name: OOH - Ireland
+  },
+  {
+    ClassInstanceId: 604,
+    Name: Print - Ireland
+  },
+  {
+    ClassInstanceId: 605,
+    Name: Radio - Ireland
+  },
+  {
+    ClassInstanceId: 606,
+    Name: Digital - Ireland
+  },
+  {
+    ClassInstanceId: 701,
+    Name: Smartphone_TV - UK
+  },
+  {
+    ClassInstanceId: 702,
+    Name: Smartphone_Social Media - UK
+  },
+  {
+    ClassInstanceId: 703,
+    Name: Smartphone_OOH - UK
+  },
+  {
+    ClassInstanceId: 704,
+    Name: Smartphone_Print - UK
+  },
+  {
+    ClassInstanceId: 705,
+    Name: Smartphone_Radio - UK
+  },
+  {
+    ClassInstanceId: 706,
+    Name: Smartphone_Digital - UK
+  },
+  {
+    ClassInstanceId: 801,
+    Name: Smartphone_TV - France
+  },
+  {
+    ClassInstanceId: 802,
+    Name: Smartphone_Social Media - France
+  },
+  {
+    ClassInstanceId: 803,
+    Name: Smartphone_OOH - France
+  },
+  {
+    ClassInstanceId: 804,
+    Name: Smartphone_Print - France
+  },
+  {
+    ClassInstanceId: 805,
+    Name: Smartphone_Radio - France
+  },
+  {
+    ClassInstanceId: 806,
+    Name: Smartphone_Digital - France
+  },
+  {
+    ClassInstanceId: 901,
+    Name: Smartphone_TV - Germany
+  },
+  {
+    ClassInstanceId: 902,
+    Name: Smartphone_Social Media - Germany
+  },
+  {
+    ClassInstanceId: 903,
+    Name: Smartphone_OOH - Germany
+  },
+  {
+    ClassInstanceId: 904,
+    Name: Smartphone_Print - Germany
+  },
+  {
+    ClassInstanceId: 905,
+    Name: Smartphone_Radio - Germany
+  },
+  {
+    ClassInstanceId: 906,
+    Name: Smartphone_Digital - Germany
+  },
+  {
+    ClassInstanceId: 1001,
+    Name: Smartphone_TV - Italy
+  },
+  {
+    ClassInstanceId: 1002,
+    Name: Smartphone_Social Media - Italy
+  },
+  {
+    ClassInstanceId: 1003,
+    Name: Smartphone_OOH - Italy
+  },
+  {
+    ClassInstanceId: 1004,
+    Name: Smartphone_Print - Italy
+  },
+  {
+    ClassInstanceId: 1005,
+    Name: Smartphone_Radio - Italy
+  },
+  {
+    ClassInstanceId: 1006,
+    Name: Smartphone_Digital - Italy
+  },
+  {
+    ClassInstanceId: 1101,
+    Name: Smartphone_TV - Spain
+  },
+  {
+    ClassInstanceId: 1102,
+    Name: Smartphone_Social Media - Spain
+  },
+  {
+    ClassInstanceId: 1103,
+    Name: Smartphone_OOH - Spain
+  },
+  {
+    ClassInstanceId: 1104,
+    Name: Smartphone_Print - Spain
+  },
+  {
+    ClassInstanceId: 1105,
+    Name: Smartphone_Radio - Spain
+  },
+  {
+    ClassInstanceId: 1106,
+    Name: Smartphone_Digital - Spain
+  },
+  {
+    ClassInstanceId: 1201,
+    Name: Smartphone_TV - Ireland
+  },
+  {
+    ClassInstanceId: 1202,
+    Name: Smartphone_Social Media - Ireland
+  },
+  {
+    ClassInstanceId: 1203,
+    Name: Smartphone_OOH - Ireland
+  },
+  {
+    ClassInstanceId: 1204,
+    Name: Smartphone_Print - Ireland
+  },
+  {
+    ClassInstanceId: 1205,
+    Name: Smartphone_Radio - Ireland
+  },
+  {
+    ClassInstanceId: 1206,
+    Name: Smartphone_Digital - Ireland
+  },
+  {
+    ClassInstanceId: 1301,
+    Name: Smartphone_TV - UK (1301)
+  },
+  {
+    ClassInstanceId: 1302,
+    Name: Smartphone_Social Media - UK (1302)
+  },
+  {
+    ClassInstanceId: 1303,
+    Name: Smartphone_OOH - UK (1303)
+  },
+  {
+    ClassInstanceId: 1304,
+    Name: Smartphone_Print - UK (1304)
+  },
+  {
+    ClassInstanceId: 1305,
+    Name: Smartphone_Radio - UK (1305)
+  },
+  {
+    ClassInstanceId: 1306,
+    Name: Smartphone_Digital - UK (1306)
+  },
+  {
+    ClassInstanceId: 1401,
+    Name: Smartphone_TV - UK (1401)
+  },
+  {
+    ClassInstanceId: 1402,
+    Name: Smartphone_Social Media - UK (1402)
+  },
+  {
+    ClassInstanceId: 1403,
+    Name: Smartphone_OOH - UK (1403)
+  },
+  {
+    ClassInstanceId: 1404,
+    Name: Smartphone_Print - UK (1404)
+  },
+  {
+    ClassInstanceId: 1405,
+    Name: Smartphone_Radio - UK (1405)
+  },
+  {
+    ClassInstanceId: 1406,
+    Name: Smartphone_Digital - UK (1406)
+  },
+  {
+    ClassInstanceId: 1501,
+    Name: Smartphone_TV - France (1501)
+  },
+  {
+    ClassInstanceId: 1502,
+    Name: Smartphone_Social Media - France (1502)
+  },
+  {
+    ClassInstanceId: 1503,
+    Name: Smartphone_OOH - France (1503)
+  },
+  {
+    ClassInstanceId: 1504,
+    Name: Smartphone_Print - France (1504)
+  },
+  {
+    ClassInstanceId: 1505,
+    Name: Smartphone_Radio - France (1505)
+  },
+  {
+    ClassInstanceId: 1506,
+    Name: Smartphone_Digital - France (1506)
+  },
+  {
+    ClassInstanceId: 1601,
+    Name: Smartphone_TV - Germany (1601)
+  },
+  {
+    ClassInstanceId: 1602,
+    Name: Smartphone_Social Media - Germany (1602)
+  },
+  {
+    ClassInstanceId: 1603,
+    Name: Smartphone_OOH - Italy (1603)
+  },
+  {
+    ClassInstanceId: 1604,
+    Name: Smartphone_Print - Germany (1604)
+  },
+  {
+    ClassInstanceId: 1605,
+    Name: Smartphone_Radio - Germany (1605)
+  },
+  {
+    ClassInstanceId: 1606,
+    Name: Smartphone_Digital - Germany (1606)
+  },
+  {
+    ClassInstanceId: 1663,
+    Name: Smartphone_OOH - Germany (1663)
+  },
+  {
+    ClassInstanceId: 1701,
+    Name: Smartphone_TV - Italy (1701)
+  },
+  {
+    ClassInstanceId: 1702,
+    Name: Smartphone_Social Media - Italy (1702)
+  },
+  {
+    ClassInstanceId: 1703,
+    Name: Smartphone_OOH - Italy (1703)
+  },
+  {
+    ClassInstanceId: 1704,
+    Name: Smartphone_Print - Italy (1704)
+  },
+  {
+    ClassInstanceId: 1705,
+    Name: Smartphone_Radio - Italy (1705)
+  },
+  {
+    ClassInstanceId: 1706,
+    Name: Smartphone_Digital - Italy (1706)
+  },
+  {
+    ClassInstanceId: 1801,
+    Name: Smartphone_TV - Spain (1801)
+  },
+  {
+    ClassInstanceId: 1802,
+    Name: Smartphone_Social Media - Spain (1802)
+  },
+  {
+    ClassInstanceId: 1803,
+    Name: Smartphone_OOH - Spain (1803)
+  },
+  {
+    ClassInstanceId: 1804,
+    Name: Smartphone_Print - Spain (1804)
+  },
+  {
+    ClassInstanceId: 1805,
+    Name: Smartphone_Radio - Spain (1805)
+  },
+  {
+    ClassInstanceId: 1806,
+    Name: Smartphone_Digital - Spain (1806)
+  },
+  {
+    ClassInstanceId: 1901,
+    Name: Smartphone_TV - Ireland (1901)
+  },
+  {
+    ClassInstanceId: 1902,
+    Name: Smartphone_Social Media - Ireland (1902)
+  },
+  {
+    ClassInstanceId: 1903,
+    Name: Smartphone_OOH - Ireland (1903)
+  },
+  {
+    ClassInstanceId: 1904,
+    Name: Smartphone_Print - Ireland (1904)
+  },
+  {
+    ClassInstanceId: 1905,
+    Name: Smartphone_Radio - Ireland (1905)
+  },
+  {
+    ClassInstanceId: 1906,
+    Name: Smartphone_Digital - Ireland (1906)
+  }
+]

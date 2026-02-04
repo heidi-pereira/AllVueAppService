@@ -1,0 +1,33 @@
+@import "_vars";
+@import "_layout";
+
+.allvue-no-data-error {
+    .no-data-message {
+        .flex-column(@justify-content: center; @align-items: center; @gutter: 24px;);
+        margin: 96px 48px;
+
+        h2 {
+            color: @slate-dark;
+            font-size: 24px;
+            font-weight: unset;
+        }
+
+        h3 {
+            color: @slate;
+            font-size: 16px;
+        }
+
+        .material-symbols-outlined {
+            color: @amber;
+            font-size: 40px;
+        }
+    }
+
+    .account-menu {
+        width: unset;
+
+        a {
+            width: 110px;
+        }
+    }
+}

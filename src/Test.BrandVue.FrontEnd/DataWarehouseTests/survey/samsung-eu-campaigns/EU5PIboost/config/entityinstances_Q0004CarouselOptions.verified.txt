@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Almost Always (at least 3 issues out of 4)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quite Often (at least one issue out of 4)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Only Occasionally (less than one issue out of 4)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not in the last 12 months
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Never
+  }
+]

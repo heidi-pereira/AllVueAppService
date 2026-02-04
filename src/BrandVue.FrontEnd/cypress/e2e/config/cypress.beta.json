@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://savanta.beta.all-vue.com/",
+  "env": {
+    "userEmail": "savanta.tests+user@gmail.com",
+    "allVueSurveyId": "5240",
+    "userPassword": null // Get from keepass, but DO NOT COMMIT 
+  }
+}

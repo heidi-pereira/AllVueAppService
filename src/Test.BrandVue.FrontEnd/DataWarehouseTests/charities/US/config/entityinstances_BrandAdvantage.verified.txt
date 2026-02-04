@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: One of the best charities
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Better than most other charities
+  },
+  {
+    ClassInstanceId: 3,
+    Name: As good as other charities
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not as good as other charities
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Not sure / Don't know
+  }
+]

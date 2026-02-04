@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Northern Ireland
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Scotland
+  },
+  {
+    ClassInstanceId: 3,
+    Name: North-West
+  },
+  {
+    ClassInstanceId: 4,
+    Name: North-East
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Yorkshire & Humberside
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Wales
+  },
+  {
+    ClassInstanceId: 7,
+    Name: West Midlands
+  },
+  {
+    ClassInstanceId: 8,
+    Name: East Midlands
+  },
+  {
+    ClassInstanceId: 9,
+    Name: South-West
+  },
+  {
+    ClassInstanceId: 10,
+    Name: South-East
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Eastern
+  },
+  {
+    ClassInstanceId: 12,
+    Name: London
+  }
+]

@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Under £1,000,000 IA
+  },
+  {
+    ClassInstanceId: 2,
+    Name: £1,000,000+ IA
+  }
+]

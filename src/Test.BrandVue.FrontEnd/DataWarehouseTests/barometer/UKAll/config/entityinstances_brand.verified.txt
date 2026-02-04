@@ -1,0 +1,314 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Abercrombie and Fitch
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Adidas
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Aldo
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Asda George
+  },
+  {
+    ClassInstanceId: 11,
+    Name: ASOS
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Bershka
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Boohoo
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Clarks
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Converse
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Cos
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Debenhams
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Diesel
+  },
+  {
+    ClassInstanceId: 34,
+    Name: FatFace
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Gap
+  },
+  {
+    ClassInstanceId: 41,
+    Name: H&M
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Hollister
+  },
+  {
+    ClassInstanceId: 45,
+    Name: House of Fraser
+  },
+  {
+    ClassInstanceId: 46,
+    Name: BOSS
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Jack Wills
+  },
+  {
+    ClassInstanceId: 51,
+    Name: JD Sport
+  },
+  {
+    ClassInstanceId: 54,
+    Name: John Lewis
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Levis
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Mango
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Marks & Spencer
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Matalan
+  },
+  {
+    ClassInstanceId: 73,
+    Name: New Look
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Next
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Nike
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Office
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Primark
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Pull and Bear
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Ralph Lauren
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Reiss
+  },
+  {
+    ClassInstanceId: 86,
+    Name: River Island
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Russell & Bromley
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Sainsbury's
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Schuh
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Skechers
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Sports Direct
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Superdry
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Ted Baker
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Tesco
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Timberland
+  },
+  {
+    ClassInstanceId: 100,
+    Name: TK Maxx
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Tommy Hilfiger
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Ugg
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Uniqlo
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Urban Outfitters
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Very
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Zara
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 183,
+    Name: New Balance
+  },
+  {
+    ClassInstanceId: 187,
+    Name: The North Face
+  },
+  {
+    ClassInstanceId: 192,
+    Name: Puma
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Reebok
+  },
+  {
+    ClassInstanceId: 211,
+    Name: Under Armour
+  },
+  {
+    ClassInstanceId: 223,
+    Name: Deichmann
+  },
+  {
+    ClassInstanceId: 226,
+    Name: Littlewoods
+  },
+  {
+    ClassInstanceId: 231,
+    Name: Zalando
+  },
+  {
+    ClassInstanceId: 233,
+    Name: ebay
+  },
+  {
+    ClassInstanceId: 246,
+    Name: Arket
+  },
+  {
+    ClassInstanceId: 251,
+    Name: Massimo Dutti
+  },
+  {
+    ClassInstanceId: 263,
+    Name: Foot Locker
+  },
+  {
+    ClassInstanceId: 268,
+    Name: Canada Goose
+  },
+  {
+    ClassInstanceId: 298,
+    Name: ecco
+  },
+  {
+    ClassInstanceId: 299,
+    Name: GEOX
+  },
+  {
+    ClassInstanceId: 300,
+    Name: Depop
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Gymshark
+  },
+  {
+    ClassInstanceId: 310,
+    Name: Shein
+  },
+  {
+    ClassInstanceId: 325,
+    Name: HUGO 
+  },
+  {
+    ClassInstanceId: 336,
+    Name: Aldo Shoes & Accessories
+  },
+  {
+    ClassInstanceId: 344,
+    Name: Vans
+  },
+  {
+    ClassInstanceId: 346,
+    Name: Allbirds
+  },
+  {
+    ClassInstanceId: 347,
+    Name: Hoka
+  },
+  {
+    ClassInstanceId: 348,
+    Name: Fitflop
+  },
+  {
+    ClassInstanceId: 351,
+    Name: Birkenstock
+  },
+  {
+    ClassInstanceId: 355,
+    Name: Veja
+  },
+  {
+    ClassInstanceId: 356,
+    Name: Decathlon
+  }
+]

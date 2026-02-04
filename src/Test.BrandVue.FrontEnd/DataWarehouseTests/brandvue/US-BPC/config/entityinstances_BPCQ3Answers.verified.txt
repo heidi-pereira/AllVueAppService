@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cold & Flu relief
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Headache / Migraine relief
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Body pain relief
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Heartburn & Indigestion relief
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Allergy & Hay fever relief
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Constipation or flatulence relief
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Treatments for sore throat
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Treatments for an upset stomach
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Medicated foot treatments (such as for verruca, athlete’s foot etc.)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

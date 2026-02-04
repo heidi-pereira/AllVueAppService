@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: flying
+  },
+  {
+    ClassInstanceId: 2,
+    Name: driving
+  },
+  {
+    ClassInstanceId: 3,
+    Name: taking the train
+  },
+  {
+    ClassInstanceId: 4,
+    Name: taking the bus / coach / tram
+  },
+  {
+    ClassInstanceId: 5,
+    Name: cycling
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Skiing / Winter sports
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Beach / Coastal
+  },
+  {
+    ClassInstanceId: 3,
+    Name: City break
+  }
+]

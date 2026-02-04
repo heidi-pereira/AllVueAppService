@@ -1,0 +1,16 @@
+﻿{
+  ChildResults: null,
+  Date: DateTimeOffset_1,
+  ResponseIdsForDay: [],
+  SigificanceHelpText: null,
+  Significance: null,
+  StandardDeviation: null,
+  Text: null,
+  Tscore: null,
+  UnweightedSampleSize: 1,
+  UnweightedValueTotal: 1.0,
+  Variance: null,
+  WeightedResult: 1.0,
+  WeightedSampleSize: 1.0,
+  WeightedValueTotal: 1.0
+}

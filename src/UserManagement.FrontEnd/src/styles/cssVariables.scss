@@ -1,0 +1,41 @@
+:root {
+  --header-background-colour: #191919;
+  --header-background-colour-rgb: 25, 25, 25;
+  --header-border-colour: #f4adb3;
+  --header-border-colour-rgb: 244, 173, 179;
+  --header-text-colour: #ffffff;
+  --header-text-colour-rgb: 255, 255, 255;
+  --header-border-width: 4px;
+  --header-logo: url('/savantalogo.svg');
+
+  --colour-chalk: #E0E2E5;
+  --colour-chalk-light: #EEEFF0;
+  --colour-chalk-lighter: #F8F9F9;
+
+  --colour-slate: #6E7881;
+  --colour-slate-dark: #42484D;
+  --colour-slate-darker: #26292C;
+  --colour-slate-light: #A0A7AE;
+  --colour-slate-lighter: #CBCFD3;
+  
+  --colour-blueSteel: #1376CD;
+  --colour-blueSteel-dark: #0E4B81;
+  --colour-blueSteel-darker: #082B49;
+  --colour-blueSteel-light: #B6D8F7;
+  --colour-blueSteel-lighter: #E2F1FD;
+  --colour-blueSteel-lightest: #F3F8FC;
+
+  --colour-lava: #CD1319;
+  --colour-lava-dark: #810E12;
+  --colour-lava-darker: #49080A;
+  --colour-lava-light: #F7B6B8;
+  --colour-lava-lighter: #FFE0E1;
+
+  --colour-amber: #FFBF00;
+  --colour-amber-dark: #81640E;
+  --colour-amber-darker: #493908;
+  --colour-amber-light: #F7E7B6;
+  --colour-amber-lighter: #FFF7E0;
+
+  --colour-bad-red: var(--colour-lava);
+}

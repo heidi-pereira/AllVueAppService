@@ -1,0 +1,92 @@
+@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+.popoverContent {
+    .popoverHeader {
+        font-size: 14px;
+        font-weight: 500;
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    
+    .butWaitTheresMore {
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+
+.resultBar {
+    padding-top: 10px;
+
+    .warning {
+        color: @gold-hex;
+    }
+
+    .samples {
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        margin-bottom: 2px;
+
+        .countAndSample {
+            .flex-row();
+            margin-right: 8px;
+            font-weight: 600;
+            color: @slate-dark;
+            gap: 5px;
+        }
+
+        .entityName {
+            font-size: 12px;
+            font-weight: 400;
+            align-self: center;
+        }
+
+        .percentage {
+            color: @slate-dark;
+            font-size: 14px;
+        }
+    }
+
+    .estimateLabel {
+        font-size: 14px;
+        font-weight: 400;
+        align-self:center;
+        padding-right: 10px;
+        display: flex;
+        gap: 5px;
+
+        .estimateDetails {
+            color: @blueSteel;
+        }
+    
+    }
+
+    .estimateBar {
+        .flex-row();
+        height: 15px;
+        width: 100%;
+        background: @slate-lighter;
+
+        .filledEstimateBar {
+            height: 15px;
+            background: @blueSteel;
+
+            &.warning {
+                background: @gold-hex;
+            }
+        }
+    }
+
+    .helptext {
+        .flex-row();
+        margin-top: 5px;
+        color: @slate-light;
+
+        i {
+            font-size: 18px;
+            margin-right: 5px;
+        }
+    }
+}

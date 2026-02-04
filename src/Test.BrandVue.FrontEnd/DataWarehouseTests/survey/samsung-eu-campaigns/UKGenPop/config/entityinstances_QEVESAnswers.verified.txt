@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have only heard the name
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I am aware of this model series since I have used it/am using it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I have seen advertisements for this model series on TV, social media, websites, stores etc.
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have come across this model series in articles or news
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I have seen or heard about this model series through people around me
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I plan to search/have searched for information about this model series online
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I plan to ask/have asked people around me about this model series
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I plan to visit/have visited a store to see this model in person
+  },
+  {
+    ClassInstanceId: 10,
+    Name: I plan to participate/have participated in events or promotions related to it
+  },
+  {
+    ClassInstanceId: 11,
+    Name: I am interested in this model series due to good experiences with it
+  }
+]

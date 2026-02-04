@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reaction to current economic situation (Base CoCo_segment_for_filter)
+  }
+]

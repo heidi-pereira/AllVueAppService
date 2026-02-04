@@ -1,0 +1,130 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Affordable
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Authentic
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Convenient
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Cool
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Delicious
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Different
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Ethical
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Everyday
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Exciting
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Expert
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Family
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Fashionable
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Fresh
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Friendly
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Fun
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Generous
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Good value
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Has character
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Healthy
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Homely
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Lively
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Local
+  },
+  {
+    ClassInstanceId: 23,
+    Name: New
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Premium
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Quick
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Quirky
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Reliable
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Stylish
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Trustworthy
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Guilty pleasure
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Socially responsible
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Environmentally friendly
+  }
+]

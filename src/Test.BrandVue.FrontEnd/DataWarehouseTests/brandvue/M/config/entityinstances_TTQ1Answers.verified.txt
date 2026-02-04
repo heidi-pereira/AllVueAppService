@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car (driven by self)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Car (driven by someone else, not a taxi or minicab)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Taxi or minicab
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Motorbike / moped
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Bicycle
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Coach / bus
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Train
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Tram
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Aeroplane
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

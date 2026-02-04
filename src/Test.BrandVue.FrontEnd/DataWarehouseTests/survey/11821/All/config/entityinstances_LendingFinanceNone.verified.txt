@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Credit card
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Mortgage (for your own home)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Car loan / car finance
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Payday loan
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Personal loan
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Buy to let mortgage
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Equity release / lifetime mortgage (that gives you access to some of the value tied up in your home if you are over the age of 55)
+  }
+]

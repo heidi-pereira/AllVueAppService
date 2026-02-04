@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Other manual
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Caring / Leisure / Service occupation
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Professional
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Director / Senior Official / Senior Manager
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Skilled Trade
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Plant / Machine / Vehicle operative
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Admin / Secretarial / Other Clerical
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Middle Manager / Senior Executive
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Sales / Customer service
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Apprentice
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Technical
+  }
+]

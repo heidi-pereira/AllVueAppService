@@ -1,0 +1,33 @@
+@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+.errorChip {
+    .flex-row( @align-items: center);
+    background-color: @white;
+    padding: 4px 6px;
+    border-radius: 5px;
+    width: max-content;
+    border-width: 1px;
+    border-style: solid;
+    font-weight: 400;
+    cursor: default;
+
+    &.warningColor {
+        color: @amber-dark;
+        border-color: @amber;
+    }
+
+    &.errorColor {
+        color: @bad-red;
+        border-color: @bad-red;
+    }
+
+    .symbol {
+        font-size: 18px;
+    }
+
+    .text {
+        font-size: 14px;
+        margin: 0 4px;
+    }
+}

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes, within 6 months
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes, within 12 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, within 18 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No, I don’t intend to purchase a car in the near future
+  }
+]

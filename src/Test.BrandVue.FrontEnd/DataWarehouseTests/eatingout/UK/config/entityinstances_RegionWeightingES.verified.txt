@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: North
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Madrid
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Center
+  },
+  {
+    ClassInstanceId: 4,
+    Name: East
+  },
+  {
+    ClassInstanceId: 5,
+    Name: South
+  }
+]

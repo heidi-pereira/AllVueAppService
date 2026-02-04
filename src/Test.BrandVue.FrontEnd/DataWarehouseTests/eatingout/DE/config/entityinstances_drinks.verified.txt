@@ -1,0 +1,62 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: I didn't have anything to drink
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Coffee
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tea
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Hot chocolate
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Bottled water
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Fruit juice / smoothie
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Carbonated soft drink
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Juice drink / flavoured water
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Milkshake / milk drink
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Tap water
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Beer / lager
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Cider
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Cocktail / spirit
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Wine / sparkling wine
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

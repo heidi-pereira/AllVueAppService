@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <DebugType>full</DebugType>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Company>Savanta Group Ltd.</Company>
+    <Product>DashboardMetadataBuilder</Product>
+    <Copyright>Copyright © Savanta Group Ltd. 2020</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="18.12.0" />
+    <PackageReference Include="JetBrains.Annotations" Version="2020.3.0" />
+    <PackageReference Include="LevenshteinMinimumEditDistance" Version="1.2.0" />
+    <PackageReference Include="log4net" Version="2.0.12" />
+    <PackageReference Include="Microsoft.VisualStudio.SlowCheetah" Version="3.2.26">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="NSubstitute" Version="4.2.2" />
+    <PackageReference Include="NuGet.CommandLine" Version="5.11.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Savanta.Logging" Version="1.1.38" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+    <ProjectReference Include="..\..\BrandVue.EntityFramework\BrandVue.EntityFramework.csproj" />
+    <ProjectReference Include="..\..\BrandVue.SourceData\BrandVue.SourceData.csproj" />
+    <ProjectReference Include="..\..\Vue.Common\Vue.Common.csproj" />
+    <ProjectReference Include="..\EgnyteClient\EgnyteClient.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\DashboardBuilder\Aspose.Total.lic" Link="Aspose.Total.lic">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Create-FromEgnyte.ps1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="DashboardBuilder.Metadata.nuspec">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="NuGet.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Download-LatestMetadata.ps1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

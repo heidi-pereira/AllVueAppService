@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: To get some extra money
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Sustainability
+  },
+  {
+    ClassInstanceId: 3,
+    Name: It’s a fun thing to do
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Decluttering
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Helping others who are in need of more affordable clothing
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,47 @@
+{
+    quotaCells: {
+        entityType: "profile",
+        fields: [
+            "region",
+            "gender",
+            "ageGroup",
+            "seg"
+        ]
+    },
+
+    dataSets: [{
+            name: "uk",
+            displayName: "UK"
+        }, {
+            name: "us",
+            displayName: "US"
+        }
+    ],
+
+    entities: [
+        {
+            name: "profile",
+            displayName: "Profile",
+            type: "data",
+            idField: "id",
+            children: [{
+                name: "brandResponse"
+                displayName: "Brand Response",
+                type: "data",
+                idField: "brandid",
+                parentIdField: "id"
+            }],
+            references: [{
+                entityType: "brand",
+                referencingField: "brandid"
+            }]
+        },
+        
+        {
+            name: "brand",
+            displayName: "Brand",
+            type: "metadata",
+            idField: "id",
+        }
+    ]
+}

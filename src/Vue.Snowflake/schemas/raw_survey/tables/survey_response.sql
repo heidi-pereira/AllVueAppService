@@ -1,0 +1,20 @@
+create or alter table raw_survey.survey_response (
+    response_id number(10, 0) not null,
+    survey_id number(10, 0) not null,
+    language_id number(10, 0) not null,
+    respondent_id number(10, 0) not null,
+    segment_id number(10, 0) not null,
+    timestamp timestamp_ntz(3) not null,
+    status number(10, 0) not null,
+    ip varchar(100) not null,
+    browser_type varchar(2000) not null,
+    exit_point varchar(100) not null,
+    format_id number(10, 0) not null,
+    ref_id number(10, 0) not null,
+    user_id number(10, 0) not null,
+    last_change_time timestamp_ntz(3) not null,
+    survey_definition_state_id number(10, 0),
+    last_failed_quota_cell_id number(10, 0),
+    terminate_reason varchar(1000),
+    archived boolean not null
+);

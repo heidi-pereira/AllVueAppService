@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Jamie Oliver x Samsung Bespoke AI
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Jamie Oliver x LG ThinQ
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Jamie Oliver x Bosch Home Connect
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the these
+  }
+]

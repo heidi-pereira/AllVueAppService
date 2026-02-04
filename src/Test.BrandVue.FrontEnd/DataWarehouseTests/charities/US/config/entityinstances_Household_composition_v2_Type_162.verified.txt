@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Household composition v2 (Base Household_composition_v2)
+  }
+]

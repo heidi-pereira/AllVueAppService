@@ -1,0 +1,195 @@
+pr: none
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - '*'
+  tags:
+    exclude:
+    - '*'
+  paths:
+    include:
+    - src/UserManagement*
+    - src/Vue.Common.FrontEnd*
+    - src/Vue.Common*
+    - src/Test.Vue.Common*
+    - src/BrandVue.EntityFramework*
+    
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+- template: /src/SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: AllVueUserManagement
+    majorVersion: 1
+    minorVersion: 0
+- name: buildConfiguration
+  value: 'Release'
+- name: solution
+  value: 'src/UserManagement.sln'  # Path to your solution file
+- name: pushToOctopus
+  value: ${{ or(eq(variables['isHotfix'], 'True'), eq(variables['isMasterBuild'], 'True')) }}
+
+stages:
+- stage: Build
+  jobs:
+  - job: BuildAndTest
+    displayName: 'Build and Test'
+    steps:
+    - checkout: self
+      persistCredentials: true
+
+    - task: UseDotNet@2
+      displayName: 'Install .NET 8 SDK'
+      inputs:
+        packageType: 'sdk'
+        version: '8.x'  # Use the appropriate version for .NET Core
+
+    - task: UseDotNet@2
+      displayName: 'Install .NET 9 SDK'
+      inputs:
+        packageType: 'sdk'
+        version: '9.x'  # Use the appropriate version for .NET Core
+    
+    - task: UseNode@1
+      inputs:
+        version: '20.x'
+      displayName: 'Use Node.js 20.x'
+
+    - template: /src/SharedBuildScripts/DotnetRestore.yaml
+
+    - task: NuGetAuthenticate@1
+      displayName: 'Authenticate to Azure'
+
+    - script: |
+        echo ##[command]Publish backend for local execution
+        dotnet publish src/UserManagement.BackEnd/UserManagement.BackEnd.csproj -c $(buildConfiguration) -o ./temp_backend_publish -p:ExcludeFrontend=true
+      displayName: 'Publish Back-End Locally'
+
+    - powershell: |
+        Write-Host "##[command]Start local backend"
+        $backend = Start-Process "dotnet" `
+          -ArgumentList @("UserManagement.BackEnd.dll", "--urls=http://localhost:7036") `
+          -RedirectStandardOutput "backend.log" `
+          -RedirectStandardError "backend.err.log" `
+          -NoNewWindow `
+          -PassThru `
+          -WorkingDirectory "temp_backend_publish"
+
+        $backend.Id | Out-File -FilePath "backend.pid"
+        Write-Host "Started backend with PID: $($backend.Id)"
+        Start-Sleep -Seconds 20
+      displayName: 'Start Temporary Back-End'
+
+    - script: |
+        echo ##[command]Building the solution
+        dotnet build $(solution) --configuration $(buildConfiguration)
+      displayName: 'Build Solution'
+
+    - script: |
+        echo ##[command]Downloading OpenAPI schema
+        curl -L http://localhost:7036/usermanagement/openapi/v1.json -o downloaded.txt
+        echo "Downloaded file contents:"
+        cat downloaded.txt
+      displayName: 'Download file and display contents'
+
+    - script: |
+        echo ##[command]Running tests
+        dotnet test $(solution) --no-build --configuration $(buildConfiguration) --verbosity normal
+      displayName: 'Run Tests'
+
+    # Run Jest Tests with Coverage
+    - script: |
+        cd src/UserManagement.FrontEnd
+        npm run test -- --coverage
+      displayName: 'Run Jest Tests'
+
+    - script: |
+        echo ##[command]Publish the project for deployment
+        dotnet publish $(solution) --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)/publish
+      displayName: 'Publish Application'
+
+    - template: /src/SharedBuildScripts/TeamsBuildError.yaml
+  
+    - powershell: |
+        Write-Host "##[command]Stop backend manually"
+        if (Test-Path "backend.pid") {
+            $backendPid = Get-Content "backend.pid" -ErrorAction Stop
+            Write-Host "Stopping backend process with PID: $backendPid"
+            Stop-Process -Id $backendPid -Force
+            Remove-Item "backend.pid" -Force
+        } else {
+            Write-Host "No PID file found. Backend may not have started properly."
+        }
+      displayName: 'Kill Temporary Back-End'
+      condition: always()
+
+    - script: |
+        echo "===== BACKEND STDOUT LOG ====="
+        type backend.log
+        echo "===== BACKEND STDERR LOG ====="
+        type backend.err.log
+      displayName: 'Output Temporary Back-End Logs'
+      condition: always()
+
+    - task: ArchiveFiles@2
+      displayName: 'Archive Published Projects'
+      inputs:
+        rootFolderOrFile: '$(Build.ArtifactStagingDirectory)/publish'
+        includeRootFolder: false
+        archiveType: 'zip'
+        archiveFile: '$(Build.ArtifactStagingDirectory)/$(buildName).zip'
+
+    - task: PublishBuildArtifacts@1
+      displayName: 'Publish Artifact: drop'
+      inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)/$(buildName).zip'
+        ArtifactName: 'drop'
+        publishLocation: 'Container'
+
+    - template: /src/SharedBuildScripts/TagBuild.yaml
+
+# Package deployment
+- stage: Deploy
+  condition: and(succeeded(), eq(variables.pushToOctopus, 'true'))
+  jobs:
+  - job: DeployToOctopus
+    displayName: 'Deploy to Octopus'
+    steps:
+
+    - checkout: none
+
+    - task: DownloadBuildArtifacts@0
+      displayName: 'Download Build Artifacts'
+      inputs:
+        buildType: 'current'
+        downloadType: 'single'
+        artifactName: 'drop'
+        downloadPath: '$(System.ArtifactsDirectory)'
+
+    - task: OctopusPush@6
+      inputs:
+        OctoConnectedServiceName: 'Savanta Cloud Octopus'
+        Space: "Default"
+        Packages: '$(System.ArtifactsDirectory)/drop/$(buildName).zip'
+        Replace: "true"
+
+    - task: OctopusCreateRelease@6
+      inputs:
+        OctoConnectedServiceName: 'Savanta Cloud Octopus'
+        Space: 'Default'
+        Project: 'User Management'
+        ReleaseNumber: '$(packageVersion)'
+        Channel: 'Default'
+        DefaultPackageVersion: '$(packageVersion)'
+        ReleaseNotes: '<a href="https://github.com/Savanta-Tech/Vue/commit/$(Build.SourceVersion)">$(Build.SourceVersion)</a>'
+
+    - task: OctopusDeployRelease@6
+      inputs:
+        OctoConnectedServiceName: 'Savanta Cloud Octopus'
+        Space: 'Default'
+        Project: 'User Management'
+        ReleaseNumber: '$(packageVersion)'
+        Environments: 'Test'

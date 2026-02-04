@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Eating out yesterday (Base Eating_out_yesterday)
+  }
+]

@@ -1,0 +1,192 @@
+pr: none
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - '*'
+  tags:
+    exclude:
+    - '*'
+  paths:
+    exclude:
+    - src/OpenEnds*
+    - src/UserManagement*
+    - src/DashboardBuilder
+    - src/VueReporting
+    - src/BrandVue.FrontEnd/cypress
+
+pool:
+  vmImage: 'windows-2022'
+
+variables:
+- template: /src/SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: BrandVue
+    majorVersion: 2
+    minorVersion: 2
+- name: solution
+  value: 'src/BrandVue.sln'
+- name: AnswersConnectionString
+  value: 'Server=test-vue-te.ch\sql2019;Database=VueExport;User=VueTeamCityUser;Password=$(VueTeamCityUserPassword);'
+- name: MetaConnectionString
+  value: 'Server=test-vue-te.ch\sql2019;Database=BrandVueMetaTest;User=VueTeamCityUser;Password=$(VueTeamCityUserPassword);'
+- name: AzurePipelinesBuild
+  value: true
+#- name: system.debug
+#  value: true
+
+name: ${{variables.buildName}}
+
+steps:
+- checkout: self
+  persistCredentials: true
+
+- powershell: |
+    Set-Culture -CultureInfo en-GB
+  displayName: Set UK Culture
+
+- template: /src/SharedBuildScripts/EchoVariables.yaml
+- template: /src/SharedBuildScripts/DotnetRestore.yaml
+
+- bash: rm -rf src/BrandVue.FrontEnd/cypress
+  displayName: Remove cypress folder
+
+- task: Cache@2
+  displayName: Restore cache of NPM packages
+  inputs:
+    key: 'src\BrandVue.FrontEnd\package.json'
+    path: 'src\BrandVue.FrontEnd\node_modules'
+
+- template: /src/SharedBuildScripts/InstallNode.yaml
+
+# Build
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: build
+    projects: $(solution)
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      -p:Copyright="$(copyright)"
+      -p:Version=$(packageVersion)
+
+- task: Npm@1
+  displayName: NPM Install
+  inputs:
+    command: 'install'
+    workingDir: 'src/BrandVue.Frontend'
+
+- task: Npm@1
+  displayName: NPM Build API
+  inputs:
+    command: 'custom'
+    workingDir: 'src/BrandVue.Frontend'
+    customCommand: 'run build:api'
+
+- task: Npm@1
+  displayName: NPM Build (app)
+  inputs:
+    command: 'custom'
+    workingDir: 'src/BrandVue.Frontend'
+    customCommand: 'run build'
+
+- template: /src/SharedBuildScripts/TeamsBuildError.yaml
+
+- task: Npm@1
+  displayName: NPM Build Docs
+  inputs:
+    command: 'custom'
+    workingDir: 'src/BrandVue.Frontend'
+    customCommand: 'run build:docs'
+
+- task: DotNetCoreCLI@2
+  displayName: Publish
+  inputs:
+    command: publish
+    configuration: $(buildConfiguration)
+    publishWebProjects: false
+    projects: |
+      $(solution)
+    zipAfterPublish: false
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      --no-build
+
+# Pack
+- task: OctopusPackNuGet@6
+  displayName: Pack BrandVue Site
+  inputs:
+    PackageId: BrandVue
+    PackageVersion: $(packageVersion)
+    SourcePath: src/BrandVue.FrontEnd/bin/publish
+    OutputPath: $(Build.ArtifactStagingDirectory)
+    NuGetDescription: 'BrandVue Site'
+    NuGetAuthors: 'Savanta'
+
+# This takes the secret variables and republishes them so that pipelines
+# actually puts them in environment for the tests
+- powershell: |
+    $IP = (Invoke-WebRequest https://ipinfo.io/ip).Content
+    Write-Host "##vso[task.setvariable variable=agentIp]$IP"
+    Write-Host "##vso[task.setvariable variable=Datawarehousetests_AnswersConnectionString]$(AnswersConnectionString)"
+    Write-Host "##vso[task.setvariable variable=Datawarehousetests_MetaConnectionString]$(MetaConnectionString)"
+    Write-Host "##vso[task.setvariable variable=Datawarehousetests_TargetApiKey]$(TargetApiKey)"
+  displayName: Set IP and Datawarehousetests variables
+
+#Test
+- task: DotNetCoreCLI@2
+  displayName: Run Net Tests
+  inputs:
+    command: 'test'
+    arguments: >
+      $(solution)
+      --configuration $(buildConfiguration)
+      --no-restore
+      --no-build
+      -v=normal
+      --collect:"XPlat Code Coverage"
+    testRunTitle: 'Brandvue Test $(packageVersion)'
+
+# Run Jest Tests with Coverage
+- script: |
+    cd src/BrandVue.FrontEnd
+    npm run test -- --coverage
+  displayName: 'Run Jest Tests'
+
+
+# Merge Coverage Reports
+- task: reportgenerator@5
+  displayName: 'Merge and Generate Combined Coverage Report'
+  inputs:
+    reports: '$(Agent.TempDirectory)/**/coverage.cobertura.xml;src/BrandVue.FrontEnd/coverage-front-end/cobertura-coverage.xml'
+    targetdir: 'coveragereport/combined'
+    reporttypes: 'HtmlInline_AzurePipelines;Cobertura'
+    publishCodeCoverageResults: true
+
+- publish: $(Build.ArtifactStagingDirectory)
+
+- template: SharedBuildScripts/PushToOctopus.yaml
+
+- task: OctopusCreateRelease@6
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'BrandVue AllVue'
+    ReleaseNumber: '$(packageVersion)'
+    Channel: '$(octopusChannel)'
+    DefaultPackageVersion: '$(packageVersion)'
+    ReleaseNotes: '<a href="https://github.com/Savanta-Tech/Vue/commit/$(Build.SourceVersion)">$(Build.SourceVersion)</a>'
+
+- task: OctopusDeployRelease@6
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'BrandVue AllVue'
+    ReleaseNumber: '$(packageVersion)'
+    Environments: 'Test'
+
+- template: /src/SharedBuildScripts/TagBuild.yaml
+

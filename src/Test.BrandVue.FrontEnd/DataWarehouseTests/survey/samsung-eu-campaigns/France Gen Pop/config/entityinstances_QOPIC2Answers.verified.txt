@@ -1,0 +1,150 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Toyota
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Panasonic
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Allianz
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Airbnb
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Coca-cola
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Bridgestone
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Carrefour
+  },
+  {
+    ClassInstanceId: 9,
+    Name: EDF
+  },
+  {
+    ClassInstanceId: 10,
+    Name: LVMH
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Orange
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Fnac
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Darty
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Intel
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Huawei
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Xiaomi
+  },
+  {
+    ClassInstanceId: 17,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Kia
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Renault
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Evian
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Siemens
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Nike
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Adidas
+  },
+  {
+    ClassInstanceId: 24,
+    Name: IBM
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Rolex
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Oppo
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Honour
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Alibaba
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Atos
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Deloitte
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Omega
+  },
+  {
+    ClassInstanceId: 34,
+    Name: P&G
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Visa
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

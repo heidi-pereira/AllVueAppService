@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A fixed $ amount off the bill
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 10-20% discount off food
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 25-40% discount off food
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 50% discount off food
+  },
+  {
+    ClassInstanceId: 5,
+    Name: A free food item (e.g. starter, main, dessert)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: A free drink
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 2 for 1 on main courses
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Coupon
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Frequent diner card/reward
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Gift card
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other type of voucher
+  }
+]

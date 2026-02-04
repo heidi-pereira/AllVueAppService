@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Area of employment:Medical / Health / Social / Welfare (Base Consumer_segment)
+  }
+]

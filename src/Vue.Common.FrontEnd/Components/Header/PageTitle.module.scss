@@ -1,0 +1,32 @@
+@use "../../Styles/layout.scss" as *;
+@use "../../Styles/dimensions.scss" as *;
+
+.page-title-container {
+    @include flex-row($align-items: center);
+    width: calc(100vw - 175px);
+
+    @media (max-width: $breakpoint-tablet) {
+        width: 100vw;
+    }
+
+    .page-title {
+        display: block;
+        font-family: 'Roboto', sans-serif;
+        color: var(--header-text-colour);
+        font-size: 20px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        margin-right: 16px;
+        padding: 15px 0px 16px 32px;
+
+        @media (max-width: $breakpoint-mobile) {
+            font-size: 16px;
+            margin: 0 16px 0 0;
+        }
+    }
+
+    @media (max-width: $breakpoint-tablet) {
+        padding: 0;
+    }
+}

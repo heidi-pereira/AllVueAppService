@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dummy For LoopActions ONLINE (Base Dummy_For_LoopActions_ONLINE)
+  }
+]

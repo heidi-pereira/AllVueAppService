@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Recaller
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Non-recaller
+  }
+]

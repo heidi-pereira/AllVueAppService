@@ -1,0 +1,57 @@
+﻿.reloadingData {
+    width: 80%;
+    margin: 0 auto;
+    background: #EFEFEF;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.38);
+    border-radius: 4px;
+    padding: 4em;
+
+    p {
+        font-size: 16px;
+        color: #000000;
+        letter-spacing: 0;
+        text-align: center;
+    }
+
+    ul.activity_chart {
+        list-style: none;
+        display: flex;
+        display: -webkit-flex;
+        height: 16vw;
+        align-items: stretch;
+        -webkit-align-items: stretch;
+        margin-top: 4em
+    }
+
+    ul.activity_chart li {
+        flex: 1 1;
+        -webkit-flex: 1 1;
+        margin: 0 10px;
+        background: none;
+        position: relative;
+    }
+
+    ul.activity_chart li .activity_chart_bar {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: linear-gradient(0deg, #aaa, #ddd);
+        background-size: 300% 300%;
+        animation: AnimationName 3.5s ease infinite;
+    }
+
+    @keyframes AnimationName {
+        0% {
+            background-position: 51% 0%
+        }
+
+        50% {
+            background-position: 75% 100%
+        }
+
+        100% {
+            background-position: 51% 0%
+        }
+    }
+}

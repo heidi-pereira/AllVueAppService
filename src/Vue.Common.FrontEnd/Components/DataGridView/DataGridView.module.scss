@@ -1,0 +1,13 @@
+.kebab-menu-container {
+    opacity: 0;
+    transition: opacity 0.2s;
+    pointer-events: none;
+}
+.custom-row-disabled {
+    color: #808080;
+}
+
+:global(.MuiDataGrid-row):hover .kebab-menu-container {
+    opacity: 1;
+    pointer-events: auto;
+}

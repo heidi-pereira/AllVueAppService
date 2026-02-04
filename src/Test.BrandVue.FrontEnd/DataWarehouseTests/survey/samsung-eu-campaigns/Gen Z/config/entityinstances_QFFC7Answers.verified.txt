@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Bespoke
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Digital invertor
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Insta-view
+  },
+  {
+    ClassInstanceId: 4,
+    Name: No frost
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Power-freeze/cool
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Door-in-door
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Space-max
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Family hub
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Air-Space
+  },
+  {
+    ClassInstanceId: 98,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

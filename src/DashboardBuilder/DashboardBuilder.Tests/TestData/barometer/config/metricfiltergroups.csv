@@ -1,0 +1,8 @@
+﻿iD,displayName,order,isDefault,isDemographic,comment
+QuotaCell,Demographic filters,1,,y,"Special group for demographic (quota cell) filters, such as age ranges, regions, genders, and SEGs; no other metrics should be added to this group, but I've added it here in case we should ever want to configure its order relative to other filter groups."
+ProfileCommon,Common profile filters,100,,,Note that the general quota cell (demographic) filters will always appear above this group.
+BrandCommon,Common brand filters,200,,,
+ProfileOther,Other profile filters,300,,,
+BrandOther,Other brand filters,400,,,
+Misc,Other,500,y,,"Metric filters for which no group is explicitly specified will be added to this group, since it is the default. Note that there can be only one default filter group."
+Ethnicity,Ethnicity,600,,,

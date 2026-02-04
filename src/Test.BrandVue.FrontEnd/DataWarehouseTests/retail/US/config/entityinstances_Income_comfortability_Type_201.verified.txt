@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Household Income Feeling (Base Income_comfortability)
+  }
+]

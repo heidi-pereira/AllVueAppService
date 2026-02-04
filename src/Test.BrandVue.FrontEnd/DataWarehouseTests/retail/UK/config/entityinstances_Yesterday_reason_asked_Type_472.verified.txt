@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yesterday reason (Base Yesterday_reason_asked)
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 301,
+    Name: Bathroom e.g. fixtures such as toilets, baths, showers and / or tap fixtures
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Kitchen e.g. cabinets, fixtures
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Carpets / flooring e.g. carpets, vinyl and laminate / wooden flooring excluding tiles
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Tiles e.g. tiles for both walls and floors
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Lighting e.g. floor / table lighting, wall, ceiling and spotlights
+  },
+  {
+    ClassInstanceId: 306,
+    Name: Curtains and blinds
+  },
+  {
+    ClassInstanceId: 307,
+    Name: DIY / home improvements e.g. paint, tools, screws / fixtures, building materials, plumbing, wallpaper & paint
+  },
+  {
+    ClassInstanceId: 308,
+    Name: Gardening e.g. plants, seeds, garden furniture, lawnmowers, tools for the garden
+  }
+]

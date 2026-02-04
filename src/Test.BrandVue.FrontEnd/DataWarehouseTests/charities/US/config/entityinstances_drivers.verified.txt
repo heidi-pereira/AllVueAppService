@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In memory of someone / people affected by the cause
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Friends / Family are personally affected
+  },
+  {
+    ClassInstanceId: 3,
+    Name: In memory of a supporter / advocate of the charity
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Seeing adverts for the charity
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Learning about the charity throughout your life
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Coverage of the charity in the media / news
+  },
+  {
+    ClassInstanceId: 7,
+    Name: A fundraising event / activity for the charity
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Seeing their thrift stores / charity shops
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Personal interest in the cause
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Friends / Family / Colleagues talking about the charity
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Not sure / Don't know
+  }
+]

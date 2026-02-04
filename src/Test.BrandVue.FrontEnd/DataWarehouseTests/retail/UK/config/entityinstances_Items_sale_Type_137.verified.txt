@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Discount Used (L3M) (Base Items_sale)
+  }
+]

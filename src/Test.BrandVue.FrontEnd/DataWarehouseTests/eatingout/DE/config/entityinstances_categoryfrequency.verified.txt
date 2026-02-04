@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Eat in restaurant
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Delivered
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Food takeaway
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Hot drink takeaway
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Hot drink at venue
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Alcohol no food
+  }
+]

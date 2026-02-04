@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Too many to choose from (Base Individual_vs_regular_Too_many_to_choose_from)
+  }
+]

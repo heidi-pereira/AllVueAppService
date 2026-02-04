@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Monday
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Tuesday
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Wednesday
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Thursday
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Friday
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Saturday
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Sunday
+  }
+]

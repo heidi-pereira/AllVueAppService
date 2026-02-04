@@ -1,0 +1,56 @@
+@import "../../../../less/_vars.less";
+@barTitleWidth: 120px;
+
+.groupTitleText() {
+    color: @slate-dark;
+    font-size: smaller;
+}
+
+.brandAnalysisPercentage {
+    .groupTitle {
+        margin: 1.5em 1em 0 0;
+        width: @barTitleWidth;
+        text-align: right;
+        .groupTitleText();
+    }
+    
+    .percentageBarRow {
+        width: 100%;
+        margin: 0.5em;
+                
+        .placeholder {
+        }
+        
+        .percentageRowTitle {
+            flex-grow:0;
+            font-weight: 500;
+            
+            .rowTitle {
+                width:@barTitleWidth;
+                text-align: right;
+                margin-right: 1em;
+            }
+            
+            div {
+                width:4em;
+            }
+        }
+        
+        .percentageBar {
+            flex-grow: 1;
+            width:100%;
+        }   
+    }
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.selectors {
+    .helpLink {
+        align-self: flex-end;
+        margin-bottom: 6px;
+    }
+}

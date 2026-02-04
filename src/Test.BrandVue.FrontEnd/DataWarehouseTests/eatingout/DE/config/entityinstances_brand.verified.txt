@@ -1,0 +1,286 @@
+﻿[
+  {
+    ClassInstanceId: 22,
+    Name: Pizza Hut Restaurants
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Five Guys
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Burger King
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Chipotle
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Domino's
+  },
+  {
+    ClassInstanceId: 136,
+    Name: IKEA
+  },
+  {
+    ClassInstanceId: 142,
+    Name: KFC
+  },
+  {
+    ClassInstanceId: 145,
+    Name: McDonald's
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Pizza Hut Delivery
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Starbucks
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Subway
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Popeyes
+  },
+  {
+    ClassInstanceId: 426,
+    Name: Taco Bell
+  },
+  {
+    ClassInstanceId: 603,
+    Name: Alex
+  },
+  {
+    ClassInstanceId: 607,
+    Name: Asiahung
+  },
+  {
+    ClassInstanceId: 608,
+    Name: Backk&Ultur (K&U)
+  },
+  {
+    ClassInstanceId: 609,
+    Name: Backwerk
+  },
+  {
+    ClassInstanceId: 614,
+    Name: Block House
+  },
+  {
+    ClassInstanceId: 619,
+    Name: Café Extrablatt
+  },
+  {
+    ClassInstanceId: 626,
+    Name: Coa
+  },
+  {
+    ClassInstanceId: 627,
+    Name: Coffee Fellows
+  },
+  {
+    ClassInstanceId: 629,
+    Name: Dean & David
+  },
+  {
+    ClassInstanceId: 631,
+    Name: Ditsch
+  },
+  {
+    ClassInstanceId: 633,
+    Name: Dunkin' Donuts
+  },
+  {
+    ClassInstanceId: 634,
+    Name: Einstein
+  },
+  {
+    ClassInstanceId: 639,
+    Name: Food Brother
+  },
+  {
+    ClassInstanceId: 640,
+    Name: Foodora
+  },
+  {
+    ClassInstanceId: 647,
+    Name: Galeria Kaufhof
+  },
+  {
+    ClassInstanceId: 655,
+    Name: Görtz
+  },
+  {
+    ClassInstanceId: 661,
+    Name: Hans im Glück
+  },
+  {
+    ClassInstanceId: 665,
+    Name: Jim Block
+  },
+  {
+    ClassInstanceId: 666,
+    Name: Joey’s Pizza
+  },
+  {
+    ClassInstanceId: 667,
+    Name: Kamps
+  },
+  {
+    ClassInstanceId: 668,
+    Name: Karstadt Restaurant
+  },
+  {
+    ClassInstanceId: 669,
+    Name: Kochlöffel
+  },
+  {
+    ClassInstanceId: 670,
+    Name: Kuchentratsch
+  },
+  {
+    ClassInstanceId: 671,
+    Name: L’Osteria
+  },
+  {
+    ClassInstanceId: 683,
+    Name: Le Crobag
+  },
+  {
+    ClassInstanceId: 687,
+    Name: Lieferando
+  },
+  {
+    ClassInstanceId: 688,
+    Name: Lieferheld
+  },
+  {
+    ClassInstanceId: 692,
+    Name: Marché Mövenpick
+  },
+  {
+    ClassInstanceId: 693,
+    Name: Maredo
+  },
+  {
+    ClassInstanceId: 699,
+    Name: MoschMosch
+  },
+  {
+    ClassInstanceId: 702,
+    Name: Nordsee
+  },
+  {
+    ClassInstanceId: 703,
+    Name: Oebel
+  },
+  {
+    ClassInstanceId: 713,
+    Name: Peter Pane
+  },
+  {
+    ClassInstanceId: 717,
+    Name: Pizza.de
+  },
+  {
+    ClassInstanceId: 729,
+    Name: Sausalitos
+  },
+  {
+    ClassInstanceId: 730,
+    Name: Schäfer's
+  },
+  {
+    ClassInstanceId: 731,
+    Name: Schweinske
+  },
+  {
+    ClassInstanceId: 732,
+    Name: Smiley's Pizza
+  },
+  {
+    ClassInstanceId: 738,
+    Name: Steinecke
+  },
+  {
+    ClassInstanceId: 741,
+    Name: Tchibo
+  },
+  {
+    ClassInstanceId: 744,
+    Name: Vapiano
+  },
+  {
+    ClassInstanceId: 749,
+    Name: Wienerwald
+  },
+  {
+    ClassInstanceId: 755,
+    Name: Backfactory
+  },
+  {
+    ClassInstanceId: 758,
+    Name: Büsch
+  },
+  {
+    ClassInstanceId: 759,
+    Name: Cafe & Bar Celona
+  },
+  {
+    ClassInstanceId: 760,
+    Name: Café Del Sol
+  },
+  {
+    ClassInstanceId: 761,
+    Name: Call a Pizza
+  },
+  {
+    ClassInstanceId: 765,
+    Name: Dat Backhus
+  },
+  {
+    ClassInstanceId: 766,
+    Name: Der Bäcker Eifler
+  },
+  {
+    ClassInstanceId: 767,
+    Name: Dreißig
+  },
+  {
+    ClassInstanceId: 769,
+    Name: Enchilada
+  },
+  {
+    ClassInstanceId: 771,
+    Name: Ihle
+  },
+  {
+    ClassInstanceId: 775,
+    Name: Lila Bäcker
+  },
+  {
+    ClassInstanceId: 776,
+    Name: Merzenich
+  },
+  {
+    ClassInstanceId: 780,
+    Name: Pappert
+  },
+  {
+    ClassInstanceId: 781,
+    Name: Pizza Max
+  },
+  {
+    ClassInstanceId: 784,
+    Name: Sehne
+  },
+  {
+    ClassInstanceId: 787,
+    Name: von Allwörden
+  }
+]

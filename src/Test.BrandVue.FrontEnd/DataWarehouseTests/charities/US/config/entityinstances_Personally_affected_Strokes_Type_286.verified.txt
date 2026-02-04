@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Strokes (Base Personally_affected_Strokes)
+  }
+]

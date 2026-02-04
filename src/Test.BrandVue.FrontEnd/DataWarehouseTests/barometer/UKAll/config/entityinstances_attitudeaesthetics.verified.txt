@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: It's important to me that my clothes are up to date with the most current trends
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I often buy new clothes / shoes / accessories for a special occasion (wedding, job interview etc)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I prefer to buy a few quality, timeless pieces rather than trend-led fashion
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Comfort is more important than style when I buy fashion items for myself
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Durability is more important than price when I buy fashion items for myself
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I consider the environmental impact of the fashion that I buy (vegan leather, recycled cotton, etc)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I often rent preowned fashion products for a special occasion (wedding, job interview etc)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The environmental information on the product label is important to me (recycled material, pre-owned, etc)
+  }
+]

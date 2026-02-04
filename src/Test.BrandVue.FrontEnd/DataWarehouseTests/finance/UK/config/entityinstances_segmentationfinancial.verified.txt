@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am more of a saver than a spender
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I regularly switch provider to get the best deal
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I only trust established brands / providers
+  },
+  {
+    ClassInstanceId: 4,
+    Name: When it comes to my finances, I prefer to avoid taking risks
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I am the first to try new and innovative products and services
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I feel confident I can make informed decisions when choosing a provider
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Choosing the right provider is very important to me
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I feel satisfied with my current financial situation
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I regularly monitor my financial situation
+  },
+  {
+    ClassInstanceId: 10,
+    Name: My friends and family often ask me for my opinion on financial matters
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Most insurance is a waste of money
+  },
+  {
+    ClassInstanceId: 12,
+    Name: I will spend a premium to get the right type of insurance
+  },
+  {
+    ClassInstanceId: 13,
+    Name: I hate planning my finances
+  },
+  {
+    ClassInstanceId: 14,
+    Name: I thoroughly research financial products / services before choosing them
+  },
+  {
+    ClassInstanceId: 15,
+    Name: I like to canvass the opinion of others on financial matters before I make a decision
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Planning for my long-term financial future is very important to me today
+  },
+  {
+    ClassInstanceId: 17,
+    Name: For someone my age, I feel I have made sufficient plans for my finances when I retire
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Unaffected
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Spending more cautiously
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Actively buying cheaper brands
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Have cut all expenditure
+  }
+]

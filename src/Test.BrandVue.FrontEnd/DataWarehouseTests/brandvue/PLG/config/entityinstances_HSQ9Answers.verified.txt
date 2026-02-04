@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 1 = Not at all concerned
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 5 = Very concerned
+  }
+]

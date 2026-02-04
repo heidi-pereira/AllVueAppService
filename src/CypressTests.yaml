@@ -1,0 +1,91 @@
+parameters:
+- name: environment
+  displayName: test Beta or Live
+  type: string
+  default: beta
+  values:
+    - beta
+    - live
+
+- name: jobTimeoutInMinutes
+  displayName: Job timeout in minutes
+  type: number
+  default: 60
+  values:
+    - 60
+    - 120
+
+pr: none
+
+schedules:
+- cron: "0 4 * * *"
+  displayName: Daily 4AM run
+  branches:
+    include:
+    - master
+    - main
+  always: true # Run regardless of whether the source code for the tests has changed
+
+trigger: none
+
+variables:
+- template: /src/SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: CypressTests
+    majorVersion: 1
+    minorVersion: 2
+
+jobs:
+- job: VueCypressTests
+  timeoutInMinutes: ${{ parameters.jobTimeoutInMinutes }} # how long to run the job before automatically cancelling
+  pool:
+    vmImage: 'windows-2022'
+
+  steps:
+  - checkout: self
+    persistCredentials: true
+
+  - template: /src/SharedBuildScripts/InstallNode.yaml
+
+  - bash: |
+      echo "##vso[build.addbuildtag]${{ parameters.environment }}"
+    displayName: Set target environment as tag
+
+  - bash: |
+      echo "##vso[task.setvariable variable=Cypress_userPassword;]$(live_password)"
+      echo "##vso[task.setvariable variable=Cypress_environment;]live"
+    displayName: Set LIVE password
+    condition: ${{ eq(parameters.environment, 'live')}}
+
+  - bash: |
+      echo "##vso[task.setvariable variable=Cypress_userPassword;]$(beta_password)"
+      echo "##vso[task.setvariable variable=Cypress_environment;]beta"
+    displayName: Set BETA password
+    condition: ${{ eq(parameters.environment, 'beta')}}
+
+  # This takes the secret variables and republishes them so that pipelines
+  # actually puts them in environment for the tests
+  # - powershell: |
+  #     $base64password = [System.Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes("$(Cypress_userPassword)"))
+  #     Write-Host "The encoded password is $base64password"
+  #   displayName: Show secret variables
+
+  - task: Npm@1
+    displayName: NPM Install
+    inputs:
+      command: install
+      workingDir: src/Brandvue.Frontend
+
+  - bash: |
+      cd src/Brandvue.Frontend
+      npx cypress run --reporter-options "overwrite=false,html=true,json=true" --env environment="$(Cypress_environment)",userPassword="$(Cypress_userPassword)",maxPagesToSample_audience="$(Cypress_maxPagesToSample_audience)",maxPagesToSample_non_audience="$(Cypress_maxPagesToSample_non_audience)"
+    displayName: Run the tests
+    continueOnError: true
+
+  - task: PublishBuildArtifacts@1
+    displayName: 'Publish Cypress test report'
+    condition: always()
+    inputs:
+      PathtoPublish: 'src/Brandvue.Frontend/cypress/reports/html'
+      ArtifactName: 'cypress-report'
+

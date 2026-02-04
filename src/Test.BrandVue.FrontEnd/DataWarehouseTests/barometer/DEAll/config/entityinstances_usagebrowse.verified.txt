@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Work
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Sports / Exercise
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Going out / Special occasions
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Casual / Weekends
+  },
+  {
+    ClassInstanceId: 5,
+    Name: At home
+  },
+  {
+    ClassInstanceId: 6,
+    Name: On holiday
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Google
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Microsoft
+  },
+  {
+    ClassInstanceId: 39,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 98,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

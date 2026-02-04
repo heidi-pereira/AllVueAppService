@@ -1,0 +1,494 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 5001,
+    Name: Acqua di Parma
+  },
+  {
+    ClassInstanceId: 5002,
+    Name: Aesop
+  },
+  {
+    ClassInstanceId: 5003,
+    Name: Anadin
+  },
+  {
+    ClassInstanceId: 5004,
+    Name: Andrex
+  },
+  {
+    ClassInstanceId: 5005,
+    Name: Aquafresh
+  },
+  {
+    ClassInstanceId: 5006,
+    Name: Aveda
+  },
+  {
+    ClassInstanceId: 5007,
+    Name: Avon
+  },
+  {
+    ClassInstanceId: 5008,
+    Name: Babyliss
+  },
+  {
+    ClassInstanceId: 5009,
+    Name: bareMinerals
+  },
+  {
+    ClassInstanceId: 5010,
+    Name: Beechams
+  },
+  {
+    ClassInstanceId: 5011,
+    Name: Benefique
+  },
+  {
+    ClassInstanceId: 5012,
+    Name: Benefit
+  },
+  {
+    ClassInstanceId: 5013,
+    Name: Benylin
+  },
+  {
+    ClassInstanceId: 5014,
+    Name: Berocca
+  },
+  {
+    ClassInstanceId: 5015,
+    Name: Biotherm
+  },
+  {
+    ClassInstanceId: 5016,
+    Name: Bobbi Brown
+  },
+  {
+    ClassInstanceId: 5017,
+    Name: BOSS
+  },
+  {
+    ClassInstanceId: 5018,
+    Name: Bulldog
+  },
+  {
+    ClassInstanceId: 5019,
+    Name: Calpol
+  },
+  {
+    ClassInstanceId: 5020,
+    Name: Calvin Klein
+  },
+  {
+    ClassInstanceId: 5021,
+    Name: Carex
+  },
+  {
+    ClassInstanceId: 5022,
+    Name: Centrum
+  },
+  {
+    ClassInstanceId: 5023,
+    Name: Chanel Perfume
+  },
+  {
+    ClassInstanceId: 5024,
+    Name: Charlotte Tilbury
+  },
+  {
+    ClassInstanceId: 5025,
+    Name: Clairol
+  },
+  {
+    ClassInstanceId: 5026,
+    Name: Clarins
+  },
+  {
+    ClassInstanceId: 5027,
+    Name: Clinique
+  },
+  {
+    ClassInstanceId: 5028,
+    Name: Colgate
+  },
+  {
+    ClassInstanceId: 5029,
+    Name: Corsodyl
+  },
+  {
+    ClassInstanceId: 5030,
+    Name: Coty
+  },
+  {
+    ClassInstanceId: 5031,
+    Name: Cushelle
+  },
+  {
+    ClassInstanceId: 5032,
+    Name: Davidoff
+  },
+  {
+    ClassInstanceId: 5033,
+    Name: Day & Night Nurse
+  },
+  {
+    ClassInstanceId: 5034,
+    Name: Dior
+  },
+  {
+    ClassInstanceId: 5035,
+    Name: Dolce & Gabbana
+  },
+  {
+    ClassInstanceId: 5036,
+    Name: Dove
+  },
+  {
+    ClassInstanceId: 5037,
+    Name: Durex
+  },
+  {
+    ClassInstanceId: 5038,
+    Name: Eco by Naty
+  },
+  {
+    ClassInstanceId: 5039,
+    Name: Elemis
+  },
+  {
+    ClassInstanceId: 5040,
+    Name: Elizabeth Arden
+  },
+  {
+    ClassInstanceId: 5041,
+    Name: Estee Lauder
+  },
+  {
+    ClassInstanceId: 5042,
+    Name: Garnier
+  },
+  {
+    ClassInstanceId: 5043,
+    Name: Gaviscon
+  },
+  {
+    ClassInstanceId: 5044,
+    Name: Gillette
+  },
+  {
+    ClassInstanceId: 5045,
+    Name: Gucci
+  },
+  {
+    ClassInstanceId: 5046,
+    Name: Hawaiian Tropic
+  },
+  {
+    ClassInstanceId: 5047,
+    Name: Head & Shoulders
+  },
+  {
+    ClassInstanceId: 5048,
+    Name: Herbal Essences
+  },
+  {
+    ClassInstanceId: 5049,
+    Name: Huggies
+  },
+  {
+    ClassInstanceId: 5050,
+    Name: Imperial Leather
+  },
+  {
+    ClassInstanceId: 5051,
+    Name: Jo Malone
+  },
+  {
+    ClassInstanceId: 5052,
+    Name: Johnson & Johnson
+  },
+  {
+    ClassInstanceId: 5053,
+    Name: JOOP!
+  },
+  {
+    ClassInstanceId: 5054,
+    Name: Jurlique
+  },
+  {
+    ClassInstanceId: 5055,
+    Name: Just for Men
+  },
+  {
+    ClassInstanceId: 5056,
+    Name: Kiehl's
+  },
+  {
+    ClassInstanceId: 5057,
+    Name: Kleenex
+  },
+  {
+    ClassInstanceId: 5058,
+    Name: La Mer
+  },
+  {
+    ClassInstanceId: 5059,
+    Name: La Prairie
+  },
+  {
+    ClassInstanceId: 5060,
+    Name: Lancome
+  },
+  {
+    ClassInstanceId: 5061,
+    Name: Laura Mercier
+  },
+  {
+    ClassInstanceId: 5062,
+    Name: Lemsip
+  },
+  {
+    ClassInstanceId: 5063,
+    Name: L'Occitane
+  },
+  {
+    ClassInstanceId: 5064,
+    Name: L'Oreal
+  },
+  {
+    ClassInstanceId: 5065,
+    Name: Lynx
+  },
+  {
+    ClassInstanceId: 5066,
+    Name: MAC
+  },
+  {
+    ClassInstanceId: 5067,
+    Name: Marc Jacobs
+  },
+  {
+    ClassInstanceId: 5068,
+    Name: Maybelline
+  },
+  {
+    ClassInstanceId: 5069,
+    Name: Neutrogena
+  },
+  {
+    ClassInstanceId: 5070,
+    Name: Nivea
+  },
+  {
+    ClassInstanceId: 5071,
+    Name: No. 7
+  },
+  {
+    ClassInstanceId: 5072,
+    Name: Nurofen
+  },
+  {
+    ClassInstanceId: 5073,
+    Name: Olay
+  },
+  {
+    ClassInstanceId: 5074,
+    Name: Old Spice
+  },
+  {
+    ClassInstanceId: 5075,
+    Name: Oral-B
+  },
+  {
+    ClassInstanceId: 5076,
+    Name: Original Source
+  },
+  {
+    ClassInstanceId: 5077,
+    Name: Rabanne
+  },
+  {
+    ClassInstanceId: 5078,
+    Name: Palmolive
+  },
+  {
+    ClassInstanceId: 5079,
+    Name: Pampers
+  },
+  {
+    ClassInstanceId: 5080,
+    Name: Panadol
+  },
+  {
+    ClassInstanceId: 5081,
+    Name: Pantene
+  },
+  {
+    ClassInstanceId: 5082,
+    Name: Penhaligon's
+  },
+  {
+    ClassInstanceId: 5083,
+    Name: philosophy
+  },
+  {
+    ClassInstanceId: 5084,
+    Name: Piz Buin
+  },
+  {
+    ClassInstanceId: 5085,
+    Name: Radox
+  },
+  {
+    ClassInstanceId: 5086,
+    Name: Remington
+  },
+  {
+    ClassInstanceId: 5087,
+    Name: Rennie
+  },
+  {
+    ClassInstanceId: 5088,
+    Name: Right Guard
+  },
+  {
+    ClassInstanceId: 5089,
+    Name: Rimmel
+  },
+  {
+    ClassInstanceId: 5090,
+    Name: Roberto Cavalli
+  },
+  {
+    ClassInstanceId: 5091,
+    Name: Sanatogen
+  },
+  {
+    ClassInstanceId: 5092,
+    Name: Sanex
+  },
+  {
+    ClassInstanceId: 5093,
+    Name: Sensodyne
+  },
+  {
+    ClassInstanceId: 5094,
+    Name: Seven Seas
+  },
+  {
+    ClassInstanceId: 5095,
+    Name: Shiseido
+  },
+  {
+    ClassInstanceId: 5096,
+    Name: Simple
+  },
+  {
+    ClassInstanceId: 5097,
+    Name: SK-II
+  },
+  {
+    ClassInstanceId: 5098,
+    Name: Solpadeine
+  },
+  {
+    ClassInstanceId: 5099,
+    Name: Stella McCartney
+  },
+  {
+    ClassInstanceId: 5100,
+    Name: Strepsils
+  },
+  {
+    ClassInstanceId: 5101,
+    Name: Sudafed
+  },
+  {
+    ClassInstanceId: 5102,
+    Name: Sure
+  },
+  {
+    ClassInstanceId: 5103,
+    Name: Tampax
+  },
+  {
+    ClassInstanceId: 5104,
+    Name: Tom Ford
+  },
+  {
+    ClassInstanceId: 5105,
+    Name: TRESemmé
+  },
+  {
+    ClassInstanceId: 5106,
+    Name: Vaseline
+  },
+  {
+    ClassInstanceId: 5107,
+    Name: Vitabiotics
+  },
+  {
+    ClassInstanceId: 5108,
+    Name: VO5
+  },
+  {
+    ClassInstanceId: 5109,
+    Name: Wella
+  },
+  {
+    ClassInstanceId: 5110,
+    Name: Wilkinson Sword
+  },
+  {
+    ClassInstanceId: 5111,
+    Name: Yves Saint Laurent
+  },
+  {
+    ClassInstanceId: 5112,
+    Name: Numan
+  },
+  {
+    ClassInstanceId: 5113,
+    Name: Manual
+  },
+  {
+    ClassInstanceId: 5114,
+    Name: Hims
+  },
+  {
+    ClassInstanceId: 5115,
+    Name: Viagra Connect
+  },
+  {
+    ClassInstanceId: 5116,
+    Name: Cialis Together
+  },
+  {
+    ClassInstanceId: 5117,
+    Name: Noom
+  },
+  {
+    ClassInstanceId: 5118,
+    Name: The Body Coach
+  },
+  {
+    ClassInstanceId: 5119,
+    Name: La Roche-Posay
+  },
+  {
+    ClassInstanceId: 5120,
+    Name: CeraVe
+  },
+  {
+    ClassInstanceId: 5121,
+    Name: Always
+  },
+  {
+    ClassInstanceId: 5122,
+    Name: Bodyform
+  }
+]

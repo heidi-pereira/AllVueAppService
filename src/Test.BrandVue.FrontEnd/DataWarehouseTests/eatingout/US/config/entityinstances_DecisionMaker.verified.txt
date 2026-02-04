@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: You
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Your spouse / partner
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Friend
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Other family member (Adult)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Colleague
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Group decision
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Other family member (Child)
+  }
+]

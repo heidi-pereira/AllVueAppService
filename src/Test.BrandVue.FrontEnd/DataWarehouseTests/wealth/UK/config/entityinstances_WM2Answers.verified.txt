@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Brand reputation
+  },
+  {
+    ClassInstanceId: 2,
+    Name: It’s a domestic provider
+  },
+  {
+    ClassInstanceId: 3,
+    Name: It’s an international provider
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Well established company
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Overall investment expertise
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Has expertise in specific investment areas I’m interested in
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Performance history / Returns on investments
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Independently owned
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Staff continuity
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Range of investment products / solutions offered
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Fees / Charges
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Personal / Professional recommendation
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Provides financial advice services such as retirement, tax, cash flow and inheritance planning
+  }
+]

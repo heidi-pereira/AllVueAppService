@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: How clean and tidy the store was
+  },
+  {
+    ClassInstanceId: 2,
+    Name: How long it takes to pay / queue
+  },
+  {
+    ClassInstanceId: 3,
+    Name: How busy the store was
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Availability and condition of fitting rooms
+  },
+  {
+    ClassInstanceId: 5,
+    Name: The availability of items in stock, especially in your size
+  },
+  {
+    ClassInstanceId: 6,
+    Name: How easy it was to navigate the store / find the sort of items you wanted to browse
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Helpfulness/ knowledge of staff
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The return / refund policy
+  }
+]

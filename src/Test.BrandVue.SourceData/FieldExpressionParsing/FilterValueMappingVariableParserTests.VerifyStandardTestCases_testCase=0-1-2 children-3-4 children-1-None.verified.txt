@@ -1,0 +1,18 @@
+﻿[
+  {
+    Invert: false,
+    IsRange: false,
+    Name: 1-2 children|3-4 children,
+    Values: [
+      0
+    ]
+  },
+  {
+    Invert: false,
+    IsRange: false,
+    Name: None,
+    Values: [
+      1
+    ]
+  }
+]

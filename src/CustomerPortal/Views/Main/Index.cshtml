@@ -1,0 +1,52 @@
+﻿@using System.Threading
+@using CustomerPortal.Services
+@using Vue.Common.AuthApi
+@inject IAuthApiClientCustomerPortal AuthApiClient
+@inject IRequestContext RequestContext
+
+@{
+    Layout = null;
+    var faviconUrl = await AuthApiClient.GetFaviconUrl(RequestContext.PortalGroup, CancellationToken.None);
+}
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="~/" />
+
+    <link rel="stylesheet" href="~/dist/vendor.css" asp-append-version="true" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="icon" href="@faviconUrl" type="image/x-icon" />
+
+    @if (!ViewBag.IsDevelopment)
+    {
+        <link rel="stylesheet" href="~/dist/site.css" asp-append-version="true" />
+    }
+</head>
+<body>
+    <link href="/auth/api/theme/stylesheet.css" rel="stylesheet">
+
+<div id="preloader">
+    <div>Loading...</div>
+</div>
+
+@* Save the request token in a div. CORS makes sure this token can't be sent by javascript to domains other than ours *@
+<div id="xsrf-token" data-xsrf-token="@ViewBag.AntiForgeryRequestToken"></div>
+<div id="access-token" data-access-token="@ViewBag.accessToken"></div>
+
+<div id="react-app"></div>
+<script>
+    window.appBasePath = '@ViewBag.AppBasePath';
+    window.user = '@ViewBag.User';
+    window.productPage = '@ViewBag.ProductPage';
+    window.rootUrl = '@ViewBag.RootUrl';
+    window.isThirdPartyLogin = '@ViewBag.IsThirdPartyLogin';
+    window.weightingConfigurationEnabled = @ViewBag.WeightingConfigurationEnabled;
+</script>
+<script src="~/dist/vendor.js" asp-append-version="true"></script>
+<script src="~/dist/main.js" asp-append-version="true"></script>
+
+</body>
+</html>

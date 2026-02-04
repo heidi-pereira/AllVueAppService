@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: My current TV is no longer working well / has stopped working
+  },
+  {
+    ClassInstanceId: 2,
+    Name: For an upcoming event/special occasion (e.g. sports event, Christmas, etc.)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: As part of a plan to decorate/renovate my home
+  },
+  {
+    ClassInstanceId: 4,
+    Name: As part of a plan to move home
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I want a better TV
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I want a bigger TV
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t Know / Other
+  }
+]

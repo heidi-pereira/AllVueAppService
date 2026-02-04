@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supermarket format:Waitrose (Base Supermarket_format)
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: HD Ready
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Full HD
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 4K
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 8K
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know / Can’t remember
+  }
+]

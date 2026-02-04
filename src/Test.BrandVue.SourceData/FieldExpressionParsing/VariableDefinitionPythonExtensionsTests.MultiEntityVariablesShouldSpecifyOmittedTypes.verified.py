@@ -1,0 +1,1 @@
+﻿result.FirstGrouping if ((result.FirstGrouping == 1) and (any((answer != None and answer >= 0) for answer in response.AField(Type1=[1,2], Type2=result.Type2, Type3=result.Type3)))) else None

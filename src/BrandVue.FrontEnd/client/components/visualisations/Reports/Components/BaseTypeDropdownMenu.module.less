@@ -1,0 +1,26 @@
+@import "../../../../../less/_vars";
+
+.baseTypeDropdown .dropdownMenu .adminOption {
+    color: @grey;
+    background-color: lightpink;
+
+    .materialSymbolsOutlined {
+        font-size: 16px;
+    }
+}
+.baseTypeName {
+    white-space: normal;
+    width: 100%;
+}
+
+div {
+    .baseTypeNotSupported {
+        caret-color: red;
+        background: @chalk-lighter !important;
+        color: @slate-light !important;
+
+        &:hover {
+            cursor: not-allowed;
+        }
+    }
+}

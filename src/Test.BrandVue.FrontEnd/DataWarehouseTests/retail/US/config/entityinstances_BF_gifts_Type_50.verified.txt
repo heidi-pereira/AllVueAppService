@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: BF gifts (Base BF_gifts)
+  }
+]

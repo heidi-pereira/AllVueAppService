@@ -1,0 +1,114 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Straightforward
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Trustworthy
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Caring
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Accessible
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Responsible
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Transparent
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Empowering
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Intimidating
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Modern
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Traditional
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Innovative
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Inspires confidence
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Global
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Secure
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Expert
+  },
+  {
+    ClassInstanceId: 16,
+    Name: High quality service
+  },
+  {
+    ClassInstanceId: 17,
+    Name: For people like me
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Expensive
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Holistic
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Bespoke
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Strong heritage
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Flexible
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Responsive
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Client focussed
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Proactive
+  },
+  {
+    ClassInstanceId: 26,
+    Name: To aspire to
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Sustainable investing
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

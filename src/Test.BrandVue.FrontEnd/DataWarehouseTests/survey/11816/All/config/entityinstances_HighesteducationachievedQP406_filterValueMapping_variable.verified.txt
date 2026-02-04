@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Completed High school education (A-level / Highers or equivalent)
+  },
+  {
+    ClassInstanceId: 1,
+    Name: University undergraduate degree e.g. Bachelor's
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Doctorate level or professional equivalent
+  },
+  {
+    ClassInstanceId: 3,
+    Name: University degree e.g. Bachelor's / Master's
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Completed secondary education (GCSE / O-Level / CSE or equivalent)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: University postgraduate degree e.g. Master's
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Further qualification (between high school & university)
+  }
+]

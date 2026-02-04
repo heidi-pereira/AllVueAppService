@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have seen this previously
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have potentially seen this previously
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I have not seen this previously
+  }
+]

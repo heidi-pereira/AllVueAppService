@@ -1,0 +1,258 @@
+﻿[
+  {
+    ClassInstanceId: 10001,
+    Name: abrdn
+  },
+  {
+    ClassInstanceId: 10002,
+    Name: AJ Bell
+  },
+  {
+    ClassInstanceId: 10004,
+    Name: Barclays Wealth Management
+  },
+  {
+    ClassInstanceId: 10005,
+    Name: Bestinvest
+  },
+  {
+    ClassInstanceId: 10006,
+    Name: RBC Brewin Dolphin
+  },
+  {
+    ClassInstanceId: 10007,
+    Name: Brooks MacDonald
+  },
+  {
+    ClassInstanceId: 10009,
+    Name: Canaccord Genuity Wealth Management
+  },
+  {
+    ClassInstanceId: 10010,
+    Name: Cantab Asset Management
+  },
+  {
+    ClassInstanceId: 10011,
+    Name: Cazenove Capital
+  },
+  {
+    ClassInstanceId: 10012,
+    Name: Charles Stanley
+  },
+  {
+    ClassInstanceId: 10013,
+    Name: Close Brothers
+  },
+  {
+    ClassInstanceId: 10014,
+    Name: Coutts
+  },
+  {
+    ClassInstanceId: 10016,
+    Name: Evelyn Partners
+  },
+  {
+    ClassInstanceId: 10017,
+    Name: Fidelity
+  },
+  {
+    ClassInstanceId: 10019,
+    Name: Greystone Financial Services
+  },
+  {
+    ClassInstanceId: 10020,
+    Name: Handelsbanken
+  },
+  {
+    ClassInstanceId: 10021,
+    Name: Hargreaves Lansdown
+  },
+  {
+    ClassInstanceId: 10022,
+    Name: Hawksmoor IM
+  },
+  {
+    ClassInstanceId: 10023,
+    Name: HSBC
+  },
+  {
+    ClassInstanceId: 10024,
+    Name: IG
+  },
+  {
+    ClassInstanceId: 10025,
+    Name: Interactive Investor
+  },
+  {
+    ClassInstanceId: 10026,
+    Name: Investec
+  },
+  {
+    ClassInstanceId: 10027,
+    Name: J.P. Morgan
+  },
+  {
+    ClassInstanceId: 10028,
+    Name: James Hambro & Partners
+  },
+  {
+    ClassInstanceId: 10029,
+    Name: JM Finn
+  },
+  {
+    ClassInstanceId: 10030,
+    Name: Julius Baer
+  },
+  {
+    ClassInstanceId: 10031,
+    Name: Killik & Co
+  },
+  {
+    ClassInstanceId: 10032,
+    Name: Kingswood Group
+  },
+  {
+    ClassInstanceId: 10033,
+    Name: SG Kleinwort Hambros
+  },
+  {
+    ClassInstanceId: 10034,
+    Name: Lloyds Private Banking
+  },
+  {
+    ClassInstanceId: 10035,
+    Name: Lombard Odier
+  },
+  {
+    ClassInstanceId: 10036,
+    Name: Marcus by Goldman Sachs
+  },
+  {
+    ClassInstanceId: 10037,
+    Name: Monument Bank
+  },
+  {
+    ClassInstanceId: 10038,
+    Name: NatWest Premier
+  },
+  {
+    ClassInstanceId: 10039,
+    Name: Netwealth
+  },
+  {
+    ClassInstanceId: 10040,
+    Name: Nutmeg
+  },
+  {
+    ClassInstanceId: 10042,
+    Name: Pictet
+  },
+  {
+    ClassInstanceId: 10043,
+    Name: Quilter
+  },
+  {
+    ClassInstanceId: 10044,
+    Name: Quilter Cheviot
+  },
+  {
+    ClassInstanceId: 10045,
+    Name: Rathbones
+  },
+  {
+    ClassInstanceId: 10047,
+    Name: RBS Private Banking
+  },
+  {
+    ClassInstanceId: 10048,
+    Name: Redmayne Bentley
+  },
+  {
+    ClassInstanceId: 10049,
+    Name: Rothschild & Co. Wealth Management
+  },
+  {
+    ClassInstanceId: 10050,
+    Name: Ruffer
+  },
+  {
+    ClassInstanceId: 10051,
+    Name: Atomos
+  },
+  {
+    ClassInstanceId: 10052,
+    Name: Santander
+  },
+  {
+    ClassInstanceId: 10053,
+    Name: Schroders Personal Wealth
+  },
+  {
+    ClassInstanceId: 10054,
+    Name: Seven Investment Management / 7IM
+  },
+  {
+    ClassInstanceId: 10055,
+    Name: St. James's Place Wealth Management
+  },
+  {
+    ClassInstanceId: 10057,
+    Name: Tacit Investment Management
+  },
+  {
+    ClassInstanceId: 10058,
+    Name: Trading 212
+  },
+  {
+    ClassInstanceId: 10059,
+    Name: UBS
+  },
+  {
+    ClassInstanceId: 10060,
+    Name: Wealthify
+  },
+  {
+    ClassInstanceId: 10061,
+    Name: Brown Shipley - A Quintet Private Bank
+  },
+  {
+    ClassInstanceId: 10062,
+    Name: EFG
+  },
+  {
+    ClassInstanceId: 10063,
+    Name: LGT Wealth Management
+  },
+  {
+    ClassInstanceId: 10064,
+    Name: Nedbank Private Wealth
+  },
+  {
+    ClassInstanceId: 10065,
+    Name: Veritas Investment Partners (UK) Limited
+  },
+  {
+    ClassInstanceId: 10066,
+    Name: Waverton Investment Management
+  },
+  {
+    ClassInstanceId: 10067,
+    Name: WH Ireland Plc
+  },
+  {
+    ClassInstanceId: 10068,
+    Name: Raymond James
+  },
+  {
+    ClassInstanceId: 10069,
+    Name: Vanguard
+  },
+  {
+    ClassInstanceId: 10070,
+    Name: Charles Stanley Direct
+  },
+  {
+    ClassInstanceId: 10071,
+    Name: Meridiem Investment Management
+  }
+]

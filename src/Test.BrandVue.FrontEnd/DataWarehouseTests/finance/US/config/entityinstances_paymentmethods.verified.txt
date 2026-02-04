@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Debit card - online
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Debit card - in-person
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Credit card - online
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Credit card - in-person
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Direct debit
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Funds transfer through my bank
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Payments through a mobile service
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Payments through an online service
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Prefer not to say
+  }
+]

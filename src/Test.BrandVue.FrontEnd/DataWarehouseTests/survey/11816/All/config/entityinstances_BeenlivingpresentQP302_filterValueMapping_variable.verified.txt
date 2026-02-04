@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: 5 - 9 years
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 1 - 4 years
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 20 years or more
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 10 - 19 years
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Less than a year
+  }
+]

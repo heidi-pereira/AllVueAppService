@@ -1,0 +1,1950 @@
+﻿_Gender: 0
+Brand: 0 (0)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 0
+Brand: 1 (1)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 2 (2)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 3 (3)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 4 (4)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 5 (5)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 6 (6)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 7 (7)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 8 (8)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 9 (9)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 10 (10)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 0
+Brand: 11 (11)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 12 (12)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 13 (13)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 14 (14)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 15 (15)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 16 (16)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 17 (17)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 18 (18)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 19 (19)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 20 (20)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 0
+Brand: 21 (21)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 22 (22)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 23 (23)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 24 (24)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 25 (25)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 26 (26)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 27 (27)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 28 (28)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 29 (29)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 30 (30)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 0
+Brand: 31 (31)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 32 (32)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 33 (33)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 34 (34)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 35 (35)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 36 (36)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 37 (37)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 38 (38)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 39 (39)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 40 (40)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 41 (41)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 42 (42)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 43 (43)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 44 (44)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 45 (45)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 46 (46)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 47 (47)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 48 (48)_0
+2020-12-1_0_4_4_None_0
+_Gender: 0
+Brand: 49 (49)_0
+2020-12-1_0_4_4_None_0
+_Gender: 1
+Brand: 0 (0)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 1 (1)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 2 (2)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 3 (3)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 4 (4)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 5 (5)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Gender: 1
+Brand: 6 (6)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 7 (7)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 8 (8)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 9 (9)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 10 (10)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 11 (11)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 12 (12)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 13 (13)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 14 (14)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 15 (15)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Gender: 1
+Brand: 16 (16)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 17 (17)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 18 (18)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 19 (19)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 20 (20)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 21 (21)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 22 (22)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 23 (23)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 24 (24)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 25 (25)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 26 (26)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 27 (27)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 28 (28)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 29 (29)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 30 (30)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 31 (31)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 32 (32)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 33 (33)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 34 (34)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 35 (35)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 36 (36)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 37 (37)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 38 (38)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 39 (39)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 40 (40)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 41 (41)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 42 (42)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 43 (43)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 44 (44)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 45 (45)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Gender: 1
+Brand: 46 (46)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 47 (47)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 48 (48)_0
+2020-12-1_0_3_3_None_0
+_Gender: 1
+Brand: 49 (49)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 0 (0)_0
+2020-12-1_0.3333333333333333_3_3_None_0.24152294576982392
+_Gender: 2
+Brand: 1 (1)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 2 (2)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 3 (3)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 4 (4)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 5 (5)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 6 (6)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 7 (7)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 8 (8)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 9 (9)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 10 (10)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 11 (11)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 12 (12)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 13 (13)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 14 (14)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 15 (15)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 16 (16)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 17 (17)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 18 (18)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 19 (19)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 20 (20)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 21 (21)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 22 (22)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 23 (23)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 24 (24)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 25 (25)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 26 (26)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 27 (27)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 28 (28)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 29 (29)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 30 (30)_0
+2020-12-1_0.3333333333333333_3_3_None_0.24152294576982392
+_Gender: 2
+Brand: 31 (31)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 32 (32)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 33 (33)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 34 (34)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 35 (35)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 36 (36)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 37 (37)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 38 (38)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 39 (39)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 40 (40)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Gender: 2
+Brand: 41 (41)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 42 (42)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 43 (43)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 44 (44)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 45 (45)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 46 (46)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 47 (47)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 48 (48)_0
+2020-12-1_0_3_3_None_0
+_Gender: 2
+Brand: 49 (49)_0
+2020-12-1_0_3_3_None_0
+_Gender: 3
+Brand: 0 (0)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 1 (1)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 2 (2)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 3 (3)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 4 (4)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 5 (5)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 6 (6)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 7 (7)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 8 (8)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 9 (9)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 10 (10)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 11 (11)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 12 (12)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 13 (13)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 14 (14)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 15 (15)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 3
+Brand: 16 (16)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 17 (17)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 18 (18)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 19 (19)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 20 (20)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 21 (21)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 22 (22)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 23 (23)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 24 (24)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 25 (25)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 3
+Brand: 26 (26)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 27 (27)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 28 (28)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 29 (29)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 30 (30)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 31 (31)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 32 (32)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 33 (33)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 34 (34)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 35 (35)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 3
+Brand: 36 (36)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 37 (37)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 38 (38)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 39 (39)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 40 (40)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 41 (41)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 42 (42)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 43 (43)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 44 (44)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 45 (45)_0
+2020-12-1_0.25_4_4_None_0
+_Gender: 3
+Brand: 46 (46)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 47 (47)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 48 (48)_0
+2020-12-1_0_4_4_None_0
+_Gender: 3
+Brand: 49 (49)_0
+2020-12-1_0_4_4_None_0
+_Region: 0
+Brand: 0 (0)_0
+2020-12-1_0.14285714285714285_14_14_None_0
+_Region: 0
+Brand: 1 (1)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 2 (2)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 3 (3)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 4 (4)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 5 (5)_0
+2020-12-1_0.07142857142857142_14_14_None_0
+_Region: 0
+Brand: 6 (6)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 7 (7)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 8 (8)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 9 (9)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 10 (10)_0
+2020-12-1_0.07142857142857142_14_14_None_0
+_Region: 0
+Brand: 11 (11)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 12 (12)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 13 (13)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 14 (14)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 15 (15)_0
+2020-12-1_0.14285714285714285_14_14_None_0
+_Region: 0
+Brand: 16 (16)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 17 (17)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 18 (18)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 19 (19)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 20 (20)_0
+2020-12-1_0.07142857142857142_14_14_None_0
+_Region: 0
+Brand: 21 (21)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 22 (22)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 23 (23)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 24 (24)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 25 (25)_0
+2020-12-1_0.07142857142857142_14_14_None_0
+_Region: 0
+Brand: 26 (26)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 27 (27)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 28 (28)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 29 (29)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 30 (30)_0
+2020-12-1_0.14285714285714285_14_14_None_0
+_Region: 0
+Brand: 31 (31)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 32 (32)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 33 (33)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 34 (34)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 35 (35)_0
+2020-12-1_0.07142857142857142_14_14_None_0
+_Region: 0
+Brand: 36 (36)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 37 (37)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 38 (38)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 39 (39)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 40 (40)_0
+2020-12-1_0.07142857142857142_14_14_None_0
+_Region: 0
+Brand: 41 (41)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 42 (42)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 43 (43)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 44 (44)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 45 (45)_0
+2020-12-1_0.14285714285714285_14_14_None_0
+_Region: 0
+Brand: 46 (46)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 47 (47)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 48 (48)_0
+2020-12-1_0_14_14_None_0
+_Region: 0
+Brand: 49 (49)_0
+2020-12-1_0_14_14_None_0
+_Region: 1
+Brand: 0 (0)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 1 (1)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 2 (2)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 3 (3)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 4 (4)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 5 (5)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 6 (6)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 7 (7)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 8 (8)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 9 (9)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 10 (10)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 11 (11)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 12 (12)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 13 (13)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 14 (14)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 15 (15)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 16 (16)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 17 (17)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 18 (18)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 19 (19)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 20 (20)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 21 (21)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 22 (22)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 23 (23)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 24 (24)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 25 (25)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 26 (26)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 27 (27)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 28 (28)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 29 (29)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 30 (30)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 31 (31)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 32 (32)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 33 (33)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 34 (34)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 35 (35)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 36 (36)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 37 (37)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 38 (38)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 39 (39)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 40 (40)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 41 (41)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 42 (42)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 43 (43)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 44 (44)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 45 (45)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 46 (46)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 47 (47)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 48 (48)_0
+2020-12-1_0_0_0_None_0
+_Region: 1
+Brand: 49 (49)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 0 (0)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 1 (1)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 2 (2)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 3 (3)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 4 (4)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 5 (5)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 6 (6)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 7 (7)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 8 (8)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 9 (9)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 10 (10)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 11 (11)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 12 (12)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 13 (13)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 14 (14)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 15 (15)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 16 (16)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 17 (17)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 18 (18)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 19 (19)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 20 (20)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 21 (21)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 22 (22)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 23 (23)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 24 (24)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 25 (25)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 26 (26)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 27 (27)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 28 (28)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 29 (29)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 30 (30)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 31 (31)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 32 (32)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 33 (33)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 34 (34)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 35 (35)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 36 (36)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 37 (37)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 38 (38)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 39 (39)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 40 (40)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 41 (41)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 42 (42)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 43 (43)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 44 (44)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 45 (45)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 46 (46)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 47 (47)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 48 (48)_0
+2020-12-1_0_0_0_None_0
+_Region: 2
+Brand: 49 (49)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 0 (0)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 1 (1)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 2 (2)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 3 (3)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 4 (4)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 5 (5)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 6 (6)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 7 (7)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 8 (8)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 9 (9)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 10 (10)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 11 (11)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 12 (12)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 13 (13)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 14 (14)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 15 (15)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 16 (16)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 17 (17)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 18 (18)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 19 (19)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 20 (20)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 21 (21)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 22 (22)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 23 (23)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 24 (24)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 25 (25)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 26 (26)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 27 (27)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 28 (28)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 29 (29)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 30 (30)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 31 (31)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 32 (32)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 33 (33)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 34 (34)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 35 (35)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 36 (36)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 37 (37)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 38 (38)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 39 (39)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 40 (40)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 41 (41)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 42 (42)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 43 (43)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 44 (44)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 45 (45)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 46 (46)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 47 (47)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 48 (48)_0
+2020-12-1_0_0_0_None_0
+_Region: 3
+Brand: 49 (49)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 0 (0)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 1 (1)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 2 (2)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 3 (3)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 4 (4)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 5 (5)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 6 (6)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 7 (7)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 8 (8)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 9 (9)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 10 (10)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 11 (11)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 12 (12)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 13 (13)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 14 (14)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 15 (15)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 16 (16)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 17 (17)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 18 (18)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 19 (19)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 20 (20)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 21 (21)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 22 (22)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 23 (23)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 24 (24)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 25 (25)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 26 (26)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 27 (27)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 28 (28)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 29 (29)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 30 (30)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 31 (31)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 32 (32)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 33 (33)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 34 (34)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 35 (35)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 36 (36)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 37 (37)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 38 (38)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 39 (39)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 40 (40)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 41 (41)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 42 (42)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 43 (43)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 44 (44)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 45 (45)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 46 (46)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 47 (47)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 48 (48)_0
+2020-12-1_0_0_0_None_0
+_Region: 4
+Brand: 49 (49)_0
+2020-12-1_0_0_0_None_0
+_Ethnicity: 0
+Brand: 0 (0)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 0
+Brand: 1 (1)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 2 (2)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 3 (3)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 4 (4)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 5 (5)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 6 (6)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 7 (7)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 8 (8)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 9 (9)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 10 (10)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 0
+Brand: 11 (11)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 12 (12)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 13 (13)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 14 (14)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 15 (15)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 16 (16)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 17 (17)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 18 (18)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 19 (19)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 20 (20)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 0
+Brand: 21 (21)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 22 (22)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 23 (23)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 24 (24)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 25 (25)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 26 (26)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 27 (27)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 28 (28)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 29 (29)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 30 (30)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 0
+Brand: 31 (31)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 32 (32)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 33 (33)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 34 (34)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 35 (35)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 36 (36)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 37 (37)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 38 (38)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 39 (39)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 40 (40)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 41 (41)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 42 (42)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 43 (43)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 44 (44)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 45 (45)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 46 (46)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 47 (47)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 48 (48)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 0
+Brand: 49 (49)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 1
+Brand: 0 (0)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 1 (1)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 2 (2)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 3 (3)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 4 (4)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 5 (5)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Ethnicity: 1
+Brand: 6 (6)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 7 (7)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 8 (8)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 9 (9)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 10 (10)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 11 (11)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 12 (12)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 13 (13)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 14 (14)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 15 (15)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Ethnicity: 1
+Brand: 16 (16)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 17 (17)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 18 (18)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 19 (19)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 20 (20)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 21 (21)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 22 (22)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 23 (23)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 24 (24)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 25 (25)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 26 (26)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 27 (27)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 28 (28)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 29 (29)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 30 (30)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 31 (31)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 32 (32)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 33 (33)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 34 (34)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 35 (35)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 36 (36)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 37 (37)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 38 (38)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 39 (39)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 40 (40)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 41 (41)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 42 (42)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 43 (43)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 44 (44)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 45 (45)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Ethnicity: 1
+Brand: 46 (46)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 47 (47)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 48 (48)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 1
+Brand: 49 (49)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 0 (0)_0
+2020-12-1_0.3333333333333333_3_3_None_0.24152294576982392
+_Ethnicity: 2
+Brand: 1 (1)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 2 (2)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 3 (3)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 4 (4)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 5 (5)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 6 (6)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 7 (7)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 8 (8)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 9 (9)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 10 (10)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 11 (11)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 12 (12)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 13 (13)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 14 (14)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 15 (15)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 16 (16)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 17 (17)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 18 (18)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 19 (19)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 20 (20)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 21 (21)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 22 (22)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 23 (23)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 24 (24)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 25 (25)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 26 (26)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 27 (27)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 28 (28)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 29 (29)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 30 (30)_0
+2020-12-1_0.3333333333333333_3_3_None_0.24152294576982392
+_Ethnicity: 2
+Brand: 31 (31)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 32 (32)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 33 (33)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 34 (34)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 35 (35)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 36 (36)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 37 (37)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 38 (38)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 39 (39)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 40 (40)_0
+2020-12-1_0.3333333333333333_3_3_None_0
+_Ethnicity: 2
+Brand: 41 (41)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 42 (42)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 43 (43)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 44 (44)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 45 (45)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 46 (46)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 47 (47)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 48 (48)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 2
+Brand: 49 (49)_0
+2020-12-1_0_3_3_None_0
+_Ethnicity: 3
+Brand: 0 (0)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 1 (1)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 2 (2)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 3 (3)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 4 (4)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 5 (5)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 6 (6)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 7 (7)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 8 (8)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 9 (9)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 10 (10)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 11 (11)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 12 (12)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 13 (13)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 14 (14)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 15 (15)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 3
+Brand: 16 (16)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 17 (17)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 18 (18)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 19 (19)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 20 (20)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 21 (21)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 22 (22)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 23 (23)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 24 (24)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 25 (25)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 3
+Brand: 26 (26)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 27 (27)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 28 (28)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 29 (29)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 30 (30)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 31 (31)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 32 (32)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 33 (33)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 34 (34)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 35 (35)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 3
+Brand: 36 (36)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 37 (37)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 38 (38)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 39 (39)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 40 (40)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 41 (41)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 42 (42)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 43 (43)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 44 (44)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 45 (45)_0
+2020-12-1_0.25_4_4_None_0
+_Ethnicity: 3
+Brand: 46 (46)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 47 (47)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 48 (48)_0
+2020-12-1_0_4_4_None_0
+_Ethnicity: 3
+Brand: 49 (49)_0
+2020-12-1_0_4_4_None_0

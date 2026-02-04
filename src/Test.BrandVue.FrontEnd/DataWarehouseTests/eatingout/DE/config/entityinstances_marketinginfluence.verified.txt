@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Their website
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Their social media (Facebook / Twitter / Instagram)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Reviews online
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Their location on Google maps
+  },
+  {
+    ClassInstanceId: 5,
+    Name: A voucher / special offer
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Booking app/website e.g. YPlan, Design My Night or Top Table
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Menu / poster in the window
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Advert (TV, radio, billboard, online etc.)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: A friend's recommendation
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Received an email
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

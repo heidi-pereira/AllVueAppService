@@ -1,0 +1,114 @@
+﻿[
+  {
+    ClassInstanceId: 101,
+    Name: Dungarees &amp; jumpsuits
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Coats & Jackets
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Dresses
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Fitness & Activewear
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Jeans
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Jumpsuits & playsuits
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Jumpers & cardigans
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Shirts
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Shirts & Blouses
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Shorts
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Skirts
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Sleepwear
+  },
+  {
+    ClassInstanceId: 113,
+    Name: Swimwear
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Suits & Tailoring
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Tops & T-shirts
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Trousers
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Underwear
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Bags
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Sunglasses
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Jewellery
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Scarves
+  },
+  {
+    ClassInstanceId: 301,
+    Name: Boots
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Sandals
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Shoes
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Sports shoes
+  },
+  {
+    ClassInstanceId: 1001,
+    Name: Other clothes / apparel
+  },
+  {
+    ClassInstanceId: 2001,
+    Name: Other accessories
+  },
+  {
+    ClassInstanceId: 3001,
+    Name: Other shoes
+  }
+]

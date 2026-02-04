@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Household composition young adults (Base Household_composition_young_adults)
+  }
+]

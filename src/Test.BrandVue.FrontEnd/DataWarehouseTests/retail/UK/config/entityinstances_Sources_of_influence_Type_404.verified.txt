@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sources of influence - Reform (Base Sources_of_influence)
+  }
+]

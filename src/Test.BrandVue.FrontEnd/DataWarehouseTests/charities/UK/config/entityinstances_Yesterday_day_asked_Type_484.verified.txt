@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yesterday day (Base Yesterday_day_asked)
+  }
+]

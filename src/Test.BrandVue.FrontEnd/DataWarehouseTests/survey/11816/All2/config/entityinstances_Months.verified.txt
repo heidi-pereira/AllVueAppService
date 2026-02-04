@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: March 2021
+  },
+  {
+    ClassInstanceId: 2,
+    Name: April 2021
+  },
+  {
+    ClassInstanceId: 3,
+    Name: May 2021
+  },
+  {
+    ClassInstanceId: 4,
+    Name: June 2021
+  },
+  {
+    ClassInstanceId: 5,
+    Name: July 2021
+  },
+  {
+    ClassInstanceId: 6,
+    Name: August 2021
+  },
+  {
+    ClassInstanceId: 7,
+    Name: September 2021
+  },
+  {
+    ClassInstanceId: 8,
+    Name: October 2021
+  }
+]

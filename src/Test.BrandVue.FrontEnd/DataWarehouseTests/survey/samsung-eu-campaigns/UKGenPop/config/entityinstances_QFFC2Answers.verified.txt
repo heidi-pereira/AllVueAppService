@@ -1,0 +1,82 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Beko
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 22,
+    Name: AEG
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Haier
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Hotpoint
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Indesit
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Liebherr
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Miele
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Siemens
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Teka
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Whirlpool
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Balay
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Electrolux
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Fridgemaster
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Gorenje
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Fridgemaster (102)
+  }
+]

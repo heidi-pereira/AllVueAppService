@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, I already have done this
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, I would consider this
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Don’t know
+  }
+]

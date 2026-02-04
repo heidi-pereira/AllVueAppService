@@ -1,0 +1,291 @@
+﻿@import 'colors.scss';
+@import 'dimensions.scss';
+@import "layout.scss";
+
+.survey-documents {
+    @include flex-column($gutter: 20px);
+    max-width: 1000px;
+    margin: 16px auto;
+    padding: 0 16px;
+
+    @media (max-width: $breakpoint-mobile) {
+        margin: 0;
+        padding: 0;
+    }
+
+    .breadCrumbs {
+        display: flex;
+
+        .pathGroup {
+            display: flex;
+        }
+
+        .breadCrumb {
+            padding: 5px 0px;
+            color: $blueSteel;
+            cursor: pointer;
+
+            &:hover {
+                background-color: $blueSteel-lighter;
+            }
+        }
+
+        .pathSeperator {
+            padding: 5px;
+        }
+    }
+}
+
+.header {
+    width: 100%;
+
+    @media (max-width: $breakpoint-mobile) {
+        margin-bottom: 16px;
+    }
+
+    .description {
+        font-size: small;
+        color: $slate;
+        display: flex;
+
+        .text {
+            padding: 8px;
+        }
+    }
+
+    .drop-zone {
+        background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='4' ry='4' stroke='%23A0A7AEFF' stroke-width='1' stroke-dasharray='4%2c 4' stroke-dashoffset='0' stroke-linecap='butt'/%3e%3c/svg%3e");
+        background-color: $chalk-lighter;
+        background-color: $chalk-lighter;
+        border-radius: 4px;
+        border-radius: 4px;
+        transition: background-image, background-color 150ms ease;
+
+        &.active {
+            background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='4' ry='4' stroke='%230E4B81FF' stroke-width='1' stroke-dasharray='4%2c 4' stroke-dashoffset='0' stroke-linecap='butt'/%3e%3c/svg%3e");
+            background-color: lighten($blueSteel-lighter, 3%);
+        }
+
+        .flex-container {
+            @include flex-row($align-items: center, $justify-content:space-between);
+            padding: 16px;
+            outline: 0;
+
+            .fileUpload {
+                display:flex;
+            }
+
+            .drop-file-text {
+                font-size: 14px;
+                color: $slate;
+                padding: 8px;
+
+                @media (max-width: $breakpoint-mobile) {
+                    display: none;
+                }
+            }
+
+            .text {
+                padding: 8px;
+            }
+
+            .egnyte {
+                margin-left: 24px;
+                font-size: 14px;
+                color: $slate;
+                display: flex;
+            }
+
+            @media (max-width: $breakpoint-mobile) {
+                padding: 0;
+            }
+        }
+
+        @media (max-width: $breakpoint-mobile) {
+            background: none;
+        }
+    }
+}
+
+.document-list {
+    border-collapse: collapse;
+    font-size: 14px;
+    font-weight: 400;
+    width: 100%;
+    color: $slate-darker;
+
+    td {
+        padding: 16px;
+    }
+
+    a {
+        width: 100%;
+        padding: 16px;
+
+        @media (max-width: $breakpoint-mobile) {
+            padding: 8px 0;
+        }
+    }
+
+    .name {
+        transition: all 150ms ease;
+        max-width: 580px;
+        padding: 0 24px 0 0;
+
+        @media (max-width: $breakpoint-mobile) {
+            padding: 12px;
+        }
+
+        @media (max-width: $breakpoint-tablet) {
+            max-width: 265px;
+        }
+
+        a {
+            display: block;
+            color: $blueSteel;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            transition: all 150ms ease;
+        }
+    }
+
+    tbody, tr {
+        border: 1px solid $chalk;
+        padding-left: 16px;
+        color: $slate-darker;
+    }
+
+    tr {
+        &:hover {
+            a {
+                color: $blueSteel-dark;
+            }
+
+            .name {
+                color: $blueSteel-dark;
+                cursor: pointer;
+            }
+
+            .download {
+                i {
+                    color: $blueSteel-dark;
+                }
+            }
+
+            .td-delete {
+                i {
+                    visibility: visible;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+    .download {
+        text-align: center;
+        vertical-align: middle;
+        width: 50px;
+
+        i {
+            color: $blueSteel;
+            font-size: 16px;
+        }
+    }
+
+    .td-delete {
+        color: $slate;
+        text-align: center;
+        vertical-align: middle;
+        width: 16px;
+        cursor: pointer;
+
+        i {
+            visibility: hidden;
+            font-size: 16px;
+            transition: color 150ms ease;
+
+            @media (max-width: $breakpoint-mobile) {
+                visibility: visible;
+                color: $slate;
+            }
+
+            @media (max-width: $breakpoint-tablet) {
+                visibility: visible;
+                color: $slate;
+            }
+        }
+
+        &:hover {
+            color: $lava;
+        }
+
+
+        &:active {
+            color: $lava-dark;
+        }
+    }
+
+    .file-size {
+        text-align: right;
+        width: 80px;
+    }
+
+    .filefolder{
+        display:flex;
+        i {
+            align-content:center;
+            padding-left:10px;
+        }
+        .file{
+            color:$blue;
+        }
+        .folder
+            {
+            color:$gold;
+        }
+    } 
+    .uploaded-by, .date, .file-size, .download {
+        @media (max-width: $breakpoint-mobile) {
+            display: none;
+        }
+    }
+
+    .date {
+        width: 90px;
+
+        @media (max-width: $breakpoint-tablet) {
+            display: none;
+        }
+    }
+
+    .uploaded-by {
+        max-width: 180px;
+        min-width: 140px;
+
+        @media (max-width: $breakpoint-tablet) {
+            max-width: 100px;
+        }
+    }
+
+    .documents-none {
+        text-align: center;
+        color: $slate;
+        margin-top: 50px;
+    }
+}
+
+.table-header {
+    text-align: left;
+    background: $chalk-light;
+
+    th {
+        padding: 16px;
+        font-weight: 400;
+        color: $slate;
+
+        @media (max-width: $breakpoint-mobile) {
+            padding: 12px;
+        }
+    }
+}

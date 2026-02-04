@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally Own
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Don't own but do have use of
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Don't own or have use of
+  }
+]

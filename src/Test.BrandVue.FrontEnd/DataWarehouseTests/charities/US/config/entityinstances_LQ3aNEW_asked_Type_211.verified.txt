@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: LQ 3a NEW (Base LQ3aNEW_asked)
+  }
+]

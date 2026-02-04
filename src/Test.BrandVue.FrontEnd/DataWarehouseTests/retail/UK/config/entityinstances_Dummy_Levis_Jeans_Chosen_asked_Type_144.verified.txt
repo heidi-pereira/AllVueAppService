@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dummy Levis Jeans Chosen (Base Dummy_Levis_Jeans_Chosen_asked)
+  }
+]

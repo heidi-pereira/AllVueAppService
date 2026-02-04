@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dummy For LoopActions INSTORE (Base Dummy_For_LoopActions_INSTORE)
+  }
+]

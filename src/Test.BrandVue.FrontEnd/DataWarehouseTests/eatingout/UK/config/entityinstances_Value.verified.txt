@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A lot more than I expected to pay
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Slightly more than I expected to pay
+  },
+  {
+    ClassInstanceId: 3,
+    Name: About what I expected to pay
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Less than I expected to pay
+  }
+]

@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: New Look
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Top Shop
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Next
+  },
+  {
+    ClassInstanceId: 4,
+    Name: River Island
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Primark
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Asos
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Dorothy Perkins
+  },
+  {
+    ClassInstanceId: 8,
+    Name: M&S
+  },
+  {
+    ClassInstanceId: 9,
+    Name: H&M
+  },
+  {
+    ClassInstanceId: 10,
+    Name: George @ Asda
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Tesco
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Matalan
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Very
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Debenhams
+  },
+  {
+    ClassInstanceId: 15,
+    Name: SimplyBe
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Zara
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Boohoo
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Sainsbury's
+  },
+  {
+    ClassInstanceId: 19,
+    Name: PrettyLittleThing
+  }
+]

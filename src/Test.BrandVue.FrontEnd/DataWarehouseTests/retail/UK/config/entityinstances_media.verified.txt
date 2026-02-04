@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Instagram
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Snapchat
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Linkedin
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Pinterest
+  },
+  {
+    ClassInstanceId: 7,
+    Name: WhatsApp
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Facebook Messenger
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Other social media platforms
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None in the last week
+  }
+]

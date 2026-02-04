@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Regular fast food outlet (typically good value where your food is given to you where you order / pay)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Premium fast food outlet (typically more expensive where your food is given to you where you order / pay)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Everyday restaurants with table service (typically good value where your food is served to your table)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Fine dining restaurant (typically more expensive where your food is served to your table)
+  },
+  {
+    ClassInstanceId: 20,
+    Name: I would prefer not to use electronic kiosks at all
+  },
+  {
+    ClassInstanceId: 21,
+    Name: I would use electronic kiosks in any type of restaurant
+  }
+]

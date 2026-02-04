@@ -1,0 +1,41 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+.modal {
+    .symbol {
+        color: @slate;
+    }
+
+    .header {
+        .headerText {
+            font-size: 18px;
+        }
+    }
+
+    .messageListContainer {
+        .scrollbars();
+        overflow-y: auto;
+        max-height: 160px;
+
+        .messageItem {
+            .flex-row(@align-items: center;);
+            gap: 12px;
+            margin-bottom: 10px;
+
+            .symbol {
+
+                &.warning {
+                    color: @amber;
+                }
+
+                &.error {
+                    color: @lava;
+                }
+            }
+        }
+    }
+
+    .button {
+        width: max-content;
+    }
+}

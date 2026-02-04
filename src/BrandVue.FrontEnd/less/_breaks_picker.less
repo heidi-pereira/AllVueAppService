@@ -1,0 +1,176 @@
+﻿@import "../less/_vars";
+@import "../less/_layout";
+
+.breaksPicker {
+    .remove-breaks {
+        width: 75px;
+        margin: 10px;
+
+        &.hidden {
+            display: none;
+        }
+    }
+
+    .reportCheckboxWrapper {
+        margin-bottom: 10px;
+    }
+
+    .breakPickerButtons {
+        display: flex;
+        flex-direction: row;
+        flex-grow: 0;
+        justify-content: space-between;
+        align-items: stretch;
+        flex-wrap: nowrap;
+        padding-bottom: 10px;
+
+        .dropdown-metrics {
+            width: 330px;
+            padding-bottom: 5px;
+        }
+
+        .saveAndLoadContainer {
+            .flex-row(@gutter: 10px);
+
+            button:disabled {
+                display: none;
+            }
+
+            .save-breaks-button-container {
+                .flex-row(@gutter: 10px);
+            }
+
+            .save-breaks-buttons {
+                .flex-row(@justify-content: space-between);
+
+                .save-breaks:disabled {
+                    display: none;
+                }
+            }
+
+            .saved-breaks-selector {
+                .saved-break-dropdown {
+                    .material-symbols-outlined {
+                        font-size: 16px;
+                    }
+                }
+
+                .selected-breaks-name {
+                    max-width: 160px;
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    color: @slate-dark;
+                }
+
+                .default-breaks-name {
+                    max-width: 160px;
+                    overflow: hidden;
+                    white-space: nowrap;
+                }
+
+                .savebreaks-selected {
+                    color: @slate;
+                    border-color: @slate-lighter;
+
+                    &:hover {
+                        background: @white;
+                        border-color: @slate-light;
+                    }
+
+                    &:active,
+                    &:focus {
+                        box-shadow: 0px 0px 3px 3px rgba(224, 226, 229, 0.48);
+                    }
+                }
+
+                .dropdown-menu {
+                    width: unset;
+                    max-height: 500px;
+                    max-width: 332px;
+                    overflow-y: auto;
+                    .scrollbars;
+
+                    .flex-container {
+                        .flex-row();
+                        overflow: hidden;
+                    }
+                }
+
+                .dropdown-item {
+                    //override to add gutter
+                    .flex-row(@gutter: 8px; @justify-content: space-between);
+
+                    &:hover {
+                        .edit-button {
+                            visibility: visible;
+                        }
+                    }
+                }
+
+                .dropdown-header {
+                    padding: 8px 14px;
+                    font-weight: 400;
+                }
+
+                .selected-breaks-icon {
+                    width: 24px;
+                    flex-shrink: 0;
+
+                    .material-symbols-outlined {
+                        transform: translateY(-1px);
+                    }
+                }
+
+                .saved-breaks-dropdown-prefix {
+                    color: @slate;
+                    margin-right: 10px;
+                }
+
+                .saved-breaks-name {
+                    width: 100%;
+                    text-align: right;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                }
+
+                .name-display {
+                    display: block;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+
+                    &.selected {
+                        font-weight: 500;
+                    }
+                }
+
+                .edit-button {
+                    .flex-row(@align-items: center);
+                    visibility: hidden;
+
+                    &:hover {
+                        .material-symbols-outlined {
+                            color: @slate-darker;
+                            transition: color 150ms ease;
+                        }
+                    }
+                }
+            }
+        }
+
+        .dropdown-toggle:after {
+            margin-left: 1em;
+        }
+    }
+
+    .no-breaks-message {
+        height: 241px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .chart-break-container {
+        flex-grow: 1;
+        margin-bottom: 10px;
+    }
+}

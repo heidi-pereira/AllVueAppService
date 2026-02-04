@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Jeans
+  },
+  {
+    ClassInstanceId: 2,
+    Name: T-shirts
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Another clothing or footwear item
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Coats / Jackets
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Underwear
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Shoes
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Knitwear
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Hats
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Scarfs
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Trousers
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Shirts
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Skirts
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Leggings
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: New Look
+  },
+  {
+    ClassInstanceId: 2,
+    Name: JD Sport
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Sports Direct
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Asos
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Next
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Very
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Schuh
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Primark
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Clarks
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Office
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Debenhams
+  },
+  {
+    ClassInstanceId: 12,
+    Name: TK Maxx
+  },
+  {
+    ClassInstanceId: 13,
+    Name: River Island
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Shoe Zone
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Faith
+  },
+  {
+    ClassInstanceId: 16,
+    Name: George @ Asda
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Tesco
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Boohoo
+  },
+  {
+    ClassInstanceId: 19,
+    Name: PrettyLittleThing
+  }
+]

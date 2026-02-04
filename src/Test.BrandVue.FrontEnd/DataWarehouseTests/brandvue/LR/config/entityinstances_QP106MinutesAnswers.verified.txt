@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Minutes
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 0
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 15
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 30
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 45
+  }
+]

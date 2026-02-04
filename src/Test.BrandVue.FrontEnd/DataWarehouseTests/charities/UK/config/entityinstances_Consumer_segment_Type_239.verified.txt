@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Neighbourhood(urban/rural):Semi-rural (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung Solve for Tomorrow
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Samsung Innovation Campus
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Samsung Employee Volunteering Programme
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

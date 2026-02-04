@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Lipstick / Lip gloss
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Mascara / Eye-liner
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Concealer
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Foundation
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Nail varnish
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Perfume / Eau de parfum
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Eau de toilette
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Aftershave / Eau de cologne
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Body mist
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,1 @@
+create or replace stream impl_response_set_unconfigured._canonical_choice_set_alternative_initial_mappings_stream on dynamic table impl_response_set_unconfigured._canonical_choice_set_alternative_initial_mappings; -- noqa: PRS

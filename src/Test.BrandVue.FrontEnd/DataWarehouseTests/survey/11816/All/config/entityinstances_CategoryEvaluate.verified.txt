@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Visited a restaurant / café / bar / fast food place where you ate your food at the venue
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Ordered food that was delivered to you / your house (from a restaurant / café / takeaway / bar / fast food place)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Bought food from a restaurant / café / bar / fast food place to take away with you and eat somewhere else e.g. work or home
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Bought coffee / tea / hot drinks to take away and drink somewhere else (with or without food)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Bought coffee / tea / hot drinks in a coffee shop / café / restaurant / bar / fast food place and drunk it there (with or without food)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Bought a drink (alcoholic or non-alcoholic) in a pub / bar / venue and drunk it there (without food)
+  }
+]

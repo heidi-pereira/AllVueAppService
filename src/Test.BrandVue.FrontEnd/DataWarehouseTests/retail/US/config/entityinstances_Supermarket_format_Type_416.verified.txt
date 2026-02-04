@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supermarket format:Sainsbury's Local (Base Supermarket_format)
+  }
+]

@@ -1,0 +1,112 @@
+.edit-user-container, .add-user-container {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 1rem;
+}
+
+.edit-user-paper, .add-user-paper {
+    padding: 2.5rem;
+    max-width: 700px;
+    width: 100%;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+
+    h1 {
+        margin-bottom: 2rem;
+        font-weight: 400;
+        color: #212529;
+        font-size: 2rem;
+    }
+
+    .MuiTextField-root {
+        .MuiInputBase-root {
+            border-radius: 4px;
+
+            &.Mui-disabled {
+                background-color: #e9ecef;
+                color: rgba(0, 0, 0, 0.6);
+            }
+
+            &:hover:not(.Mui-disabled) .MuiOutlinedInput-notchedOutline {
+                border-color: #80bdff;
+            }
+
+            &.Mui-focused .MuiOutlinedInput-notchedOutline {
+                border-color: #007bff;
+                border-width: 2px;
+            }
+        }
+
+        .MuiInputLabel-root {
+            color: #6c757d;
+            font-weight: 500;
+
+            &.Mui-focused {
+                color: #007bff;
+            }
+        }
+    }
+
+    .MuiFormControl-root .MuiSelect-root {
+        border-radius: 4px;
+
+        &:hover:not(.Mui-disabled) + .MuiOutlinedInput-notchedOutline {
+            border-color: #80bdff;
+        }
+
+        &.Mui-focused + .MuiOutlinedInput-notchedOutline {
+            border-color: #007bff;
+            border-width: 2px;
+        }
+    }
+
+    .MuiFormControlLabel-root {
+        margin-bottom: 0.75rem;
+        margin-left: 0;
+
+        .MuiCheckbox-root {
+            color: #6c757d;
+            padding: 8px;
+
+            &.Mui-checked {
+                color: #007bff;
+            }
+
+            &:hover {
+                background-color: rgba(0, 123, 255, 0.04);
+            }
+        }
+
+        .MuiFormControlLabel-label {
+            font-size: 0.95rem;
+            color: #495057;
+        }
+    }
+
+    .MuiTypography-body2 {
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+  .edit-user-container {
+    padding: 1rem 0.5rem;
+  }
+  
+  .edit-user-paper {
+    padding: 1.5rem;
+    
+    h1 {
+      font-size: 1.75rem;
+      margin-bottom: 1.5rem;
+    }
+  }
+  
+  .MuiBox-root {
+    &[style*="display: flex"] {
+      flex-direction: column;
+      gap: 1rem !important;
+    }
+  }
+}

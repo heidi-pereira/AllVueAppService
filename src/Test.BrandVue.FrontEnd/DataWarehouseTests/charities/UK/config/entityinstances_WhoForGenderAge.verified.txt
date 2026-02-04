@@ -1,0 +1,86 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Male, aged 15 or under
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Male, aged 16-24
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Male, aged 25-34
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Male, aged 35-44
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Male aged 45-59
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Male aged 60 or older
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Male, not sure of age
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Female, aged 15 or under
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Female, aged 16-24
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Female, aged 25-34
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Female, aged 35-44
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Female aged 45-59
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Female aged 60 or older
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Female, not sure of age
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Gender not known, aged 15 or under
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Gender not known, aged 16-24
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Gender not known, aged 25-34
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Gender not known, aged 35-44
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Gender not known, aged 45-59
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Gender not known aged 60 or older
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Gender not known, not sure of age
+  }
+]

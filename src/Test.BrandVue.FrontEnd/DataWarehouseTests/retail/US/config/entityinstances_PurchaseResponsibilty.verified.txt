@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am generally the main person
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I evenly share the decision making with someone else
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I share my opinions with someone else who will make the final decision
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have no involvement
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Not sure / don't know
+  }
+]

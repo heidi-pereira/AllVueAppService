@@ -1,0 +1,762 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: ASK Italian
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Beefeater
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Bella Italia
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Brewers Fayre
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Café Rouge
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Carluccio's
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Chiquito
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Frankie & Benny's
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Giraffe
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Gourmet Burger Kitchen
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Harvester
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Jamie's Italian
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Wetherspoon
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Loch Fyne
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Nando's
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Pizza Express
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Pizza Hut Restaurants
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Prezzo
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Strada
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Fridays
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Toby Carvery
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Wagamama
+  },
+  {
+    ClassInstanceId: 30,
+    Name: YO Sushi
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Zizzi
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Hungry Horse
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Byron
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Table Table
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Sizzling Pubs
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Côte
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Ping Pong
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Brasserie Blanc
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Wahaca
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Bill's
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Ember Inns
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Chef & Brewer
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Miller & Carter
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Flaming Grill
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Gail's
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Le Pain Quotidien
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Las Iguanas
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Five Guys
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Lounge
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Ed's Easy Diner
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Franco Manca
+  },
+  {
+    ClassInstanceId: 101,
+    Name: All Bar One
+  },
+  {
+    ClassInstanceId: 102,
+    Name: AMT Coffee
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Asda café
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Bagel Factory
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Bar + Block
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Barburrito
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Belgo
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Bistrot Pierre
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Browns
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Burger King
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Busaba
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Caffè Nero
+  },
+  {
+    ClassInstanceId: 113,
+    Name: CAU
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Chicken Cottage
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Chilango
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Chipotle
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Coast to Coast
+  },
+  {
+    ClassInstanceId: 118,
+    Name: Coco di mama
+  },
+  {
+    ClassInstanceId: 119,
+    Name: Coffee#1
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Coffee Republic
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Costa
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Crown Carveries
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Deliveroo
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Domino's
+  },
+  {
+    ClassInstanceId: 125,
+    Name: EAT
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Farmhouse Inns
+  },
+  {
+    ClassInstanceId: 128,
+    Name: Garfunkel's
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Gaucho
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Generous George
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Greggs
+  },
+  {
+    ClassInstanceId: 132,
+    Name: Harry Ramsden's
+  },
+  {
+    ClassInstanceId: 134,
+    Name: Honest Burgers
+  },
+  {
+    ClassInstanceId: 135,
+    Name: Hungry House
+  },
+  {
+    ClassInstanceId: 136,
+    Name: IKEA
+  },
+  {
+    ClassInstanceId: 137,
+    Name: Itsu
+  },
+  {
+    ClassInstanceId: 138,
+    Name: Jinn
+  },
+  {
+    ClassInstanceId: 139,
+    Name: Joe & The Juice
+  },
+  {
+    ClassInstanceId: 140,
+    Name: John Barras
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Just Eat
+  },
+  {
+    ClassInstanceId: 142,
+    Name: KFC
+  },
+  {
+    ClassInstanceId: 143,
+    Name: Leon
+  },
+  {
+    ClassInstanceId: 144,
+    Name: Lloyds No.1 Bar
+  },
+  {
+    ClassInstanceId: 145,
+    Name: McDonald's
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Millie's Cookies
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Morrisons Café
+  },
+  {
+    ClassInstanceId: 148,
+    Name: Nicholson's
+  },
+  {
+    ClassInstanceId: 149,
+    Name: Old English Inns
+  },
+  {
+    ClassInstanceId: 150,
+    Name: O'Neill's
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Papa John's
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Patisserie Valerie
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Paul
+  },
+  {
+    ClassInstanceId: 154,
+    Name: Pho
+  },
+  {
+    ClassInstanceId: 155,
+    Name: Pitcher & Piano
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Pizza Hut Delivery
+  },
+  {
+    ClassInstanceId: 157,
+    Name: Pod
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Pret A Manger
+  },
+  {
+    ClassInstanceId: 159,
+    Name: Sainsbury's Café
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Shake Shack
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Shakeaway
+  },
+  {
+    ClassInstanceId: 162,
+    Name: Slug & Lettuce
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Starbucks
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Stonehouse Pizza & Carvery
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Subway
+  },
+  {
+    ClassInstanceId: 166,
+    Name: TakeEatEasy
+  },
+  {
+    ClassInstanceId: 167,
+    Name: The Café
+  },
+  {
+    ClassInstanceId: 168,
+    Name: Thorntons Café
+  },
+  {
+    ClassInstanceId: 169,
+    Name: Tortilla
+  },
+  {
+    ClassInstanceId: 170,
+    Name: Tossed
+  },
+  {
+    ClassInstanceId: 171,
+    Name: Turtle Bay
+  },
+  {
+    ClassInstanceId: 172,
+    Name: Two for One
+  },
+  {
+    ClassInstanceId: 173,
+    Name: UberEats
+  },
+  {
+    ClassInstanceId: 174,
+    Name: Upper Crust
+  },
+  {
+    ClassInstanceId: 176,
+    Name: Vintage Inns
+  },
+  {
+    ClassInstanceId: 177,
+    Name: Wacky Warehouse
+  },
+  {
+    ClassInstanceId: 178,
+    Name: Wasabi
+  },
+  {
+    ClassInstanceId: 179,
+    Name: West Cornwall Pasty Company
+  },
+  {
+    ClassInstanceId: 180,
+    Name: Wild Bean Café
+  },
+  {
+    ClassInstanceId: 181,
+    Name: Wimpy
+  },
+  {
+    ClassInstanceId: 182,
+    Name: Wok&Go
+  },
+  {
+    ClassInstanceId: 184,
+    Name: Yates's
+  },
+  {
+    ClassInstanceId: 185,
+    Name: Handmade burger co.
+  },
+  {
+    ClassInstanceId: 186,
+    Name: Creams Cafe
+  },
+  {
+    ClassInstanceId: 187,
+    Name: M&S Café
+  },
+  {
+    ClassInstanceId: 188,
+    Name: Waitrose Café
+  },
+  {
+    ClassInstanceId: 189,
+    Name: Dobbies Garden Centre Café
+  },
+  {
+    ClassInstanceId: 190,
+    Name: John Lewis Café
+  },
+  {
+    ClassInstanceId: 191,
+    Name: Smashburger
+  },
+  {
+    ClassInstanceId: 192,
+    Name: Roosters Piri Piri
+  },
+  {
+    ClassInstanceId: 193,
+    Name: MOD Pizza
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Coppa Club
+  },
+  {
+    ClassInstanceId: 195,
+    Name: The Breakfast Club
+  },
+  {
+    ClassInstanceId: 196,
+    Name: Benugo
+  },
+  {
+    ClassInstanceId: 197,
+    Name: Wildwood
+  },
+  {
+    ClassInstanceId: 198,
+    Name: Little Chef
+  },
+  {
+    ClassInstanceId: 199,
+    Name: Chopstix
+  },
+  {
+    ClassInstanceId: 200,
+    Name: The Real Greek
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Chop'd
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Pizza Pilgrims
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Cosmo
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Meat Liquor
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Comptoir Libanais
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Cosy Club
+  },
+  {
+    ClassInstanceId: 207,
+    Name: Department of Coffee and Social Affairs
+  },
+  {
+    ClassInstanceId: 208,
+    Name: Dirty Martini
+  },
+  {
+    ClassInstanceId: 209,
+    Name: Gusto
+  },
+  {
+    ClassInstanceId: 210,
+    Name: Piccolino
+  },
+  {
+    ClassInstanceId: 211,
+    Name: Revolution
+  },
+  {
+    ClassInstanceId: 212,
+    Name: The Stable
+  },
+  {
+    ClassInstanceId: 213,
+    Name: Tim Hortons
+  },
+  {
+    ClassInstanceId: 214,
+    Name: Harris & Hoole
+  },
+  {
+    ClassInstanceId: 215,
+    Name: The Alchemist
+  },
+  {
+    ClassInstanceId: 216,
+    Name: The Ivy
+  },
+  {
+    ClassInstanceId: 217,
+    Name: Brewdog Bars
+  },
+  {
+    ClassInstanceId: 218,
+    Name: Rosa's Thai
+  },
+  {
+    ClassInstanceId: 219,
+    Name: Caffè Ritazza
+  },
+  {
+    ClassInstanceId: 220,
+    Name: Burger And Lobster
+  },
+  {
+    ClassInstanceId: 221,
+    Name: Abokado
+  },
+  {
+    ClassInstanceId: 222,
+    Name: Patty & Bun
+  },
+  {
+    ClassInstanceId: 223,
+    Name: Veggie Pret
+  },
+  {
+    ClassInstanceId: 224,
+    Name: Ego
+  },
+  {
+    ClassInstanceId: 225,
+    Name: German Doner Kebab
+  },
+  {
+    ClassInstanceId: 226,
+    Name: RoadChef
+  },
+  {
+    ClassInstanceId: 227,
+    Name: Foodhub
+  },
+  {
+    ClassInstanceId: 228,
+    Name: Marugame Udon
+  },
+  {
+    ClassInstanceId: 229,
+    Name: Island Poké
+  },
+  {
+    ClassInstanceId: 230,
+    Name: Chicken Shop
+  },
+  {
+    ClassInstanceId: 231,
+    Name: Pasta Evangelists
+  },
+  {
+    ClassInstanceId: 232,
+    Name: Kaspa's Desserts
+  },
+  {
+    ClassInstanceId: 233,
+    Name: Mother Clucker
+  },
+  {
+    ClassInstanceId: 234,
+    Name: Fireaway Pizza
+  },
+  {
+    ClassInstanceId: 235,
+    Name: Slim Chickens
+  },
+  {
+    ClassInstanceId: 236,
+    Name: Mowgli
+  },
+  {
+    ClassInstanceId: 237,
+    Name: Kokoro
+  },
+  {
+    ClassInstanceId: 238,
+    Name: Jollibee
+  },
+  {
+    ClassInstanceId: 239,
+    Name: Pepe's Piri Piri
+  },
+  {
+    ClassInstanceId: 240,
+    Name: Banana Tree
+  },
+  {
+    ClassInstanceId: 241,
+    Name: Young's Pubs
+  },
+  {
+    ClassInstanceId: 242,
+    Name: Fuller's Pubs
+  },
+  {
+    ClassInstanceId: 320,
+    Name: Giggling Squid
+  },
+  {
+    ClassInstanceId: 375,
+    Name: Krispy Kreme
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Popeyes
+  },
+  {
+    ClassInstanceId: 426,
+    Name: Taco Bell
+  },
+  {
+    ClassInstanceId: 441,
+    Name: Wendy's
+  },
+  {
+    ClassInstanceId: 447,
+    Name: Wingstop
+  },
+  {
+    ClassInstanceId: 744,
+    Name: Vapiano
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None of these
+  }
+]

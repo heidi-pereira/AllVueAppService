@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I prefer buying more fashion items at cheaper prices, rather than buying fewer expensive ones
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I look carefully to find the best value for money
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I'm impulsive when purchasing apparel products
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I carefully watch how much I spend and moderate my purchases accordingly
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I'm a bargain hunter when it comes to fashion shopping
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I enjoy rewarding myself with fashion shopping
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Fashion spending is one of the first areas I reduce when facing financial difficulties
+  }
+]

@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <Content Remove="**/package*.json" />
+    <None Include="**/package*.json" />
+  </ItemGroup>
+</Project>

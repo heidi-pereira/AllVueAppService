@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Single
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Married / civil partnership / living as couple
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Divorced
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Widowed
+  }
+]

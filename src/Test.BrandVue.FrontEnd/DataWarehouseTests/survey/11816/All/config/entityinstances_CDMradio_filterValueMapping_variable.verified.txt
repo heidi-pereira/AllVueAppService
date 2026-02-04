@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Something else
+  },
+  {
+    ClassInstanceId: 1,
+    Name: A coffee / cake shop - with counter service
+  },
+  {
+    ClassInstanceId: 2,
+    Name: An Italian restaurant - with waiters and table service
+  },
+  {
+    ClassInstanceId: 3,
+    Name: A French restaurant - with waiters and table service
+  },
+  {
+    ClassInstanceId: 4,
+    Name: A grab and go Italian inspired food and drink cafe - with counter service
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Don’t know
+  }
+]

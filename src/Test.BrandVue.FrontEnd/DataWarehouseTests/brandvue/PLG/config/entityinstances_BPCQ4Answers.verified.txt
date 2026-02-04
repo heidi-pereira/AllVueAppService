@@ -1,0 +1,62 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Liquid hand soap
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Hand sanitiser
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Deodorant
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Shaving products (such as razors, shaving gel etc.)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Body hair removal (such as wax, creams etc.)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Shampoo
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Conditioner
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Hair styling products (such as gel, mousse, spray, wax etc.)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Hair treatment products
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Body wash
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Shower gel
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Toothpaste
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Mouthwash
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Dental floss
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

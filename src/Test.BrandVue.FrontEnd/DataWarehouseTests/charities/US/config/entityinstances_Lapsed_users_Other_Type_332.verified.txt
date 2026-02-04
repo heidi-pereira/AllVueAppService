@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Other (Base Lapsed_users_Other)
+  }
+]

@@ -1,0 +1,90 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Amazon Alexa
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Apple Home/ Home Kit
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Google Nest, Google Assistant
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Samsung SmartThings
+  },
+  {
+    ClassInstanceId: 5,
+    Name: LG ThinQ
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Bosch Smart Home
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Hive
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Aeotec
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Control4
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Yonomi
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Philips Hue
+  },
+  {
+    ClassInstanceId: 13,
+    Name: ecobee
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Google Home
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Ring
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Sonos
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Hisense Connect Life
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Ikea Home Smart
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Xiaomi Mi Remote
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Honeywell Home
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don't know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

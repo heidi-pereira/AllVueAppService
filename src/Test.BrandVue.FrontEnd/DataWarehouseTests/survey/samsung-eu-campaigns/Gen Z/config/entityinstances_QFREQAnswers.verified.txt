@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Once
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 2 times
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 3 times
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 4 times
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 5 times
+  },
+  {
+    ClassInstanceId: 6,
+    Name: More than 5 times
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Don’t know
+  }
+]

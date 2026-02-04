@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Athletics (Base Sport_Athletics)
+  }
+]

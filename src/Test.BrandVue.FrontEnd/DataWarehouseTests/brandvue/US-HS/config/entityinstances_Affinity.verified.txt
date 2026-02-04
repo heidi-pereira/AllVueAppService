@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Love
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Like a lot
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Like a little
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Indifferent
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Dislike a little
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Dislike a lot
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Hate
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Do not know much about them
+  }
+]

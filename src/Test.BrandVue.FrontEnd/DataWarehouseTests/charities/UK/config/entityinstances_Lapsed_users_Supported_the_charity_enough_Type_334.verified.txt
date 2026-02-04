@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Supported the charity enough (Base Lapsed_users_Supported_the_charity_enough)
+  }
+]

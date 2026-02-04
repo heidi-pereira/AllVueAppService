@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Legal
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Local / National Government
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Manufacturing
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Medical / Health / Social / Welfare
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Personnel / Human Resources / Industrial relations
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Retail / Wholesale / Service Industries
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Sales / Purchasing
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Transport / Distribution / Storage
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Utilities
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Advertising / Communication / Marketing & Media
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Agriculture / Farming
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Armed Forces
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Art / Culture / Music / Sport
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Construction / Engineering
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Education
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Financial
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Hospitality / Tourism / Leisure
+  },
+  {
+    ClassInstanceId: 18,
+    Name: IT / Computing / Data processing
+  }
+]

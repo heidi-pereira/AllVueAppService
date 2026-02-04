@@ -1,0 +1,34 @@
+﻿{
+  "info": {
+    "title": "Savanta Data APIs",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://{DomainAndOrg}/{ProductName}",
+      "variables": {
+        "DomainAndOrg": {
+          "description": "The same subdomain used to visit the BrandVue dashboard",
+          "default": "demo.all-vue.com/finance",
+          "enum": [
+            "{yourorg}.all-vue.com",
+            "barometer.wgsn.com"
+          ]
+        },
+        "ProductName": {
+          "description": "Product name - the first part of the path when visiting the BrandVue dashboard. Empty for barometer domain",
+          "default": "finance",
+          "enum": [
+            "charities",
+            "eatingout",
+            "finance",
+            ""
+          ]
+        }
+      }
+    }
+  ],
+  "infoTitle": "Savanta Data APIs",
+  "infoDescription": null,
+  "infoVersion": "1.0.0"
+}

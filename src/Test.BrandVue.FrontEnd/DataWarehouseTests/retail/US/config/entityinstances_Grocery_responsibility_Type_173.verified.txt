@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Grocery purchases (Base Grocery_responsibility)
+  }
+]

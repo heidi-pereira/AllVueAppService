@@ -1,0 +1,90 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: androidauthority.com
+  },
+  {
+    ClassInstanceId: 2,
+    Name: androidcentral.com
+  },
+  {
+    ClassInstanceId: 3,
+    Name: androidpolice.com
+  },
+  {
+    ClassInstanceId: 4,
+    Name: digitaltrends.com
+  },
+  {
+    ClassInstanceId: 5,
+    Name: digitalcameraworld.com
+  },
+  {
+    ClassInstanceId: 6,
+    Name: expertreviews.co.uk
+  },
+  {
+    ClassInstanceId: 7,
+    Name: express.co.uk
+  },
+  {
+    ClassInstanceId: 8,
+    Name: independent.co.uk
+  },
+  {
+    ClassInstanceId: 9,
+    Name: pocket-lint.com
+  },
+  {
+    ClassInstanceId: 10,
+    Name: stuff.tv
+  },
+  {
+    ClassInstanceId: 11,
+    Name: t3.com
+  },
+  {
+    ClassInstanceId: 12,
+    Name: techadvisor.com
+  },
+  {
+    ClassInstanceId: 13,
+    Name: techradar.com
+  },
+  {
+    ClassInstanceId: 14,
+    Name: theguardian.com
+  },
+  {
+    ClassInstanceId: 15,
+    Name: tomsguide.com
+  },
+  {
+    ClassInstanceId: 16,
+    Name: trustedreviews.com
+  },
+  {
+    ClassInstanceId: 17,
+    Name: whathifi.com
+  },
+  {
+    ClassInstanceId: 18,
+    Name: which.co.uk
+  },
+  {
+    ClassInstanceId: 19,
+    Name: wired.co.uk
+  },
+  {
+    ClassInstanceId: 20,
+    Name: zdnet.com
+  },
+  {
+    ClassInstanceId: 98,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know/can’t remember
+  }
+]

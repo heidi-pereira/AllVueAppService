@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Converted flat
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Split-level flat
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Studio flat
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mansion / Conservation property
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Bungalow
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cottage
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Semi-Detached house
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Terraced housing
+  },
+  {
+    ClassInstanceId: 8,
+    Name: End-of-terrace house
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Flat
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Detached house
+  }
+]

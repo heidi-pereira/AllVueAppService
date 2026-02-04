@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, regularly
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, sometimes
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Yes, but rarely
+  },
+  {
+    ClassInstanceId: 4,
+    Name: No, never watch
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  }
+]

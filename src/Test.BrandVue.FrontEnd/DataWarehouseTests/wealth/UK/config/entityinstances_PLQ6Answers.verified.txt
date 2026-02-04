@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Confident
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Exceptional
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Part of an exclusive club
+  },
+  {
+    ClassInstanceId: 4,
+    Name: In the know
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Sophisticated
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Guilty
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Satisfied
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Vulnerable
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Conspicuous
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Judged
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Extravagant
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Flashy
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

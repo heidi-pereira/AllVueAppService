@@ -1,0 +1,22 @@
+﻿@model SetupModel
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vue Reporting</title>
+
+    <link rel="stylesheet" href="~/dist/vendor_reporting.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/dist/reporting.css" asp-append-version="true" />
+    <script src="~/dist/vendor_reporting.js" asp-append-version="true"></script>
+    <script src="~/dist/reporting.js" asp-append-version="true"></script>
+
+</head>
+<body>
+    <div id="appContainer" class="mr-3"></div>
+    <script>
+        var basePath = '@Model.BasePath';
+        ui.default(basePath, document.getElementById('appContainer'));
+    </script>
+</body>
+</html>

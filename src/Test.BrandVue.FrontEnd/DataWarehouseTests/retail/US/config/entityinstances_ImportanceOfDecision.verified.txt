@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: -999,
+    Name: Not sure
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Very important
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quite important
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Neither important nor unimportant
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Relatively unimportant
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Not at all important
+  }
+]

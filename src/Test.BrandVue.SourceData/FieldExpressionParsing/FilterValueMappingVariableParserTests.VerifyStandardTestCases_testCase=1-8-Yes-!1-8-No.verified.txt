@@ -1,0 +1,20 @@
+﻿[
+  {
+    Invert: false,
+    IsRange: true,
+    Name: Yes,
+    Values: [
+      1,
+      8
+    ]
+  },
+  {
+    Invert: true,
+    IsRange: true,
+    Name: No,
+    Values: [
+      1,
+      8
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I do everything I can to look after my health
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I regularly talk to family and friends about health & personal wellbeing
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I prefer to use more natural health & personal wellbeing products
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I’m always looking for new products and ideas when it comes to health & personal wellbeing
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I regularly tell others about products that have worked for me
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I feel I have a very healthy lifestyle
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I usually spend a lot of time ensuring I look my best
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I’m increasingly confused by the wide range of health & wellbeing products now available
+  }
+]

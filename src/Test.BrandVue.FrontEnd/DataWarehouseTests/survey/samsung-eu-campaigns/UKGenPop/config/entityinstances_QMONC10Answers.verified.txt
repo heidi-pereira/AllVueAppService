@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Predator (Acer)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Alienware (Dell)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Omen (HP)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Republic of Gamers (ASUS)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Odyssey (Samsung)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Gaming (AOC)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Optix (MSI)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: UltraGear (LG)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Gigabyte Aorus
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

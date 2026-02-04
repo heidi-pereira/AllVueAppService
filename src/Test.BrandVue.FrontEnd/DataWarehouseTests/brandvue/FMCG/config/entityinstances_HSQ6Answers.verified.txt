@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Our household currently has one / more than one
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Our household doesn’t have one but is planning on getting one in the next 12 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Our household is unlikely to get one in the next 12 months but is likely to get one in the next 5 years
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Our household is unlikely to get one in the next 5 years
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don't know
+  }
+]

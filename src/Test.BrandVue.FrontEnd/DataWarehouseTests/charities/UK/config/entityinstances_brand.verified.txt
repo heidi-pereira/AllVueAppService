@@ -1,0 +1,610 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Army Benevolent Fund
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Action for Children
+  },
+  {
+    ClassInstanceId: 3,
+    Name: ActionAid
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Age UK
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Alzheimer's Society
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Amnesty International
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Versus Arthritis
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Asthma UK
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Barnardo's
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Battersea Dogs & Cats Home
+  },
+  {
+    ClassInstanceId: 11,
+    Name: BBC Children in Need
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Blind Veterans UK
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Bliss
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Blood Cancer UK
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Breast Cancer Now
+  },
+  {
+    ClassInstanceId: 18,
+    Name: British Heart Foundation
+  },
+  {
+    ClassInstanceId: 19,
+    Name: British Lung Foundation
+  },
+  {
+    ClassInstanceId: 20,
+    Name: British Red Cross
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Brooke
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Camfed International
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Cancer Research UK
+  },
+  {
+    ClassInstanceId: 24,
+    Name: CARE International
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Catholic Agency for Overseas Development (CAFOD)
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Cats Protection
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Childline
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Children with Cancer UK
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Christian Aid
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Citizens Advice Bureau
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Young Lives VS Cancer
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Combat Stress
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Comic Relief
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Compassion
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Crisis
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Cystic Fibrosis Trust
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Diabetes UK
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Disasters Emergency Committee
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Dogs Trust
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Family Planning Association (FPA)
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Freedom From Torture
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Friends of the Earth
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Great Ormond Street Hospital Children's Charity
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Greenpeace
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Help for Heroes
+  },
+  {
+    ClassInstanceId: 46,
+    Name: International Planned Parenthood Federation
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Islamic Relief Worldwide
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Jewish Care
+  },
+  {
+    ClassInstanceId: 49,
+    Name: King's College Hospital Charity
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Leprosy Mission, The
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Macmillan Cancer Support
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Make-A-Wish
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Marie Curie
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Medecins sans Frontieres
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Mencap
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Mind
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Motor Neurone Disease Association (MNDA)
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Movember
+  },
+  {
+    ClassInstanceId: 59,
+    Name: MQ
+  },
+  {
+    ClassInstanceId: 60,
+    Name: MS Society
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Muscular Dystrophy UK
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Muslim Aid
+  },
+  {
+    ClassInstanceId: 63,
+    Name: National Trust, The
+  },
+  {
+    ClassInstanceId: 64,
+    Name: NSPCC
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Operation Mobilisation
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Oxfam
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Parkinson's UK
+  },
+  {
+    ClassInstanceId: 68,
+    Name: PDSA
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Plan International
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Practical Action
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Project Hope
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Prostate Cancer UK
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Royal Marsden Cancer Campaign
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Royal National Institute Of Blind People (RNIB)
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Royal National Lifeboat Institution (RNLI)
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Royal Society for the Protection of Birds (RSPB)
+  },
+  {
+    ClassInstanceId: 77,
+    Name: RSBC (Royal Society for Blind Children)
+  },
+  {
+    ClassInstanceId: 78,
+    Name: RSPCA
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Salvation Army
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Samaritans
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Samaritan's Purse International Limited
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Sand's
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Save The Children
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Scope
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Sense
+  },
+  {
+    ClassInstanceId: 86,
+    Name: SHELTER
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Sightsavers
+  },
+  {
+    ClassInstanceId: 88,
+    Name: SOS Childrens Villages
+  },
+  {
+    ClassInstanceId: 89,
+    Name: St George's Hospital Charity
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Starlight Childrens Foundation
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Stonewall
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Sue Ryder
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Tamba
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Tearfund
+  },
+  {
+    ClassInstanceId: 95,
+    Name: Teenage Cancer Trust
+  },
+  {
+    ClassInstanceId: 96,
+    Name: Terrence Higgins Trust
+  },
+  {
+    ClassInstanceId: 97,
+    Name: The Arts Council
+  },
+  {
+    ClassInstanceId: 98,
+    Name: The Blue Cross
+  },
+  {
+    ClassInstanceId: 99,
+    Name: The Children's Society
+  },
+  {
+    ClassInstanceId: 100,
+    Name: The Climate Group
+  },
+  {
+    ClassInstanceId: 101,
+    Name: The Donkey Sanctuary
+  },
+  {
+    ClassInstanceId: 102,
+    Name: The Guide Dogs For The Blind Association
+  },
+  {
+    ClassInstanceId: 103,
+    Name: The Lullaby Trust
+  },
+  {
+    ClassInstanceId: 104,
+    Name: The National Autistic Society
+  },
+  {
+    ClassInstanceId: 105,
+    Name: The National Deaf Children's Society
+  },
+  {
+    ClassInstanceId: 106,
+    Name: The Prince's Trust
+  },
+  {
+    ClassInstanceId: 107,
+    Name: The Royal British Legion
+  },
+  {
+    ClassInstanceId: 108,
+    Name: The Royal Horticultural Society (RHS)
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Action on Hearing Loss
+  },
+  {
+    ClassInstanceId: 110,
+    Name: The Smile Train
+  },
+  {
+    ClassInstanceId: 111,
+    Name: The Stroke Association
+  },
+  {
+    ClassInstanceId: 112,
+    Name: The Wildlife Trusts
+  },
+  {
+    ClassInstanceId: 113,
+    Name: The Woodland Trust
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Tommy's
+  },
+  {
+    ClassInstanceId: 115,
+    Name: UNICEF
+  },
+  {
+    ClassInstanceId: 116,
+    Name: United Synagogue
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Voluntary Service Overseas
+  },
+  {
+    ClassInstanceId: 118,
+    Name: WaterAid
+  },
+  {
+    ClassInstanceId: 119,
+    Name: World Cancer Research Fund
+  },
+  {
+    ClassInstanceId: 120,
+    Name: World Animal Protection
+  },
+  {
+    ClassInstanceId: 121,
+    Name: World Vision
+  },
+  {
+    ClassInstanceId: 122,
+    Name: WWF
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Rethink Mental Illness
+  },
+  {
+    ClassInstanceId: 124,
+    Name: St John Ambulance
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Sport Relief
+  },
+  {
+    ClassInstanceId: 126,
+    Name: English Heritage
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Alzheimer's Research UK
+  },
+  {
+    ClassInstanceId: 128,
+    Name: Centrepoint
+  },
+  {
+    ClassInstanceId: 129,
+    Name: YoungMinds
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Carers UK
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Independent Age
+  },
+  {
+    ClassInstanceId: 132,
+    Name: Dementia UK
+  },
+  {
+    ClassInstanceId: 133,
+    Name: MS Trust
+  },
+  {
+    ClassInstanceId: 134,
+    Name: SSAFA
+  },
+  {
+    ClassInstanceId: 135,
+    Name: Cash for Kids
+  },
+  {
+    ClassInstanceId: 136,
+    Name: Maggies
+  },
+  {
+    ClassInstanceId: 137,
+    Name: Leonard Cheshire
+  },
+  {
+    ClassInstanceId: 138,
+    Name: CPRE The Countryside Charity
+  },
+  {
+    ClassInstanceId: 139,
+    Name: The Climate Coalition
+  },
+  {
+    ClassInstanceId: 140,
+    Name: Green Alliance
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Wildfowl and Wetlands Trust (WWT)
+  },
+  {
+    ClassInstanceId: 142,
+    Name: British Trust for Ornithology (BTO)
+  },
+  {
+    ClassInstanceId: 143,
+    Name: Anthony Nolan
+  },
+  {
+    ClassInstanceId: 144,
+    Name: C.A.L.M.
+  },
+  {
+    ClassInstanceId: 145,
+    Name: Hospice UK
+  },
+  {
+    ClassInstanceId: 146,
+    Name: The Trussell Trust
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Women's Aid
+  },
+  {
+    ClassInstanceId: 148,
+    Name: YMCA
+  },
+  {
+    ClassInstanceId: 149,
+    Name: Refuge
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Redwings Horse Sanctuary
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Royal Voluntary Service
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Asthma & Lung UK
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Drink Aware
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV Channels (Base TV_Channels_used)
+  }
+]

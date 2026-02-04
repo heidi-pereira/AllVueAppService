@@ -1,0 +1,15 @@
+﻿name,field,allText,filterType,valueType,categories,question,active,include,defaultValue,subset
+Gender,Gender,Male & Female,Profile,Category,F:Female,Are you male or female?,1,,,
+Age,Age,All Ages,Profile,Category,16-24:16-24|25-39:25-39|40-54:40-54|55-74:55-74,How old are you?,1,,,
+Country,Country,All Countries,Profile,Category,1:UK|4:USA,Where do you live?,1,,,
+Region,Region,All Regions,Profile,Category,L:London|N:North|M:Midlands|S:South,Where do you live?,,,,UK|UKMen
+Region,Region,All Regions,Profile,Category,M:Midwest|N:Northeast|S:South|W:West,Where in the USA do you live?,,,,US
+Location,Location,All Location Types,Profile,Category,"1:I live in a city with a population more than 500,000 people|2:I live about a 30 minute drive away from a city of more than 500,000 people|3:I do not live in or a 30 minute drive away from a city of more than 500,000 people","Which of the following best describes the area you live in?
+<inst>Please select one option</inst>",,,,
+Dress size,Dress_size_female,All Dress Sizes,Profile,Category,1-2:Small|3:Medium|4-6:Large,Typically what size of clothing do you wear for dresses?,1,,,
+Household Income,Household_Income,All Incomes,Profile,Value,0-74999:Low|75000-500000:High,What is your ANNUAL HOUSEHOLD income in (USD - $)?,,,,
+Ethnicity,Ethnicity,All Ethnicities,Profile,Category,1:White|2:Hispanic / Latino|3: Black / African American,Would you describe yourself as:,,,,
+Moving average,Moving_Average,,Profile,Category,SevenDays:7 days|FourteenDays:14 days|TwentyEightDays:28 days|TwelveWeeks:12 weeks|TwentySixWeeks:26 weeks|Monthly:Monthly|Quarterly:Quarterly,,,,TwentyEightDays,
+Series type,Series_Type,,Profile,Category,ActualValue:Actual value|MovingAveragePeriodOnPeriodRelativeChange:Relative change|MovingAveragePeriodOnPeriodValueChange:Value change,,,,,
+Seg,Seg,All SEGs,Profile,Category,1:ABC1|2:C2DE,,,,,UK|UKMen
+Seg,Seg,All SEGs,Profile,Category,L:Low|H:High,,,,,US

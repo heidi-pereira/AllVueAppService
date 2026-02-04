@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Household income: greater than £100,000 (Base Consumer_segment)
+  }
+]

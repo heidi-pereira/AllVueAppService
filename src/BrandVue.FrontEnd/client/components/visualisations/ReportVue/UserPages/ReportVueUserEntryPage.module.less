@@ -1,0 +1,90 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+
+.settingsPage {
+    .flex-row();
+    height: 100%;
+
+    .configuration-page {
+        height: 100%;
+    }
+
+    .settingsSidePanel {
+        width: 400px;
+        background: @white;
+        border-right: 1px solid @chalk;
+        box-shadow: 0px 0px 5px @chalk;
+        padding: 28px 0;
+        .flex-column(@gutter: 0px);
+
+        .reportsListContainer {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: stretch;
+            flex-wrap: nowrap;
+            height: 100%;
+            width: 100%;
+            padding: 16px 24px;
+
+            .reportsSearchContainer {
+                margin-bottom: 12px;
+            }
+
+            .reportSearchInputGroup {
+                padding: 0;
+                border-radius: 0;
+                border: none;
+                border-bottom: solid;
+                border-width: 1px;
+                border-bottom-color: #CBCFD3;
+                line-height: 2.5;
+
+
+                &:focus-within {
+                    border-radius: 0;
+                    border: none;
+                    border-bottom: solid;
+                    border-width: 1px;
+                    border-bottom-color: rgba(var(--header-border-colour-rgb), 0.95);
+                    box-shadow: none;
+                    box-shadow: 0 0.15rem 0.15rem -0.15rem var(--header-border-colour);
+                }
+
+                .search {
+                    padding: 0;
+                }
+
+                .searchIcon {
+                    align-self: center;
+                    cursor: default;
+                }
+            }
+
+            .reportlist {
+                padding: 0;
+                list-style: none;
+                overflow-y: auto;
+
+                &::-webkit-scrollbar {
+                    width: 8px;
+                }
+
+                &::-webkit-scrollbar-track {
+                    border-radius: 16px;
+                    background-color: #e5e5e5;
+                }
+
+                &::-webkit-scrollbar-thumb {
+                    border-radius: 16px;
+                    background-color: #acacac;
+                }
+            }
+        }
+    }
+
+    #ErrorView {
+        flex: 1;
+    }
+}

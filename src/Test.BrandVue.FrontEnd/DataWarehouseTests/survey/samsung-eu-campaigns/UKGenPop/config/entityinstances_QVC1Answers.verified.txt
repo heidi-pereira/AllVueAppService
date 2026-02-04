@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: #SYM#0 - #SYM#99
+  },
+  {
+    ClassInstanceId: 2,
+    Name: #SYM#100 - #SYM#199
+  },
+  {
+    ClassInstanceId: 3,
+    Name: #SYM#200 - #SYM#299
+  },
+  {
+    ClassInstanceId: 4,
+    Name: #SYM#300 - #SYM#399
+  },
+  {
+    ClassInstanceId: 5,
+    Name: #SYM#400 - #SYM#499
+  },
+  {
+    ClassInstanceId: 6,
+    Name: #SYM#500 - #SYM#599
+  },
+  {
+    ClassInstanceId: 7,
+    Name: #SYM#600 - #SYM#699
+  },
+  {
+    ClassInstanceId: 8,
+    Name: #SYM#700 - #SYM#799
+  },
+  {
+    ClassInstanceId: 9,
+    Name: #SYM#800 - #SYM#899
+  },
+  {
+    ClassInstanceId: 10,
+    Name: #SYM#900 - #SYM#999
+  },
+  {
+    ClassInstanceId: 11,
+    Name: #SYM#1,000+
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know / Can’t say
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Monthly direct debit
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quarterly direct debit
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Cheque, cash or card on receipt of your bill
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Prepayment meter (where you top up credit onto a key or card, or online, or using an app)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Top-up
+  },
+  {
+    ClassInstanceId: 6,
+    Name: In another way
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  }
+]

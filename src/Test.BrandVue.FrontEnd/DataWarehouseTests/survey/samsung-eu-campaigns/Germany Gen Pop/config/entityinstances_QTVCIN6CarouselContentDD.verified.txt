@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: At the cinema
+  },
+  {
+    ClassInstanceId: 2,
+    Name: While watching or reading content on your smartphone, computer or tablet such as Music videos, sports/entertainment highlights, news or tech reviews
+  },
+  {
+    ClassInstanceId: 5,
+    Name: While watching programmes or films on your TV via apps such as Netflix, YouTube, NowTV, Disney+, Discovery+ or Vevo
+  }
+]

@@ -1,0 +1,113 @@
+pr: none
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - '*'
+  tags:
+    exclude:
+    - '*'
+  paths:
+    include:
+    - src/VueReporting
+
+pool:
+  vmImage: 'windows-2022'
+
+
+variables:
+- template: /src/SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: BrandVue.Reporting
+    majorVersion: 2
+    minorVersion: 3
+- name: solution
+  value: 'src/VueReporting/VueReporting.sln'
+
+name: ${{variables.buildName}}
+
+steps:
+- checkout: self
+  persistCredentials: true
+
+- powershell: |
+    Set-Culture -CultureInfo en-GB
+  displayName: Set UK Culture
+
+- template: /src/SharedBuildScripts/EchoVariables.yaml
+- template: /src/SharedBuildScripts/DotnetRestore.yaml
+- template: /src/SharedBuildScripts/InstallNode.yaml
+
+# Build
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: build
+    projects: $(solution)
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      -p:Copyright="$(copyright)"
+      -p:Version=$(packageVersion)
+
+#Test
+- task: DotNetCoreCLI@2
+  displayName: Test
+  inputs:
+    command: custom
+    custom: test
+    arguments: >
+      $(solution)
+      --configuration $(buildConfiguration)
+      --no-restore
+      --no-build
+      -v=normal
+    testRunTitle: 'Brandvue Test $(packageVersion)'
+
+#Publish
+- task: DotNetCoreCLI@2
+  displayName: Publish
+  inputs:
+    command: publish
+    configuration: $(buildConfiguration)
+    publishWebProjects: false
+    projects: |
+      src/VueReporting/VueReporting/VueReporting.csproj
+    zipAfterPublish: false
+    arguments: >
+      --configuration $(buildConfiguration)
+      -o published
+      --no-restore
+      --no-build
+
+# Pack
+- task: OctopusPackNuGet@6
+  displayName: Pack BrandVue Reporting
+  condition: and(succeeded(), eq(variables.isMasterBuild, 'true'))
+  inputs:
+    PackageId: BrandVueReporting
+    PackageVersion: $(packageVersion)
+    SourcePath: published/VueReporting
+    OutputPath: $(Build.ArtifactStagingDirectory)
+    NuGetDescription: 'BrandVue Reporting'
+    NuGetAuthors: 'Savanta'
+
+- publish: $(Build.ArtifactStagingDirectory)
+
+- template: /src/SharedBuildScripts/PushToOctopus.yaml
+
+- task: OctopusCreateRelease@6
+  displayName: Deploy to Test (master / main / hotfix)
+  condition: and(succeeded(), eq(variables.isMasterBuild, 'true'), eq(variables.octopusChannel, 'Default'))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'Vue Reporting'
+    ReleaseNumber: $(packageVersion)
+    Channel: 'Default'
+    Packages: 'BrandVueReporting:$(packageVersion)'
+    DeployToEnvironment: 'Test'
+
+- template: ../SharedBuildScripts/TagBuild.yaml
+

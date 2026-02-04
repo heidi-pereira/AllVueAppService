@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: No brand recall (Base NoBrandRecall_asked)
+  }
+]

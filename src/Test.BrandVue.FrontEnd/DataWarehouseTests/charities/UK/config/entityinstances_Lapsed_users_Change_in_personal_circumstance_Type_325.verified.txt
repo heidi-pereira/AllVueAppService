@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Change in personal circumstance (Base Lapsed_users_Change_in_personal_circumstance)
+  }
+]

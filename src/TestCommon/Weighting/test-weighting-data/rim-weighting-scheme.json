@@ -1,0 +1,79 @@
+{
+  "filterMetricEntityId": null,
+  "weightingSchemeDetails": {
+    "Dimensions": [
+      {
+        "InterlockedVariableIdentifiers": [
+          "D AGE"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.11,
+          "2": 0.17,
+          "3": 0.16,
+          "4": 0.18,
+          "5": 0.15,
+          "6": 0.23,
+          "7": 0.0
+        }
+      },
+      {
+        "InterlockedVariableIdentifiers": [
+          "D region_2"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.13,
+          "2": 0.22,
+          "3": 0.3,
+          "4": 0.35
+        }
+      },
+      {
+        "InterlockedVariableIdentifiers": [
+          "D shopper asda"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.38,
+          "2": 0.62
+        }
+      },
+      {
+        "InterlockedVariableIdentifiers": [
+          "D shopper sainsbury_2"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.39,
+          "2": 0.61
+        }
+      },
+      {
+        "InterlockedVariableIdentifiers": [
+          "D shopper tesco_2"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.62,
+          "2": 0.38
+        }
+      },
+      {
+        "InterlockedVariableIdentifiers": [
+          "DSEG Quota_2"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.55,
+          "2": 0.45
+        }
+      },
+      {
+        "InterlockedVariableIdentifiers": [
+          "which ways identifyQS 2_2"
+        ],
+        "CellKeyToTarget": {
+          "1": 0.49,
+          "2": 0.51,
+          "3": 0.0,
+          "96": 0.0
+        }
+      }
+    ]
+  }
+}

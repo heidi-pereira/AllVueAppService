@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Affinity (Analysis) (Base Consumer_segment)
+  }
+]

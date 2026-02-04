@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Self-Directed / Execution - only (where you are responsible for researching and arranging investments, without assistance or advice from a professional adviser)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Advisory relationship - ad hoc / for a specific need (a two-way relationship where a professional adviser helps you select a financial product or investment but who you don’t have an ongoing relationship with)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Advisory relationship - ongoing (a two-way relationship where a professional adviser helps you to make informed decisions on the management of your investments on an ongoing basis)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Discretionary investment management (where a professional adviser makes investment decisions on your behalf, based on your pre-agreed objectives)
+  }
+]

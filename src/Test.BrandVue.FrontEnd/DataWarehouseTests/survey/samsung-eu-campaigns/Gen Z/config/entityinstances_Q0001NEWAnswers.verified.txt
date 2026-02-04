@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Absolute
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Capital FM
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Classic FM
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Heart
+  },
+  {
+    ClassInstanceId: 5,
+    Name: KISS
+  },
+  {
+    ClassInstanceId: 6,
+    Name: LBC
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Magic
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Smooth FM
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Radio X
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Virgin Radio
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Heat Radio
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Kerrang
+  },
+  {
+    ClassInstanceId: 13,
+    Name: talkSPORT / talkSPORT 2
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Hits
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Any other commercial radio station
+  },
+  {
+    ClassInstanceId: 97,
+    Name: None of the above
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Athletics
+  },
+  {
+    ClassInstanceId: 2,
+    Name: American Football
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Baseball
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Basketball
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cricket
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Cycling
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Darts
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Football
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Golf
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Gymnastics
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Horse Racing
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Ice Hockey
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Motor Racing
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Netball
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Rugby Union
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Rugby League
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Snooker
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Tennis
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Winter Sports
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other, please specify
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

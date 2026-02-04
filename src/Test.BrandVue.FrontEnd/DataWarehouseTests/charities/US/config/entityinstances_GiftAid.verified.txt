@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I always use Gift Aid when it is possible / offered
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I mostly use Gift Aid when it is possible / offered
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I sometimes use Gift Aid when it is possible / offered
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I rarely / never use Gift Aid
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I am not eligible to give Gift Aid
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I am not aware of Gift Aid
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I never donate to charities
+  }
+]

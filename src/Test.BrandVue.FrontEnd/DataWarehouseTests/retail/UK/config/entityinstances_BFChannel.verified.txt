@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: All IN-PERSON in a shop or store
+  },
+  {
+    ClassInstanceId: 2,
+    Name: All ONLINE through online shops / websites
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Both IN-PERSON and ONLINE
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not sure / don't know
+  }
+]

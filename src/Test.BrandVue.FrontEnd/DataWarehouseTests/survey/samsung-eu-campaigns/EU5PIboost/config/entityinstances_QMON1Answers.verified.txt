@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: #QMON1TAG#0 - #QMON1TAG#199
+  },
+  {
+    ClassInstanceId: 2,
+    Name: #QMON1TAG#200 - #QMON1TAG#299
+  },
+  {
+    ClassInstanceId: 3,
+    Name: #QMON1TAG#300 - #QMON1TAG#399
+  },
+  {
+    ClassInstanceId: 4,
+    Name: #QMON1TAG#400 - #QMON1TAG#499
+  },
+  {
+    ClassInstanceId: 5,
+    Name: #QMON1TAG#500 - #QMON1TAG#749
+  },
+  {
+    ClassInstanceId: 6,
+    Name: #QMON1TAG#750 - #QMON1TAG#999
+  },
+  {
+    ClassInstanceId: 7,
+    Name: #QMON1TAG#1,000 - #QMON1TAG#1,499
+  },
+  {
+    ClassInstanceId: 8,
+    Name: #QMON1TAG#1,500 - #QMON1TAG#1,999
+  },
+  {
+    ClassInstanceId: 9,
+    Name: #QMON1TAG#2,000+
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know / Can’t say
+  }
+]

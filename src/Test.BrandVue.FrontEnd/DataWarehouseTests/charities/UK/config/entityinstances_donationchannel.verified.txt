@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Text
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Website
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Sponsored someone
+  },
+  {
+    ClassInstanceId: 4,
+    Name: As a gift / on someone else’s behalf
+  },
+  {
+    ClassInstanceId: 5,
+    Name: In a charity shop
+  },
+  {
+    ClassInstanceId: 6,
+    Name: In another shop (e.g. supermarket)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Phone call
+  },
+  {
+    ClassInstanceId: 8,
+    Name: On the street
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Other
+  }
+]

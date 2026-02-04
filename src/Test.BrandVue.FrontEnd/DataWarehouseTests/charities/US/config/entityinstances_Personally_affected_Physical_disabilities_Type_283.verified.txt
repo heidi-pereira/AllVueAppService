@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Physical disabilities (Base Personally_affected_Physical_disabilities)
+  }
+]

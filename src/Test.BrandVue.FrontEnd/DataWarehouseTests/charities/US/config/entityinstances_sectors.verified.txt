@@ -1,0 +1,138 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Cancers that affect women (e.g. ovarian cancer)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cancers that affect men (e.g. prostate cancer, testicular cancer)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Cancers that affect men and women (e.g. lung cancer, bowel cancer, skin cancer etc.)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Childhood cancers
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Childhood illnesses (other than cancer)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Miscarriages, stillbirths and neonatal deaths
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Premature and sick babies
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Sexual health
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Mental health
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Physical disabilities
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Learning difficulties and disabilities
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Blindness / Visual impairment
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Strokes
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Heart diseases
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Dementia / Alzheimer’s
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Degenerative diseases / Serious illnesses
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Multiple sclerosis (MS)
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Terminal illnesses / End of life care
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Homelessness and poverty
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Veteran support
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Medical research
+  },
+  {
+    ClassInstanceId: 22,
+    Name: First aid in the US
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Emergency rescue / services in the US
+  },
+  {
+    ClassInstanceId: 24,
+    Name: International aid
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Disaster relief (e.g. people affected by earthquakes, conflicts, disease)
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Pets and animals in the US
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Pets, animals and endangered species around the world
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Environment
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Wildlife and nature in the US
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Human rights
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Historic buildings and landmarks
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Culture (e.g. theatre, music, museums)
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Diabetes
+  }
+]

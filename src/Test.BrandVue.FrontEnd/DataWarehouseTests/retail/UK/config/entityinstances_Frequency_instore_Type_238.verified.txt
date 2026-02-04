@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Instore Shopper L12M (Base Frequency_instore)
+  }
+]

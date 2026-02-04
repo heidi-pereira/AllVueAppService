@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yesterday location (Base Yesterday_location_asked)
+  }
+]

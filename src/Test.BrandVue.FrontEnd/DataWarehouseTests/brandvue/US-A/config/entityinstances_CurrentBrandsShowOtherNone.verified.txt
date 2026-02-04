@@ -1,0 +1,454 @@
+﻿[
+  {
+    ClassInstanceId: 2001,
+    Name: AAA
+  },
+  {
+    ClassInstanceId: 2002,
+    Name: AAMCO
+  },
+  {
+    ClassInstanceId: 2003,
+    Name: Acura
+  },
+  {
+    ClassInstanceId: 2004,
+    Name: Advance Auto Parts
+  },
+  {
+    ClassInstanceId: 2005,
+    Name: Alamo
+  },
+  {
+    ClassInstanceId: 2006,
+    Name: Alfa Romeo
+  },
+  {
+    ClassInstanceId: 2007,
+    Name: Arco
+  },
+  {
+    ClassInstanceId: 2008,
+    Name: Armor All
+  },
+  {
+    ClassInstanceId: 2009,
+    Name: Aston Martin
+  },
+  {
+    ClassInstanceId: 2010,
+    Name: Audi
+  },
+  {
+    ClassInstanceId: 2011,
+    Name: AutoZone
+  },
+  {
+    ClassInstanceId: 2012,
+    Name: Avis
+  },
+  {
+    ClassInstanceId: 2013,
+    Name: Bentley
+  },
+  {
+    ClassInstanceId: 2014,
+    Name: BFGoodrich
+  },
+  {
+    ClassInstanceId: 2015,
+    Name: BMW
+  },
+  {
+    ClassInstanceId: 2016,
+    Name: BP
+  },
+  {
+    ClassInstanceId: 2017,
+    Name: Bridgestone
+  },
+  {
+    ClassInstanceId: 2018,
+    Name: Budget
+  },
+  {
+    ClassInstanceId: 2019,
+    Name: Bugatti
+  },
+  {
+    ClassInstanceId: 2020,
+    Name: Buick
+  },
+  {
+    ClassInstanceId: 2021,
+    Name: Cadillac
+  },
+  {
+    ClassInstanceId: 2022,
+    Name: CarMax
+  },
+  {
+    ClassInstanceId: 2023,
+    Name: Carquest
+  },
+  {
+    ClassInstanceId: 2024,
+    Name: Castrol
+  },
+  {
+    ClassInstanceId: 2025,
+    Name: Chevrolet
+  },
+  {
+    ClassInstanceId: 2026,
+    Name: Chevron
+  },
+  {
+    ClassInstanceId: 2027,
+    Name: Chrysler
+  },
+  {
+    ClassInstanceId: 2028,
+    Name: Citgo
+  },
+  {
+    ClassInstanceId: 2029,
+    Name: Citroën
+  },
+  {
+    ClassInstanceId: 2030,
+    Name: Continental
+  },
+  {
+    ClassInstanceId: 2031,
+    Name: Cooper Tires
+  },
+  {
+    ClassInstanceId: 2032,
+    Name: Daewoo
+  },
+  {
+    ClassInstanceId: 2033,
+    Name: Daihatsu
+  },
+  {
+    ClassInstanceId: 2034,
+    Name: Dodge
+  },
+  {
+    ClassInstanceId: 2035,
+    Name: Exxon Mobil
+  },
+  {
+    ClassInstanceId: 2036,
+    Name: Ferrari
+  },
+  {
+    ClassInstanceId: 2037,
+    Name: Fiat
+  },
+  {
+    ClassInstanceId: 2038,
+    Name: Firestone
+  },
+  {
+    ClassInstanceId: 2039,
+    Name: Ford
+  },
+  {
+    ClassInstanceId: 2040,
+    Name: GEICO
+  },
+  {
+    ClassInstanceId: 2041,
+    Name: General Motors
+  },
+  {
+    ClassInstanceId: 2042,
+    Name: Genesis
+  },
+  {
+    ClassInstanceId: 2043,
+    Name: GMC
+  },
+  {
+    ClassInstanceId: 2044,
+    Name: GMGoodwrench
+  },
+  {
+    ClassInstanceId: 2045,
+    Name: Goodyear
+  },
+  {
+    ClassInstanceId: 2046,
+    Name: Gulf
+  },
+  {
+    ClassInstanceId: 2047,
+    Name: Hankook
+  },
+  {
+    ClassInstanceId: 2048,
+    Name: Harley-Davidson
+  },
+  {
+    ClassInstanceId: 2049,
+    Name: Hertz
+  },
+  {
+    ClassInstanceId: 2050,
+    Name: Honda
+  },
+  {
+    ClassInstanceId: 2051,
+    Name: Hudson Motor Car Company
+  },
+  {
+    ClassInstanceId: 2052,
+    Name: Hyundai
+  },
+  {
+    ClassInstanceId: 2053,
+    Name: Infiniti
+  },
+  {
+    ClassInstanceId: 2054,
+    Name: Jaguar
+  },
+  {
+    ClassInstanceId: 2055,
+    Name: Jeep
+  },
+  {
+    ClassInstanceId: 2056,
+    Name: Jiffy Lube
+  },
+  {
+    ClassInstanceId: 2057,
+    Name: Kia
+  },
+  {
+    ClassInstanceId: 2058,
+    Name: Lamborghini
+  },
+  {
+    ClassInstanceId: 2059,
+    Name: Land Rover
+  },
+  {
+    ClassInstanceId: 2060,
+    Name: Lexus
+  },
+  {
+    ClassInstanceId: 2061,
+    Name: Lincoln
+  },
+  {
+    ClassInstanceId: 2062,
+    Name: Lucas Oil
+  },
+  {
+    ClassInstanceId: 2063,
+    Name: Maserati
+  },
+  {
+    ClassInstanceId: 2064,
+    Name: Maytag
+  },
+  {
+    ClassInstanceId: 2065,
+    Name: Mazda
+  },
+  {
+    ClassInstanceId: 2066,
+    Name: Mercedes-Benz
+  },
+  {
+    ClassInstanceId: 2067,
+    Name: MG Rover Group
+  },
+  {
+    ClassInstanceId: 2068,
+    Name: Michelin
+  },
+  {
+    ClassInstanceId: 2069,
+    Name: Midas
+  },
+  {
+    ClassInstanceId: 2070,
+    Name: MINI
+  },
+  {
+    ClassInstanceId: 2071,
+    Name: Mitsubishi
+  },
+  {
+    ClassInstanceId: 2072,
+    Name: Mobil
+  },
+  {
+    ClassInstanceId: 2073,
+    Name: Mopar
+  },
+  {
+    ClassInstanceId: 2074,
+    Name: NAPA Auto Parts
+  },
+  {
+    ClassInstanceId: 2075,
+    Name: Nissan
+  },
+  {
+    ClassInstanceId: 2076,
+    Name: Oldsmobile
+  },
+  {
+    ClassInstanceId: 2077,
+    Name: O'Reilly Auto Parts
+  },
+  {
+    ClassInstanceId: 2078,
+    Name: Oxy
+  },
+  {
+    ClassInstanceId: 2079,
+    Name: Pennzoil
+  },
+  {
+    ClassInstanceId: 2080,
+    Name: Pep Boys
+  },
+  {
+    ClassInstanceId: 2081,
+    Name: Peugeot
+  },
+  {
+    ClassInstanceId: 2082,
+    Name: Pirelli
+  },
+  {
+    ClassInstanceId: 2083,
+    Name: Pontiac
+  },
+  {
+    ClassInstanceId: 2084,
+    Name: Porsche
+  },
+  {
+    ClassInstanceId: 2085,
+    Name: Prestone
+  },
+  {
+    ClassInstanceId: 2086,
+    Name: Quaker State
+  },
+  {
+    ClassInstanceId: 2087,
+    Name: RAM
+  },
+  {
+    ClassInstanceId: 2088,
+    Name: Renault
+  },
+  {
+    ClassInstanceId: 2089,
+    Name: Saab
+  },
+  {
+    ClassInstanceId: 2090,
+    Name: SafeAuto
+  },
+  {
+    ClassInstanceId: 2091,
+    Name: Safelite
+  },
+  {
+    ClassInstanceId: 2092,
+    Name: Shell
+  },
+  {
+    ClassInstanceId: 2093,
+    Name: STP
+  },
+  {
+    ClassInstanceId: 2094,
+    Name: Studebaker
+  },
+  {
+    ClassInstanceId: 2095,
+    Name: Subaru
+  },
+  {
+    ClassInstanceId: 2096,
+    Name: Sunoco
+  },
+  {
+    ClassInstanceId: 2097,
+    Name: Suzuki Cars
+  },
+  {
+    ClassInstanceId: 2098,
+    Name: Tesla
+  },
+  {
+    ClassInstanceId: 2099,
+    Name: Thrifty
+  },
+  {
+    ClassInstanceId: 2100,
+    Name: Toshiba
+  },
+  {
+    ClassInstanceId: 2101,
+    Name: Total
+  },
+  {
+    ClassInstanceId: 2102,
+    Name: Toyota
+  },
+  {
+    ClassInstanceId: 2103,
+    Name: Turtle Wax
+  },
+  {
+    ClassInstanceId: 2104,
+    Name: Valero
+  },
+  {
+    ClassInstanceId: 2105,
+    Name: Valvoline
+  },
+  {
+    ClassInstanceId: 2106,
+    Name: Volkswagen
+  },
+  {
+    ClassInstanceId: 2107,
+    Name: Volvo
+  },
+  {
+    ClassInstanceId: 2108,
+    Name: WD-40
+  },
+  {
+    ClassInstanceId: 2109,
+    Name: Yamaha
+  },
+  {
+    ClassInstanceId: 2110,
+    Name: Yokohama Tyres
+  },
+  {
+    ClassInstanceId: 2111,
+    Name: Zipcar
+  },
+  {
+    ClassInstanceId: 99998,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99999,
+    Name: None of these
+  }
+]

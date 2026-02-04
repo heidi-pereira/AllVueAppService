@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Strongly disagree
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Disagree
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Neither agree nor disagree
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Agree
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Strongly agree
+  }
+]

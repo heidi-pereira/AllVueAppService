@@ -1,0 +1,26 @@
+@use  "../../Styles/layout.scss" as *;
+@use  "../../Styles/dimensions.scss" as *;
+
+.open-survey-link {
+    @include flex-row($align-items: center);
+    color: var(--colour-blueSteel);
+    margin-left: 8px;
+    transition: color 150ms ease;
+
+    .link-text {
+        font-size: 14px;
+    }
+
+    :global(.material-symbols-outlined) {
+        margin-left: 3px;
+        font-size: 16px;
+    }
+
+    &:hover {
+        color: var(--colour-blueSteel-dark);
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        display: none;
+    }
+}

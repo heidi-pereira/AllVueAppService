@@ -1,0 +1,9 @@
+steps:
+- task: OctopusPush@6
+  displayName: Push to Octopus
+  condition: and(succeeded(), eq(variables.pushToOctopus, 'true'))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Packages: '$(Build.ArtifactStagingDirectory)/*.nupkg'
+    Replace: 'false'

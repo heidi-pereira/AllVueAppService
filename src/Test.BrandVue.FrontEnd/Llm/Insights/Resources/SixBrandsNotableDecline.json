@@ -1,0 +1,854 @@
+﻿[
+  {
+    "entityInstance": {
+      "name": "Amazon",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 6
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.41444042,
+        "weightedValueTotal": 334.6288,
+        "unweightedValueTotal": 337,
+        "unweightedSampleSize": 810,
+        "weightedSampleSize": 807.4232,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.45526987,
+        "weightedValueTotal": 366.72665,
+        "unweightedValueTotal": 362,
+        "unweightedSampleSize": 806,
+        "weightedSampleSize": 805.5149,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.43167657,
+        "weightedValueTotal": 354.90665,
+        "unweightedValueTotal": 358,
+        "unweightedSampleSize": 827,
+        "weightedSampleSize": 822.1587,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.42237183,
+        "weightedValueTotal": 311.6609,
+        "unweightedValueTotal": 302,
+        "unweightedSampleSize": 725,
+        "weightedSampleSize": 737.88275,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.46073538,
+        "weightedValueTotal": 349.8165,
+        "unweightedValueTotal": 342,
+        "unweightedSampleSize": 765,
+        "weightedSampleSize": 759.25684,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.45594406,
+        "weightedValueTotal": 345.7747,
+        "unweightedValueTotal": 344,
+        "unweightedSampleSize": 757,
+        "weightedSampleSize": 758.37085,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.47796857,
+        "weightedValueTotal": 375.1504,
+        "unweightedValueTotal": 372,
+        "unweightedSampleSize": 782,
+        "weightedSampleSize": 784.8851,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.19498152,
+        "weightedValueTotal": 157.1131,
+        "unweightedValueTotal": 159,
+        "unweightedSampleSize": 819,
+        "weightedSampleSize": 805.7846,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.1886331,
+        "weightedValueTotal": 158.36203,
+        "unweightedValueTotal": 161,
+        "unweightedSampleSize": 845,
+        "weightedSampleSize": 839.5241,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.19265945,
+        "weightedValueTotal": 155.06226,
+        "unweightedValueTotal": 159,
+        "unweightedSampleSize": 815,
+        "weightedSampleSize": 804.85156,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.1999531,
+        "weightedValueTotal": 157.23285,
+        "unweightedValueTotal": 131,
+        "unweightedSampleSize": 772,
+        "weightedSampleSize": 786.3487,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.20636906,
+        "weightedValueTotal": 170.52164,
+        "unweightedValueTotal": 162,
+        "unweightedSampleSize": 801,
+        "weightedSampleSize": 826.2946,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.21697034,
+        "weightedValueTotal": 174.48315,
+        "unweightedValueTotal": 171,
+        "unweightedSampleSize": 791,
+        "weightedSampleSize": 804.17975,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "House of Fraser",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 90
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.19372377,
+        "weightedValueTotal": 14.728448,
+        "unweightedValueTotal": 16,
+        "unweightedSampleSize": 88,
+        "weightedSampleSize": 76.02809,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.20557415,
+        "weightedValueTotal": 21.117096,
+        "unweightedValueTotal": 21,
+        "unweightedSampleSize": 101,
+        "weightedSampleSize": 102.72253,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.14866528,
+        "weightedValueTotal": 12.122376,
+        "unweightedValueTotal": 13,
+        "unweightedSampleSize": 83,
+        "weightedSampleSize": 81.54141,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.1987366,
+        "weightedValueTotal": 17.491192,
+        "unweightedValueTotal": 18,
+        "unweightedSampleSize": 97,
+        "weightedSampleSize": 88.01193,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.16805014,
+        "weightedValueTotal": 14.547568,
+        "unweightedValueTotal": 16,
+        "unweightedSampleSize": 83,
+        "weightedSampleSize": 86.56683,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.1398195,
+        "weightedValueTotal": 14.831555,
+        "unweightedValueTotal": 17,
+        "unweightedSampleSize": 105,
+        "weightedSampleSize": 106.07645,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.23336641,
+        "weightedValueTotal": 23.404608,
+        "unweightedValueTotal": 23,
+        "unweightedSampleSize": 105,
+        "weightedSampleSize": 100.291245,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.10628614,
+        "weightedValueTotal": 10.395432,
+        "unweightedValueTotal": 10,
+        "unweightedSampleSize": 99,
+        "weightedSampleSize": 97.8061,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.19114678,
+        "weightedValueTotal": 19.651524,
+        "unweightedValueTotal": 18,
+        "unweightedSampleSize": 102,
+        "weightedSampleSize": 102.808556,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.15858707,
+        "weightedValueTotal": 12.376031,
+        "unweightedValueTotal": 12,
+        "unweightedSampleSize": 76,
+        "weightedSampleSize": 78.039345,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.21035972,
+        "weightedValueTotal": 19.358833,
+        "unweightedValueTotal": 15,
+        "unweightedSampleSize": 80,
+        "weightedSampleSize": 92.02728,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.088900335,
+        "weightedValueTotal": 8.673124,
+        "unweightedValueTotal": 10,
+        "unweightedSampleSize": 106,
+        "weightedSampleSize": 97.56009,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.11826068,
+        "weightedValueTotal": 10.515576,
+        "unweightedValueTotal": 9,
+        "unweightedSampleSize": 87,
+        "weightedSampleSize": 88.91862,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "John Lewis",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 95
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.34371063,
+        "weightedValueTotal": 70.388466,
+        "unweightedValueTotal": 71,
+        "unweightedSampleSize": 214,
+        "weightedSampleSize": 204.7899,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.37813103,
+        "weightedValueTotal": 67.916405,
+        "unweightedValueTotal": 66,
+        "unweightedSampleSize": 178,
+        "weightedSampleSize": 179.61076,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.33312768,
+        "weightedValueTotal": 47.385628,
+        "unweightedValueTotal": 46,
+        "unweightedSampleSize": 145,
+        "weightedSampleSize": 142.24464,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.37637424,
+        "weightedValueTotal": 60.777924,
+        "unweightedValueTotal": 58,
+        "unweightedSampleSize": 159,
+        "weightedSampleSize": 161.48268,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.35574868,
+        "weightedValueTotal": 73.24397,
+        "unweightedValueTotal": 75,
+        "unweightedSampleSize": 196,
+        "weightedSampleSize": 205.88684,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.3432545,
+        "weightedValueTotal": 63.829487,
+        "unweightedValueTotal": 62,
+        "unweightedSampleSize": 181,
+        "weightedSampleSize": 185.95383,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.37323478,
+        "weightedValueTotal": 75.126,
+        "unweightedValueTotal": 73,
+        "unweightedSampleSize": 206,
+        "weightedSampleSize": 201.2835,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.2816287,
+        "weightedValueTotal": 62.86155,
+        "unweightedValueTotal": 64,
+        "unweightedSampleSize": 225,
+        "weightedSampleSize": 223.20718,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.3234293,
+        "weightedValueTotal": 67.58155,
+        "unweightedValueTotal": 61,
+        "unweightedSampleSize": 206,
+        "weightedSampleSize": 208.9531,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.27312216,
+        "weightedValueTotal": 46.411774,
+        "unweightedValueTotal": 46,
+        "unweightedSampleSize": 171,
+        "weightedSampleSize": 169.93047,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.28671873,
+        "weightedValueTotal": 47.168797,
+        "unweightedValueTotal": 46,
+        "unweightedSampleSize": 153,
+        "weightedSampleSize": 164.51244,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.34891638,
+        "weightedValueTotal": 59.625175,
+        "unweightedValueTotal": 58,
+        "unweightedSampleSize": 174,
+        "weightedSampleSize": 170.88672,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.29454985,
+        "weightedValueTotal": 53.89465,
+        "unweightedValueTotal": 49,
+        "unweightedSampleSize": 178,
+        "weightedSampleSize": 182.97293,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "Lidl",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 104
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.58072853,
+        "weightedValueTotal": 317.3653,
+        "unweightedValueTotal": 312,
+        "unweightedSampleSize": 550,
+        "weightedSampleSize": 546.4951,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.580009,
+        "weightedValueTotal": 321.80035,
+        "unweightedValueTotal": 310,
+        "unweightedSampleSize": 538,
+        "weightedSampleSize": 554.8196,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.5619597,
+        "weightedValueTotal": 328.94617,
+        "unweightedValueTotal": 328,
+        "unweightedSampleSize": 586,
+        "weightedSampleSize": 585.35547,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.5713248,
+        "weightedValueTotal": 286.58054,
+        "unweightedValueTotal": 282,
+        "unweightedSampleSize": 498,
+        "weightedSampleSize": 501.60703,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.54310334,
+        "weightedValueTotal": 304.4,
+        "unweightedValueTotal": 300,
+        "unweightedSampleSize": 544,
+        "weightedSampleSize": 560.48267,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.61008173,
+        "weightedValueTotal": 323.78665,
+        "unweightedValueTotal": 328,
+        "unweightedSampleSize": 541,
+        "weightedSampleSize": 530.7267,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.5791895,
+        "weightedValueTotal": 318.2371,
+        "unweightedValueTotal": 303,
+        "unweightedSampleSize": 534,
+        "weightedSampleSize": 549.45245,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.4619994,
+        "weightedValueTotal": 266.0128,
+        "unweightedValueTotal": 257,
+        "unweightedSampleSize": 574,
+        "weightedSampleSize": 575.786,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.4775519,
+        "weightedValueTotal": 250.85393,
+        "unweightedValueTotal": 258,
+        "unweightedSampleSize": 536,
+        "weightedSampleSize": 525.29144,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.42630723,
+        "weightedValueTotal": 242.83466,
+        "unweightedValueTotal": 243,
+        "unweightedSampleSize": 559,
+        "weightedSampleSize": 569.6236,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.39385143,
+        "weightedValueTotal": 192.66908,
+        "unweightedValueTotal": 210,
+        "unweightedSampleSize": 507,
+        "weightedSampleSize": 489.1923,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.4947625,
+        "weightedValueTotal": 269.00314,
+        "unweightedValueTotal": 276,
+        "unweightedSampleSize": 554,
+        "weightedSampleSize": 543.70154,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.4627593,
+        "weightedValueTotal": 247.1438,
+        "unweightedValueTotal": 243,
+        "unweightedSampleSize": 535,
+        "weightedSampleSize": 534.06555,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "Matalan",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 118
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.3845876,
+        "weightedValueTotal": 72.703094,
+        "unweightedValueTotal": 73,
+        "unweightedSampleSize": 198,
+        "weightedSampleSize": 189.0417,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.35235706,
+        "weightedValueTotal": 71.136444,
+        "unweightedValueTotal": 75,
+        "unweightedSampleSize": 210,
+        "weightedSampleSize": 201.88737,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.41055727,
+        "weightedValueTotal": 84.3478,
+        "unweightedValueTotal": 87,
+        "unweightedSampleSize": 209,
+        "weightedSampleSize": 205.4471,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.47600535,
+        "weightedValueTotal": 87.57726,
+        "unweightedValueTotal": 91,
+        "unweightedSampleSize": 192,
+        "weightedSampleSize": 183.98378,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.4287151,
+        "weightedValueTotal": 82.858315,
+        "unweightedValueTotal": 86,
+        "unweightedSampleSize": 198,
+        "weightedSampleSize": 193.27127,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.40145797,
+        "weightedValueTotal": 77.62194,
+        "unweightedValueTotal": 82,
+        "unweightedSampleSize": 198,
+        "weightedSampleSize": 193.35011,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.39737585,
+        "weightedValueTotal": 73.796326,
+        "unweightedValueTotal": 83,
+        "unweightedSampleSize": 207,
+        "weightedSampleSize": 185.70914,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.3436134,
+        "weightedValueTotal": 67.98289,
+        "unweightedValueTotal": 72,
+        "unweightedSampleSize": 204,
+        "weightedSampleSize": 197.84703,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.29309025,
+        "weightedValueTotal": 58.08123,
+        "unweightedValueTotal": 59,
+        "unweightedSampleSize": 208,
+        "weightedSampleSize": 198.16841,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.33109784,
+        "weightedValueTotal": 61.57705,
+        "unweightedValueTotal": 63,
+        "unweightedSampleSize": 180,
+        "weightedSampleSize": 185.97841,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.33394969,
+        "weightedValueTotal": 63.068928,
+        "unweightedValueTotal": 62,
+        "unweightedSampleSize": 188,
+        "weightedSampleSize": 188.85757,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.33813748,
+        "weightedValueTotal": 61.309048,
+        "unweightedValueTotal": 57,
+        "unweightedSampleSize": 188,
+        "weightedSampleSize": 181.31396,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.32745922,
+        "weightedValueTotal": 72.88245,
+        "unweightedValueTotal": 72,
+        "unweightedSampleSize": 224,
+        "weightedSampleSize": 222.56953,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "Superdrug",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 161
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.5769755,
+        "weightedValueTotal": 229.49788,
+        "unweightedValueTotal": 220,
+        "unweightedSampleSize": 391,
+        "weightedSampleSize": 397.76016,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.48988906,
+        "weightedValueTotal": 171.82278,
+        "unweightedValueTotal": 176,
+        "unweightedSampleSize": 351,
+        "weightedSampleSize": 350.73816,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.5180646,
+        "weightedValueTotal": 187.88147,
+        "unweightedValueTotal": 189,
+        "unweightedSampleSize": 365,
+        "weightedSampleSize": 362.6603,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.5746998,
+        "weightedValueTotal": 185.79218,
+        "unweightedValueTotal": 186,
+        "unweightedSampleSize": 331,
+        "weightedSampleSize": 323.2856,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.54823583,
+        "weightedValueTotal": 196.73055,
+        "unweightedValueTotal": 202,
+        "unweightedSampleSize": 370,
+        "weightedSampleSize": 358.84293,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.45598733,
+        "weightedValueTotal": 146.26956,
+        "unweightedValueTotal": 149,
+        "unweightedSampleSize": 328,
+        "weightedSampleSize": 320.77548,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.51689255,
+        "weightedValueTotal": 201.30977,
+        "unweightedValueTotal": 208,
+        "unweightedSampleSize": 407,
+        "weightedSampleSize": 389.46155,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.4321259,
+        "weightedValueTotal": 157.44637,
+        "unweightedValueTotal": 165,
+        "unweightedSampleSize": 378,
+        "weightedSampleSize": 364.353,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.45833078,
+        "weightedValueTotal": 189.35208,
+        "unweightedValueTotal": 189,
+        "unweightedSampleSize": 420,
+        "weightedSampleSize": 413.13412,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.4531926,
+        "weightedValueTotal": 165.4586,
+        "unweightedValueTotal": 165,
+        "unweightedSampleSize": 363,
+        "weightedSampleSize": 365.09555,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.4759229,
+        "weightedValueTotal": 166.06694,
+        "unweightedValueTotal": 160,
+        "unweightedSampleSize": 331,
+        "weightedSampleSize": 348.93665,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.40277523,
+        "weightedValueTotal": 146.78183,
+        "unweightedValueTotal": 150,
+        "unweightedSampleSize": 374,
+        "weightedSampleSize": 364.42615,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.43943456,
+        "weightedValueTotal": 170.73927,
+        "unweightedValueTotal": 165,
+        "unweightedSampleSize": 382,
+        "weightedSampleSize": 388.54312,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  }
+]

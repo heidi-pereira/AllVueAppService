@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home furniture L3M (Base Home_furniture_L3M)
+  }
+]

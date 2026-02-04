@@ -1,0 +1,95 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.box {
+    .flex-column();
+    border: 1px solid black;
+    max-width: 1200px;
+    margin: 20px 0;
+    flex: 1;
+
+
+    .header {
+        border-bottom: 1px solid @slate-dark;
+        text-align: center;
+        font-size: large;
+        padding: 10px;
+        background-color: @chalk-light;
+    }
+
+    .button {
+        color: @blueSteel;
+        margin-right: 4px;
+        cursor: pointer;
+
+        .materialButton {
+            font-size: 20px;
+
+            &:hover {
+                color: @slate-dark;
+            }
+        }
+    }
+
+
+    .content {
+        padding: 20px;
+
+        .defaultText {
+            text-align: center;
+            color: gray;
+            font-size: large;
+        }
+
+        .row {
+            .flex-row();
+
+            .actionButtons {
+                .flex-row()
+            }
+
+            .thirdPartyName {
+                margin: 3px 0
+            }
+
+            .button {
+                padding: 0;
+            }
+
+            div {
+                padding: 0 5px;
+
+                a {
+                    color: @navy;
+                }
+            }
+        }
+    }
+
+    .bottom {
+        border-top: 1px solid dimgrey;
+        .flex-row();
+        padding: 10px;
+
+        .actions {
+            .flex-row();
+
+            button {
+                margin: 5px 5px;
+            }
+
+            &:hover {
+                cursor: pointer;
+            }
+
+            .material-symbols-outlined:hover {
+                color: @slate-dark;
+            }
+        }
+    }
+
+    .consumerDutyIcon {
+        margin: 5px 5px 0px 0px;
+        color:@lava;
+    }
+}

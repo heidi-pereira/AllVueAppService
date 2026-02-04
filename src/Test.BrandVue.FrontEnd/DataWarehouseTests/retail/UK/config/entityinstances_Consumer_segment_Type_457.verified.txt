@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV services used (Base Consumer_segment)
+  }
+]

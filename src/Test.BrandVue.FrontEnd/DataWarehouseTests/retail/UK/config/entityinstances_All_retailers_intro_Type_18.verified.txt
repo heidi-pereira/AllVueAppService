@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: All retailers intro (Base All_retailers_intro)
+  }
+]

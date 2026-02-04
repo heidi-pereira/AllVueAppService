@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Italian Brands
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Burger Brands
+  },
+  {
+    ClassInstanceId: 3,
+    Name: French Brands
+  }
+]

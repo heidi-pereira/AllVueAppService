@@ -1,0 +1,97 @@
+@import './colors.scss';
+@import './ResponsiveLayout.scss';
+
+.Toastify {
+    .toast {
+        text-align: center;
+        font-size: 14px;
+        min-width: 200px;
+        min-height: unset;
+        padding: 10px;
+        border-radius: 4px;
+
+        i.material-symbols-outlined {
+            color: $slate-darker;
+            font-size: 16px;
+            vertical-align: sub;
+            margin-right: 7px;
+        }
+
+        @include width-less-than(650px) {
+            border-radius: 0;
+        }
+    }
+
+    .Toastify__toast-container {
+        min-width: 300px;
+
+        @include width-less-than(650px) {
+            width: 100%;
+        }
+
+        .toast-error {
+            background: $lava;
+        }
+
+        .toast-success {
+            background: $lime-dark;
+        }
+
+        .Toastify__toast-body {
+            white-space: pre-line;
+            font-family: Roboto;
+            padding: 8px 12px;
+            line-height: 1.5;
+        }
+    }
+}
+
+@keyframes moveUp {
+    from {
+        transform: translate3d(0, 150%, 0);
+        visibility: visible;
+    }
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@-webkit-keyframes moveUp {
+    from {
+        transform: translate3d(0, 150%, 0);
+        visibility: visible;
+    }
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes moveDown {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+    to {
+        visibility: hidden;
+        transform: translate3d(0, 150%, 0);
+    }
+}
+
+@-webkit-keyframes moveDown {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+    to {
+        visibility: hidden;
+        transform: translate3d(0, 150%, 0);
+    }
+}
+
+.moveUp {
+    -webkit-animation-name: moveUp;
+    animation-name: moveUp;
+}
+
+.moveDown {
+    -webkit-animation-name: moveDown;
+    animation-name: moveDown;
+}

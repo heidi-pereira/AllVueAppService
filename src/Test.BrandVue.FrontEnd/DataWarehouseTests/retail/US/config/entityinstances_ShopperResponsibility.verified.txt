@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am responsible most / all of the time
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I am jointly responsible
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I am rarely / never responsible
+  }
+]

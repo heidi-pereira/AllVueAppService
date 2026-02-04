@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - I do everything I can on a daily basis to act in an environmentally responsible way (Base I_do_everything_I_can_on_a_daily_basis_to_act_in_an_environmentally_responsible_way)
+  }
+]

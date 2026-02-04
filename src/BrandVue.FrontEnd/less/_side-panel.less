@@ -1,0 +1,142 @@
+﻿@import "_vars";
+@import "_layout";
+
+.side-panel {
+    grid-area: right-panel;
+    background: @white;
+    height: 100%;
+    width: 0;
+    border-left: solid 1px @chalk;
+    padding: 0;
+    .flex-column();
+    overflow: hidden;
+    opacity: 0;
+    transition: width 225ms ease, opacity 225ms ease, padding 225ms ease;
+
+    &.visible {
+        width: 400px;
+        padding: 16px;
+        opacity: 1;
+    }
+
+    .nav-tabs {
+        padding-top: 0px;
+        justify-content: space-between;
+        display: flex;
+    }
+
+    .nav-item {
+        margin: auto;
+        display: block;
+
+        &:hover {
+            .sparkle-icon-inactive {
+                background: url(../wwwroot/assets/icons/custom/sparkle-darkslate.svg);
+            }
+        }
+    }
+
+    .inline-text {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .sparkle-icon, .sparkle-icon-inactive {
+        display: inline-block;
+        vertical-align: middle;
+        height: 32px;
+        width: 28px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .tab-content {
+        .scrollbars;
+        overflow-y: auto;
+        .flex-column();
+        flex: 1;
+
+        .tab-pane.active {
+            padding: 20px 5px 0 0;
+            .flex-column();
+            flex: 1;
+            font-weight: normal;
+        }
+    }
+
+    .close-side-panel-button {
+        color: @slate;
+        cursor: pointer;
+        user-select: none;
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+
+        &:hover {
+            color: @slate-darker;
+        }
+    }
+
+    .user-feedback-helpfulness {
+        margin-top: auto;
+        width: calc(100% + 32px);
+        margin-left: -16px;
+        margin-right: -16px;
+        padding: 24px 21px 32px 37px;
+        border-top: solid 1px @chalk;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 12px;
+
+        .title {
+            font-size: 14px;
+        }
+
+        .button-group {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 8px;
+        }
+
+        button {
+            background-color: transparent;
+            color: @blueSteel;
+            border-color: @blueSteel;
+            border-radius: 20%;
+            cursor: pointer;
+            font-size: 8px;
+            padding: 4px;
+
+            &.button-clicked {
+                background-color: @blueSteel-lighter;
+            }
+
+            &:hover {
+                background-color: @blueSteel-lighter;
+            }
+        }
+
+        .feedback-button {
+            background-color: transparent;
+            color: @blueSteel;
+            border: none;
+            border-bottom: 2px solid @blueSteel;
+            border-radius: 0;
+            font-size: 12px;
+        }
+
+        .back-button {
+            background-color: transparent;
+            color: @slate;
+            border: none;
+            border-radius: 0;
+            font-size: 12px;
+        }
+
+        .close-button {
+            border: none;
+        }
+    }
+}

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Short breaks in the UK (up to four days)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Longer breaks in the UK (more than four days)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Short breaks abroad (up to four days)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Longer breaks abroad (more than four days)
+  }
+]

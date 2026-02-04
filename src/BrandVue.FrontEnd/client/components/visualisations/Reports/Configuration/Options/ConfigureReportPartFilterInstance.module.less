@@ -1,0 +1,102 @@
+@import "../../../../../../less/_vars";
+
+.pickFilterInstances {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    min-width: 0;
+    gap: 8px;
+
+    > * {
+        flex-shrink: 0;
+        min-width: auto;
+    }
+
+    .categoryLabel {
+        margin-bottom: 0px;
+    }
+
+    .configureOptionDropdown {
+        .toggle-button,
+        button {
+            color: @blueSteel;
+            border-color: @blueSteel;
+            border-radius: 4px !important;
+            background: white;
+            transition: background 0.2s;
+            max-width: fit-content;
+
+            i {
+                color: @blueSteel;
+            }
+
+            &:hover,
+            &:focus,
+            &:active,
+            &.show,
+            &[aria-expanded="true"] {
+                color: @blueSteel !important;
+            }
+        }
+
+        .dropdownMenu {
+            min-width: 220px;
+            width: auto;
+            padding: 10px;
+            max-height: 600px;
+            overflow-x: auto;
+        }
+
+        .dropdownItem {
+            color: @slate-darker;
+            max-width: 350px;
+            min-width: 120px;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            padding-right: 12px;
+
+            &.selected {
+                font-weight: 500;
+            }
+
+            .filterInstanceLabel {
+                min-width: 0;
+                flex: 1 1 0%;
+                width: auto;
+                padding-left: 5px;
+                margin-left: -5px;
+                background: none;
+                cursor: pointer;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                display: block;
+            }
+        }
+    }
+
+    input[type=checkbox] {
+        margin-right: 10px;
+        width: 16px;
+        height: 16px;
+        vertical-align: text-top;
+        cursor: pointer;
+        &.selected {
+            font-weight: 500;
+        }
+    }
+
+}
+
+.entitySetSelectorButtons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 0 8px 0;
+    width: 100%;
+}

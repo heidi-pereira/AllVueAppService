@@ -1,0 +1,5 @@
+﻿
+A panel can only contain an email address once
+
+The same email address can exist across multiple panels
+

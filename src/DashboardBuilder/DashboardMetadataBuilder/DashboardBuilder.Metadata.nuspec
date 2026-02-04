@@ -1,0 +1,14 @@
+﻿<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>DashboardBuilder.Metadata</id>
+    <version>$version$</version>
+    <authors>MIG Global Ltd.</authors>
+    <owners>MIG Global Ltd.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/MIG-Global/DashboardBuilder</projectUrl>
+    <description>DashboardBuilder metadata taken from Egnyte</description>
+  </metadata>
+  <files>
+    <file src="LatestMetadata\DashboardBuilder.Metadata\**" target="" />
+  </files>
+</package>

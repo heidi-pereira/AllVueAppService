@@ -1,0 +1,1237 @@
+[
+  {
+    "Categories": [
+      {
+        "Id": "EntityInstance",
+        "Name": "Ecommerce/online shopping",
+        "DisplayName": null,
+        "SignificanceIdentifier": "\u0000",
+        "SubCategories": []
+      }
+    ],
+    "InstanceResults": [
+      {
+        "EntityInstance": {
+          "name": "Early morning",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 1
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "Late morning snack",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 2
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "Afternoon snack",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 3
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "On-the-go",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 4
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "Late night",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 5
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "I don't consume cereal",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 97
+        },
+        "Values": {}
+      }
+    ],
+    "HiddenColumns": 9,
+    "TypeName": "CrosstabResults",
+    "SampleSizeMetadata": {
+      "SampleSize": { "Unweighted": 2442.0, "Weighted": 2442.0 },
+      "SampleSizeByMetric": null,
+      "SampleSizeByEntity": {
+        "Early morning": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Late morning snack": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Afternoon snack": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "On-the-go": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Late night": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "I don't consume cereal": { "Unweighted": 407.0, "Weighted": 407.0 }
+      },
+      "CurrentDate": "2025-06-02T00:00:00+00:00",
+      "SampleSizeEntityInstanceName": null
+    },
+    "HasData": true,
+    "LowSampleSummary": null,
+    "TrialRestrictedData": false
+  },
+  {
+    "Categories": [
+      {
+        "Id": "EntityInstance",
+        "Name": "Breakfast cereal",
+        "DisplayName": null,
+        "SignificanceIdentifier": "\u0000",
+        "SubCategories": []
+      },
+      {
+        "Id": "Total",
+        "Name": "Total",
+        "DisplayName": null,
+        "SignificanceIdentifier": "\u0000",
+        "SubCategories": []
+      },
+      {
+        "Id": "Gender age",
+        "Name": "GenderAge",
+        "DisplayName": null,
+        "SignificanceIdentifier": "a",
+        "SubCategories": [
+          {
+            "Id": "0Gender ageMale - 18-24",
+            "Name": "Male - 18-24",
+            "DisplayName": null,
+            "SignificanceIdentifier": "a",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageMale - 25-34",
+            "Name": "Male - 25-34",
+            "DisplayName": null,
+            "SignificanceIdentifier": "b",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageMale - 35-44",
+            "Name": "Male - 35-44",
+            "DisplayName": null,
+            "SignificanceIdentifier": "c",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageMale - 45+",
+            "Name": "Male - 45+",
+            "DisplayName": null,
+            "SignificanceIdentifier": "d",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageFemale - 18-24",
+            "Name": "Female - 18-24",
+            "DisplayName": null,
+            "SignificanceIdentifier": "e",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageFemale - 25-34",
+            "Name": "Female - 25-34",
+            "DisplayName": null,
+            "SignificanceIdentifier": "f",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageFemale - 35-44",
+            "Name": "Female - 35-44",
+            "DisplayName": null,
+            "SignificanceIdentifier": "g",
+            "SubCategories": []
+          },
+          {
+            "Id": "0Gender ageFemale - 45+",
+            "Name": "Female - 45+",
+            "DisplayName": null,
+            "SignificanceIdentifier": "h",
+            "SubCategories": []
+          }
+        ]
+      }
+    ],
+    "InstanceResults": [
+      {
+        "EntityInstance": {
+          "name": "Early morning",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 1
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.6732186732186732,
+            "Count": 274.0,
+            "SampleForCount": 407.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 407.0, "Weighted": 407.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 18-24": {
+            "Result": 0.68,
+            "Count": 17.0,
+            "SampleForCount": 25.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 25.0, "Weighted": 25.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 25-34": {
+            "Result": 0.6831683168316832,
+            "Count": 69.0,
+            "SampleForCount": 101.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 101.0, "Weighted": 101.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 35-44": {
+            "Result": 0.6962025316455697,
+            "Count": 55.0,
+            "SampleForCount": 79.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 79.0, "Weighted": 79.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 45+": {
+            "Result": 0.6764705882352942,
+            "Count": 23.0,
+            "SampleForCount": 34.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 34.0, "Weighted": 34.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 18-24": {
+            "Result": 0.6666666666666666,
+            "Count": 16.0,
+            "SampleForCount": 24.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 24.0, "Weighted": 24.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 25-34": {
+            "Result": 0.6617647058823529,
+            "Count": 45.0,
+            "SampleForCount": 68.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 68.0, "Weighted": 68.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 35-44": {
+            "Result": 0.6666666666666666,
+            "Count": 36.0,
+            "SampleForCount": 54.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 54.0, "Weighted": 54.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 45+": {
+            "Result": 0.5909090909090909,
+            "Count": 13.0,
+            "SampleForCount": 22.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 22.0, "Weighted": 22.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "Late morning snack",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 2
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.3488943488943489,
+            "Count": 142.0,
+            "SampleForCount": 407.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 407.0, "Weighted": 407.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 18-24": {
+            "Result": 0.44,
+            "Count": 11.0,
+            "SampleForCount": 25.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 25.0, "Weighted": 25.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 25-34": {
+            "Result": 0.26732673267326734,
+            "Count": 27.0,
+            "SampleForCount": 101.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 101.0, "Weighted": 101.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 35-44": {
+            "Result": 0.3037974683544304,
+            "Count": 24.0,
+            "SampleForCount": 79.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 79.0, "Weighted": 79.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 45+": {
+            "Result": 0.35294117647058826,
+            "Count": 12.0,
+            "SampleForCount": 34.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 34.0, "Weighted": 34.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 18-24": {
+            "Result": 0.375,
+            "Count": 9.0,
+            "SampleForCount": 24.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 24.0, "Weighted": 24.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 25-34": {
+            "Result": 0.47058823529411764,
+            "Count": 32.0,
+            "SampleForCount": 68.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 68.0, "Weighted": 68.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 35-44": {
+            "Result": 0.37037037037037035,
+            "Count": 20.0,
+            "SampleForCount": 54.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 54.0, "Weighted": 54.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 45+": {
+            "Result": 0.3181818181818182,
+            "Count": 7.0,
+            "SampleForCount": 22.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 22.0, "Weighted": 22.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "Afternoon snack",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 3
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.16707616707616707,
+            "Count": 68.0,
+            "SampleForCount": 407.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 407.0, "Weighted": 407.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 18-24": {
+            "Result": 0.08,
+            "Count": 2.0,
+            "SampleForCount": 25.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 25.0, "Weighted": 25.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 25-34": {
+            "Result": 0.21782178217821782,
+            "Count": 22.0,
+            "SampleForCount": 101.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 101.0, "Weighted": 101.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 35-44": {
+            "Result": 0.17721518987341772,
+            "Count": 14.0,
+            "SampleForCount": 79.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 79.0, "Weighted": 79.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 45+": {
+            "Result": 0.058823529411764705,
+            "Count": 2.0,
+            "SampleForCount": 34.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 34.0, "Weighted": 34.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 18-24": {
+            "Result": 0.125,
+            "Count": 3.0,
+            "SampleForCount": 24.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 24.0, "Weighted": 24.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 25-34": {
+            "Result": 0.14705882352941177,
+            "Count": 10.0,
+            "SampleForCount": 68.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 68.0, "Weighted": 68.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 35-44": {
+            "Result": 0.2222222222222222,
+            "Count": 12.0,
+            "SampleForCount": 54.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 54.0, "Weighted": 54.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 45+": {
+            "Result": 0.13636363636363635,
+            "Count": 3.0,
+            "SampleForCount": 22.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 22.0, "Weighted": 22.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "On-the-go",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 4
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.08353808353808354,
+            "Count": 34.0,
+            "SampleForCount": 407.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 407.0, "Weighted": 407.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 18-24": {
+            "Result": 0.04,
+            "Count": 1.0,
+            "SampleForCount": 25.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 25.0, "Weighted": 25.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 25-34": {
+            "Result": 0.09900990099009901,
+            "Count": 10.0,
+            "SampleForCount": 101.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 101.0, "Weighted": 101.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 35-44": {
+            "Result": 0.08860759493670886,
+            "Count": 7.0,
+            "SampleForCount": 79.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 79.0, "Weighted": 79.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 45+": {
+            "Result": 0.029411764705882353,
+            "Count": 1.0,
+            "SampleForCount": 34.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 34.0, "Weighted": 34.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 18-24": {
+            "Result": 0.08333333333333333,
+            "Count": 2.0,
+            "SampleForCount": 24.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 24.0, "Weighted": 24.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 25-34": {
+            "Result": 0.1323529411764706,
+            "Count": 9.0,
+            "SampleForCount": 68.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 68.0, "Weighted": 68.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 35-44": {
+            "Result": 0.07407407407407407,
+            "Count": 4.0,
+            "SampleForCount": 54.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 54.0, "Weighted": 54.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 45+": {
+            "Result": 0.0,
+            "Count": 0.0,
+            "SampleForCount": 22.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 22.0, "Weighted": 22.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "Late night",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 5
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.18181818181818182,
+            "Count": 74.0,
+            "SampleForCount": 407.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 407.0, "Weighted": 407.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 18-24": {
+            "Result": 0.0,
+            "Count": 0.0,
+            "SampleForCount": 25.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 25.0, "Weighted": 25.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 25-34": {
+            "Result": 0.1782178217821782,
+            "Count": 18.0,
+            "SampleForCount": 101.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 101.0, "Weighted": 101.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 35-44": {
+            "Result": 0.25316455696202533,
+            "Count": 20.0,
+            "SampleForCount": 79.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 79.0, "Weighted": 79.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 45+": {
+            "Result": 0.14705882352941177,
+            "Count": 5.0,
+            "SampleForCount": 34.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 34.0, "Weighted": 34.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 18-24": {
+            "Result": 0.20833333333333334,
+            "Count": 5.0,
+            "SampleForCount": 24.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 24.0, "Weighted": 24.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 25-34": {
+            "Result": 0.20588235294117646,
+            "Count": 14.0,
+            "SampleForCount": 68.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 68.0, "Weighted": 68.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 35-44": {
+            "Result": 0.2037037037037037,
+            "Count": 11.0,
+            "SampleForCount": 54.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 54.0, "Weighted": 54.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 45+": {
+            "Result": 0.045454545454545456,
+            "Count": 1.0,
+            "SampleForCount": 22.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 22.0, "Weighted": 22.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "I don't consume cereal",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 97
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.0687960687960688,
+            "Count": 28.0,
+            "SampleForCount": 407.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 407.0, "Weighted": 407.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 18-24": {
+            "Result": 0.16,
+            "Count": 4.0,
+            "SampleForCount": 25.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 25.0, "Weighted": 25.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 25-34": {
+            "Result": 0.09900990099009901,
+            "Count": 10.0,
+            "SampleForCount": 101.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 101.0, "Weighted": 101.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 35-44": {
+            "Result": 0.05063291139240506,
+            "Count": 4.0,
+            "SampleForCount": 79.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 79.0, "Weighted": 79.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageMale - 45+": {
+            "Result": 0.058823529411764705,
+            "Count": 2.0,
+            "SampleForCount": 34.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 34.0, "Weighted": 34.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 18-24": {
+            "Result": 0.08333333333333333,
+            "Count": 2.0,
+            "SampleForCount": 24.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 24.0, "Weighted": 24.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 25-34": {
+            "Result": 0.029411764705882353,
+            "Count": 2.0,
+            "SampleForCount": 68.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 68.0, "Weighted": 68.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 35-44": {
+            "Result": 0.05555555555555555,
+            "Count": 3.0,
+            "SampleForCount": 54.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 54.0, "Weighted": 54.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          },
+          "0Gender ageFemale - 45+": {
+            "Result": 0.045454545454545456,
+            "Count": 1.0,
+            "SampleForCount": 22.0,
+            "SampleSizeMetaData": {
+              "SampleSize": { "Unweighted": 22.0, "Weighted": 22.0 },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2025-06-02T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": [],
+            "HasValidResult": true,
+            "UnweightedSampleForCount": 0
+          }
+        }
+      }
+    ],
+    "HiddenColumns": 0,
+    "TypeName": "CrosstabResults",
+    "SampleSizeMetadata": {
+      "SampleSize": { "Unweighted": 2442.0, "Weighted": 2442.0 },
+      "SampleSizeByMetric": null,
+      "SampleSizeByEntity": {
+        "Early morning": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Late morning snack": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Afternoon snack": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "On-the-go": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Late night": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "I don't consume cereal": { "Unweighted": 407.0, "Weighted": 407.0 }
+      },
+      "CurrentDate": "2025-06-02T00:00:00+00:00",
+      "SampleSizeEntityInstanceName": null
+    },
+    "HasData": true,
+    "LowSampleSummary": null,
+    "TrialRestrictedData": false
+  },
+  {
+    "Categories": [
+      {
+        "Id": "EntityInstance",
+        "Name": "Automobile - Cars",
+        "DisplayName": null,
+        "SignificanceIdentifier": "\u0000",
+        "SubCategories": []
+      }
+    ],
+    "InstanceResults": [
+      {
+        "EntityInstance": {
+          "name": "Early morning",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 1
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "Late morning snack",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 2
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "Afternoon snack",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 3
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "On-the-go",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 4
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "Late night",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 5
+        },
+        "Values": {}
+      },
+      {
+        "EntityInstance": {
+          "name": "I don't consume cereal",
+          "color": null,
+          "enabledBySubset": {},
+          "startDateBySubset": {},
+          "imageUrl": null,
+          "id": 97
+        },
+        "Values": {}
+      }
+    ],
+    "HiddenColumns": 9,
+    "TypeName": "CrosstabResults",
+    "SampleSizeMetadata": {
+      "SampleSize": { "Unweighted": 2442.0, "Weighted": 2442.0 },
+      "SampleSizeByMetric": null,
+      "SampleSizeByEntity": {
+        "Early morning": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Late morning snack": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Afternoon snack": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "On-the-go": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "Late night": { "Unweighted": 407.0, "Weighted": 407.0 },
+        "I don't consume cereal": { "Unweighted": 407.0, "Weighted": 407.0 }
+      },
+      "CurrentDate": "2025-06-02T00:00:00+00:00",
+      "SampleSizeEntityInstanceName": null
+    },
+    "HasData": true,
+    "LowSampleSummary": null,
+    "TrialRestrictedData": false
+  }
+]

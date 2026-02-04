@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I consider my diet to be very healthy
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I like to treat myself to foods that I know are not good for me
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I / we prefer to buy fresh ingredients and cook from scratch
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I / we don’t always have the time to make a nutritious home cooked meal
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Processed or packaged foods are a great time saver for me / us
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I / we find myself / ourselves preparing the same meals again and again
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I like cooking / baking more at the weekends when I’ve got more time
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I like to try new products and flavors
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I look for products and brands that are sustainable
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Brand names are important to me when buying food and drink
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Urban
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Suburban
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Semi-rural
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Rural
+  }
+]

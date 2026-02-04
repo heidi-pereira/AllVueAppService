@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Once or twice a year
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 2-3 times a month
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Once a week
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Once every 2-3 months
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Less often
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Once a month
+  },
+  {
+    ClassInstanceId: 6,
+    Name: More than once a week
+  }
+]

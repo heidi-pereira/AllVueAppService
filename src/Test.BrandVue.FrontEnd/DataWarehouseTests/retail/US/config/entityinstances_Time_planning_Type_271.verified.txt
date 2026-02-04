@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Mid-term planning (Base Time_planning)
+  }
+]

@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 102,
+    Name: Coats & Jackets
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Dresses
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Jeans
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Jumpers & Cardigans
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Shirts
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Shirts & Blouses
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Skirts
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Suits & Tailoring
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Tops & T-shirts
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Trousers
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Underwear
+  },
+  {
+    ClassInstanceId: 301,
+    Name: Boots
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Shoes
+  }
+]

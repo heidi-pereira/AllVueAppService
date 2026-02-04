@@ -1,0 +1,260 @@
+body {
+    font-family: "Roboto", "Segoe UI", Arial, sans-serif;
+}
+
+.brandBullet { font-size: 11px !important; }
+
+.chartContainer {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.sidebar-menu { }
+
+.notes { margin-top: 20px; }
+
+.notes * { font-size: smaller; }
+
+/*=====================*/
+
+/* Bootstrap override  */
+
+/*=====================*/
+
+a:hover, a:focus { text-decoration: none; }
+
+
+/*====================================*/
+
+/* Customisations for daterangepicker */
+
+/*====================================*/
+
+.daterangepicker { padding: 10px; }
+
+.daterangepicker th.available:hover { background-color: transparent !important; }
+
+.daterangepicker .fa {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 2px;
+    direction: ltr;
+    display: inline-block;
+    font-family: 'Material Symbols Outlined';
+    font-feature-settings: 'liga';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    margin-left: -6px;
+    margin-top: -5px;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+
+.daterangepicker .fa-chevron-right:hover, .daterangepicker .fa-chevron-left:hover { background: #eee; }
+
+.daterangepicker .fa-calendar:after {
+    color: rgba(0, 0, 0, 0.56);
+    content: 'date_range';
+}
+
+.daterangepicker .fa-chevron-right:after {
+    color: rgba(0, 0, 0, 0.56);
+    content: 'chevron_right';
+}
+
+.daterangepicker .fa-chevron-left:after {
+    color: rgba(0, 0, 0, 0.56);
+    content: 'chevron_left';
+}
+
+
+.daterangepicker .btn-success {
+    background-color: rgba(4, 194, 219, 0.4);
+    border: 1px solid #adadad;
+    color: #000
+}
+
+.daterangepicker .btn-default { background-color: #eee; }
+
+.daterangepicker .ranges li {
+    background-color: #f8f8f8;
+    border: none;
+    color: #000;
+    white-space: nowrap;
+}
+
+.daterangepicker .ranges li.active {
+    background-color: rgba(4, 194, 219, 0.2);
+    border: none;
+    color: #000;
+}
+
+.daterangepicker .ranges ul {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.daterangepicker .ranges ul:after {
+    content: '* Limited to available data';
+    font-size: 9px;
+    margin-left: 5px;
+}
+
+.daterangepicker .ranges li:hover {
+    background-color: rgba(167, 169, 172, 0.2);
+    border: none;
+}
+
+.daterangepicker .btn { margin: 3px; }
+
+
+
+/*====================================*/
+
+.chart {
+    font-family: "Roboto", "Segoe UI", Arial, sans-serif;
+    font-size: 14px;
+}
+
+.line {
+    fill: none;
+    stroke-width: 5px;
+}
+
+.axis path, .axis line {
+    fill: none;
+    shape-rendering: crispEdges;
+    stroke: #888;
+}
+
+.y.axis path { stroke: #888; }
+
+.grid {
+    stroke: #dedede;
+    stroke-width: 1px;
+}
+
+.label {
+    color: unset;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: unset;
+}
+
+.dp {
+    fill: white;
+    font-family: "Roboto", "Segoe UI", Arial, sans-serif;
+    font-size: 12px;
+    text-anchor: middle;
+}
+
+.bar {
+    color: #fff;
+    fill: #33b5e5;
+}
+
+.node { cursor: pointer; }
+
+.node circle {
+    fill: #fff;
+    stroke-width: 1.5px;
+}
+
+.node text { font: 10px sans-serif; }
+
+.link {
+    fill: none;
+    stroke: #eee !important;
+    stroke-width: 1.5px !important;
+}
+
+.domain { stroke-opacity: 0; }
+
+.errorValue { font-weight: bold; }
+
+.clickable { cursor: pointer; }
+
+.seperator {
+    border-bottom: rgba(0, 0, 0, 0.12);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.info:before {
+    color: rgba(56, 181, 230, 0.40);
+    content: "\E88E";
+    display: block;
+    font-family: 'Material Symbols Outlined';
+    font-size: 32px;
+    left: 10px;
+    position: absolute;
+    top: 3px;
+}
+
+.noSelection { font-weight: bold; }
+
+.metricDropDown { width: 240px !important; }
+
+.metricDropDown-multi { width: 440px !important; }
+
+.brandSelector button span { color: red; }
+
+.comparisonSelection .bootstrap-select button span { color: black; }
+
+.brandSelector { width: 200px; }
+
+.select-picker {
+    display: inline-block;
+    width: 200px;
+}
+
+.active { font-weight: bold; }
+
+.brandDeleteIcon {
+    font-size: small !important;
+    vertical-align: sub !important;
+}
+
+.brandVue { background: gainsboro; }
+
+.btn-secondary:not([disabled]):not(.disabled).active, .btn-secondary:not([disabled]):not(.disabled):active, .brandSelector.show > .dropdown-toggle { background-color: gainsboro; }
+
+.btn-secondary:not([disabled]):not(.disabled).active, .btn-secondary:not([disabled]):not(.disabled):active, .brandGroupSelector.show > .dropdown-toggle { background-color: gainsboro; }
+
+.comparisonSelection {
+    align-items: center;
+    background-color: rgba(93, 174, 212, 0.25);
+    border-radius: 4px;
+    display: inline-flex;
+    margin: 0 8px 8px 0;
+    padding: 4px;
+}
+
+
+.comparisonSelection .clearMetric {
+    background-color: transparent;
+    border: none;
+    color: #6c757d;
+    cursor: pointer;
+    outline: none;
+    padding: 4px;
+}
+
+.comparisonSelection .clearMetric .material-symbols-outlined {
+    display: block;
+    font-size: 20px;
+}
+
+.comparisonSelection .clearMetric:disabled { cursor: not-allowed; }
+
+.comparisonSelection .btn-group.bootstrap-select.dropdown { margin-right: 4px; }
+
+.comparisonSelection.validationWarning { background-color: rgba(246, 170, 87, 0.25); }
+
+.comparisonSelection.noDataError { background-color: rgba(255, 0, 0, 0.25); }

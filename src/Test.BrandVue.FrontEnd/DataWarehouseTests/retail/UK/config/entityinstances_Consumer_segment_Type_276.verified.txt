@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Negative Buzz (Base Consumer_segment)
+  }
+]

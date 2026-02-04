@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I know a lot about this brand
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I know some things about this brand
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I have heard the name, but only know a few things about this brand
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have heard the name, but don’t really know much about this brand
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I know nothing about this brand
+  }
+]

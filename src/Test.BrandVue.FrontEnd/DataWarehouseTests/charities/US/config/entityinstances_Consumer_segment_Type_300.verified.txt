@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Position of employment:Sales / Customer service (Base Consumer_segment)
+  }
+]

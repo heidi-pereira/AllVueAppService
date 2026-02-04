@@ -1,0 +1,130 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: American
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Asian
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Bakery (incl. pasties)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: BBQ
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Breakfast / Brunch Classics
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Burgers
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Cakes
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Chicken (incl. fried, piri piri)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Chinese
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Fish & Chips
+  },
+  {
+    ClassInstanceId: 11,
+    Name: French
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Ice Cream
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Indian
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Italian
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Japanese
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Juices / smoothies
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Lebanese
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Mexican
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Pastries (savoury)
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Pastries (sweet)
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Pizza
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Pub food classics
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Ramen
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Noodle / Pasta / Rice boxes
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Roast dinner
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Salads
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Sandwiches / wraps
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Spanish (incl. Tapas)
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Sushi
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Thai
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Turkish
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Vietnamese (incl. Pho)
+  }
+]

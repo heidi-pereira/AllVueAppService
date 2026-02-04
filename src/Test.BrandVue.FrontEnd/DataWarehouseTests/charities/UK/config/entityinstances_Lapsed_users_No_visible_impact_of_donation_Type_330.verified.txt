@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:No visible impact of donation (Base Lapsed_users_No_visible_impact_of_donation)
+  }
+]

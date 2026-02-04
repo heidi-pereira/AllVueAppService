@@ -1,0 +1,23 @@
+export enum PartType {
+    MetricChangeOnPeriod = "MetricChangeOnPeriod",
+    PageLink = "PageLink",
+    OpenAssociationsCard = "OpenAssociationsCard",
+    ScatterPlotCard = "ScatterPlotCard",
+    FunnelCard = "FunnelCard",
+    SimplifiedScorecard = "SimplifiedScorecard",
+    RankingScorecard = "RankingScorecard",
+    RankingOvertimeCard = "RankingOvertimeCard",
+    CategoryComparison = "CategoryComparison",
+    //Reports cards
+    ReportsCardText = "ReportsCardText",
+    ReportsCardChart = "ReportsCardChart",
+    ReportsCardStackedMulti = "ReportsCardStackedMulti",
+    ReportsCardMultiEntityMultipleChoice = "ReportsCardMultipleChoice",
+    ReportsTable = "ReportsTable",
+    ReportsCardLine = "ReportsCardLine",
+    MultiEntityCompetition = "MultiEntityCompetition",
+    ReportsCardDoughnut = "ReportsCardDoughnut",
+    ReportsCardHeatmapImage = "ReportsCardHeatmapImage",
+    ReportsCardFunnel = "ReportsCardFunnel",
+    ErrorTest = "ErrorTest",
+}

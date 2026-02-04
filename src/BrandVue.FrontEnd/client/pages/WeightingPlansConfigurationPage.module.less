@@ -1,0 +1,22 @@
+﻿@import "../../less/_layout";
+
+.weightingPlansConfigurationPage {
+   .weightingOptions {
+        .flex-column(@gutter: 24px);
+        padding: 16px 24px;
+        height: calc(100% - 80px);
+        overflow: auto;
+        .scrollbars;
+
+        .option {
+            .flex-column();
+            margin-bottom: 15px;
+
+            label {
+                cursor: pointer;
+                margin: 0;
+            }
+        }
+    }
+}
+

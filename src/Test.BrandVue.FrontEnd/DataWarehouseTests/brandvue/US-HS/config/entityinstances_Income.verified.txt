@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Under $10,000
+  },
+  {
+    ClassInstanceId: 2,
+    Name: $10,000 to less than $20,000
+  },
+  {
+    ClassInstanceId: 3,
+    Name: $20,000 to less than $30,000
+  },
+  {
+    ClassInstanceId: 4,
+    Name: $30,000 to less than $40,000
+  },
+  {
+    ClassInstanceId: 5,
+    Name: $40,000 to less than $50,000
+  },
+  {
+    ClassInstanceId: 6,
+    Name: $50,000 to less than $75,000
+  },
+  {
+    ClassInstanceId: 7,
+    Name: $75,000 to less than $100,000
+  },
+  {
+    ClassInstanceId: 8,
+    Name: $100,000 to less than $150,000
+  },
+  {
+    ClassInstanceId: 9,
+    Name: $150,000 or more
+  }
+]

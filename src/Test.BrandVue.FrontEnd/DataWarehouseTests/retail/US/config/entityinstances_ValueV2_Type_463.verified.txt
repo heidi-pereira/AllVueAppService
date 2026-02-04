@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Value v 2 (Base ValueV2)
+  }
+]

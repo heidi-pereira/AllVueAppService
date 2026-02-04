@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Male
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Female
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I don’t identify as either
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Prefer not to say
+  }
+]

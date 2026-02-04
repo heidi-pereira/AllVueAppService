@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Never bought from them
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Less than every year
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Once a year
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 2-4 times per year
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 5 times or more per year
+  }
+]

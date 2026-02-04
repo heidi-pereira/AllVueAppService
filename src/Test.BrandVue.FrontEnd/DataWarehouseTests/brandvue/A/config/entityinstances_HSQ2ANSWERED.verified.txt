@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Mains gas
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Mains electricity
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mains water
+  },
+  {
+    ClassInstanceId: 4,
+    Name: A home internet connection
+  },
+  {
+    ClassInstanceId: 5,
+    Name: A landline telephone
+  },
+  {
+    ClassInstanceId: 6,
+    Name: A smartphone of your own
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Other people with smartphones
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home energy (electricity and gas)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Your water supply
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Your home internet connection
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Your landline telephone
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Your smartphone
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Other people’s smartphones
+  }
+]

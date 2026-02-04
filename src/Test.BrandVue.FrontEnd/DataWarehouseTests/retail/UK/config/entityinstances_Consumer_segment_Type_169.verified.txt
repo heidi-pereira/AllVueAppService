@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Gender:Male (Base Consumer_segment)
+  }
+]

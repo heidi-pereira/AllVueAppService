@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Standard Smartphones
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Foldable Smartphones
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Tablets
+  },
+  {
+    ClassInstanceId: 4,
+    Name: TVs
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Monitors
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Refrigerators
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Washing Machines
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Microwaves
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Vacuum Cleaners
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Dishwashers
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Built-in ovens
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Hobs
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (Please specify)
+  }
+]

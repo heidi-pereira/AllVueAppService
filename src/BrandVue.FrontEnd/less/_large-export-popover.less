@@ -1,0 +1,43 @@
+.large-export-popover {
+    color: @slate-darker;
+    padding: 16px;
+    border: 1px solid @chalk;
+    box-shadow: @shadow-08;
+    animation: fadeSlide 225ms cubic-bezier(.18,1.25,.4,1);
+    min-width: 400px;
+
+    .popover-content {
+        .flex-column(@gutter: 20px);
+
+        p {
+            font-family: Roboto;
+            font-size: 14px;
+
+            &.text {
+                color: @slate;
+            }
+
+            &.title {
+                font-weight: 500;
+            }
+        }
+
+        button {
+            width: fit-content;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+}
+
+@keyframes fadeSlide {
+    from {
+        opacity: 0;
+        top: -8px;
+    }
+
+    to {
+        opacity: 0.99;
+        top: 0px;
+    }
+}

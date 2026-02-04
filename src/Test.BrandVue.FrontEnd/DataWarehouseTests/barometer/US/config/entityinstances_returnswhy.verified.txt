@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Wrong size
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Poor quality
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Not what I expected
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Damaged
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

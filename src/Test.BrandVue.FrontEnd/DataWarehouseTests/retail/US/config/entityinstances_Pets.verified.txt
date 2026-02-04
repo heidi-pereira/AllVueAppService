@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dog(s)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cat(s)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Rabbit(s)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Hamster(s) / Mice / Guinea pig(s) / Rat(s)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Reptiles (e.g. lizard(s), snake(s), tortoise(s) etc.)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Bird(s)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 999,
+    Name: There are no pets in my household
+  }
+]

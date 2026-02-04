@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Holidays (Base Consumer_segment)
+  }
+]

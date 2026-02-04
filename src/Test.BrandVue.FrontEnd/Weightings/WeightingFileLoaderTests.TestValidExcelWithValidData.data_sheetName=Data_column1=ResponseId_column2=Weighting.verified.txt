@@ -1,0 +1,34 @@
+﻿[
+  {
+    ResponseId: Id_1,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_2,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_3,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_4,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_5,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_6,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_7,
+    Weight: 1.0
+  },
+  {
+    ResponseId: Id_8,
+    Weight: 1.0
+  }
+]

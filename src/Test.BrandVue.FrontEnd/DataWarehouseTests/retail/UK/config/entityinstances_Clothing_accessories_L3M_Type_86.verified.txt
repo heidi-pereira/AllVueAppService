@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Clothing accessories L3M (Base Clothing_accessories_L3M)
+  }
+]

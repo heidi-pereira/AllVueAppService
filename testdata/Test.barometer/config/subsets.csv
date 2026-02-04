@@ -1,0 +1,6 @@
+﻿id,displayName,displayNameShort,iso2LetterCountryCode,description,order,disabled,environment,externalUrl
+UK,Womenswear (UK),F (UK),GB,UK womenswear dashboard: this dataset includes data collected from March 2017 onwards.,100,,,
+UKMen,Menswear (UK),M (UK),GB,UK menswear dashboard: this dataset includes data collected from February 2018 onwards.,300,,,
+US,Womenswear (US),F (US),US,US womenswear dashboard: this dataset includes data collected from March 2017 onwards.,200,,,
+DE,Womenswear (DE),F (DE),DE,German womenswear dashboard: this dataset includes data collected from Sept 2018 onwards.,400,,dev|test|beta,
+DEMen,Menswear (DE),M (DE),DE,German menswear dashboard: this dataset includes data collected from Sept 2018 onwards.,500,,dev|test|beta,

@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Don't really follow
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Occasionally follow
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Regularly follow
+  }
+]

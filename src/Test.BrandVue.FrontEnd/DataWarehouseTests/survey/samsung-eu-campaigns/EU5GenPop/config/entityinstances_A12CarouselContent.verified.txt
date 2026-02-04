@@ -1,0 +1,82 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reading books e.g. Kindle
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Banking and managing your finances (including making payments)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Playing games e.g. Candy Crush, Minecraft, etc.
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Monitoring health or activity e.g. Strava, FitBit, Garmin, Samsung Health
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Messaging e.g. texts over your network, WhatsApp, Facebook Messenger
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Listening to music e.g. Spotify, iTunes, Google Play Music, Deezer, Amazon Music, etc.
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Reading the news
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Personalising your phone e.g. changing wallpaper or ring tone
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Phone calls e.g. calls over your network, Skype, Viber, WhatsApp calls, etc.
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Photography e.g. taking pictures, editing pictures
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Organising / Managing e.g. using email, calendar, notes, cloud storage, accessing documents
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Online shopping / browsing for items to buy
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Social media e.g. Facebook, Twitter, Instagram, LinkedIn, Snapchat, TikTok etc
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Following sports e.g. sports news, sports scores / results, etc.
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Managing your phone e.g. modifying settings, checking anti-virus, deleting content or Apps, etc.
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Transport e.g. using maps/satnav, timetables, ordering taxis (Uber, etc.)
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Travel e.g. booking flights, hotels, looking at Tripadvisor, etc.
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Watching video clips, TV or movies e.g. Netflix, Amazon Prime, YouTube, etc.
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Checking weather reports / forecasts
+  },
+  {
+    ClassInstanceId: 20,
+    Name: General internet browsing e.g. using Chrome, Safari, Firefox, etc for looking up information
+  }
+]

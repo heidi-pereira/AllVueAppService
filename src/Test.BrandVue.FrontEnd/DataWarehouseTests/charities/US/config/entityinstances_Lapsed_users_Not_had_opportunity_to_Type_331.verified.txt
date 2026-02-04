@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:Not had opportunity to (Base Lapsed_users_Not_had_opportunity_to)
+  }
+]

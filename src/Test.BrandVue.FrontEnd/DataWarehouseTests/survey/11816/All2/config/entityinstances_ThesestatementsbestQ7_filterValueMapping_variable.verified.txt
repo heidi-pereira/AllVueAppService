@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: I am continuing to attend my regular place of employment but may have to work from home soon
+  },
+  {
+    ClassInstanceId: 1,
+    Name: I am unable to work because my place of work has put me on temporary leave due to the coronavirus pandemic (furloughed)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I always work from home
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I am working from home, but normally work at a different location
+  },
+  {
+    ClassInstanceId: 4,
+    Name: My work requires me to attend my regular place of employment
+  },
+  {
+    ClassInstanceId: 5,
+    Name: None of these apply
+  }
+]

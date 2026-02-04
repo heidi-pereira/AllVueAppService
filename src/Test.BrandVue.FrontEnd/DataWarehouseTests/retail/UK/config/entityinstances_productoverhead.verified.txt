@@ -1,0 +1,162 @@
+﻿[
+  {
+    ClassInstanceId: 101,
+    Name:  Food / groceries
+  },
+  {
+    ClassInstanceId: 102,
+    Name:  Alcoholic  beverages (e.g. beers, wine, spirits etc.)
+  },
+  {
+    ClassInstanceId: 103,
+    Name:  Toiletries
+  },
+  {
+    ClassInstanceId: 104,
+    Name:  Cleaning / laundry products
+  },
+  {
+    ClassInstanceId: 105,
+    Name:  Pet food / pet supplies
+  },
+  {
+    ClassInstanceId: 106,
+    Name:  Fragrances / perfume  and make up
+  },
+  {
+    ClassInstanceId: 107,
+    Name:  Medicines / prescriptions
+  },
+  {
+    ClassInstanceId: 108,
+    Name:  Vitamins / supplements
+  },
+  {
+    ClassInstanceId: 201,
+    Name:  Sofas / armchairs
+  },
+  {
+    ClassInstanceId: 202,
+    Name:  Beds and / or mattresses
+  },
+  {
+    ClassInstanceId: 203,
+    Name:  Furniture EXCLUDING beds, mattress, sofas and armchairs
+  },
+  {
+    ClassInstanceId: 204,
+    Name:  Dining & cookware
+  },
+  {
+    ClassInstanceId: 205,
+    Name:  Home furnishings
+  },
+  {
+    ClassInstanceId: 301,
+    Name:  Bathroom
+  },
+  {
+    ClassInstanceId: 302,
+    Name:  Kitchen
+  },
+  {
+    ClassInstanceId: 303,
+    Name:  Carpets / flooring
+  },
+  {
+    ClassInstanceId: 304,
+    Name:  Tiles
+  },
+  {
+    ClassInstanceId: 305,
+    Name:  Lighting
+  },
+  {
+    ClassInstanceId: 306,
+    Name:  Curtains and blinds
+  },
+  {
+    ClassInstanceId: 307,
+    Name:  DIY / home improvements
+  },
+  {
+    ClassInstanceId: 308,
+    Name:  Gardening
+  },
+  {
+    ClassInstanceId: 401,
+    Name:  Home entertainment technology
+  },
+  {
+    ClassInstanceId: 402,
+    Name:  Small home appliances
+  },
+  {
+    ClassInstanceId: 403,
+    Name:  Large home appliances
+  },
+  {
+    ClassInstanceId: 404,
+    Name:  Personal care electronics
+  },
+  {
+    ClassInstanceId: 405,
+    Name:  Mobile phones, tablets & e-readers
+  },
+  {
+    ClassInstanceId: 406,
+    Name:  Computers and laptops
+  },
+  {
+    ClassInstanceId: 407,
+    Name:  Electronic accessories
+  },
+  {
+    ClassInstanceId: 408,
+    Name:  Photographic equipment
+  },
+  {
+    ClassInstanceId: 501,
+    Name:  Books
+  },
+  {
+    ClassInstanceId: 502,
+    Name:  Stationary
+  },
+  {
+    ClassInstanceId: 503,
+    Name:  Greetings cards
+  },
+  {
+    ClassInstanceId: 504,
+    Name:  Craft supplies
+  },
+  {
+    ClassInstanceId: 505,
+    Name:  Toy / games
+  },
+  {
+    ClassInstanceId: 506,
+    Name:  Video games consoles, games and accessories
+  },
+  {
+    ClassInstanceId: 507,
+    Name:  Nursery & baby equipment
+  },
+  {
+    ClassInstanceId: 508,
+    Name:  Sports, bikes and camping equipment
+  },
+  {
+    ClassInstanceId: 601,
+    Name:  Clothing / footwear
+  },
+  {
+    ClassInstanceId: 602,
+    Name:  Jewellery & watches
+  },
+  {
+    ClassInstanceId: 603,
+    Name:  Glasses / sunglasses / contact lenses
+  }
+]

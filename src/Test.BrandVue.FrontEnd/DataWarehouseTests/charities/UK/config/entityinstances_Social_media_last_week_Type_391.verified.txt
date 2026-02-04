@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Social media last week (Base Social_media_last_week)
+  }
+]

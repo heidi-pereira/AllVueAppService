@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Education level:University degree e.g. Bachelor's / Master's (Base Consumer_segment)
+  }
+]

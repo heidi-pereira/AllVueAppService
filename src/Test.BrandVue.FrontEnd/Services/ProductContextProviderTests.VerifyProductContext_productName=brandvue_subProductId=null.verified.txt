@@ -1,0 +1,161 @@
+﻿{
+  AllowPartialDays: false,
+  DayIsFromResponseEndTime: true,
+  DefaultAveragesToInclude: null,
+  DisableAutoMetricFiltering: false,
+  GenerateFromAnswersTable: true,
+  GenerateFromSurveyIds: true,
+  HasSingleClient: false,
+  IncludeAllDefaultAverages: true,
+  IsAllVue: false,
+  IsContinuous: false,
+  IsSurveyGroup: true,
+  IsSurveyOpen: true,
+  KeepInMemory: true,
+  KimbleProposalId: null,
+  NonMapFileSurveyIds: [
+    12682,
+    12805,
+    12976,
+    12686,
+    12808,
+    12993,
+    12685,
+    12807,
+    12981,
+    12691,
+    12812,
+    13003,
+    12687,
+    12809,
+    12994,
+    12689,
+    12810,
+    12998,
+    12684,
+    12806,
+    12979,
+    12681,
+    12803,
+    12973,
+    12690,
+    12811,
+    12999
+  ],
+  NonMapFileSurveys: [
+    {
+      SurveyId: 12682,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12805,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12976,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12686,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12808,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12993,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12685,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12807,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12981,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12691,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12812,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 13003,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12687,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12809,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12994,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12689,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12810,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12998,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12684,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12806,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12979,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12681,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12803,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12973,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12690,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12811,
+      SurveyName: brandvue
+    },
+    {
+      SurveyId: 12999,
+      SurveyName: brandvue
+    }
+  ],
+  ShortCode: brandvue,
+  SubProductId: null,
+  SurveyAuthCompanyId: Savanta,
+  SurveyGroupId: 3,
+  SurveyName: brandvue,
+  SurveyUid: 
+}

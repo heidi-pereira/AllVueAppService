@@ -1,0 +1,111 @@
+﻿@import 'colors.scss';
+@import 'dimensions.scss';
+@import "layout.scss";
+
+.tabs {
+    @include flex-row($justify-content: space-between);
+    border-bottom: 1px solid $chalk;
+    box-shadow: 0px 0px 5px $chalk;
+    padding: 0 32px;
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 0;
+    }
+
+    .tab-link-container {
+        display: flex;
+
+        @media (max-width: $breakpoint-mobile) {
+            flex: 1;
+            justify-content: space-around;
+        }
+
+        .tab-link {
+            @include flex-row($align-items: center, $gutter: 8px);
+            font-size: 14px;
+            padding: 16px 28px 12px 28px;
+            color: $slate;
+            border-bottom: 4px solid transparent;
+            transition: color 150ms ease;
+
+            @media (max-width: $breakpoint-tablet) {
+                span {
+                    display: none;
+                }
+
+                i {
+                    margin-right: 0 !important;
+                }
+            }
+
+            @media (max-width: $breakpoint-mobile) {
+
+                &.data-tab {
+                    display: none; //hide on mobile
+                }
+            }
+
+            &:hover {
+                color: $slate-dark;
+                border-bottom: 4px solid transparent;
+            }
+
+            i {
+                vertical-align: middle;
+                padding: 2px;
+            }
+        }
+
+        .active {
+            color: $blueSteel;
+            border-bottom: 4px solid $blueSteel;
+            box-shadow: 0 0.3rem 0.15rem -0.15rem #d7ebf4;
+            transition: all 150ms ease-in;
+
+            &:hover {
+                color: $blueSteel-dark;
+                border-bottom: 4px solid $blueSteel-dark;
+            }
+        }
+    }
+
+    .open-survey-link {
+        @include flex-row($align-items: center);
+        color: $blueSteel;
+        transition: color 150ms ease;
+
+        .link-text {
+            font-size: 14px;
+        }
+
+        .material-symbols-outlined {
+            margin-left: 8px;
+            font-size: 16px;
+        }
+
+        &:hover {
+            color: $blueSteel-dark;
+        }
+
+        @media (max-width: $breakpoint-mobile) {
+            display: none;
+        }
+    }
+}
+
+.response-header {
+    @media (max-width: $breakpoint-mobile) {
+        display: none;
+    }
+}
+
+.my-masonry-grid {
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 0;
+    }
+}

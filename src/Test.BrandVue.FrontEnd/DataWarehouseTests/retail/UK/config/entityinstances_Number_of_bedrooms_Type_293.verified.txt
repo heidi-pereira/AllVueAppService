@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Number of bedrooms:One bedroom / Studio (Base Number_of_bedrooms)
+  }
+]

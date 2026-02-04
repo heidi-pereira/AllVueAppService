@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am happy with the current frequency
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I would like to be contacted more frequently
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I would like to be contacted less frequently
+  }
+]

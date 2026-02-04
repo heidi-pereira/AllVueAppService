@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Area of employment:Construction / Engineering (Base Consumer_segment)
+  }
+]

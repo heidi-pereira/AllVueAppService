@@ -1,0 +1,1 @@
+Exceptions other than airflow.exceptions.AirflowException or decendents will cause the dag to retry. Unless this is intentional, ensure the correct exception type is thrown.

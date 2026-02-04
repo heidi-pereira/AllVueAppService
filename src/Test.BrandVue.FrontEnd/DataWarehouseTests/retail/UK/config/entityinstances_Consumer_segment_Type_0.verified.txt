@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 1 to 2 in the last year: (Base Consumer_segment)
+  }
+]

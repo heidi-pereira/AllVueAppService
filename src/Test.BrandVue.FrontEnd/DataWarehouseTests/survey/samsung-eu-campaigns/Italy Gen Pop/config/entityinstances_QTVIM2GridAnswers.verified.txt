@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 25,
+    Name: Are distinctive
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Speaks to me in a way I understand
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Are a brand I would be proud to have in my home
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Offers solutions that reflect my personality
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Provides the best customer care
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Has better specific features & services than other brands
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Is sustainably minded
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Is a brand I trust when it comes to data and privacy
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Offers benefits to owning multiple products from this brand
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Their AI makes my life better
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Is a leader in AI for TV
+  }
+]

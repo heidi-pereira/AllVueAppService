@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Own outright
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Own - buying with a mortgage
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Rent with government assistance
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Rent privately
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Other
+  }
+]

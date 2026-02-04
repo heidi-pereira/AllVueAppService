@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Brand Affinity:Hate (Base Brand_affinity)
+  }
+]

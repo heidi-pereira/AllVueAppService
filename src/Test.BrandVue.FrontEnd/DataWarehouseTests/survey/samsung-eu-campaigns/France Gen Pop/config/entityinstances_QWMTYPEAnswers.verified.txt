@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Front loading washing machine
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Top loading washing machine
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Combo washer and dryer
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

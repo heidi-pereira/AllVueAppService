@@ -1,0 +1,74 @@
+@import "../../../less/_vars";
+@import "../../../less/_layout";
+
+.ratingButtonsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+
+    .ratingButtons {
+        display: flex;
+        flex-direction: row;
+        gap: 1em;
+        flex-shrink: 0;
+
+        .ratingButtonsMessage {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            color: @slate;
+        }
+    }
+}
+
+.feedbackModal {
+    .feedbackModalTitle {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+        color: #333;
+    }
+
+    .feedbackModalTextarea {
+        width: 100%;
+        min-height: 100px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        resize: vertical;
+        margin-bottom: 15px;
+    }
+
+    .feedbackModalButtons {
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+
+        button {
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+
+            &.feedbackModalSubmit {
+                background-color: #007bff;
+                color: white;
+                border: none;
+
+                &:hover {
+                    background-color: #0056b3;
+                }
+            }
+
+            &.feedbackModalCancel {
+                background-color: #f8f9fa;
+                color: #333;
+                border: 1px solid #ccc;
+
+                &:hover {
+                    background-color: #e2e6ea;
+                }
+            }
+        }
+    }
+}

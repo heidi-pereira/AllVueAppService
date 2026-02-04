@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Age:50-59 (Base Consumer_segment)
+  }
+]

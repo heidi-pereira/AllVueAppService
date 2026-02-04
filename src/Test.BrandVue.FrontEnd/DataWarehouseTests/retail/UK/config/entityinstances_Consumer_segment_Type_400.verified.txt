@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Social media usage frequency (several times a day) (Base Consumer_segment)
+  }
+]

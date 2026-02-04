@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cordless
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Robot
+  }
+]

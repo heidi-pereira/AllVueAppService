@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I do not know this brand
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I know this brand but have never used it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: More than 12 months ago
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 4 to 12 months ago
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 2 to 3 months ago
+  },
+  {
+    ClassInstanceId: 6,
+    Name: In the last month
+  }
+]

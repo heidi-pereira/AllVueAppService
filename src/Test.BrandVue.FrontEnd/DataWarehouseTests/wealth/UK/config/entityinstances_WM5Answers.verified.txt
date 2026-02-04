@@ -1,0 +1,62 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cash based savings (incl. savings accounts, Cash ISAs, Premium Bonds)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Equities dealing (stocks & shares)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Actively managed investment funds (incl. Mutual Funds, Managed Funds, Collective Investments, Unit Trusts)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Passively managed investment funds (incl. Tracker Funds, Exchange Traded Funds - ETFs, etc.)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Fixed income investments (incl. Government & Corporate Bonds)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Personal Pension plans (e.g. SIPP - Self-Invested Personal Pension)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Company Pension
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Property as an investment
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Collectibles (e.g. fine art, wine, classic cars)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Peer-to-Peer lending
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Hedge funds or Private Equity
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Foreign exchange trading
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Cryptocurrencies
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Stocks & shares or equity ISAs
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  }
+]

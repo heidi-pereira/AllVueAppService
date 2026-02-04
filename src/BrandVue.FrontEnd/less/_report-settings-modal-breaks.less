@@ -1,0 +1,53 @@
+@import "_vars";
+@import "_layout";
+
+.chart-break-container {
+    .flex-column();
+    flex: 1 1 0;
+
+    .metric-dropdown, .wave-option-dropdown, .crossmeasure-multiple-choice-dropdown {
+        margin-bottom: 10px;
+    }
+
+    .crossmeasure-multiple-choice-dropdown-menu {
+        width: 100%;
+    }
+
+    .dropdown-metrics,
+    .dropdown-entity-types {
+        width: 498px;
+    }
+
+    .hint {
+        color: @slate-light;
+        margin: 10px 0;
+    }
+
+    .range-input {
+        margin: 0 10px;
+        width: 60px;
+        padding: 6px 10px;
+        border: 1px solid @slate-lighter;
+        border-radius: 4px;
+        transition: color 175ms ease, background 175ms ease, border-color 175ms ease;
+
+        &:hover {
+            border-color: @slate-light;
+        }
+
+        &:focus {
+            outline: 0;
+            box-shadow: 0px 0px 3px 3px rgb(224 226 229 / 48%);
+        }
+
+        &:disabled {
+            color: @slate-light;
+            cursor: not-allowed;
+            background: @chalk-lighter;
+
+            &:hover {
+                border-color: @slate-lighter;
+            }
+        }
+    }
+}

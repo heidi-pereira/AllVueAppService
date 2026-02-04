@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Camp 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Camp 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Camp 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Camp 4
+  }
+]

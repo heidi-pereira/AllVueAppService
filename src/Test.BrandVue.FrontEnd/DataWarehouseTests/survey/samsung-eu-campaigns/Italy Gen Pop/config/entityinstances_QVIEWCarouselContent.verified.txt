@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: The style of the ads (pictures, colours and imagery) is appealing
+  },
+  {
+    ClassInstanceId: 2,
+    Name: It was easy to understand
+  },
+  {
+    ClassInstanceId: 3,
+    Name: It was believable
+  },
+  {
+    ClassInstanceId: 4,
+    Name: It was memorable
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I really liked the adverts
+  },
+  {
+    ClassInstanceId: 6,
+    Name: It told me something new
+  },
+  {
+    ClassInstanceId: 7,
+    Name: It was clear what it was for
+  },
+  {
+    ClassInstanceId: 8,
+    Name: It was relevant to people like me
+  }
+]

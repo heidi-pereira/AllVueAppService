@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Attractively priced
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Worth paying more for
+  },
+  {
+    ClassInstanceId: 3,
+    Name: For someone like me
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Trusted
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Reliable
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Environmentally Friendly
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Socially Responsible
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Innovative
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Distinctive
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Desirable
+  },
+  {
+    ClassInstanceId: 11,
+    Name: On-trend
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Exciting
+  },
+  {
+    ClassInstanceId: 13,
+    Name: High quality
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Classic
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Family
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Caring
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Friendly
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Prestigious
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Inspiring
+  }
+]

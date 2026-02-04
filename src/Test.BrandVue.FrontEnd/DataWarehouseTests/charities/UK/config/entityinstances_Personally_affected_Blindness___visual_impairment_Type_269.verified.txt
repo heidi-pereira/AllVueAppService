@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Blindness or visual impairment (Base Personally_affected_Blindness___visual_impairment)
+  }
+]

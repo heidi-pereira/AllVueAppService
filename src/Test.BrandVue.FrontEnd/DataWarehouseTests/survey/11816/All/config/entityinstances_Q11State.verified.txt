@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes - Trust
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No - Do not trust
+  }
+]

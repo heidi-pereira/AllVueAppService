@@ -1,0 +1,74 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: New Look
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Primark
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Next
+  },
+  {
+    ClassInstanceId: 4,
+    Name: George @ Asda
+  },
+  {
+    ClassInstanceId: 5,
+    Name: H&M
+  },
+  {
+    ClassInstanceId: 6,
+    Name: M&S
+  },
+  {
+    ClassInstanceId: 7,
+    Name: JD Sport
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Tesco
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Sports Direct
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Matalan
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Sainsbury's
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Nasty Gal
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Top Shop
+  },
+  {
+    ClassInstanceId: 14,
+    Name: River Island
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Very
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Superdry
+  },
+  {
+    ClassInstanceId: 17,
+    Name: MissPap
+  },
+  {
+    ClassInstanceId: 18,
+    Name: PrettyLittleThing
+  }
+]

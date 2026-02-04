@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home ownership:Rent from Local Authority / Housing Association (Base Consumer_segment)
+  }
+]

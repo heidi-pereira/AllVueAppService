@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: working situation outbreakQ 7 a (Base working_situation_outbreak_Q7A_asked)
+  }
+]

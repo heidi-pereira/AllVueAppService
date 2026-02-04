@@ -1,0 +1,10 @@
+name,field,field2,fieldOp,calcType,trueVals,baseField,baseVals,keyImage,measure,helpText,numFormat,min,max,excludeWaves,startDate
+Net Buzz,Positive_buzz,Negative_buzz,minus,yn,1,Shopper_segment,1|2|3|4,,The net of Positive and Negative Buzz,,,,,,
+Buzz Noise,Positive_buzz,Negative_buzz,or,yn,1,Shopper_segment,1|2|3|4,,,,,,,,
+Positive Buzz,Positive_buzz,,,yn,1,Shopper_segment,1|2|3|4,,Which of the following womenswear retailers have your heard something POSITIVE about in the last month?,,,,,,
+Negative Buzz,Negative_buzz,,,yn,1,Shopper_segment,1|2|3|4,,Which of the following retailers have your heard something NEGATIVE about in the last month?,,,,,,
+Purchase Frequency In-Store (L12M),Purchase_frequency_instore,,,avg,0|1|2|3|4|5|6|7|8|9|10,Purchase_frequency_instore,0|1|2|3|4|5|6|7|8|9|10,,How many times have you PURCHASED womenswear from these retailers IN-STORE in the last year?,,0.0;-0.0;0.0,0,1,,
+NPS,Recommendation,,,nps,0|1|2|3|4|5|6|7|8|9|10,,0|1|2|3|4|5|6|7|8|9|10,,% Promoters - % Detractors,Promoters - Detractors,+0;-0;0,-1,1,,
+Promoters,Recommendation,,,yn,9|10,,0|1|2|3|4|5|6|7|8|9|10,,"Considering the retailers you have bought from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",,0%,0,1,,
+Detractors,Recommendation,,,yn,0|1|2|3|4|5|6,,0|1|2|3|4|5|6|7|8|9|10,,"Considering the retailers you have bought from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",,0%,0,1,,
+Passives,Recommendation,,,yn,7|8,,0|1|2|3|4|5|6|7|8|9|10,,"Considering the retailers you have bought from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",,0%,0,1,,

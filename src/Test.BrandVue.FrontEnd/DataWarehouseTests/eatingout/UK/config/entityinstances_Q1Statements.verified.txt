@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Leave your house?
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Buy anything online?
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Watch / read / hear the news?
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Video call anyone?
+  }
+]

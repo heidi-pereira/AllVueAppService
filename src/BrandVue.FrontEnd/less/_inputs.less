@@ -1,0 +1,351 @@
+@import "_vars";
+@import "_layout";
+
+// ====================
+// Label
+// ====================
+.label {
+  display: block;
+  margin-bottom: 10px;
+  line-height: 2em;
+  font-size: 12px;
+  position: relative;
+}
+
+// ====================
+// React-Select override
+// ====================
+.select-picker.multiple{
+    width: 280px;
+}
+
+.select-picker .react-select__indicator-separator {
+    visibility: hidden;
+}
+
+.select-picker .react-select__control--is-focused {
+    border-color: @blueSteel;
+    outline: 0;
+    box-shadow: 0 0 0.15rem 0.15rem @blueSteel-lighter;
+}
+
+.react-select__control {
+    cursor: pointer !important;
+}
+
+.react-select__option {
+    cursor: pointer !important;
+}
+
+// ====================
+// Checkboxes & Radio Buttons - Filters
+// ====================
+label.label--checkbox-radio {
+  font-size: 14px;
+  line-height: 1.4em;
+  cursor: pointer;
+  position: relative;
+  padding-left: 24px;
+}
+
+.input--checkbox,
+.input--radio {
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: none;
+    border: none;
+    box-shadow: none;
+    margin: 0 8px 0 0;
+
+    &:before {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: white;
+        border: 1px solid black;
+    }
+
+    &:after {
+        content: "";
+        display: block;
+        position: absolute;
+    }
+
+    &:focus {
+        outline: none;
+        box-shadow: 0 0 0 0.16rem @blueSteel;
+    }
+
+    &:disabled {
+        &:before {
+            background: @chalk;
+            border-color: @slate-light;
+        }
+    }
+}
+
+.input--checkbox {
+    &:after {
+        top: 1px;
+        left: 1px;
+        right: 1px;
+        bottom: 1px;
+        background: url('../wwwroot/assets/icons/symbols/symbol-tick-white.svg') no-repeat center center / 16px 16px;
+    }
+
+    &:checked {
+        background: transparent;
+
+        &:before {
+            background: @blueSteel-dark;
+            border-color: @blueSteel-darker;
+
+            body.barometer & {
+                border-color: @blueSteel-darker;
+                background: @blueSteel-dark;
+            }
+        }
+
+        &:after {
+            /* Removing transition to help filter performance
+      transform: translate3d(0, 0, 0) scale(1);
+                */
+        }
+    }
+}
+
+.input--radio {
+    &:before {
+        border-radius: 50%;
+    }
+
+    &:after {
+        top: 5px;
+        left: 5px;
+        right: 5px;
+        bottom: 5px;
+        background: white;
+        border-radius: 50%;
+    }
+
+    &:checked {
+        &:before {
+            background: @blueSteel-dark;
+            border-color: @blueSteel-darker;
+
+            body.barometer & {
+                border-color: @blueSteel-darker;
+                background: @blueSteel-dark;
+                ;
+            }
+        }
+
+        &:after {
+            /* Removing transition to help filter performance
+      transform: translate3d(0, 0, 0) scale(1);
+                */
+        }
+    }
+}
+
+// ====================
+// AllVue checkboxes
+// ====================
+
+.checkbox {
+    position: absolute; // take it out of document flow
+    display: none; // hide it
+
+    & + label {
+        .flex-row();
+        position: relative;
+        cursor: pointer;
+        padding: 0;
+        user-select: none;
+        margin-bottom: 0;
+    }
+
+    & + label:after {
+        opacity: 0;
+        transition: all 500ms;
+    }
+    // Box
+    & + label:before {
+        content: "";
+        border-radius: 2px;
+        margin-right: 10px;
+        margin-top: 2px;
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        background: @white;
+        border: 1px solid @slate-light;
+        transition: border-color 150ms ease;
+        flex-shrink: 0;
+    }
+    // Box hover
+    &:hover + label:before {
+        border-color: @slate;
+    }
+    // Box active
+    &:active + label:before {
+        border: 1px solid @slate;
+        box-shadow: 0 0 1px 2px rgba(93, 174, 212, 0.25);
+    }
+    // Disabled state label
+    &:disabled + label {
+        color: @slate-light;
+        cursor: not-allowed;
+    }
+    // No hover state when disabled
+    &:disabled + label:before {
+        &:hover {
+            border: 1px solid @slate;
+        }
+    }
+    // Disabled state checkmark
+    &:disabled + label:after {
+        border-color: @slate;
+    }
+    // Box focus
+    &:focus + label:before {
+        box-shadow: 0 0 1px 2px rgba(93, 174, 212, 0.25);
+    }
+    // Disabled box
+    &:disabled + label:before {
+        box-shadow: none;
+        background: @chalk;
+        pointer-events: none;
+    }
+    //Checkmark
+    & + label:after {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 4px;
+        top: 7px;
+        left: 3px;
+        border: 1px solid @slate-darker;
+        border-top: none;
+        border-right: none;
+        transform: rotate(-45deg);
+        opacity: 0;
+        transition: all 100ms;
+    }
+    // Checkmark fade animation
+    &:checked + label:after {
+        opacity: 1;
+    }
+}
+
+// ====================
+// AllVue radio buttons
+// ====================
+
+.radio-button-container {
+    display: inline-flex;
+    position: relative;
+}
+
+.radio-input {
+    position: absolute;
+    opacity: 0;
+
+    + .radio-label {
+        position: relative;
+        display: block;
+        cursor: pointer;
+        margin-left: 28px;
+
+        &:before {
+            content: '';
+            background: @white;
+            border-radius: 100%;
+            border: 1px solid @slate-light;
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            position: relative;
+            top: 3px;
+            margin-right: 10px;
+            margin-left: -28px;
+            cursor: pointer;
+            text-align: center;
+            transition: border-color 150ms ease;
+        }
+
+        &:after {
+            content: '';
+            opacity: 0;
+            transform: scale(1);
+            background-color: @slate;
+            border-radius: 100%;
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            position: absolute;
+            left: -24px;
+            top: 7px;
+            transition: opacity 500ms cubic-bezier(.18,1.25,.4,1), transform 500ms cubic-bezier(.18,1.25,.4,1);
+        }
+
+        &:empty {
+            &:before {
+                margin-right: 0;
+            }
+        }
+    }
+
+    &:hover {
+        + .radio-label {
+            &:before {
+                border-color: @slate;
+            }
+        }
+    }
+
+    &:checked {
+        + .radio-label {
+            &:after {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+    }
+
+    &:focus {
+        + .radio-label {
+            &:before {
+                outline: none;
+                border-color: @slate;
+                //box-shadow: 0 0 1px 2px rgba(93, 174, 212, 0.25);
+            }
+        }
+    }
+
+    &:active {
+        + .radio-label {
+            &:before {
+                box-shadow: 0 0 1px 2px rgba(93, 174, 212, 0.25);
+            }
+        }
+    }
+
+    &:disabled {
+        + .radio-label {
+            &:before {
+                box-shadow: inset 0 0 0 3px @white;
+                border-color: @chalk-lighter;
+                background: @chalk-lighter;
+            }
+        }
+    }
+}

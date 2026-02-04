@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Regularly sponsor individuals fundraising (Base Individual_vs_regular_Regularly_sponsor_individuals_fundraising)
+  }
+]

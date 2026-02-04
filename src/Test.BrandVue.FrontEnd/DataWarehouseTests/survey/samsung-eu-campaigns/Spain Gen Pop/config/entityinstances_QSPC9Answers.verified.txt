@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I haven't heard of 5G
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have heard of 5G, but don't know much about it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I have heard a lot about 5G but wouldn't consider it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have heard a lot about 5G and would consider it
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I currently use 5G
+  }
+]

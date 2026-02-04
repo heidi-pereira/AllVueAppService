@@ -1,0 +1,52 @@
+@import "../../../../../less/_vars";
+
+.container {
+    padding-bottom: 10px;
+}
+
+.lowSampleThresholdContainerDisabled,
+.lowSampleThresholdContainer {
+    margin-top: 10px;
+    margin-left: 24px;
+    display: flex;
+    gap: 8px;
+
+    .lowSampleThreshold {
+        width: 60px;
+        margin-left: 8px;
+        border: 1px solid @slate;
+        padding: 3px;
+
+        &:focus,
+        &:focus-visible {
+            outline: none !important;
+            border: 1px solid @blueSteel;
+            box-shadow: 0 0 2px @blueSteel;
+        }
+    }
+}
+
+.lowSampleThresholdContainerDisabled {
+    border-color: @slate-light;
+    color: @slate-light;
+
+    .lowSampleThreshold {
+        width: 60px;
+        margin-left: 8px;
+        border: 1px solid @slate-light;
+        padding: 3px;
+        background: @chalk-lighter;
+        color: @slate-light;
+    }
+}
+
+.srOnly {
+    padding-top: 3px;
+}
+
+.optionHint {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 26px;
+    color: @slate;
+}

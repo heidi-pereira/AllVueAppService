@@ -1,0 +1,105 @@
+name,menuIcon,pageType,helpText,minUserLevel,startPage,layout,pageTitle,disabled
+Welcome,,Standard,,100,1,,,
+Overview,fa-smile-o,Standard,A snapshot of the retailer's performance across a number of key indicators.,100,,"3:1,1:1-1:1-1:1,3:1,1:1-1:1-1:1,3:1,1:1-1:1-1:1",,
+Media Performance,fa-line-chart,Standard,Performance across the factors that capture the level of excitement and attention around each retailer.,100,,,,
+Net Buzz,,SubPage,The difference between positive and negative buzz,100,,,Media Performance,
+Buzz Noise,,SubPage,The total of positive and negative buzz,100,,,Media Performance,
+Positive Buzz,,SubPage,"Those who have heard something positive about each retailer in the last month (stated as a percentage of all respondents).
+Q: Which of the following womenswear retailers have you heard something POSITIVE about in the last month?",100,,,Media Performance,
+Negative Buzz,,SubPage,"Those who have heard something negative about each retailer in the last month (stated as a percentage of all respondents).
+Q: Which of the following womenswear retailers have you heard something NEGATIVE about in the last month?",100,,,Media Performance,
+Advertising Awareness,,SubPage,"Those who have seen advertising for each retailer in the last month (stated as a percentage of all respondents).
+Q: Have you seen ADVERTISING for any of the following retailers in the last month?",100,,,Media Performance,
+Brand Health,fa-line-chart,Standard,Performance across the factors that capture the knowledge and affection for each retailer that can lead to purchase.,100,,,,
+Awareness,,SubPage,"The awareness of the retailers (stated as a percentage of all respondents who don't state 'I do not know this brand').
+Q: When, if ever, have you bought womenswear from the following retailer?",100,,,Brand Health,
+Familiarity,,SubPage,"The familiarity of the retailers (stated as a percentage of all respondents who don't state 'I do not have an opinion of this retailer').
+Q: How would you describe your opinion of the following WOMENSWEAR retailers?",100,,,Brand Health,
+Affinity,,SubPage,"The affinity level of the retailers (stated as a percentage of all respondents who are familiar with the retailer and state they 'love' the retailer or 'like it a lot').
+Q: How would you describe your opinion of the following WOMENSWEAR retailers?",100,,,Brand Health,
+Love,,SubPage,"The love for the retailers (stated as a percentage of all respondents who are familiar with the retailer and state they 'love' the retailer).
+Q: How would you describe your opinion of the following WOMENSWEAR retailers?",100,,,Brand Health,
+Consideration,,SubPage,"The consideration of the retailers (stated as a percentage of all respondents).
+Q: Thinking about womenswear, which of the following retailers would you CONSIDER buying clothes, footwear and accessories from?",100,,,Brand Health,
+Preference,,SubPage,"The preference of the retailers (stated as a percentage of all respondents).
+Q: And of the womenswear retailers you would consider, which would describe as your FAVOURITES?",100,,,Brand Health,
+Demand & Usage,fa-line-chart,Standard,The visitation and usage of each retailer by channel on an annual and monthly basis.,100,,,,
+Visited In-Store (LM),,SubPage,"The in-store visitation of the retailers over the past 30 days (stated as a percentage of all respondents).
+Q: Which of the following womenswear retailers have you visited IN-STORE in the last month?",100,,,Demand & Usage,
+Visited Online (LM),,SubPage,"The online vistation of the retailers over the past 30 days (stated as a percentage of all respondents).
+Q: Which of the following womenswear retailers have you visited ONLINE in the last month?",100,,,Demand & Usage,
+Visited Overall (LM),,SubPage,Visited the retailer in-store OR online in the last month,100,,,Demand & Usage,
+Bought In-Store (LM),,SubPage,"The in-store penetration of the retailers over the past 30 days (stated as a percentage of all respondents).
+Q: From which of the following retailers have you BOUGHT womenswear IN-STORE in the last MONTH?",100,,,Demand & Usage,
+Bought Online (LM),,SubPage,"The online penetration of the retailers over the past 30 days (stated as a percentage of all respondents).
+Q: From which of the following retailers have you BOUGHT womenswear ONLINE in the last MONTH?",100,,,Demand & Usage,
+Bought Overall (LM),,SubPage,Bought from the retailer in-store OR online in the last month,100,,,Demand & Usage,
+Conversion In-Store (LM),,SubPage,% of those who visited IN-STORE who subsequently purchased,100,,,Demand & Usage,
+Conversion Online (LM),,SubPage,% of those who visited ONLINE who subsequently purchased,100,,,Demand & Usage,
+Purchase Frequency In-Store (L12M),,SubPage,How many times have you PURCHASED womenswear from these retailers IN-STORE in the last year? (Among those who purchased any womenswear),100,,,Demand & Usage,
+Purchase Frequency Online (L12M),,SubPage,How many times have you PURCHASED womenswear from these retailers ONLINE in the last year? (Among those who purchased any womenswear),100,,,Demand & Usage,
+Spend In-Store (LM),,SubPage,How much did you spend at each retailer IN-STORE in the last month on womenswear?,100,,,Demand & Usage,
+Spend Online (LM),,SubPage,How much did you spend at each retailer ONLINE in the last month on womenswear?,100,,,Demand & Usage,
+Penetration (L12M),,SubPage,"The penetration of the retailers over the last 12 months (stated as a percentage of all respondents who state 'PURCHASED - in the last 12 months').
+Q: When, if ever, have you bought womenswear from the following retailer?",100,,,Demand & Usage,
+Ever Bought,,SubPage,"The penetration of the retailers over the last 12 months and beyond (stated as a percentage of all respondents who state 'PURCHASED - in the last 12 months' or 'PURCHASED - more than 12 months ago').
+Q: When, if ever, have you bought womenswear from the following retailer?",100,,,Demand & Usage,
+Lost demand,fa-line-chart,Standard,The lost customer demand on an annual and monthly basis.,100,,,,
+Lapsed (L12M),,SubPage,"The level of lapsed customers of the retailers (stated as a percentage of all respondents who state 'PURCHASED - more than 12 months ago').
+Q: When, if ever, have you bought womenswear from the following retailer?",100,,,Lost demand,
+Never Bought,,SubPage,"% of people who have never bought from the retailer (including those who are unaware).
+Q: When, if ever, have you bought womenswear from the following retailer?",100,,,Lost demand,
+In-store:Better fitting products,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:Better priced products,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:Better quality products,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:Products available in my size,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:Better range of styles,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:Shorter queues,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:More helpful staff,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+In-store:Better store layout,,SubPage,Q: What would have motivated you to make a purchase from (retailer) in-store when you JUST BROWSED?,100,,,Lost demand,
+Online:Better fitting products,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Better priced products,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Better quality products,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Products available in my size,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Better range of styles,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Easier navigation,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Better delivery options,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Online:Better product presentation,,SubPage,Q: What would have motivated you to make a purchase from (retailer) online when you JUST BROWSED?,100,,,Lost demand,
+Customer Experience,fa-line-chart,Standard,The level of customer satisfaction and advocacy for the retailers.,100,,,,
+Satisfaction In-Store,,SubPage,"Q: Thinking about some of the retailers you have visited IN-STORE in the last month, how would you rate your level of SATISFACTION with the retailer overall? (Scores 8 or above as a % of total)",100,,,Customer Experience,
+Satisfaction Online,,SubPage,"Q: Thinking about some of the retailers you have visited ONLINE in the last month, how would you rate your level of SATISFACTION with the retailer overall? (Scores 8 or above as a % of total)",100,,,Customer Experience,
+Advocacy,,SubPage,"The level of advocacy for the retailers by those have been customers in the past 30 days (stated as a Net Promoter Score - the 'percentage of promoters' minus the 'percentage of detractors').
+Q: Considering the womenswear retailers you have bought from, on a scale of 0-10 how likely would you be to recommend them to friends / family?",100,,,Customer Experience,
+Promoters,,SubPage,The % of Promoters (rating 9-10) among those who have been customers in the past 30 days,100,,,Customer Experience,
+Detractors,,SubPage,The % of Detractors (rating 0-6) among those who have been customers in the past 30 days,100,,,Customer Experience,
+Passives,,SubPage,The % of Passives (rating 7-8) among those who have been customers in the past 30 days,100,,,Customer Experience,
+Image,fa-line-chart,Standard,The image performance of the retailer,100,,,,
+Image:Caring,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Classic,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Comfortable,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Confident,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Distinctive,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Energetic,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Exciting,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Expert,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Famous designers,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:For men,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:For women,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Fresh,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Has a rich heritage,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Honest,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Iconic,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Innovative,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Inspiring,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Modern,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Premium,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Professional,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Quality,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Stylish,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Trusted,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Worth every penny,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+Image:Youthful,,SubPage,Q: Which of these words / statements do you MOST associate with (the retailer)?,100,,,Image,
+CPM,fa-line-chart,Standard,"A strategic map of how consumers perceive your product offer against pricing perception.  Developed by Oliver Wyman, it identifies the important factors driving satisfaction.",100,,,,x
+"CPM - Customer Perception Map, coming in June",,SubPage,,100,,,,x
+Contact your Account Manager to learn more,,SubPage,,100,,,,x
+Reports,fa-line-chart,Standard,Download reports and quarterly presentations for your brands,100,,,,x

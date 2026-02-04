@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fortnite
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Minecraft
+  },
+  {
+    ClassInstanceId: 3,
+    Name: FIFA
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Call of Duty
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Elden Ring
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Grand Theft Auto
+  },
+  {
+    ClassInstanceId: 7,
+    Name: God of War
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Mario Kart
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

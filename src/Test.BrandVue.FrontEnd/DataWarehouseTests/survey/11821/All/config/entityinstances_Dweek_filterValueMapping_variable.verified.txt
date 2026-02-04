@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Week 1 (Days 1 - 7)
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Week 2 (Days 8 - 14)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Week 3 (Days 15 - 21)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Week 4 (Days 22+)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Technology electric N3M (Base Technology_electric_N3M)
+  }
+]

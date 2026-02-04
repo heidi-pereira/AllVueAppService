@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Picture quality
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Sound quality
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Remote control
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Connectivity to other smart devices (phone, tablet, etc.)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Design and style
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Range and availability of apps
+  },
+  {
+    ClassInstanceId: 7,
+    Name: General speed and responsiveness
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Reliability
+  },
+  {
+    ClassInstanceId: 9,
+    Name: AI-powered features
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Access to free content, e.g. streaming TV
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Smart TV interface
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In stadiums / arenas
+  },
+  {
+    ClassInstanceId: 2,
+    Name: In pubs / restaurants / cafés / bars
+  },
+  {
+    ClassInstanceId: 3,
+    Name: At pop-up viewing areas (e.g. large screens)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Smartphone / tablet / laptop on the go
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other, please specify
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

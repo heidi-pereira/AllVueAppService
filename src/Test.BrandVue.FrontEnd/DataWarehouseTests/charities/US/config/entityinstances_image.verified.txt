@@ -1,0 +1,74 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Authoritative
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Bold
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Caring
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Committed
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Confident
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Credible
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Empathetic
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Established
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Expert
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Friendly
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Honest
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Inspiring
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Modern
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Optimistic
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Passionate
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Plain speaking
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Trusted
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None of these
+  }
+]

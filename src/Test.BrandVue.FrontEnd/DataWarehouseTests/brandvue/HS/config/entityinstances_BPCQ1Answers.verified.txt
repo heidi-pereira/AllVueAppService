@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cosmetics & Fragrances
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Healthcare products
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Personal Care & Toiletries
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Skincare products
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Eyecare products
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Baby & Child products
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Sexual Wellbeing products
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Nutritional / Vitamins & Minerals supplements
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Newspapers Read Market (Base Newspapers_read)
+  }
+]

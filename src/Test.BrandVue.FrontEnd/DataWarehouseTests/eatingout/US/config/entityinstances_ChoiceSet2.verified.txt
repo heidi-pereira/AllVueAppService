@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 1,
+    Name: We
+  },
+  {
+    ClassInstanceId: 2,
+    Name: All
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Love
+  },
+  {
+    ClassInstanceId: 4,
+    Name: To
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Script
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Ginger
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Surveys
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: As part of a monthly contract (including data, texts and calls allowance)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Buy the smartphone on its own (either outright or in monthly instalments - I’ll buy data, texts and calls separately)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Someone else will buy it for me
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Don’t know / Can’t say
+  }
+]

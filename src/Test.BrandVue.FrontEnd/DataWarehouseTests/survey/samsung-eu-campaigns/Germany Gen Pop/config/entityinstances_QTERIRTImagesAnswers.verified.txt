@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Negative
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Positive
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Time
+  }
+]

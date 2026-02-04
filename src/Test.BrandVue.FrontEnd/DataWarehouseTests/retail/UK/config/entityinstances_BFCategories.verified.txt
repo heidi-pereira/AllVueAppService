@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Not sure / don't know
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Clothes / footwear / accessories
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Beauty / personal care / fragrances
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Furniture
+  },
+  {
+    ClassInstanceId: 4,
+    Name: DIY / home improvements (including kitchens and bathrooms)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Appliances for the home (e.g. white goods, vacuum cleaners, kitchen appliances)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Technology (e.g. TV, mobiles, laptops, tablets, speakers, smart speakers, accessories)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Toy, games and gifts
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Nothing in-particular, I'll see what is available
+  }
+]

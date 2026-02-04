@@ -1,0 +1,75 @@
+﻿id,displayName,subset,disabled,environment,isDefault,order,group,totalisationPeriod,numberOfPeriodsInAverage,weightingMethod,weightAcross,averageStrategy,makeUpTo,includeResponseIds
+7Days,7 days,,,,,100,Daily|DailyShort,Day,7,QuotaCell,AllPeriods,OverAllPeriods,Day,
+14Days,14 days,,,,,200,Daily|DailyShort,Day,14,QuotaCell,AllPeriods,OverAllPeriods,Day,
+28Days,28 days,,,,Y,300,Daily|DailyShort,Day,28,QuotaCell,AllPeriods,OverAllPeriods,Day,
+12Weeks,12 weeks,,,,,400,Daily|DailyShort,Day,84,QuotaCell,AllPeriods,OverAllPeriods,Day,
+26Weeks,26 weeks,UK|US|DE|UKMen|DEMen|USMen,,,,500,Daily|DailyLong,Day,182,QuotaCell,AllPeriods,OverAllPeriods,Day,
+52Weeks,52 weeks,UK|US|DE|UKMen|DEMen|USMen,,,,600,Daily|DailyLong,Day,364,QuotaCell,AllPeriods,OverAllPeriods,Day,
+78Weeks,78 weeks,UK|UKMen|US,,,,620,Daily|DailyLong,Day,546,QuotaCell,AllPeriods,OverAllPeriods,Day,
+104Weeks,104 weeks,UK|UKMen|US,,,,640,Daily|DailyLong,Day,728,QuotaCell,AllPeriods,OverAllPeriods,Day,
+Monthly,Monthly,,,,,700,Calendar|CalendarShort,Month,1,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyDebug,Monthly debug,,,dev|test|beta,,700,Calendar|CalendarShort,Month,1,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,y
+MonthlyOver3Months,3 month rolling,,,,,800,Calendar|CalendarLong,Month,3,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyOver12Months,12 month rolling,UK|US|UKMen|DE|DEMen,,,,900,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyOver18Months,18 month rolling,UK|UKMen|US,,,,920,Calendar|CalendarLong,Month,18,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyOver24Months,24 month rolling,UK|UKMen|US,,,,940,Calendar|CalendarLong,Month,24,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,
+Quarterly,Quarterly,,,,,1000,Calendar|CalendarShort,Month,3,QuotaCell,SinglePeriod,OverAllPeriods,QuarterEnd,
+Annual,Annual,UK|UKMen|US|DE|DEMen,,,,1100,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,OverAllPeriods,CalendarYearEnd,
+Daily,Daily (DEBUG ONLY),,,dev|test,,1200,Daily|DailyShort,Day,1,QuotaCell,AllPeriods,OverAllPeriods,Day,
+3Days,3 days (DEBUG ONLY),,,dev|test|beta,,1300,Daily|DailyShort,Day,3,QuotaCell,AllPeriods,OverAllPeriods,Day,
+Weekly,Weekly (DOES NOT WORK),,TRUE,dev|test|beta,,1400,Calendar|CalendarShort,Day,7,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyOver3MonthsMeanOfPeriods,Monthly (over 3 months - mean of periods - DEBUG),,TRUE,dev|test|beta,,1500,Calendar|CalendarLong,Month,3,QuotaCell,SinglePeriod,MeanOfPeriods,MonthEnd,
+MonthlyOver12MonthsMeanOfPeriods,Monthly (over 12 months - mean of periods - DEBUG),,TRUE,dev|test|beta,,1600,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,MeanOfPeriods,MonthEnd,
+QuarterlyMeanOfPeriods,Quarterly (legacy - mean of periods - DEBUG),,TRUE,dev|test|beta,,1700,Calendar|CalendarShort,Month,3,QuotaCell,SinglePeriod,MeanOfPeriods,QuarterEnd,
+AnnualMeanOfPeriods,Annual (legacy - mean of periods - DEBUG),,TRUE,dev|test|beta,,1800,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,MeanOfPeriods,CalendarYearEnd,
+DailyUnweighted,Daily (unweighted - DEBUG),,TRUE,dev|test|beta,,1900,Daily|DailyShort,Day,1,None,AllPeriods,OverAllPeriods,Day,
+3DaysUnweighted,3 days (unweighted - DEBUG),,TRUE,dev|test|beta,,2000,Daily|DailyShort,Day,3,None,AllPeriods,OverAllPeriods,Day,
+7DaysUnweighted,7 days (unweighted - DEBUG),,TRUE,dev|test|beta,,2100,Daily|DailyShort,Day,7,None,AllPeriods,OverAllPeriods,Day,
+14DaysUnweighted,14 days (unweighted - DEBUG),,TRUE,dev|test|beta,,2200,Daily|DailyShort,Day,14,None,AllPeriods,OverAllPeriods,Day,
+28DaysUnweighted,28 days (unweighted - DEBUG),,TRUE,dev|test|beta,,2300,Daily|DailyShort,Day,28,None,AllPeriods,OverAllPeriods,Day,
+12WeeksUnweighted,12 weeks (unweighted - DEBUG),,TRUE,dev|test|beta,,2400,Daily|DailyShort,Day,84,None,AllPeriods,OverAllPeriods,Day,
+26WeeksUnweighted,26 weeks (unweighted - DEBUG),,TRUE,dev|test|beta,,2500,Daily|DailyLong,Day,182,None,AllPeriods,OverAllPeriods,Day,
+52WeeksUnweighted,52 weeks (unweighted - DEBUG),,TRUE,dev|test|beta,,2600,Daily|DailyLong,Day,364,None,AllPeriods,OverAllPeriods,Day,
+MonthlyUnweighted,Monthly (unweighted - DEBUG),,TRUE,dev|test|beta,,2700,Calendar|CalendarShort,Month,1,None,SinglePeriod,MeanOfPeriods,MonthEnd,
+MonthlyOver3MonthsUnweighted,Monthly (over 3 months - unweighted - DEBUG),,TRUE,dev|test|beta,,2800,Calendar|CalendarLong,Month,3,None,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyOver3MonthsMeanOfPeriodsUnweighted,Monthly (over 3 months - mean of periods - unweighted - DEBUG),,TRUE,dev|test|beta,,2900,Calendar|CalendarLong,Month,3,None,SinglePeriod,MeanOfPeriods,MonthEnd,
+MonthlyLast12MonthsUnweighted,Monthly (last 12 months - unweighted - DEBUG),,TRUE,dev|test|beta,,3000,Calendar|CalendarLong,Month,12,None,SinglePeriod,OverAllPeriods,MonthEnd,
+MonthlyLast12MonthsUnweightedMeanOfPeriods,Monthly (last 12 months - mean of periods - unweighted - DEBUG),,TRUE,dev|test|beta,,3100,Calendar|CalendarLong,Month,12,None,SinglePeriod,MeanOfPeriods,MonthEnd,
+QuarterlyUnweighted,Quarterly (unweighted - DEBUG),,TRUE,dev|test|beta,,3200,Calendar|CalendarShort,Month,3,None,SinglePeriod,OverAllPeriods,QuarterEnd,
+QuarterlyMeanOfPeriodsUnweighted,Quarterly (mean of periods - unweighted - DEBUG),,TRUE,dev|test|beta,,3300,Calendar|CalendarShort,Month,3,None,SinglePeriod,MeanOfPeriods,QuarterEnd,
+AnnualUnweighted,Annual (unweighted - DEBUG),,TRUE,dev|test|beta,,3400,Calendar|CalendarLong,Month,12,None,SinglePeriod,OverAllPeriods,CalendarYearEnd,
+AnnualMeanOfPeriodsUnweighted,Annual (mean of periods - unweighted - DEBUG),,TRUE,dev|test|beta,,3500,Calendar|CalendarLong,Month,12,None,SinglePeriod,MeanOfPeriods,CalendarYearEnd,
+DailyWithResponseIDs,Daily with response IDs (DEBUG -SLOW),,,dev|test|beta,,3600,Daily|DailyShort,Day,1,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+3DaysWithResponseIDs,3 days with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,3700,Daily|DailyShort,Day,3,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+7DaysWithResponseIDs,7 days with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,3800,Daily|DailyShort,Day,7,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+14DaysWithResponseIDs,14 days with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,3900,Daily|DailyShort,Day,14,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+28DaysWithResponseIDs,28 days with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4000,Daily|DailyShort,Day,28,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+12WeeksWithResponseIDs,12 weeks with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4100,Daily|DailyShort,Day,84,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+26WeeksWithResponseIDs,26 weeks with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4200,Daily|DailyLong,Day,182,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+52WeeksWithResponseIDs,52 weeks with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4300,Daily|DailyLong,Day,364,QuotaCell,AllPeriods,OverAllPeriods,Day,y
+MonthlyWithResponseIDs,Monthly with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4400,Calendar|CalendarShort,Month,1,QuotaCell,SinglePeriod,MeanOfPeriods,MonthEnd,y
+MonthlyOver3MonthsWithResponseIDs,Monthly (over 3 months) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4500,Calendar|CalendarLong,Month,3,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,y
+MonthlyOver3MonthsMeanOfPeriodsWithResponseIDs,Monthly (over 3 months - mean of periods) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4600,Calendar|CalendarLong,Month,3,QuotaCell,SinglePeriod,MeanOfPeriods,MonthEnd,y
+MonthlyOver12MonthsWithResponseIDs,Monthly (over 12 months) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4700,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,OverAllPeriods,MonthEnd,y
+MonthlyOver12MonthsMeanOfPeriodsWithResponseIDs,Monthly (over 12 months - mean of periods) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4800,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,MeanOfPeriods,MonthEnd,y
+QuarterlyWithResponseIDs,Quarterly with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,4900,Calendar|CalendarShort,Month,3,QuotaCell,SinglePeriod,OverAllPeriods,QuarterEnd,y
+QuarterlyMeanOfPeriodsWithResponseIDs,Quarterly (legacy - mean of periods) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5000,Calendar|CalendarShort,Month,3,QuotaCell,SinglePeriod,MeanOfPeriods,QuarterEnd,y
+AnnualWithResponseIDs,Annual with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5100,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,OverAllPeriods,CalendarYearEnd,y
+AnnualMeanOfPeriodsWithResponseIDs,Annual (mean of periods - match REP) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5200,Calendar|CalendarLong,Month,12,QuotaCell,SinglePeriod,MeanOfPeriods,CalendarYearEnd,y
+DailyUnweightedWithResponseIDs,Daily (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5300,Daily|DailyShort,Day,1,None,AllPeriods,OverAllPeriods,Day,y
+3DaysUnweightedWithResponseIDs,3 days (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5400,Daily|DailyShort,Day,3,None,AllPeriods,OverAllPeriods,Day,y
+7DaysUnweightedWithResponseIDs,7 days (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5500,Daily|DailyShort,Day,7,None,AllPeriods,OverAllPeriods,Day,y
+14DaysUnweightedWithResponseIDs,14 days (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5600,Daily|DailyShort,Day,14,None,AllPeriods,OverAllPeriods,Day,y
+28DaysUnweightedWithResponseIDs,28 days (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5700,Daily|DailyShort,Day,28,None,AllPeriods,OverAllPeriods,Day,y
+12WeeksUnweightedWithResponseIDs,12 weeks (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5800,Daily|DailyShort,Day,84,None,AllPeriods,OverAllPeriods,Day,y
+26WeeksUnweightedWithResponseIDs,26 weeks (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,5900,Daily|DailyLong,Day,182,None,AllPeriods,OverAllPeriods,Day,y
+52WeeksUnweightedWithResponseIDs,52 weeks (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6000,Daily|DailyLong,Day,364,None,AllPeriods,OverAllPeriods,Day,y
+MonthlyUnweightedWithResponseIDs,Monthly (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6100,Calendar|CalendarShort,Month,1,None,SinglePeriod,MeanOfPeriods,MonthEnd,y
+MonthlyOver3MonthsUnweightedWithResponseIDs,Monthly (over 3 months - unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6200,Calendar|CalendarLong,Month,3,None,SinglePeriod,OverAllPeriods,MonthEnd,y
+MonthlyOver3MonthsUnweightedMeanOfPeriodsWithResponseIDs,Monthly (over 3 months - mean of periods - unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6300,Calendar|CalendarLong,Month,3,None,SinglePeriod,MeanOfPeriods,MonthEnd,y
+MonthlyLast12MonthsUnweightedWithResponseIDs,Monthly (last 12 months - unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6400,Calendar|CalendarLong,Month,12,None,SinglePeriod,OverAllPeriods,MonthEnd,y
+MonthlyLast12MonthsUnweightedMeanOfPeriodsWithResponseIDs,Monthly (last 12 months - mean of periods - unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6500,Calendar|CalendarLong,Month,12,None,SinglePeriod,MeanOfPeriods,MonthEnd,y
+QuarterlyUnweightedWithResponseIDs,Quarterly (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6600,Calendar|CalendarShort,Month,3,None,SinglePeriod,OverAllPeriods,QuarterEnd,y
+QuarterlyMeanOfPeriodsUnweightedWithResponseIDs,Quarterly (mean of periods - unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6700,Calendar|CalendarShort,Month,3,None,SinglePeriod,MeanOfPeriods,QuarterEnd,y
+AnnualUnweightedWithResponseIDs,Annual (unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6800,Calendar|CalendarLong,Month,12,None,SinglePeriod,OverAllPeriods,CalendarYearEnd,y
+AnnualMeanOfPeriodsUnweightedWithResponseIDs,Annual (mean of periods - unweighted) with response IDs (DEBUG - SLOW),,TRUE,dev|test|beta,,6900,Calendar|CalendarLong,Month,12,None,SinglePeriod,MeanOfPeriods,CalendarYearEnd,y

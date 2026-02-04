@@ -1,0 +1,82 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these in the last 3 months
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Another lottery (other than the National lottery)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Betting on other events
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Bingo
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Casino games
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Dog races
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Football pools
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Fruit or slot machines
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Horse races
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Machines in a bookmakers
+  },
+  {
+    ClassInstanceId: 10,
+    Name: National Lottery draws
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Online games/instant wins
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Poker at a pub/club
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Private betting
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Scratchcards
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Sports betting
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Spread betting
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Virtual dog or horse races
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Other 1
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Other 2
+  }
+]

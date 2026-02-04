@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Commute Type (Base Commute_Type)
+  }
+]

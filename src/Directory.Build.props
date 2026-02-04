@@ -1,0 +1,15 @@
+<Project>
+ <PropertyGroup>
+    <DebugType>portable</DebugType>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <LangVersion>9</LangVersion>
+    <IsPackable>false</IsPackable>
+ </PropertyGroup>
+
+  <PropertyGroup>
+    <Company>Savanta Group Ltd.</Company>
+    <Product>BrandVue</Product>
+    <Copyright>Copyright © Savanta Group Ltd. 2021</Copyright>
+    <Version>1.0.42-localdev</Version>
+  </PropertyGroup>
+</Project>

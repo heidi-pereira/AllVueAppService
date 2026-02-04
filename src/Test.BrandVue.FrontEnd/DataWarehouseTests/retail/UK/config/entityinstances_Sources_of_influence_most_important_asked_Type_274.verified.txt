@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Most important source of influence (Base Sources_of_influence_most_important_asked)
+  }
+]

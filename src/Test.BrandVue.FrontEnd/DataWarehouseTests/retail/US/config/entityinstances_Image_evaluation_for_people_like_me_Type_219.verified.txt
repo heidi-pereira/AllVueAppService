@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Image:For people like you (Base Image_evaluation_for_people_like_me)
+  }
+]

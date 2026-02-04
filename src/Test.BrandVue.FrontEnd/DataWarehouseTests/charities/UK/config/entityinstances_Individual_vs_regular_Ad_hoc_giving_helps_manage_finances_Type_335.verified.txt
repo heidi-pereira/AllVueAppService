@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Ad hoc giving helps manage finances (Base Individual_vs_regular_Ad_hoc_giving_helps_manage_finances)
+  }
+]

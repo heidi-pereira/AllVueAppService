@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Product L3M (Base Product_L3M)
+  }
+]

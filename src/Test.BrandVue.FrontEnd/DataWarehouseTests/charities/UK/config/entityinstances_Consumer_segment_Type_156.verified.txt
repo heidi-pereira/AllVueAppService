@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home ownership:Own - buying with a mortgage (Base Consumer_segment)
+  }
+]

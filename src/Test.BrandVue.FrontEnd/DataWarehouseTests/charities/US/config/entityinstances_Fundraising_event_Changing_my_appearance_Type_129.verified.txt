@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fundraising events:Changing my appearance (Base Fundraising_event_Changing_my_appearance)
+  }
+]

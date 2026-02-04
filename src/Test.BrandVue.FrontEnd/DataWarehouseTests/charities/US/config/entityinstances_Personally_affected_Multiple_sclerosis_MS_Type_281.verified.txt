@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Multiple sclerosis (Base Personally_affected_Multiple_sclerosis_MS)
+  }
+]

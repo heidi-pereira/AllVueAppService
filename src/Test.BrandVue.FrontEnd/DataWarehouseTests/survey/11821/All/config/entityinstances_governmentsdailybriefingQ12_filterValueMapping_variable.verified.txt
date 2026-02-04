@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes, I watched it live
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes, but I watched it later
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No, but I have read about it
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No, and I do not know anything about it
+  }
+]

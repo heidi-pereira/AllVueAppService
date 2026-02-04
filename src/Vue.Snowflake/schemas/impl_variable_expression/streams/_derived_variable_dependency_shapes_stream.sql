@@ -1,0 +1,1 @@
+create or replace stream impl_variable_expression._derived_variable_dependency_shapes_stream on dynamic table impl_variable_expression._derived_variable_dependency_shapes;

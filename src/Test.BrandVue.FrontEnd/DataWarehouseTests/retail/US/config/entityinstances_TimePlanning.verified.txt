@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: The same day
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A couple of days before
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Up to a week before
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Up to a month before
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Up to three months before
+  },
+  {
+    ClassInstanceId: 6,
+    Name: More than three months before
+  }
+]

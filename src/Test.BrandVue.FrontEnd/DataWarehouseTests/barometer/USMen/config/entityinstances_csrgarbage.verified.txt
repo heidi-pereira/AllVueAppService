@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Convenient
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Nowhere to recycle close to me
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No-one would have wanted the item
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Item was too stained / dirty
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

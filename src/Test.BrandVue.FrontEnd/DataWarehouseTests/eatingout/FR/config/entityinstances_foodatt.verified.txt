@@ -1,0 +1,82 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: It’s extremely important for me to know where the ingredients in my food have come from
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I take pride in knowing the origins of the food I’m eating
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I always like trying new tastes and discovering things for myself
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I am a creature of habit and tend to stick to what I like
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I’m willing to pay a bit more for great quality food
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I’m prepared to pay for food to be delivered to my house
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I like to know the food I eat is inherently healthy and good for my body
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I actively avoid certain food types (ie. Red meat, gluten, non-organic) for my health
+  },
+  {
+    ClassInstanceId: 9,
+    Name: I am often on a diet
+  },
+  {
+    ClassInstanceId: 10,
+    Name: I like reading food magazines and recipe books
+  },
+  {
+    ClassInstanceId: 11,
+    Name: I often post photos or videos of my food and drinks on social media
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Eating out is only a treat for a special occasion, not something I do all the time
+  },
+  {
+    ClassInstanceId: 13,
+    Name: When eating out, I tend to plan occasions far in advance
+  },
+  {
+    ClassInstanceId: 14,
+    Name: I tend to buy ready meals to cook at home rather than prepare meals from scratch
+  },
+  {
+    ClassInstanceId: 15,
+    Name: I tend to only eat out if I have a voucher or discount
+  },
+  {
+    ClassInstanceId: 16,
+    Name: When eating out, having the best quality food is the most important thing
+  },
+  {
+    ClassInstanceId: 17,
+    Name: When eating out, convenience is the most important thing
+  },
+  {
+    ClassInstanceId: 18,
+    Name: I am often inspired by healthy food bloggers and vloggers
+  },
+  {
+    ClassInstanceId: 19,
+    Name: I keep to a set budget for buying food out of the home (i.e. lunch on the go, eating out)
+  },
+  {
+    ClassInstanceId: 20,
+    Name: I consider myself knowledgeable about the foods / drinks I chose to consume
+  }
+]

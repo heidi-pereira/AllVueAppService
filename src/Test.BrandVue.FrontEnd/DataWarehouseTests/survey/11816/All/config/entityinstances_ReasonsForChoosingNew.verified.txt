@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Quality of food
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Healthiness of food
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Atmosphere / ambience
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Friendliness of staff
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Value for money
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Menu quality
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Caters for dietary needs
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Convenience
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Speed of service
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Portion size
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Had a voucher / discount
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Good for children
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Price of food
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Price of drink
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Speed of delivery
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Variety of restaurants
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Price of delivery
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Quality of delivery App
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Other
+  }
+]

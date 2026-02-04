@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Occupation:Full-time student (Base Consumer_segment)
+  }
+]

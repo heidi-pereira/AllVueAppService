@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Area of employment:Hospitality / Tourism / Leisure (Base Consumer_segment)
+  }
+]

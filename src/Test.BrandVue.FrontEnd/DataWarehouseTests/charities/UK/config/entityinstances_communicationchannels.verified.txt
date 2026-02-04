@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Email (e.g. newsletters)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Letters (e.g. in the post)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Their website
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Social media (e.g. Facebook, Twitter, Instagram)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Phone calls
+  },
+  {
+    ClassInstanceId: 6,
+    Name: SMS / Text
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Coverage in the news / media (TV, newspapers etc)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Adverts
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

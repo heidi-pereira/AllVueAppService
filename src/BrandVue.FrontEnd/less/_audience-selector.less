@@ -1,0 +1,95 @@
+@import "_vars";
+@import "_layout";
+
+.audience-selector {
+    .flex-column();
+    flex: 1;
+
+    .metric-dropdown-menu, .crossmeasure-multiple-choice-dropdown {
+        margin-bottom: 10px;
+    }
+
+    .crossmeasure-multiple-choice-dropdown-menu {
+        width: 100%;
+    }
+
+    .no-audience-message, .bad-audience-message {
+        .flex-column(@justify-content: center, @gutter: 24px);
+        align-self: center;
+        color: @slate;
+        text-align: center;
+        padding: 0 16px;
+        height: 300px;
+        max-width: 450px;
+
+        p {
+            font-size: 14px;
+        }
+
+        .material-symbols-outlined {
+            color: @chalk;
+            font-size: 40px;
+        }
+    }
+
+    .bad-audience-message .material-symbols-outlined {
+        color: @amber;
+    }
+
+    .audience-description {
+        white-space: pre-line;
+        padding: 15px 0;
+        color: @slate;
+        line-height: 1.5em;
+        font-size: 13px;
+    }
+
+    .audience-dropdown {
+        .audience-items {
+            .scrollbars;
+            overflow-y: auto;
+            max-height: 400px;
+
+            @media (max-height: 1000px) {
+                max-height: 325px;
+            }
+
+            @media (max-height: 900px) {
+                max-height: 250px;
+            }
+
+            @media (max-height: 800px) {
+                max-height: 200px;
+            }
+
+            .dropdown-item {
+                white-space: normal;
+            }
+        }
+
+        .dropdown-header {
+            padding: 10px 12px;
+            font-weight: normal;
+
+            span {
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+        }
+
+        .dropdown-focused-audience {
+            padding: 0 10px;
+            max-height: 300px;
+            overflow-y: auto;
+            .scrollbars;
+
+            @media (max-height: 1000px) {
+                max-height: 200px;
+            }
+
+            @media (max-height: 700px) {
+                display: none;
+            }
+        }
+    }
+}

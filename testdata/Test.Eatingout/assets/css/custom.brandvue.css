@@ -1,0 +1,329 @@
+﻿body, .viewmenu {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Over-rides */
+
+.sidebar-menu > ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    flex-direction: column !important;
+    display: flex;
+}
+
+.sidebar-menu > ul > li {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-width: 0 0 1px;
+    margin: 0 -15px;
+    padding: 0;
+    width: auto;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.sidebar-menu > ul > li:first-child {
+    border-width: 1px 0;
+    }
+
+    .sidebar-menu a {
+        color: #fff;
+        position: relative;
+        display: block;
+        padding: 0.75rem 1.75rem;
+        font-size: inherit;
+        font-weight: inherit;
+    }
+
+.sidebar-menu > ul ul a {
+   padding:0.5rem 1.25rem;
+}
+
+.sidebar-menu > ul ul li {
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    margin: 0 0 4px;
+    width: auto;
+    text-transform: none;
+    line-height: 1;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+    .sidebar-menu > ul ul {
+        margin: 4px 0 16px;
+    }
+
+.sidebar-menu > ul > li > a.active {
+    background-color: rgba(255,255,255,0.75);
+   color: #296B93;
+    font-weight: 400;
+}
+
+    .sidebar-menu a:not(.active):hover {
+        background: rgba(255, 255, 255, 0.5);
+        color: #296B93;
+    }
+
+    .sidebar-menu ul ul a:hover {
+        border-radius: 4px 0 0 4px;
+    }
+
+    .sidebar-menu ul ul a.active {
+        font-size: 16px;
+        background: #fff;
+        color: #296B93;
+        border-radius: 4px 0 0 4px;
+        margin: 0;
+    }
+
+    .sidebar-menu li a:first-child::before {
+        content: "\E5C5";
+        font-family: "Material Icons";
+        display: block;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 4px;
+        right: 8px;
+        font-size: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+.sidebar-menu li a.active:first-child::before {
+    transform: rotate(0deg);
+    color: #296B93;
+}
+
+    .sidebar-menu ul li a:only-child::before {
+        content: none;
+    }
+
+    .sidebar-menu li a:not(.active):hover::before {
+        color: #296B93;
+    }
+
+    .sidebar {
+        background: #fff url(../img/sidebar-bg.png) top left no-repeat;
+        max-width: 250px;
+        padding-bottom: 30px;
+        height: auto;
+    }
+
+    .sidebar-menu {
+        background: url(../img/logo.svg) 8px 24px no-repeat;
+        padding-top: 101px;
+    }
+
+    nav:first-of-type {
+        display: none;
+    }
+
+    #reactApp {
+        padding: 0;
+    }
+
+    .main {
+        padding-top: 16px;
+        min-height: 1px;
+    }
+
+    .main > div {
+        margin-left: 16px;
+    }
+
+    .main > div:first-of-type {
+        margin-left: 0;
+    }
+
+.page-title{
+    font-weight:300;
+    }
+
+.viewmenu a {
+    background: rgba(88,177,215,0.36);
+    font-weight:700;
+}
+
+#viewmenu {
+    border-bottom: 2px solid rgba(88,177,215,0.36);
+}
+
+.viewmenu a.active {
+    border: 2px solid rgba(88,177,215,0.36);
+    border-bottom: none;
+}
+
+#introtext {
+    background: rgba(88,177,215,0.12);
+}
+
+ #chartControls .btn {
+    background: rgba(88,177,215,0.36);
+}
+
+
+@supports (position: sticky) {
+
+    .main, .sidebar {
+        height: 100vh;
+        position: sticky;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+}
+
+          .main{
+              position:initial;
+              }
+
+/* Custom scrollbar for nav - only Webkit */
+.row .sidebar::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    background: #fafafa;
+}
+
+.row .sidebar::-webkit-scrollbar:horizontal, .row .sidebar::-webkit-scrollbar:vertical, .row .sidebar::-webkit-scrollbar-corner {
+    border-style: solid;
+    border-color: #e8e8e8;
+    border-width: 0 2px 0 0;
+}
+
+.row .sidebar::-webkit-scrollbar-corner {
+    background: #f6f6f6;
+    border-width: 1px 0 0 1px;
+}
+
+.row .sidebar::-webkit-scrollbar-thumb, .row .sidebar::-webkit-scrollbar-thumb:hover {
+    height: 6px;
+    background-clip: padding-box;
+    -webkit-border-radius: 7px;
+}
+
+.row .sidebar::-webkit-scrollbar-thumb {
+    background: rgba(193,193,193,0.8);
+}
+
+
+
+@media (max-width: 1024px) {
+
+    .sidebar {
+        transform: translate(-210px, 0);
+        box-shadow: none;
+        top: 0;
+        position: fixed;
+        height: 100%;
+    }
+
+    .sidebar.active {
+        box-shadow: 0 16px 16px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .sidebar .sidebar-menu {
+        display: none;
+    }
+
+    .sidebar.active .sidebar-menu {
+        display: block;
+    }
+
+    .main {
+        position: initial;
+        margin-left: 40px;
+    }
+
+    .sidebar .mainmenu {
+        display: block;
+        position: absolute;
+        top: 8px;
+        right: 12px;
+        cursor: pointer;
+    }
+
+    .mainmenu .hamburger {
+        display: block;
+        position: relative;
+        width: 18px;
+        height: 26px;
+        -moz-transition: all 400ms ease-in-out;
+        -webkit-transition: all 400ms ease-in-out;
+        -o-transition: all 400ms ease-in-out;
+        transition: all 400ms ease-in-out;
+    }
+
+    .mainmenu .hamburger .bar {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        border-radius: 1px;
+        background: white;
+        -webkit-transform: translate(0, 0) rotate(0deg) scale(1, 1);
+        -moz-transform: translate(0, 0) rotate(0deg) scale(1, 1);
+        -ms-transform: translate(0, 0) rotate(0deg) scale(1, 1);
+        -o-transform: translate(0, 0) rotate(0deg) scale(1, 1);
+        transform: translate(0, 0) rotate(0deg) scale(1, 1);
+        -moz-transition: all 400ms ease-in-out;
+        -webkit-transition: all 400ms ease-in-out;
+        -o-transition: all 400ms ease-in-out;
+        transition: all 400ms ease-in-out;
+    }
+
+    .mainmenu .hamburger .bar.bar-1 {
+        top: 6px;
+        -webkit-transform-origin: left top;
+        -moz-transform-origin: left top;
+        -ms-transform-origin: left top;
+        -o-transform-origin: left top;
+        transform-origin: left top;
+    }
+
+    .mainmenu .hamburger .bar.bar-2 {
+        top: 12px;
+        -webkit-transform-origin: center center;
+        -moz-transform-origin: center center;
+        -ms-transform-origin: center center;
+        -o-transform-origin: center center;
+        transform-origin: center center;
+    }
+
+    .mainmenu .hamburger .bar.bar-3 {
+        bottom: 6px;
+        -webkit-transform-origin: left bottom;
+        -moz-transform-origin: left bottom;
+        -ms-transform-origin: left bottom;
+        -o-transform-origin: left bottom;
+        transform-origin: left bottom;
+    }
+
+    .mainmenu.active {
+    }
+
+    .mainmenu.active .hamburger .bar-1 {
+        -webkit-transform: translate(3px, 0) rotate(45deg) scale(1, 1);
+        -moz-transform: translate(3px, 0) rotate(45deg) scale(1, 1);
+        -ms-transform: translate(3px, 0) rotate(45deg) scale(1, 1);
+        -o-transform: translate(3px, 0) rotate(45deg) scale(1, 1);
+        transform: translate(3px, 0) rotate(45deg) scale(1, 1);
+    }
+
+    .mainmenu.active .hamburger .bar-2 {
+        -webkit-transform: translate(0, 0) rotate(0) scale(0, 1);
+        -moz-transform: translate(0, 0) rotate(0) scale(0, 1);
+        -ms-transform: translate(0, 0) rotate(0) scale(0, 1);
+        -o-transform: translate(0, 0) rotate(0) scale(0, 1);
+        transform: translate(0, 0) rotate(0) scale(0, 1);
+    }
+
+    .mainmenu.active .hamburger .bar-3 {
+        -webkit-transform: translate(3px, 0) rotate(-45deg) scale(1, 1);
+        -moz-transform: translate(3px, 0) rotate(-45deg) scale(1, 1);
+        -ms-transform: translate(3px, 0) rotate(-45deg) scale(1, 1);
+        -o-transform: translate(3px, 0) rotate(-45deg) scale(1, 1);
+        transform: translate(3px, 0) rotate(-45deg) scale(1, 1);
+    }
+}

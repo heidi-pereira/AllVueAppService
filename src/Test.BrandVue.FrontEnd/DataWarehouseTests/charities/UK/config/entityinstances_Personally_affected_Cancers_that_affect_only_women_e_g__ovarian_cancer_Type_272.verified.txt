@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Cancers that affect only women (Base Personally_affected_Cancers_that_affect_only_women_e_g__ovarian_cancer)
+  }
+]

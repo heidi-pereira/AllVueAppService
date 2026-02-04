@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sale full price (Base Sale_full_price_asked)
+  }
+]

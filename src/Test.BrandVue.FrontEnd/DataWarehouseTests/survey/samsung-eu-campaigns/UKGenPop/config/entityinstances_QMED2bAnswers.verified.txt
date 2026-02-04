@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung’s own social media channels
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Fearne’s own social media channels
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ads in my social media feed (e.g. Instagram, Facebook, Snapchat)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Ads before watching videos (e.g. YouTube)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: In printed a newspaper/magazine
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Somewhere else
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Don’t know/Can’t Remember
+  },
+  {
+    ClassInstanceId: 8,
+    Name: In an online newspaper/magazine
+  }
+]

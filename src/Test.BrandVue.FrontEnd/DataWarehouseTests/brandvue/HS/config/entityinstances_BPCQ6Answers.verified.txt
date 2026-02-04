@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Moisturising Eye drops
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Medicated Eyecare treatments (eg. for conjunctivitis)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Contact lens'
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Contact lens solutions
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Dry eye treatments
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Hay fever sprays & drops
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

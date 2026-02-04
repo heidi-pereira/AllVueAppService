@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sports followed (Base Consumer_segment)
+  }
+]

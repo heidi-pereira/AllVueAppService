@@ -1,0 +1,66 @@
+@import "../../../../../less/_vars.less";
+
+.item,
+.itemSelected {
+  position: relative;
+  padding: 12px 12px 10px 12px;
+  border: 1px solid @chalk-light;
+  border-radius: 2px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.item:hover {
+  background: @chalk-lighter;
+}
+
+.itemSelected {
+  background: @blueSteel-lightest;
+  border: 1px solid @blueSteel-light;
+}
+
+.itemTopRow {
+  display: grid;  
+  grid-template-columns: 40px 1fr 32px;
+  align-items: center;
+  gap: 0;
+}
+
+.left {
+  display: contents;
+}
+
+.itemIcon {
+  align-self: normal;
+  margin-top:10px;
+  color: #7E0181;
+}
+
+.itemMain {
+  grid-column: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 0px;
+}
+.itemName {
+  font-weight: 500;
+}
+
+.calendar {
+  font-size: 18px;
+}
+
+.itemWrapper {
+  position: relative;
+}
+
+.itemMetaRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: @slate;
+  font-size: 12px;
+}

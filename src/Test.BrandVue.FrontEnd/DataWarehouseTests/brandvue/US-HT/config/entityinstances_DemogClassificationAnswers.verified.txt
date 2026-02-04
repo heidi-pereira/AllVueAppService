@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 18-24 AND (student OR unemployed) AND HHI < £50k
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Unemployed AND HHI income <£50k
+  },
+  {
+    ClassInstanceId: 3,
+    Name: HHI income <£30k AND C2DE
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

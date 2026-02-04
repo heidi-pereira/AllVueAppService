@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Income comfortability:Coping on present income (Base Consumer_segment)
+  }
+]

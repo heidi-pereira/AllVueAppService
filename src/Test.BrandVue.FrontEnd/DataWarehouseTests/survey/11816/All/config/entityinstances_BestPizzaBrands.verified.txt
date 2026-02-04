@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 21,
+    Name: Pizza Express
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Franco Manca
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Domino's
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Papa John's
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Pizza Hut Delivery
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Stonehouse Pizza & Carvery
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Pizza Pilgrims
+  },
+  {
+    ClassInstanceId: 234,
+    Name: Fireaway Pizza
+  }
+]

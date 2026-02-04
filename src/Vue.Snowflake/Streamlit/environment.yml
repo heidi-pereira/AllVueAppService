@@ -1,0 +1,8 @@
+# environment.yml
+name: streamlit-sync-dashboard-env
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+dependencies:
+  - streamlit
+  - snowflake-snowpark-python
+  - pandas

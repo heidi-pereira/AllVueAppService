@@ -1,0 +1,22 @@
+﻿@import "../../../less/_layout";
+@import "../../../less/_vars";
+
+
+.reportTablePagination {
+  .flex-row(@align-items: center, @gutter: 10px);
+
+  .pageSelector {
+    .flex-row(@align-items: center);
+    
+    .arrowButton {
+      cursor: pointer;
+      color: @slate;
+    }
+
+    .greyedOut {
+      color: @slate-lighter;
+      pointer-events: none;
+      cursor: not-allowed;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+@import 'colors.scss';
+@import "dimensions.scss";
+@import "layout.scss";
+//
+// ToDo: Remove bootstrap https://app.shortcut.com/mig-global/story/88087/remove-bootstrap-from-customerportal#
+//
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/dropdown";
+
+.toggle-button {
+  @include flex-row($justify-content: space-between, $align-items: center);
+  gap: 4px;
+  background: $white;
+  color: $blueSteel;
+  border: 1px solid $blueSteel;
+  border-radius: 4px;
+  padding: 9px 12px;
+
+  &:hover {
+    background: $blueSteel-lighter;
+    color: $blueSteel-darker;
+    border: 1px solid $blueSteel-darker;
+    box-shadow: 0px 0px 3px 3px $blueSteel-lighter;
+  }
+
+  &.selected {
+    background: $blueSteel;
+    color: $white;
+
+    &:hover {
+      background: $blueSteel;
+      color: $blueSteel-light;
+      border: 1px solid $blueSteel;
+      box-shadow: 0px 0px 3px 3px $blueSteel-light;
+    }
+  }
+}

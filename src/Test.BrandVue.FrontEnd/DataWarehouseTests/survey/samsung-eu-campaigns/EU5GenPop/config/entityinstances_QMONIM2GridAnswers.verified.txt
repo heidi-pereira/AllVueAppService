@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Is highly recommended
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Has a good reputation
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Is a brand I trust
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Is a premium brand
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Is a cool brand
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Has a good reputation among gamers
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Is leading brand in the monitor category
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Is distinctive
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Is sustainably minded
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Offers benefits to owning multiple devices from this brand
+  }
+]

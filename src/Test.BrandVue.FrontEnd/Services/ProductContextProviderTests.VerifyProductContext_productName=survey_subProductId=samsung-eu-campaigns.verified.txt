@@ -1,0 +1,35 @@
+﻿{
+  AllowPartialDays: false,
+  DayIsFromResponseEndTime: true,
+  DefaultAveragesToInclude: [
+    Weekly,
+    Fortnightly,
+    MonthlyFullScheme
+  ],
+  DisableAutoMetricFiltering: true,
+  GenerateFromAnswersTable: false,
+  GenerateFromSurveyIds: true,
+  HasSingleClient: true,
+  IncludeAllDefaultAverages: false,
+  IsAllVue: true,
+  IsContinuous: false,
+  IsSurveyGroup: true,
+  IsSurveyOpen: true,
+  KeepInMemory: true,
+  KimbleProposalId: null,
+  NonMapFileSurveyIds: [
+    13290
+  ],
+  NonMapFileSurveys: [
+    {
+      SurveyId: 13290,
+      SurveyName: Samsung EU Campaigns
+    }
+  ],
+  ShortCode: survey,
+  SubProductId: samsung-eu-campaigns,
+  SurveyAuthCompanyId: Samsung,
+  SurveyGroupId: 2,
+  SurveyName: Samsung EU Campaigns,
+  SurveyUid: 
+}

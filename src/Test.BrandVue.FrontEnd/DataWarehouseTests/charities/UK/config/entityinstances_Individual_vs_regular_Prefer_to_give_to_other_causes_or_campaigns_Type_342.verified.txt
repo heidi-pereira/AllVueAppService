@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Prefer to give to other causes or campaigns (Base Individual_vs_regular_Prefer_to_give_to_other_causes_or_campaigns)
+  }
+]

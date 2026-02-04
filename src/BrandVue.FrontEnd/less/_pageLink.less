@@ -1,0 +1,106 @@
+﻿.guide-part:extend(.card all) {
+    text-align: center;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Georgia;
+
+    &::after {
+        display: block;
+    }
+
+    .round-button {
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        border-radius: 50%;
+        border: 1px solid grey;
+        background-color: white;
+        padding: 2px;
+        font-size: 14px;
+    }
+
+    &.guide-part-1 {
+        background-color: @coral-hex-25;
+        border: 1px solid @coral-hex-50;
+
+        .round-button {
+            color: @coral-hex;
+            border: 1px solid @coral-hex-50;
+        }
+    }
+
+    &.guide-part-2 {
+        background-color: @blueSteel-lighter;
+        border: 1px solid @blueSteel-light;
+
+        .round-button {
+            color: @blueSteel;
+            border: 1px solid @blueSteel-light;
+        }
+    }
+
+    &.guide-part-3 {
+        background-color: @teal-hex-25;
+        border: 1px solid @teal-hex-50;
+
+        .round-button {
+            color: @teal-hex;
+            border: 1px solid @teal-hex-50;
+        }
+    }
+
+    &.guide-part-4 {
+        background-color: @gold-hex-25;
+        border: 1px solid @gold-hex-50;
+
+        .round-button {
+            color: @gold-hex;
+            border: 1px solid @gold-hex-50;
+        }
+    }
+
+    &.guide-part-5 {
+        background-color: @purple-hex-25;
+        border: 1px solid @purple-hex-50;
+
+        .round-button {
+            color: @purple-hex;
+            border: 1px solid @purple-hex-50;
+        }
+    }
+
+    &.guide-part-6 {
+        background-color: @navy-hex-25;
+        border: 1px solid @navy-hex-50;
+
+        .round-button {
+            color: @navy-hex;
+            border: 1px solid @navy-hex-50;
+        }
+    }
+
+    &.guide-part-1::before {
+        content: url(../wwwroot/assets/img/benefit-marketconsumer.svg);
+    }
+
+    &.guide-part-2::before {
+        content: url(../wwwroot/assets/img/benefit-audience.svg);
+    }
+
+    &.guide-part-3::before {
+        content: url(../wwwroot/assets/img/benefit-acquisition.svg);
+    }
+
+    &.guide-part-4::before {
+        content: url(../wwwroot/assets/img/benefit-brand.svg);
+    }
+
+    &.guide-part-5::before {
+        content: url(../wwwroot/assets/img/benefit-marketing.svg);
+    }
+
+    &.guide-part-6::before {
+        content: url(../wwwroot/assets/img/benefit-retention.svg);
+    }
+}

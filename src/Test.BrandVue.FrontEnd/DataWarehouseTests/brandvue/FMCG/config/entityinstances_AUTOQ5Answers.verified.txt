@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, I have purchased after only using a car configurator online
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, I would consider purchasing after only using a car configurator online
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No, I would visit a physical dealership
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I would consider an online purchase, but only after seeing the vehicle during a physical dealer visit
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Don’t know
+  }
+]

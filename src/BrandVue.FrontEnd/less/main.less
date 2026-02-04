@@ -1,0 +1,325 @@
+@import url(app.css);
+// core
+@import "_vars";
+@import "_typography";
+
+@import "_welcome";
+
+// components
+@import "_header";
+@import "_layout";
+
+@import "_account-options";
+@import "_buttons";
+@import "_variableContentModal";
+@import "_variableEditContentModal";
+@import "_base-input";
+@import "_addChartModal";
+@import "_metricSelectList";
+@import "_inputs";
+@import "_loading-indicator";
+@import "_modals";
+@import "_page-title";
+@import "_sidebar-menu";
+@import "_topnav";
+@import "_footer";
+@import "_category-pane";
+@import "_category-pane-detailed";
+@import "_card-panes";
+@import "_tooltips";
+@import "_search-input";
+@import "_metric-delta";
+@import "_rank-delta";
+@import "_searchable-checkbox-list";
+
+@import "_icons";
+
+@import "_custom";
+@import "_toggle";
+@import "_scorecards";
+@import "_ranking-table";
+@import "_brandSample";
+@import "_exportchart";
+@import "_reloadingData";
+@import "_errorPage.less";
+@import "_filters.less";
+@import "_dropdown";
+@import "_separator";
+@import "_cards";
+@import "_tabs";
+@import "_crosstab";
+@import "_reportsPage";
+@import "_page-card";
+@import "_settings-page";
+@import "_crosstab_category_breaks";
+@import "_crosstab-low-sample";
+@import "_allvue-description-footer";
+@import "_display-average";
+@import "_surveyVueHeader";
+@import "_all-vue-home-page-logo";
+@import "_searchable-question-list";
+@import "_chart-page";
+@import "_horizontal-bar-chart";
+@import "_funnels";
+@import "_report-modal";
+@import "_base-options-selector";
+@import "_report-settings-modal-breaks";
+@import "_highcharts-custom-legend";
+@import "_highcharts-custom";
+@import "_metric-dropdown-menu";
+@import "_configure-report-part";
+@import "_allvue-filters";
+@import "_report-settings-modal-filters";
+@import "_base-type-dropdown";
+@import "_weighting";
+@import "_entity-set-selector";
+@import "_side-panel";
+@import "_audience-selector";
+@import "_user-settings";
+@import "_breaks_picker";
+
+@import "_pageLink.less";
+@import "_metric-change-on-period.less";
+
+@import "_surveyVueEntry.less";
+@import "_allvue-error.less";
+@import "_large-export-popover.less";
+@import "ReportVueDashboard.less";
+@import 'react-sortable-tree/style.css';
+
+// pages
+@import "_colour-configuration-page";
+@import "_entity-type-configuration-page";
+@import "_configuration-page";
+@import "_html-configuration-page";
+// ==============================
+:root {
+    --header-background-colour: #191919;
+    --header-background-colour-rgb: 25, 25, 25;
+    --header-background-colour-l: 10%;
+    --header-border-colour: #f4adb3;
+    --header-border-colour-rgb: 244, 173, 179;
+    --header-border-colour-l: 82%;
+    --header-text-colour: #ffffff;
+    --header-text-colour-rgb: 255, 255, 255;
+    --header-text-colour-l: 100%;
+    --header-menu-text-colour: #ffffff;
+    --header-menu-text-colour-rgb: 255, 255, 255;
+    --header-menu-text-colour-l: 100%;
+    --header-border-width: 4px;
+    --header-logo: url('../wwwroot/logos/savantalogo.svg');
+
+    .brandvue {
+        --header-text-colour: #f4adb3;
+        --header-text-colour-rgb: 244, 173, 179;
+        --header-text-colour-l: 82%;
+        --header-menu-text-colour: #cbcfd3;
+        --header-menu-text-colour-rgb: 203, 207, 211;
+        --header-menu-text-colour-l: 81%;
+        --header-background-colour: #26292C;
+        --header-background-colour-rgb: 38, 41, 44;
+        --header-background-colour-l: 16%;
+        --header-logo: "";
+    }
+}
+
+// ==============================
+
+.header.wide { //Override barometer header to use flex box for positioning
+    position: relative;
+    flex: 0 1 auto;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+  font-size: 14px;
+  background-color: @chalk-lighter;
+}
+
+.content-scroll-template {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-areas: "header" "content";
+    position: relative;
+    overflow: hidden;
+}
+
+.scrollable-content {
+    grid-area: content;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: grid;
+    grid-template: "data right-panel" 1fr
+                   "logo right-panel" auto
+                   "footer footer" auto / 1fr auto;
+}
+
+.page-content-disabled {
+    background: @slate;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    visibility: hidden;
+    z-index: 20;
+
+    &.show {
+        visibility: visible;
+    }
+}
+
+.hide-overflow {
+    overflow: hidden;
+}
+
+
+body,
+.viewmenu,
+h2,
+h3,
+.benefit,
+.benefits,
+.figure1,
+.figure2 {
+    font-family: @font_family;
+}
+
+p,
+li,
+a,
+code {
+    font-size: 16px;
+}
+
+.smallSpinner {
+    height: 15px;
+    width: 15px;
+    position: relative;
+    -webkit-animation: simple-spin 2s infinite;
+    animation: simple-spin 2s infinite;
+}
+
+.smallSpinner:before, .smallSpinner:after {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    content: '';
+    height: 6.5px;
+    width: 6.5px;
+    border-radius: 50%;
+    background: var(--header-border-colour);
+}
+
+.smallSpinner:after {
+    bottom: auto;
+    top: 0;
+}
+
+
+.highcharts-loading-inner, .custom-spinner {
+    height: 64px;
+    width: 64px;
+    position: relative;
+    -webkit-animation: simple-spin 2s infinite;
+    animation: simple-spin 2s infinite;
+}
+
+.highcharts-loading-inner:before, .highcharts-loading-inner:after, .custom-spinner:before, .custom-spinner:after {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    content: '';
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background: var(--header-border-colour);
+}
+
+.highcharts-loading-inner:after, .custom-spinner:after {
+    bottom: auto;
+    top: 0;
+}
+
+@-webkit-keyframes simple-spin {
+0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+30% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+50% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+80% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+@keyframes simple-spin {
+0% {
+    transform: rotateZ(0deg);
+}
+
+30% {
+    transform: rotateZ(0deg);
+}
+
+50% {
+    transform: rotateZ(180deg);
+}
+
+80% {
+    transform: rotateZ(180deg);
+}
+
+100% {
+    transform: rotateZ(360deg);
+}
+}
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+.sparkle-icon {
+    background: url(../wwwroot/assets/icons/custom/sparkle.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 36px;
+    width: 32px;
+}
+.sparkle-icon-inactive {
+    background: url(../wwwroot/assets/icons/custom/sparkle-grey.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 36px;
+    width: 32px;
+}
+
+// moving the freshchat widget a bit more into the corner so as not to interfere with swys user feedback buttons
+.fc-widget-normal {
+    bottom: 7px !important;
+    right: 15px !important;
+}

@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Much better
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A bit better
+  },
+  {
+    ClassInstanceId: 3,
+    Name: The same
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Not as good
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Much worse
+  }
+]

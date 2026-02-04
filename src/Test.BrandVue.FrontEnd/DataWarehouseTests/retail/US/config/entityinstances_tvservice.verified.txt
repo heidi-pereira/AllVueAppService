@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Comcast Xfinity
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Charter Spectrum
+  },
+  {
+    ClassInstanceId: 3,
+    Name: AT&T
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Verizon Fios
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cox Communications
+  },
+  {
+    ClassInstanceId: 6,
+    Name: CenturyLink
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Frontier Communications
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Mediacom
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Suddenlink
+  },
+  {
+    ClassInstanceId: 10,
+    Name: RCN
+  },
+  {
+    ClassInstanceId: 11,
+    Name: WOW! (Wide Open West)
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Windstream
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,10 @@
+﻿name,displayName,field,allText,filterType,valueType,subset,categories,question,active,include,defaultValue
+Gender,Gender,Gender,Male & Female,Profile,Category,,F:Female|M:Male,Are you male or female?,1,,
+Age,,Age,All Ages,Profile,Category,UK,16-24:16-24|25-34:25-34|35-49:35-49|50-59:50-59|60-74:60-74,How old are you?,1,,
+Region,Region,Region,All Regions,Profile,Category,UK,L:London|N:North|M:Midlands|S:South|X:NI & Scotland,Where do you live?,1,,
+Series type,,Series_Type,,Profile,Category,,ActualValue:Actual value|MovingAveragePeriodOnPeriodRelativeChange:Relative change|MovingAveragePeriodOnPeriodValueChange:Value change,Series type,,,
+Household Income,,Household_Income,All Incomes,Profile,Value,,0-74999:Low|75000-500000:High,What is your ANNUAL HOUSEHOLD income in (USD - $)?,,,
+Age,,Age,All Ages,Profile,Category,US,16-24:16-24|25-39:25-39|40-54:40-54|55-74:55-74,How old are you?,1,,
+Region,Region,Region,All Regions,Profile,Category,US,M:Midwest|N:Northeast|S:South|W:West,,,,
+Seg,Seg,Seg,All SEGs,Profile,Category,US,L:Low|H:High,,,,
+Seg,Seg,Seg,All SEGs,Profile,Category,UK,1:AB|2:C1|3:C2|4:DE,,,,

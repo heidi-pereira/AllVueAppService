@@ -1,0 +1,230 @@
+﻿[
+  {
+    ClassInstanceId: 101,
+    Name: Alsace
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Aquitaine
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Auvergne
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Basse-Normandie
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Bourgogne
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Bretagne
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Champagne-Ardenne
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Franche-Comté
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Haute-Normandie
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Île De France
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Languedoc-Roussillon
+  },
+  {
+    ClassInstanceId: 112,
+    Name: Limousin
+  },
+  {
+    ClassInstanceId: 113,
+    Name: Lorraine
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Midi-Pyrénées
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Nord - Pas-De-Calais
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Pays De La Loire
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Picardie
+  },
+  {
+    ClassInstanceId: 118,
+    Name: Poitou-Charentes
+  },
+  {
+    ClassInstanceId: 119,
+    Name: Provence-Alpes-Côte D'Azur
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Rhône-Alpes
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Centre
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Andalucía
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Aragón
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Canarias
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Cantabria
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Castilla La Mancha
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Castilla Y León
+  },
+  {
+    ClassInstanceId: 207,
+    Name: Cataluña
+  },
+  {
+    ClassInstanceId: 208,
+    Name: Ciudad Autónoma De Ceuta
+  },
+  {
+    ClassInstanceId: 209,
+    Name: Ciudad Autónoma De Melilla
+  },
+  {
+    ClassInstanceId: 210,
+    Name: Comunidad De Madrid
+  },
+  {
+    ClassInstanceId: 211,
+    Name: Comunidad Foral De Navarra
+  },
+  {
+    ClassInstanceId: 212,
+    Name: Comunidad Valenciana
+  },
+  {
+    ClassInstanceId: 213,
+    Name: Extremadura
+  },
+  {
+    ClassInstanceId: 214,
+    Name: Galicia
+  },
+  {
+    ClassInstanceId: 215,
+    Name: Illes Balears
+  },
+  {
+    ClassInstanceId: 216,
+    Name: La Rioja
+  },
+  {
+    ClassInstanceId: 217,
+    Name: País Vasco
+  },
+  {
+    ClassInstanceId: 218,
+    Name: Principado De Asturias
+  },
+  {
+    ClassInstanceId: 219,
+    Name: Región De Murcia
+  },
+  {
+    ClassInstanceId: 301,
+    Name: Baden-Württemberg
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Bayern
+  },
+  {
+    ClassInstanceId: 303,
+    Name: Berlin
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Brandenburg
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Bremen
+  },
+  {
+    ClassInstanceId: 306,
+    Name: Hamburg
+  },
+  {
+    ClassInstanceId: 307,
+    Name: Hessen
+  },
+  {
+    ClassInstanceId: 308,
+    Name: Mecklenburg-Vorpommern
+  },
+  {
+    ClassInstanceId: 309,
+    Name: Niedersachsen
+  },
+  {
+    ClassInstanceId: 310,
+    Name: Nordrhein-Westfalen
+  },
+  {
+    ClassInstanceId: 311,
+    Name: Rheinland-Pfalz
+  },
+  {
+    ClassInstanceId: 312,
+    Name: Saarland
+  },
+  {
+    ClassInstanceId: 313,
+    Name: Sachsen
+  },
+  {
+    ClassInstanceId: 314,
+    Name: Sachsen-Anhalt
+  },
+  {
+    ClassInstanceId: 315,
+    Name: Schleswig-Holstein
+  },
+  {
+    ClassInstanceId: 316,
+    Name: Thüringen
+  },
+  {
+    ClassInstanceId: 9999,
+    Name: Other
+  }
+]

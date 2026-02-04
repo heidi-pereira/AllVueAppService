@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 501,
+    Name: Books e.g. physical books and digital books
+  },
+  {
+    ClassInstanceId: 502,
+    Name: Stationery e.g. notebooks, paper, pens, journals
+  },
+  {
+    ClassInstanceId: 503,
+    Name: Greetings cards e.g. for birthdays, special occasions, Christmas
+  },
+  {
+    ClassInstanceId: 504,
+    Name: Craft supplies e.g. all types of materials for making crafts including sewing, knitting, card making and arts supplies
+  },
+  {
+    ClassInstanceId: 505,
+    Name: Toy / games e.g. action figures, boardgames and puzzles, outdoor games
+  },
+  {
+    ClassInstanceId: 506,
+    Name: Video games consoles, games and accessories e.g. both home console devices and portable games consoles
+  },
+  {
+    ClassInstanceId: 507,
+    Name: Nursery and baby equipment e.g. pushchairs, car seats, high chairs, bouncers, monitors, safety gates but not infant toys
+  },
+  {
+    ClassInstanceId: 508,
+    Name: Sports, bikes and camping equipment e.g. bikes, rackets, sports bags, darts / pool / snooker equipment, golf equipment, balls, picnic, tents, camping equipment, gym equipment
+  },
+  {
+    ClassInstanceId: 509,
+    Name: Gifts e.g. vouchers, hampers, party accessories, flowers, balloons or other small items that might typically be bought alongside a card
+  }
+]

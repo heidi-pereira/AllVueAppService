@@ -1,0 +1,165 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+.validationContent {
+    .flex-column();
+}
+
+.validationBody {
+    display: inline-flex;
+    justify-content: left;
+    gap: 50px;
+    margin-top: 30px;
+
+    .minMax {
+        display: flex;
+        gap: 10px;
+    }
+}
+
+.advisory {
+    .flex-column();
+    gap: 8px;
+    color: @slate;
+    padding: 8px 0 8px 34px;
+}
+
+.validationHeader {
+    display: inline-flex;
+    justify-content: left;
+    font-weight: 500;
+    margin-top: 2px;
+}
+
+.redMaterialIcon {
+    color: @lava;
+}
+
+.blueMaterialIcon {
+    color: @blueSteel;
+}
+
+.warningMaterialIcon {
+    color: @amber;
+}
+
+.validationMessagesContainer {
+    display: flex;
+    gap: 16px;
+}
+
+.message {
+    margin-left: 10px;
+}
+
+.messageDetails {
+    font-size: 12px;
+    color: @slate;
+}
+
+.throbberContainer {
+    margin-top: 5px;
+}
+
+.warningMessage {
+    color: @slate;
+    padding: 8px 0px;
+}
+
+.autoWidth {
+    width: auto !important;
+}
+
+@table-border-colour: @chalk;
+
+.weightingsMismatchTableContainer {
+    z-index: 0;
+    padding-bottom: 24px;
+    .flex-column();
+
+    .tableScrollContainer {
+        flex: 0 1 content;
+        overflow: auto;
+        border: 1px solid @table-border-colour;
+
+        .scrollbars;
+
+        .weightingsTable {
+            width: 100%;
+
+            tr {
+                th:first-child, td:first-child {
+                    text-align: left;
+                    width: 80%;
+                }
+            }
+
+            td, th {
+                padding: 10px;
+                text-align: center;
+                font-weight: 400;
+                vertical-align: top;
+            }
+
+            thead {
+                background-color: @chalk-light;
+                color: @slate-dark;
+                border-bottom: 1px solid @table-border-colour;
+
+                th {
+                    position: -webkit-sticky;
+                    position: sticky;
+                    top: 0;
+                    min-width: 125px;
+                }
+
+                th:first-child, tfoot th:first-child {
+                    z-index: 1;
+                    width: 0;
+                }
+
+                th, td {
+                    background-color: @chalk-light;
+                    background-clip: padding-box;
+                }
+
+                tr {
+                    height: 0;
+                }
+
+                tr:not(:last-of-type) {
+                    th {
+                        height: 100%;
+                        padding-bottom: 0;
+
+                        div {
+                            height: 100%;
+                            .flex-row(@justify-content: center, @align-items: flex-end);
+                            border-bottom: 1px solid @slate-lighter;
+                            padding-bottom: 10px;
+                        }
+                    }
+                }
+            }
+
+            tbody {
+                color: @slate-darker;
+
+                tr {
+                    border-bottom: 1px solid @table-border-colour;
+
+                    td, th {
+                        background: @white;
+                        background-clip: padding-box;
+                    }
+
+                    &:hover {
+                        td, th {
+                            background-color: lighten(@blueSteel-lighter, 4%);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

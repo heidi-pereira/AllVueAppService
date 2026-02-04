@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Prolonging garment life is important to me when selecting which brand to buy from (free repair services, durability)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I switch the brands I buy from regularly, rather than always sticking with the same brands
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Sometimes I feel overwhelmed by the number of brands on the market
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Fast fashion brands offer the best options to stay trendy
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I avoid buying from fast fashion brands because of their environmental impact
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I often make impulse fashion purchases when shopping for other products (grocery, beauty, tech, etc)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I believe more expensive designer brands are generally of higher quality
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Wherever possible, I prefer to shop online or via an app than to go to the shop
+  }
+]

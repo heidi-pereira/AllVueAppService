@@ -1,0 +1,1 @@
+﻿result.RegionCategory if ((result.RegionCategory == 1) and (any(r in [10,20,30,40] for r in response.Region()))) or ((result.RegionCategory == 2) and (any(r in [11,21,31,41] for r in response.Region()))) or ((result.RegionCategory == 3) and (any(r in [12,22,32,42] for r in response.Region()))) else None

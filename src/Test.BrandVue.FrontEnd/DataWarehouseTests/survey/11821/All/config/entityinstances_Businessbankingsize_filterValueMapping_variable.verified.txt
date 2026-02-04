@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Under £100,000
+  },
+  {
+    ClassInstanceId: 1,
+    Name: £101k to £500k
+  },
+  {
+    ClassInstanceId: 2,
+    Name: £501k to £2m
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Over £2million
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Prefer not to say
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Not sure / don't know
+  }
+]

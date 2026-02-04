@@ -1,0 +1,12 @@
+[project]
+name = "vue"
+version = "0.1.0"
+description = "This is just for tools that are useful at the repo level. See Vue.Snowflake for snowflake specific packages and code"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",      
+]

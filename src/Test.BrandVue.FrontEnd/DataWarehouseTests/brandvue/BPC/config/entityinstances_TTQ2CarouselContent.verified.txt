@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Travelled / Commuted to a regular place of work or study
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Travelled for business / education (but not to a regular place of work or study)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Travelled for leisure (e.g. shopping, entertainment, visiting others)
+  }
+]

@@ -1,0 +1,1 @@
+create or replace stream impl_weight._weighting_layers_stream on dynamic table impl_weight._weighting_layers;

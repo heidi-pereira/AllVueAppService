@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes - something positive
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes - something negative
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No - not seen or hear anything
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know/Can’t remember
+  }
+]

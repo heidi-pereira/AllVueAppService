@@ -1,0 +1,24 @@
+{
+    "ANSWER_ARRAY": [],
+    "ANSWER_ARRAYS_BY_VARIABLE_IDENTIFIER": {
+        "Time_spent_commuting_entity": [
+            [
+                null,
+                null,
+                null,
+                6
+            ]
+        ]
+    },
+    "DEPENDENCY_ENTITY_TYPES": {
+        "Time_spent_commuting_entity": [
+            "commutelength"
+        ]
+    },
+    "ENTITY_IDENTIFIERS": [],
+    "PYTHON_EXPRESSION": "max((answer for answer in response.Time_spent_commuting_entity(commutelength=[6]) if answer != None), default=None) if any((answer != None) for answer in response.Time_spent_commuting_entity(commutelength=[6])) else None",
+    "RESPONSE_ID": 107037214,
+    "RESPONSE_SET_ID": 81,
+    "VARIABLE_IDENTIFIER": "Time_spent_commutingin699to1000",
+    "VARIABLE_TYPE": "expression"
+}

@@ -1,0 +1,174 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Xiaomi
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Philips
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Beko
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 22,
+    Name: AEG
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Haier
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Hotpoint
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Indesit
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Miele
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Siemens
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Whirlpool
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Balay
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Bauknecht
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Candy
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Hoover
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Dyson
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Electrolux
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Ariete
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Bissell
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Cecotec
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Dirt Devil
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Folleto
+  },
+  {
+    ClassInstanceId: 45,
+    Name: G-Tech
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Henry
+  },
+  {
+    ClassInstanceId: 47,
+    Name: i-Robot
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Romba
+  },
+  {
+    ClassInstanceId: 52,
+    Name: DeLonghi
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Taurus
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Karcher
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Moulinex
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Black & Decker
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Rowenta
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Shark
+  },
+  {
+    ClassInstanceId: 72,
+    Name: VAX
+  },
+  {
+    ClassInstanceId: 73,
+    Name: MI
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Bissell (75)
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Roidmi
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Leifheit
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Tefal
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Fagor
+  }
+]

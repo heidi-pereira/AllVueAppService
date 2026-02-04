@@ -1,0 +1,22 @@
+﻿SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
+SELECT sr.responseId responseId, [QuestionChoiceId], [SectionChoiceId]
+    ,TRY_CAST(MAX(CASE WHEN VarCode = @varCode0 AND [QuestionChoiceId] IN (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12) AND [SectionChoiceId] IN (101, 102, 103, 104, 105, 106, 107, 108) THEN [AnswerValue] END) AS INT) Value_0
+FROM
+(
+SELECT sr.responseId, sr.surveyId, sr.lastChangeTime, q.VarCode, q.QuestionId 
+FROM surveyResponse sr 
+    INNER JOIN vue.Questions q ON q.SurveyId = sr.surveyId
+WHERE sr.lastChangeTime BETWEEN CAST(@startDate AS datetime) AND CAST(@endDate AS datetime)
+    AND sr.status = 6  -- answers should only exists where status is 6, but specifying here helps use indexes which contain it
+    AND sr.archived = 0
+    AND sr.SurveyId IN (6003, 6008, 6184, 6343, 6541, 6758, 6951, 7129, 7376, 7552, 7700, 7902, 8118, 8328, 8473, 8711, 8936, 9170, 9422, 9675, 9925, 10153, 10367, 10837, 11152)
+    AND sr.SegmentId IN (19630, 26050, 22463, 20134, 22927, 24203, 34386, 20625, 31305, 29862, 25390, 32783, 27705, 27085, 26717, 31949, 21850, 21233, 35400, 24779, 19615, 29135, 23638, 30657, 28450)
+ AND (
+           VarCode = @varCode0
+)) sr INNER JOIN Vue.answers a ON a.responseId = sr.responseId AND a.questionId = sr.questionId
+WHERE
+    (
+           VarCode = @varCode0 AND [QuestionChoiceId] IN (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12) AND [SectionChoiceId] IN (101, 102, 103, 104, 105, 106, 107, 108)
+    )
+GROUP BY sr.responseId, [QuestionChoiceId], [SectionChoiceId]
+OPTION (FORCE ORDER)

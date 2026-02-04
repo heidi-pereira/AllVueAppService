@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes, they are all under 10 years old
+  },
+  {
+    ClassInstanceId: 1,
+    Name: No
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, there are children under 10 years old and children between 10 and 18 years old
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Yes, they are all between 10 and 18 years old
+  }
+]

@@ -1,0 +1,74 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Are distinctive
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Has standout design & style
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Are a leader in #TAG_QVCC2# vacuum cleaner innovation
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Are worth paying more for
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Are a brand I trust
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Are a premium brand
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Makes products that are built to last
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Makes products that are energy efficient
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Has high quality products
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Are a sustainability minded brand
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Are a brand I would be proud to have in my home
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Provides the best customer care
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Offers the latest in AI & smart features
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Offers benefits to owning multiple products from this brand
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Is a brand I trust when it comes to data and privacy
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Is a leader in AI for vacuum cleaners
+  },
+  {
+    ClassInstanceId: 17,
+    Name: I can trust the AI on their devices
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Their AI makes my life better
+  }
+]

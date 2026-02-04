@@ -1,0 +1,918 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: AA
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Admiral
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Adrian Flux
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Aegon
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Agria
+  },
+  {
+    ClassInstanceId: 6,
+    Name: American Express
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Animal Friends
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Asda Money
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Aviva
+  },
+  {
+    ClassInstanceId: 14,
+    Name: AXA
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Barclaycard
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Barclays Bank
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Beagle Street
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Black Horse
+  },
+  {
+    ClassInstanceId: 23,
+    Name: British Gas
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Bupa
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Capital One
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Carfinance247
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Churchill
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Clydesdale Bank
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Compare The Market
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Confused.com
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Cooperative Insurance
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Cooperative Bank
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Denplan
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Direct Line
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Elephant
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Endsleigh
+  },
+  {
+    ClassInstanceId: 49,
+    Name: esure
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Fidelity
+  },
+  {
+    ClassInstanceId: 52,
+    Name: First Direct
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Sterling
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Go Compare
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Halifax
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Hastings Direct
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Healthy Pets
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Hiscox
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Novuna
+  },
+  {
+    ClassInstanceId: 72,
+    Name: HSBC
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Insure & Go
+  },
+  {
+    ClassInstanceId: 78,
+    Name: John Lewis Money
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Legal & General
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Lending Stream
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Lloyds
+  },
+  {
+    ClassInstanceId: 85,
+    Name: LV / Liverpool Victoria
+  },
+  {
+    ClassInstanceId: 86,
+    Name: M&S Bank
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Mastercard
+  },
+  {
+    ClassInstanceId: 89,
+    Name: MBNA
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Metro Bank
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Money Saving Expert
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Money Supermarket
+  },
+  {
+    ClassInstanceId: 94,
+    Name: Money.co.uk
+  },
+  {
+    ClassInstanceId: 95,
+    Name: More Than
+  },
+  {
+    ClassInstanceId: 96,
+    Name: MotoNovo
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Mustard
+  },
+  {
+    ClassInstanceId: 99,
+    Name: MyCarCredit
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Nationwide
+  },
+  {
+    ClassInstanceId: 101,
+    Name: NatWest
+  },
+  {
+    ClassInstanceId: 102,
+    Name: NFU Mutual
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Nutmeg
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Paypal
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Pet-Insurance
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Petplan
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Post Office
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Pru
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Purely Pets
+  },
+  {
+    ClassInstanceId: 119,
+    Name: RAC
+  },
+  {
+    ClassInstanceId: 120,
+    Name: RBS (Royal Bank of Scotland)
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Rias
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Royal London
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Saga
+  },
+  {
+    ClassInstanceId: 126,
+    Name: Sainsbury's Bank
+  },
+  {
+    ClassInstanceId: 127,
+    Name: Santander
+  },
+  {
+    ClassInstanceId: 128,
+    Name: Scottish Widows
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Sheilas Wheels
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Simplyhealth
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Standard Life
+  },
+  {
+    ClassInstanceId: 135,
+    Name: Swift Cover
+  },
+  {
+    ClassInstanceId: 136,
+    Name: Swinton
+  },
+  {
+    ClassInstanceId: 138,
+    Name: Tesco Bank
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Wise
+  },
+  {
+    ClassInstanceId: 143,
+    Name: TSB
+  },
+  {
+    ClassInstanceId: 144,
+    Name: uSwitch
+  },
+  {
+    ClassInstanceId: 145,
+    Name: Virgin Money
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Visa
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Vitality
+  },
+  {
+    ClassInstanceId: 148,
+    Name: Western Union
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Yorkshire Bank
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Zurich
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Zuto
+  },
+  {
+    ClassInstanceId: 154,
+    Name: ClearScore
+  },
+  {
+    ClassInstanceId: 155,
+    Name: Experian
+  },
+  {
+    ClassInstanceId: 157,
+    Name: Equifax
+  },
+  {
+    ClassInstanceId: 159,
+    Name: Monzo
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Bank of Ireland
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Handelsbanken
+  },
+  {
+    ClassInstanceId: 167,
+    Name: Ageas
+  },
+  {
+    ClassInstanceId: 168,
+    Name: AIB / Allied Irish Bank
+  },
+  {
+    ClassInstanceId: 169,
+    Name: AIG
+  },
+  {
+    ClassInstanceId: 170,
+    Name: AJ Bell
+  },
+  {
+    ClassInstanceId: 171,
+    Name: Aldermore Bank
+  },
+  {
+    ClassInstanceId: 173,
+    Name: Allianz
+  },
+  {
+    ClassInstanceId: 175,
+    Name: Amazon Pay
+  },
+  {
+    ClassInstanceId: 177,
+    Name: Aon
+  },
+  {
+    ClassInstanceId: 178,
+    Name: Howden
+  },
+  {
+    ClassInstanceId: 179,
+    Name: Apple Pay
+  },
+  {
+    ClassInstanceId: 180,
+    Name: Aqua
+  },
+  {
+    ClassInstanceId: 182,
+    Name: Atom Bank
+  },
+  {
+    ClassInstanceId: 185,
+    Name: Bank of Scotland
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Canada Life
+  },
+  {
+    ClassInstanceId: 199,
+    Name: Chubb
+  },
+  {
+    ClassInstanceId: 201,
+    Name: Close Brothers
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Coventry Building Society
+  },
+  {
+    ClassInstanceId: 208,
+    Name: CULoans
+  },
+  {
+    ClassInstanceId: 210,
+    Name: Danske Bank
+  },
+  {
+    ClassInstanceId: 213,
+    Name: Ecclesiastical Insurance
+  },
+  {
+    ClassInstanceId: 218,
+    Name: FairFX
+  },
+  {
+    ClassInstanceId: 219,
+    Name: Fidelity Funds Network
+  },
+  {
+    ClassInstanceId: 222,
+    Name: Aro
+  },
+  {
+    ClassInstanceId: 224,
+    Name: Funding Circle
+  },
+  {
+    ClassInstanceId: 228,
+    Name: G Pay
+  },
+  {
+    ClassInstanceId: 230,
+    Name: Hargreaves Lansdown
+  },
+  {
+    ClassInstanceId: 237,
+    Name: ICICI Bank
+  },
+  {
+    ClassInstanceId: 239,
+    Name: Investec
+  },
+  {
+    ClassInstanceId: 240,
+    Name: John Charcol
+  },
+  {
+    ClassInstanceId: 245,
+    Name: Leeds Building Society
+  },
+  {
+    ClassInstanceId: 248,
+    Name: Marbles
+  },
+  {
+    ClassInstanceId: 250,
+    Name: Moneycorp
+  },
+  {
+    ClassInstanceId: 252,
+    Name: Mortgage Advice Bureau
+  },
+  {
+    ClassInstanceId: 254,
+    Name: National Savings & Investments (NS&I)
+  },
+  {
+    ClassInstanceId: 256,
+    Name: One Family
+  },
+  {
+    ClassInstanceId: 258,
+    Name: Paym
+  },
+  {
+    ClassInstanceId: 260,
+    Name: Precise mortgages
+  },
+  {
+    ClassInstanceId: 264,
+    Name: QuoteZone
+  },
+  {
+    ClassInstanceId: 268,
+    Name: Revolut
+  },
+  {
+    ClassInstanceId: 269,
+    Name: RSA/Royal SunAlliance
+  },
+  {
+    ClassInstanceId: 270,
+    Name: Samsung Pay
+  },
+  {
+    ClassInstanceId: 271,
+    Name: Scottish Friendly
+  },
+  {
+    ClassInstanceId: 272,
+    Name: Shawbrook Bank
+  },
+  {
+    ClassInstanceId: 274,
+    Name: Skipton Building Society
+  },
+  {
+    ClassInstanceId: 277,
+    Name: SunLife
+  },
+  {
+    ClassInstanceId: 279,
+    Name: Travelex
+  },
+  {
+    ClassInstanceId: 282,
+    Name: Ulster Bank
+  },
+  {
+    ClassInstanceId: 283,
+    Name: Venmo
+  },
+  {
+    ClassInstanceId: 285,
+    Name: WeSwap
+  },
+  {
+    ClassInstanceId: 288,
+    Name: Yorkshire Building Society
+  },
+  {
+    ClassInstanceId: 289,
+    Name: Zopa
+  },
+  {
+    ClassInstanceId: 292,
+    Name: Opus
+  },
+  {
+    ClassInstanceId: 293,
+    Name: L&C
+  },
+  {
+    ClassInstanceId: 294,
+    Name: Paragon
+  },
+  {
+    ClassInstanceId: 295,
+    Name: The Nottingham
+  },
+  {
+    ClassInstanceId: 296,
+    Name: Kensington Mortgages
+  },
+  {
+    ClassInstanceId: 297,
+    Name: Klarna
+  },
+  {
+    ClassInstanceId: 298,
+    Name: Habito
+  },
+  {
+    ClassInstanceId: 299,
+    Name: Better.co.uk
+  },
+  {
+    ClassInstanceId: 300,
+    Name: MoneyGram
+  },
+  {
+    ClassInstanceId: 301,
+    Name: WorldRemit
+  },
+  {
+    ClassInstanceId: 304,
+    Name: One Savings Bank
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Abbey Life
+  },
+  {
+    ClassInstanceId: 306,
+    Name: GoSkippy
+  },
+  {
+    ClassInstanceId: 307,
+    Name: Holidaysafe
+  },
+  {
+    ClassInstanceId: 310,
+    Name: Ocean
+  },
+  {
+    ClassInstanceId: 315,
+    Name: Provident
+  },
+  {
+    ClassInstanceId: 316,
+    Name: Quote Me Happy
+  },
+  {
+    ClassInstanceId: 319,
+    Name: Staysure
+  },
+  {
+    ClassInstanceId: 320,
+    Name: Vanquis Bank
+  },
+  {
+    ClassInstanceId: 321,
+    Name: 1st Central
+  },
+  {
+    ClassInstanceId: 322,
+    Name: 118 118 Money
+  },
+  {
+    ClassInstanceId: 323,
+    Name: Kent Reliance
+  },
+  {
+    ClassInstanceId: 324,
+    Name: Starling Bank
+  },
+  {
+    ClassInstanceId: 327,
+    Name: Phoenix Group
+  },
+  {
+    ClassInstanceId: 328,
+    Name: Quilter
+  },
+  {
+    ClassInstanceId: 329,
+    Name: Aberdeen Standard Investments
+  },
+  {
+    ClassInstanceId: 330,
+    Name: Circle
+  },
+  {
+    ClassInstanceId: 332,
+    Name: Age Partnership
+  },
+  {
+    ClassInstanceId: 334,
+    Name: Credit Karma
+  },
+  {
+    ClassInstanceId: 336,
+    Name: FindAndFundMyCar.com
+  },
+  {
+    ClassInstanceId: 338,
+    Name: Green Flag
+  },
+  {
+    ClassInstanceId: 340,
+    Name: Just
+  },
+  {
+    ClassInstanceId: 341,
+    Name: Key
+  },
+  {
+    ClassInstanceId: 342,
+    Name: Marcus by Goldman Sachs
+  },
+  {
+    ClassInstanceId: 343,
+    Name: Moneybox
+  },
+  {
+    ClassInstanceId: 344,
+    Name: more2life
+  },
+  {
+    ClassInstanceId: 345,
+    Name: Newcastle Building Society
+  },
+  {
+    ClassInstanceId: 346,
+    Name: Provident Insurance
+  },
+  {
+    ClassInstanceId: 347,
+    Name: Pure Retirement
+  },
+  {
+    ClassInstanceId: 350,
+    Name: St James's Place
+  },
+  {
+    ClassInstanceId: 352,
+    Name: Totally Money
+  },
+  {
+    ClassInstanceId: 353,
+    Name: TransUnion
+  },
+  {
+    ClassInstanceId: 355,
+    Name: Tide
+  },
+  {
+    ClassInstanceId: 356,
+    Name: Cuvva
+  },
+  {
+    ClassInstanceId: 357,
+    Name: Drafty
+  },
+  {
+    ClassInstanceId: 358,
+    Name: Principality
+  },
+  {
+    ClassInstanceId: 362,
+    Name: The Cambridge Building Society
+  },
+  {
+    ClassInstanceId: 363,
+    Name: Hodge Bank
+  },
+  {
+    ClassInstanceId: 365,
+    Name: Blue Motor Finance
+  },
+  {
+    ClassInstanceId: 366,
+    Name: Oodle
+  },
+  {
+    ClassInstanceId: 367,
+    Name: The Royal Mint
+  },
+  {
+    ClassInstanceId: 368,
+    Name: Coutts
+  },
+  {
+    ClassInstanceId: 369,
+    Name: Triodos Bank
+  },
+  {
+    ClassInstanceId: 371,
+    Name: Nest
+  },
+  {
+    ClassInstanceId: 373,
+    Name: Smart Pension
+  },
+  {
+    ClassInstanceId: 374,
+    Name: PensionBee
+  },
+  {
+    ClassInstanceId: 375,
+    Name: Now Pensions
+  },
+  {
+    ClassInstanceId: 376,
+    Name: PayingTooMuch
+  },
+  {
+    ClassInstanceId: 377,
+    Name: Avanti
+  },
+  {
+    ClassInstanceId: 378,
+    Name: AllClear
+  },
+  {
+    ClassInstanceId: 379,
+    Name: GoodToGoInsurance.com
+  },
+  {
+    ClassInstanceId: 380,
+    Name: abrdn
+  },
+  {
+    ClassInstanceId: 381,
+    Name: Freetrade
+  },
+  {
+    ClassInstanceId: 382,
+    Name: Interactive Investor
+  },
+  {
+    ClassInstanceId: 383,
+    Name: Plum
+  },
+  {
+    ClassInstanceId: 384,
+    Name: IG
+  },
+  {
+    ClassInstanceId: 385,
+    Name: Vanguard
+  },
+  {
+    ClassInstanceId: 386,
+    Name: eToro
+  },
+  {
+    ClassInstanceId: 387,
+    Name: Trading 212
+  },
+  {
+    ClassInstanceId: 388,
+    Name: Wealthify
+  },
+  {
+    ClassInstanceId: 389,
+    Name: Clearpay
+  },
+  {
+    ClassInstanceId: 390,
+    Name: Petgevity
+  },
+  {
+    ClassInstanceId: 391,
+    Name: Waggel
+  },
+  {
+    ClassInstanceId: 392,
+    Name: ManyPets
+  },
+  {
+    ClassInstanceId: 393,
+    Name: Chase
+  },
+  {
+    ClassInstanceId: 394,
+    Name: The People's Pension
+  },
+  {
+    ClassInstanceId: 395,
+    Name: People's Partnership
+  },
+  {
+    ClassInstanceId: 396,
+    Name: Chip
+  },
+  {
+    ClassInstanceId: 397,
+    Name: Crypto.com
+  },
+  {
+    ClassInstanceId: 398,
+    Name: Coinbase
+  },
+  {
+    ClassInstanceId: 399,
+    Name: Kraken
+  },
+  {
+    ClassInstanceId: 1002,
+    Name: Other (please specify)
+  }
+]

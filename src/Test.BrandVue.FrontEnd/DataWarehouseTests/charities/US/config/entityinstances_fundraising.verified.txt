@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Running e.g. Marathon, half marathon, fun runs
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cycling / Triathlon
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Walking
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Extreme sports (e.g. skydiving)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Changing my appearance (e.g. shaving head, growing a moustache)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Giving something up
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Fancy dress / Costume
+  },
+  {
+    ClassInstanceId: 8,
+    Name: International volunteering
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Bake sale / Bring-and-buy sale
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Product type intro (Base Product_type_intro)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Segment:Unaware of brand (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Listen to radio stations that play adverts
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Use social media such as Facebook, Instagram, snapchat or TikTok
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Read national newspapers or magazines in print
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Read national newspapers (online)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Read magazines
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Watch TV channels that play adverts
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Watch pay per view TV programmes, sport or films
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Stream programmes on demand, such as catch up TV
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Visit the cinema
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Use the internet to look at things online
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Listen to music streaming services such as Spotify and Amazon Music
+  }
+]

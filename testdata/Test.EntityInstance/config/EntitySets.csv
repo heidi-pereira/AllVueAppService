@@ -1,0 +1,8 @@
+Id,Name,EntityType,Subset,Instances,MainInstance,KeyInstances,Organisation
+1,single,James,All,1,,1,
+2,multiple,James,All,1|2|3,,1|2|3,
+3,range,James,All,01:03,,01:03,
+4,combo,James,All,1:3|7,,1:3|7,
+5,empty key instances,James,All,1|2|3,,,
+6,include key instances,James,All,,,1|7,
+7,with organisation,James,All,1,,1,Framistan

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Motorbike / Moped
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Bicycle
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Coach / Bus
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Train
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Tram
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Aeroplane
+  }
+]

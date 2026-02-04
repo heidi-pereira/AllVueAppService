@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Radio Listeners
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Non Radio Listeners
+  }
+]

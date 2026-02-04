@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Makes me feel smart by engaging with it
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Surprises me by always going beyond expectations
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Is always there to support its customers and build long term relationship
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Is distinct/different from other brands
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Makes my life better and fulfilling
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Having/using this brand creates a good impression on other people
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Sets me apart and enables me to express my personality
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Makes me feel superior and successful
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Has a natural fit with me
+  }
+]

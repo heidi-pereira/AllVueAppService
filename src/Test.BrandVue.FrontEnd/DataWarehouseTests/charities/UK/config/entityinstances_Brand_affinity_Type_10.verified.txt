@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Affinity:Like (Base Brand_affinity)
+  }
+]

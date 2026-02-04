@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Penetration last 3 months (Base Consumer_segment)
+  }
+]

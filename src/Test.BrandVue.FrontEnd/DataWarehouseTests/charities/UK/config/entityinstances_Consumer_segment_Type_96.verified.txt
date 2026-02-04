@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Customer Vouchers in post:Rarely (Base Consumer_segment)
+  }
+]

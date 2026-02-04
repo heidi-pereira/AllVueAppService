@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Electric - powered by electricity alone and must be charged before you can drive.
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Hybrid (Self Charging) - 2 sources of power. They can automatically switch between conventional mode, pure electric mode (for short distances) or use both to power the vehicle as needed.
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Plug-in Hybrid (PHEV) - 2 sources of power like a hybrid, but with a larger high voltage battery, enabling you to drive longer distances on all-electric power.
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Mild Hybrid - 2 sources of power that work together - a conventional engine and a battery-driven electric motor. The electric motor does not power the car, it simply assists.
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Don’t know
+  }
+]

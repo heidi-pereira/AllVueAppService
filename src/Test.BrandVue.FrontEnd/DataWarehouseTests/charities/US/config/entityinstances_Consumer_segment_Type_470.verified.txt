@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Understanding:Good understanding (Base Consumer_segment)
+  }
+]

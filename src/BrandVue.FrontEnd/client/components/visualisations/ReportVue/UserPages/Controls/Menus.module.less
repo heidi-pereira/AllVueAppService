@@ -1,0 +1,95 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+
+
+.container {
+    .flex-column();
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+    .label {
+        margin-top: 5px;
+        margin-right: 5px;
+    }
+
+    .dropDownToggle {
+        .flex-row(@gutter:0.75rem; @align-items: center; @justify-content: space-between);
+        //padding: 2px;
+        flex-wrap: nowrap;
+        border: 1px solid @slate-lighter;
+        border-radius: 4px !important;
+        color: @slate-darker;
+        width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+
+        &:not(.disabled) {
+            &:hover,
+            &:active {
+                background-color: @white;
+                border-color: @slate-light;
+            }
+
+            &:focus,
+            &:active {
+                box-shadow: 0px 0px 3px 3px rgba(224, 226, 229, 0.48);
+            }
+        }
+
+        &.disabled {
+            background: @chalk-lighter;
+            color: @slate-light;
+            cursor: not-allowed;
+
+            &:hover {
+                background: @chalk-lighter;
+            }
+
+            .title {
+                &.placeholder {
+                    color: @slate-light;
+                }
+            }
+
+            .material-symbols-outlined {
+                color: @slate-light;
+            }
+        }
+    }
+
+    .dropDownItem {
+        text-align: left;
+        flex-grow: 2;
+    }
+
+    .dropdownMenu {
+        padding: 2px 20px 2px 10px;
+        overflow: auto;
+        max-height: 300px;
+
+        .dropDownItem {
+            padding: 2px 20px 2px 10px;
+
+            &:hover {
+                background-color: rgba(var(--header-border-colour-rgb), 0.25);
+            }
+        }
+
+        .dropDownItemActive {
+            padding: 2px 20px 2px 10px;
+            background-color: rgba(var(--header-border-colour-rgb), 0.5);
+
+            &:hover {
+                background-color: rgba(var(--header-border-colour-rgb), 0.85);
+            }
+        }
+    }
+
+    .search {
+        border: none !important;
+        border-radius: 0px;
+        box-shadow: none;
+    }
+}

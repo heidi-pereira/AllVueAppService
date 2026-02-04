@@ -1,0 +1,108 @@
+@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.twoPaneDropdownMenu {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftPane {
+    padding: 16px;
+    padding-right: 8px;
+}
+
+.rightPane {
+    max-width: 550px;
+    padding: 16px;
+    padding-left: 8px;
+}
+
+.listItems {
+    .flex-column(@gutter: 24px);
+
+    .date {
+        font-weight: 500;
+    }
+}
+
+.dropdownItem {
+    padding: 8px !important;
+
+    .dateRangeItem {
+        .flex-row(@justify-content: space-between, @align-items: center, @gutter: 24px);
+
+        .dates {
+            .flex-row(@gutter: 8px);
+            color: @slate-light;
+        }
+    }
+}
+
+.section {
+    .flex-column(@gutter: 8px);
+
+    .header {
+        .flex-row(@justify-content: space-between);
+        text-transform: uppercase;
+        color: @slate;
+        font-size: 12px;
+    }
+}
+
+.customDateRangePicker {
+    .flex-column(@gutter: 24px);
+
+    .dateInputs {
+        .flex-row(@gutter: 8px, @align-items: baseline);
+
+        .numberInput {
+            width: 60px;
+            padding: 6px 10px;
+            border: 1px solid @slate-lighter;
+            border-radius: 4px;
+            transition: color 175ms ease, background 175ms ease, border-color 175ms ease;
+            min-height: 38px; //matching css from SelectPicker
+        }
+    }
+
+    :global {
+        //these are overriding default styles from 'react-date-range/dist/theme/default.css'
+
+        .rdrInRange {
+            filter: opacity(60%);
+        }
+
+        .rdrDayDisabled .rdrInRange {
+            filter: grayscale(100%) opacity(40%);
+        }
+
+        .rdrDayEndOfMonth .rdrInRange,
+        .rdrDayEndOfMonth .rdrStartEdge,
+        .rdrDayEndOfWeek .rdrInRange,
+        .rdrDayEndOfWeek .rdrStartEdge {
+            border-top-right-radius: initial;
+            border-bottom-right-radius: initial;
+        }
+
+        .rdrDayStartOfMonth .rdrInRange,
+        .rdrDayStartOfMonth .rdrEndEdge,
+        .rdrDayStartOfWeek .rdrInRange,
+        .rdrDayStartOfWeek .rdrEndEdge {
+            border-top-left-radius: initial;
+            border-bottom-left-radius: initial;
+        }
+
+        .rdrStartEdge.rdrEndEdge {
+            border-radius: 1.042em;
+        }
+    }
+}
+
+.buttons {
+    .flex-row(@justify-content: center; @gutter: 10px);
+
+    .button {
+        width: 120px;
+        justify-content: center;
+    }
+}

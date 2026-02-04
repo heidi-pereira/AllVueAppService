@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV Platform:BT (Base Consumer_segment)
+  }
+]

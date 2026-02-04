@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, I have used an electronic kiosk before
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No, I haven't used an electronic kiosk before
+  }
+]

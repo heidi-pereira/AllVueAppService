@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Impulse planned:I bought a MIXTURE of items that were both PLANNED and bought on IMPULSE (Base Impulse_planned)
+  }
+]

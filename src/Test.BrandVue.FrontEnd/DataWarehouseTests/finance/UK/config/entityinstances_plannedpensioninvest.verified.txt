@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 18,
+    Name: Personal pension not taken out through your employer (including Self Invested Personal Pensions)
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Investments (including stocks and shares ISAs, unit trusts, insurance bonds, general investment accounts but excluding cash ISAs and savings)
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Single company shares
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Pension taken out through your employer (excluding any final salary pension)
+  }
+]

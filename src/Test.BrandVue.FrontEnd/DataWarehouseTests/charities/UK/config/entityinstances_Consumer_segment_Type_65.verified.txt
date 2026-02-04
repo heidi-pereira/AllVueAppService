@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cinema frequency:Once every 2-3 months (Base Consumer_segment)
+  }
+]

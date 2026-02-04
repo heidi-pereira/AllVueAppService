@@ -1,0 +1,306 @@
+﻿[
+  {
+    ClassInstanceId: 22,
+    Name: Pizza Hut Restaurants
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Le Pain Quotidien
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Five Guys
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Burger King
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Chipotle
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Deliveroo
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Domino's
+  },
+  {
+    ClassInstanceId: 136,
+    Name: IKEA
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Just Eat
+  },
+  {
+    ClassInstanceId: 142,
+    Name: KFC
+  },
+  {
+    ClassInstanceId: 145,
+    Name: McDonald's
+  },
+  {
+    ClassInstanceId: 151,
+    Name: Papa John's
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Paul
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Pizza Hut Delivery
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Pret A Manger
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Starbucks
+  },
+  {
+    ClassInstanceId: 165,
+    Name: Subway
+  },
+  {
+    ClassInstanceId: 173,
+    Name: UberEats
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Popeyes
+  },
+  {
+    ClassInstanceId: 601,
+    Name: 231 East St
+  },
+  {
+    ClassInstanceId: 610,
+    Name: Bagelstein
+  },
+  {
+    ClassInstanceId: 613,
+    Name: Big Fernand
+  },
+  {
+    ClassInstanceId: 615,
+    Name: Brioche Dorée
+  },
+  {
+    ClassInstanceId: 616,
+    Name: Buffalo Grill
+  },
+  {
+    ClassInstanceId: 623,
+    Name: Casino Cafétéria
+  },
+  {
+    ClassInstanceId: 625,
+    Name: ClassCroute
+  },
+  {
+    ClassInstanceId: 628,
+    Name: Crescendo
+  },
+  {
+    ClassInstanceId: 635,
+    Name: Exki
+  },
+  {
+    ClassInstanceId: 636,
+    Name: Fête à Crêpe
+  },
+  {
+    ClassInstanceId: 637,
+    Name: Flam's
+  },
+  {
+    ClassInstanceId: 638,
+    Name: Flunch
+  },
+  {
+    ClassInstanceId: 644,
+    Name: French Coffee Shop
+  },
+  {
+    ClassInstanceId: 646,
+    Name: Frichti
+  },
+  {
+    ClassInstanceId: 653,
+    Name: Glovo
+  },
+  {
+    ClassInstanceId: 657,
+    Name: Green is Better
+  },
+  {
+    ClassInstanceId: 658,
+    Name: Grill Courtepaille
+  },
+  {
+    ClassInstanceId: 663,
+    Name: Hippopotamus
+  },
+  {
+    ClassInstanceId: 672,
+    Name: La Boîte à Pizza
+  },
+  {
+    ClassInstanceId: 673,
+    Name: La Boucherie
+  },
+  {
+    ClassInstanceId: 675,
+    Name: La Croissanterie
+  },
+  {
+    ClassInstanceId: 677,
+    Name: La Mie Câline
+  },
+  {
+    ClassInstanceId: 678,
+    Name: La Pataterie
+  },
+  {
+    ClassInstanceId: 682,
+    Name: La Taverne de Maitre Kanter
+  },
+  {
+    ClassInstanceId: 684,
+    Name: Le Kiosque à Pizzas
+  },
+  {
+    ClassInstanceId: 685,
+    Name: Léon de Bruxelles
+  },
+  {
+    ClassInstanceId: 686,
+    Name: 3 Brasseurs
+  },
+  {
+    ClassInstanceId: 689,
+    Name: Lina's
+  },
+  {
+    ClassInstanceId: 694,
+    Name: Marie Blachère
+  },
+  {
+    ClassInstanceId: 696,
+    Name: Memphis
+  },
+  {
+    ClassInstanceId: 697,
+    Name: Mezzo di Pasta
+  },
+  {
+    ClassInstanceId: 701,
+    Name: Nooï
+  },
+  {
+    ClassInstanceId: 705,
+    Name: Oncle Scott's
+  },
+  {
+    ClassInstanceId: 706,
+    Name: O'Tacos
+  },
+  {
+    ClassInstanceId: 714,
+    Name: PITAYA
+  },
+  {
+    ClassInstanceId: 715,
+    Name: Pizza Cosy
+  },
+  {
+    ClassInstanceId: 719,
+    Name: Poivre Rouge
+  },
+  {
+    ClassInstanceId: 720,
+    Name: Pomme de Pain
+  },
+  {
+    ClassInstanceId: 722,
+    Name: Quick
+  },
+  {
+    ClassInstanceId: 724,
+    Name: Ristorante Del Arte
+  },
+  {
+    ClassInstanceId: 733,
+    Name: So Good
+  },
+  {
+    ClassInstanceId: 734,
+    Name: Speed Burger
+  },
+  {
+    ClassInstanceId: 735,
+    Name: Speed Rabbit Pizza
+  },
+  {
+    ClassInstanceId: 737,
+    Name: Steak n Shake
+  },
+  {
+    ClassInstanceId: 739,
+    Name: Sushi Shop
+  },
+  {
+    ClassInstanceId: 744,
+    Name: Vapiano
+  },
+  {
+    ClassInstanceId: 754,
+    Name: Au Bureau
+  },
+  {
+    ClassInstanceId: 756,
+    Name: Banette
+  },
+  {
+    ClassInstanceId: 757,
+    Name: Boulangerie Ange
+  },
+  {
+    ClassInstanceId: 762,
+    Name: Campanile
+  },
+  {
+    ClassInstanceId: 763,
+    Name: Columbus Café & Co
+  },
+  {
+    ClassInstanceId: 764,
+    Name: Crocodile
+  },
+  {
+    ClassInstanceId: 772,
+    Name: Indiana Café
+  },
+  {
+    ClassInstanceId: 773,
+    Name: La Criée
+  },
+  {
+    ClassInstanceId: 788,
+    Name: Pokawa
+  },
+  {
+    ClassInstanceId: 789,
+    Name: Cojean
+  },
+  {
+    ClassInstanceId: 790,
+    Name: Kayser
+  }
+]

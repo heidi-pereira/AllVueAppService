@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Low
+  },
+  {
+    ClassInstanceId: 2,
+    Name: High
+  }
+]

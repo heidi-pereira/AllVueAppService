@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Republican
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Democrat
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Independent
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Something else (please specify)
+  }
+]

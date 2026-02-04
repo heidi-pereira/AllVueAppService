@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I am sceptical of new technologies and use them only when I have to
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I am usually one of the last people I know to use new technologies
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I usually use new technologies when most people I know do
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I like new technologies and use them before most people I know
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I love new technologies and I am among the first to experiment with and use them
+  }
+]

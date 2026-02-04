@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Image:Good value (Base Image_evaluation_good_value)
+  }
+]

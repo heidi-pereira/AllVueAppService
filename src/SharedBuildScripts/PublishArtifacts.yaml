@@ -1,0 +1,8 @@
+steps:
+- task: DotNetCoreCLI@2
+  displayName: Push build artefacts
+  inputs:
+    command: push
+    packagesToPush: $(Build.ArtifactStagingDirectory)/*.nupkg
+    nuGetFeedType: internal
+    publishVstsFeed: savantadefault

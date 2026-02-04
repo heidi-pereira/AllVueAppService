@@ -1,0 +1,94 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: OLED
+  },
+  {
+    ClassInstanceId: 2,
+    Name: QLED
+  },
+  {
+    ClassInstanceId: 3,
+    Name: LED
+  },
+  {
+    ClassInstanceId: 4,
+    Name: LCD
+  },
+  {
+    ClassInstanceId: 5,
+    Name: The Frame
+  },
+  {
+    ClassInstanceId: 6,
+    Name: The Sero
+  },
+  {
+    ClassInstanceId: 7,
+    Name: The Serif
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The Terrace
+  },
+  {
+    ClassInstanceId: 9,
+    Name: The Premiere
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Bravia
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Signature
+  },
+  {
+    ClassInstanceId: 12,
+    Name: The Posé
+  },
+  {
+    ClassInstanceId: 13,
+    Name: The Easel
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Gallery Design
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Lifestyle
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Canvas
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Objet Collection
+  },
+  {
+    ClassInstanceId: 18,
+    Name: The Frame Pro
+  },
+  {
+    ClassInstanceId: 19,
+    Name: NXTVISION
+  },
+  {
+    ClassInstanceId: 20,
+    Name: StanbyME
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Art
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don't know
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

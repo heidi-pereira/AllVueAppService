@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Restaurants
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Places you would go for a quick bite to eat
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Pubs and bars
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Cafes, coffee shops or places you would buy coffee / tea from
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Brands that offer food delivery services for takeaway food
+  }
+]

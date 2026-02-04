@@ -1,0 +1,110 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Healthiness of food
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Flavour of the food
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Freshness of the food
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Different dietary requirements catered for
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Quality of ingredients
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Generosity of food portions
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Price attractiveness of food
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Children's menu
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Venue was clean / tidy
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Choice of drinks
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Price attractiveness of drinks
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Speed of payment process
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Value for money
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Atmosphere / ambience
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Quality of service
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Quality of coffee / hot drinks
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Friendliness of staff
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Speed of service
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Ease of ordering
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Speed of delivery
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Accuracy of the food delivered (vs what you ordered)
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Temperature of the food
+  },
+  {
+    ClassInstanceId: 23,
+    Name: The containers the food arrived in
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Friendliness of the delivery person
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Stylish decor
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Well-maintained decor
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Menu quality
+  }
+]

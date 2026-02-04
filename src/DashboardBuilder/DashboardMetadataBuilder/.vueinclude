@@ -1,0 +1,47 @@
+// This is an example file stored in the repo. The library reads the one from Egnyte.
+// Case insensitive patterns to include/exclude files from being packaged for Dashboard Builder
+// Use the forward slash '/' to represent the directory separator.
+// Use the '*' to represent wildcards in file and directory names.
+// Use '**' to represent arbitrary directory depth.
+// Use '..' to represent a parent directory
+
+// Patterns to include
+
+*
+*/map.xlsx
+*/map-override.xlsx
+*/scheme.xlsx
+*/images/**
+*/pages/**
+*/weightings/**
+*/css/**
+*/copytosite/**
+_Base/**
+
+// Patterns to exclude prefixed with !
+
+!0. BrandVue Template Folder - CLASSIFIED PRIVATE
+!1. Generic documents - CLASSIFIED PRIVATE
+!2. Response and Complete Analysis - CLASSIFIED PRIVATE
+!3. Reference - CLASSIFIED RESTRICTED
+!4. Competitor Imagery - CLASSIFIED - RESTRICTED
+!5. Dashboard How To Images - CLASSIFIED - PRIVATE
+!99. Prize Draws - CLASSIFIED RESTRICTED
+!Beta
+!Chimichanga
+!Deliveroo
+!Eating Out US
+!Fishworks
+!Fitness First Germany
+!Fitness First UK
+!Generic Fitness
+!Heineken
+!Morar
+!OCC Proposition Index
+!OCC Tradesmen
+!Punch Taverns
+!Question Library Master
+!Scorpio HSBC
+!Wagamama
+!Wagamama USA
+!Notes

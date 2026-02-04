@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Helpfulness / Knowledge of staff
+  },
+  {
+    ClassInstanceId: 2,
+    Name: How long it takes to pay / queue
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Convenience of the location of the store
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Ease of navigating the store / finding items you want
+  },
+  {
+    ClassInstanceId: 5,
+    Name: After sales service (e.g. returns policy, warranty)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Description of products in text and photos
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Delivery options / Cost of delivery
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Products offered are in-stock
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Range of products
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Quality of the products
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Offering products that suit your tastes
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Overall prices of the products (e.g. normal prices and on sale)
+  }
+]

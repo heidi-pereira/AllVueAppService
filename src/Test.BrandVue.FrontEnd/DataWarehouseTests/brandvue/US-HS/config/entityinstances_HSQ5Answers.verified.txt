@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: My household has struggled to pay a utility bill
+  },
+  {
+    ClassInstanceId: 2,
+    Name: My household has missed a payment on a utility bill
+  },
+  {
+    ClassInstanceId: 3,
+    Name: My household has cut back on a utility (e.g. heating or water) because we could not afford it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: My household has had a utility cut off because we could not afford it
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I can't guarantee the disposable income
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I prefer to give to charities that appeal / stand out to me at the time
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I prefer to spread giving across charities
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I regularly sponsor individuals raising money for charities
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I prefer to give to other causes / campaigns
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Ad hoc giving helps me manage my finances
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I don't want to make a lasting financial commitment
+  },
+  {
+    ClassInstanceId: 8,
+    Name: I prefer to give in cash
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Too many to choose from
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Haven't thought to do so
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Other
+  }
+]

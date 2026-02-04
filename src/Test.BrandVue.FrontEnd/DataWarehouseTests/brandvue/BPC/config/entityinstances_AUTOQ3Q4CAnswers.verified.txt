@@ -1,0 +1,82 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personal Contract Plan (PCP) (e.g. Initial deposit, fixed monthly payments, optional final balloon payment)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Hire Purchase (e.g. Initial deposit, fixed monthly payments, own the car after final payment)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Lease Hire (fixed regular lease payments, never own the car)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Car Loan (from a Bank)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Car Loan (source other than Bank)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Dealer Financing Product / Loan
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Broker Financing Product / Loan
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Loan from Family / Friend
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Gift from Family / Friend
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Savings
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Overdraft / Credit Card
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Partial Payment in Cash
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Full Payment in Cash (No loan required)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Part Exchange of Previous Car
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Company Car
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Car Allowance from employer
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Motability Scheme / Disability Living Allowance
+  },
+  {
+    ClassInstanceId: 96,
+    Name: I would prefer to not answer
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (Please specify)
+  }
+]

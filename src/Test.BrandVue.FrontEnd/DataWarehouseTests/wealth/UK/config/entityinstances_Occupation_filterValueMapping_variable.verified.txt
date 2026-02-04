@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Business Owner
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Senior Manager in a large company (1000+ employees)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Senior Manager in a medium company (fewer than 1000 employees)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Professional Services (lawyer, accountant, doctor etc)
+  }
+]

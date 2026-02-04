@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Browse item(s) seen in-store earlier
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Browse item(s) seen on their website
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Browse item(s) seen in a magazine
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Browse item(s) seen on a TV program
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Heard something positive from friends / family
+  },
+  {
+    ClassInstanceId: 7,
+    Name: To replace an existing item
+  },
+  {
+    ClassInstanceId: 8,
+    Name: To buy gifts / clothes for someone else
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Seen an advert
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Browsing for something new
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Just looking around - not really planning to buy something
+  },
+  {
+    ClassInstanceId: 13,
+    Name: The store had a sale on
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Received an email / a letter from the retailer
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Planned to browse for something new
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Browse item(s) seen on social media
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Not sure / don't know
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Visit any shop other than a supermarket?
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Go to the supermarket?
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Visit any friends / family (either at their home or out and about)?
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Visit a pharmacy?
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Visit friends or family in an open public space?
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Went out to exercise (e.g. walk, run or cycle)?
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Went out to work?
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Visit friends or family at their house (even if you remained outside, more than 2m away)?
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Went out for another reason?
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Volunteer for a community initiative?
+  }
+]

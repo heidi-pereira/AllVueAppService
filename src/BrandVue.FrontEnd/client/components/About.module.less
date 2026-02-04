@@ -1,0 +1,167 @@
+﻿@import "../../less/_vars";
+@import "../../less/_layout";
+
+.textBlockList {
+    .flex-column;
+    padding: 0 4px 8px;
+    .scrollbars;
+    width: 354px;
+    gap: 4px;
+
+    .textBlock {
+        padding: 4px 6px;
+        border: 1px solid transparent;
+        border-radius: 4px;
+
+        .header {
+            display: flex;
+            align-items: center;
+
+            .aboutTitle {
+                color: @navy;
+                margin: 4px 0 8px;
+                font-weight: 600;
+            }
+
+            .buttons {
+                display: flex;
+                justify-content: space-between;
+
+                .notifications, .actions {
+                    display: flex;
+                    visibility: hidden;
+
+                    .material-symbols-outlined {
+                        font-size: 18px;
+                        color: @slate;
+                    }
+
+                    div {
+                        margin: 2px;
+                    }
+                }
+
+                .notifications.visible .notificationsUnsaved {
+                    visibility: visible;
+                }
+
+                .actions {
+                    &:hover {
+                        cursor: pointer;
+                    }
+
+                    .material-symbols-outlined:hover {
+                        color: @slate-dark;
+                    }
+                }
+            }
+        }
+
+        .aboutTitle, .content {
+            width: 100%;
+            border: none;
+
+            a {
+                font-size: 14px;
+                font-weight: 700;
+                text-decoration: underline;
+                color: @blueSteel;
+            }
+
+            &:focus-visible {
+                outline: none;
+            }
+        }
+
+        &.editing {
+            border-color: @blueSteel;
+            box-shadow: 0 0 6px @blueSteel;
+
+            .aboutTitle:hover, .content:hover {
+                cursor: pointer;
+            }
+
+            .header .buttons .actions {
+                visibility: visible;
+
+                .material-symbols-outlined {
+                    color: @blueSteel;
+
+                    &:hover {
+                        color: @blueSteel;
+                    }
+                }
+            }
+        }
+
+        &:hover {
+            .aboutTitle, .content {
+                cursor: default;
+            }
+        }
+
+        &:hover .header .buttons .actions {
+            visibility: visible;
+        }
+    }
+}
+
+.selectorMain {
+    width: 100%;
+    background: @white;
+    opacity: 1;
+    transition: width 225ms ease, opacity 225ms ease;
+
+    &.hide {
+        width: 0;
+        opacity: 0;
+    }
+
+    .noAboutPlaceholder {
+        align-self: center;
+        padding: 24px;
+        color: @slate-light;
+    }
+
+    .selectorMainContent {
+        .flex-column();
+        height: 100%;
+
+        &.hide {
+            display: none;
+        }
+    }
+}
+
+.addInformationPanel {
+    .flex-column();
+    width: 0;
+    height: 0;
+    opacity: 0;
+    transition: opacity 225ms ease;
+    overflow: hidden;
+
+    &.visible {
+        width: 100%;
+        opacity: 1;
+        transition: width 225ms ease;
+        height: unset;
+        flex: 1;
+    }
+}
+
+.controlContainer {
+    display: flex;
+    justify-content: space-between;
+
+    .controlButtons {
+        .flex-row;
+        padding: 20px;
+        gap: 10px;
+    }
+
+    .dynamicTooltip {
+        align-self: center;
+        color: @blueSteel;
+    }
+}

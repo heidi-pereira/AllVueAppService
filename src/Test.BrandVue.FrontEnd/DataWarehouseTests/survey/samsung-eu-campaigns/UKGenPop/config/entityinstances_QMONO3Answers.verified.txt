@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: My current Monitor is no longer working well / has stopped working
+  },
+  {
+    ClassInstanceId: 2,
+    Name: For gaming/a new game release
+  },
+  {
+    ClassInstanceId: 3,
+    Name: To work from home
+  },
+  {
+    ClassInstanceId: 4,
+    Name: As part of a plan to decorate/renovate my home
+  },
+  {
+    ClassInstanceId: 5,
+    Name: As part of a plan to move home
+  },
+  {
+    ClassInstanceId: 6,
+    Name: I want a better Monitor
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I want a bigger Monitor
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t Know / Other
+  }
+]

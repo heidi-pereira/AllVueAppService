@@ -1,0 +1,146 @@
+// ====================
+// Screen sizes
+// ====================
+
+// Extra small screen / phone
+@screen-xs-min: 480px;
+
+// Small screen / tablet
+@screen-sm-min: 768px;
+
+// Medium screen / desktop
+@screen-md-min: 1000px;
+
+// Large screen / wide desktop
+@screen-lg-min: 1300px;
+
+// Large screen / extra wide desktop
+@screen-xl-min: 1600px;
+
+// So media queries dont overlap when required, provide a maximum
+@screen-xs-max: (@screen-sm-min - 1);
+@screen-sm-max: (@screen-md-min - 1);
+@screen-md-max: (@screen-lg-min - 1);
+
+// ====================
+// Font families
+// ====================
+@font_family: "Roboto", "Segoe UI", Arial, sans-serif;
+@icon_font: "Material Symbols Outlined";
+
+// All Vue Palette
+// New colors - Use these, they're great!
+
+// Chalk - Lighter shades for UI elements like borders
+@chalk: #E0E2E5;
+@chalk-light: #EEEFF0;
+@chalk-lighter: #F8F9F9;
+
+// Slate - Darker shades for text on Chalk/white backgrounds
+@slate: #6E7881;
+@slate-dark: #42484D;
+@slate-darker: #26292C;
+@slate-light: #A0A7AE;
+@slate-lighter: #CBCFD3;
+
+// BlueSteel - Primary buttons, focus highlights
+@blueSteel: #1376CD;
+@blueSteel-dark: #0E4B81;
+@blueSteel-darker: #082B49;
+@blueSteel-light: #B6D8F7;
+@blueSteel-lighter: #E2F1FD;
+@blueSteel-lightest: #F3F8FC;
+
+// Lime - Positive trends, success
+@lime: #19CD13;
+@lime-dark: #0E8116;
+@lime-darker: #08490D;
+@lime-light: #B8F7B6;
+@lime-lighter: #E1FFE0;
+
+
+// Lava - Negative trends, destructive actions, errors, critical information
+@lava: #CD1319;
+@lava-dark: #810E12;
+@lava-darker: #49080A;
+@lava-light: #F7B6B8;
+@lava-lighter: #FFE0E1;
+
+// Amber - Warnings, attention
+@amber: #FFBF00;
+@amber-dark: #81640E;
+@amber-darker: #493908;
+@amber-light: #F7E7B6;
+@amber-lighter: #FFF7E0;
+
+// Info on screen - contrast to Blue Steel
+@punk: #C713CD;
+@punk-dark: #7D0E81;
+@punk-darker: #470849;
+@punk-light: #F5B6F7;
+@punk-lighter: #FEE0FF;
+
+// Savanta Brand Palette
+@white: rgba(255,255,255,1);
+@pink: rgba(244,173,179,1);
+@black: rgba(0,0,0,1);
+@blue: rgba(93,174,212,1);
+@teal: rgba(94,161,155,1);
+@purple: rgba(127,107,168,1);
+@gold: rgba(246,170,87,1);
+@navy: rgba(14,80,102,1);
+@coral: rgba(226,88,92,1);
+
+// Grey - restricted
+@grey: #8A8A8A;
+
+// WGSN Palette
+@wgsn-blue: rgba(4, 194, 219, 1);
+@wgsn-blue-light: rgba(4, 194, 219, 0.4);
+
+// PLEASE DONT USE ANY OF THE COLOURS BELOW - THEY ARE BE DEPRECATED
+@teal-25: fadeout(@teal, 75);
+@purple-25: fadeout(@purple, 75);
+@gold-25: fadeout(@gold, 75);
+@navy-25: fadeout(@navy, 75);
+@coral-25: fadeout(@coral, 75);
+
+// Hex for solid tints
+
+@teal-hex: #5ea19b;
+@purple-hex: #7f6ba8;
+@gold-hex: #f6aa57;
+@navy-hex: #0e5066;
+@coral-hex: #e2585c;
+
+// Tints - for solid backgrounds
+
+@teal-hex-50: tint(@teal-hex, 50%);
+@teal-hex-25: tint(@teal-hex, 75%);
+
+@purple-hex-50: tint(@purple-hex, 50%);
+@purple-hex-25: tint(@purple-hex, 75%);
+
+@gold-hex-50: tint(@gold-hex, 50%);
+@gold-hex-25: tint(@gold-hex, 75%);
+
+@navy-hex-50: tint(@navy-hex, 50%);
+@navy-hex-25: tint(@navy-hex, 75%);
+
+@coral-hex-50: tint(@coral-hex, 50%);
+@coral-hex-25: tint(@coral-hex, 75%);
+
+@good-green: @lime-dark;
+@bad-red: @lava;
+
+// ====================
+// Drop shadows
+// ====================
+@shadow-01: 0px 1px 3px rgba(0, 0, 0, 0.2), 0px 2px 1px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14);
+@shadow-08: 0px 5px 5px rgba(0, 0, 0, 0.2), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 8px 10px rgba(0, 0, 0, 0.14);
+
+// ========================================================================================================================
+// Specific to Style Guide
+
+@header-height: 74px;
+@sub-header-height: 54px;

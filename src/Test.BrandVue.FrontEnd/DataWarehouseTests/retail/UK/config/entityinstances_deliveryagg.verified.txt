@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: JustEat
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Deliveroo
+  },
+  {
+    ClassInstanceId: 3,
+    Name: UberEats
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Getir
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Gorillas
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Beelivery
+  },
+  {
+    ClassInstanceId: 7,
+    Name: None of these
+  }
+]

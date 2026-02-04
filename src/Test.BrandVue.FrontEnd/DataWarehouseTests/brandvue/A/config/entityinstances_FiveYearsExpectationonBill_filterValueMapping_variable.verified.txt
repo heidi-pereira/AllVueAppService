@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: My bill will be significantly higher than it is now
+  },
+  {
+    ClassInstanceId: 1,
+    Name: My bill will be slightly higher than it is now
+  },
+  {
+    ClassInstanceId: 2,
+    Name: My bill will be roughly the same as it is now
+  },
+  {
+    ClassInstanceId: 3,
+    Name: My bill will be slightly lower than it is now
+  },
+  {
+    ClassInstanceId: 4,
+    Name: My bill will be significantly lower than it is now
+  }
+]

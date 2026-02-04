@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Student, living in rented accommodation
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Non-student living in rented accommodation
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Home owner (with or without mortgage) purchased within the last 2 years
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Home owner (with or without mortgage) purchased more than 2 years ago
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Prefer not to say
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Other (97)
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: You are absolutely certain that you are registered to vote at your current address
+  },
+  {
+    ClassInstanceId: 2,
+    Name: You are probably registered, but there is a chance your registration has lapsed
+  },
+  {
+    ClassInstanceId: 3,
+    Name: You are not registered to vote at your current address
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Position of employment:Other manual (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have MS
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I think I might have MS 
+  },
+  {
+    ClassInstanceId: 3,
+    Name: A partner or spouse has MS
+  },
+  {
+    ClassInstanceId: 4,
+    Name: An immediate / close family member has MS
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Another member of my family has MS
+  },
+  {
+    ClassInstanceId: 6,
+    Name: A friend has MS
+  },
+  {
+    ClassInstanceId: 7,
+    Name: I have lost a friend or family member who had MS
+  }
+]

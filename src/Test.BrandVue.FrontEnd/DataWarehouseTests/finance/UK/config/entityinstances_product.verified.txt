@@ -1,0 +1,102 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car insurance
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Home insurance
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Travel insurance
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Pet insurance
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Life insurance & protection
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Breakdown cover
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Credit cards
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Mortgages (for your own home)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Car loans / car finance
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Payday loans
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Personal loans
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Current accounts
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Personal pensions
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Investment products
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Cash saving / deposit accounts
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Private Medical / health Insurance
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Guaranteed over 50s life insurance
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Pre-paid funeral plans
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Foreign exchange & payments services
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Equity release / lifetime mortgage
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Price comparison websites
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Methods to pay for goods and services
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Credit monitoring services
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Financial advice
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Pension taken out through your employer
+  }
+]

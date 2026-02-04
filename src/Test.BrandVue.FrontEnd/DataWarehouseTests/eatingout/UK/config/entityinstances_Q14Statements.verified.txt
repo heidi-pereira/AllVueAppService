@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: UK Government
+  },
+  {
+    ClassInstanceId: 2,
+    Name: World Health Organisation
+  },
+  {
+    ClassInstanceId: 3,
+    Name: NHS
+  },
+  {
+    ClassInstanceId: 4,
+    Name: European Union
+  },
+  {
+    ClassInstanceId: 5,
+    Name: US Government
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Public Health England / Scotland / Wales
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Confederation of British Industry (CBI)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The police
+  },
+  {
+    ClassInstanceId: 9,
+    Name: The armed forces
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Supermarkets
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Premier League football clubs
+  }
+]

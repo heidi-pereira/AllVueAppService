@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Much happier to support
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Happier to support
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No real impact
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Less happy to support
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Much less happy to support
+  }
+]

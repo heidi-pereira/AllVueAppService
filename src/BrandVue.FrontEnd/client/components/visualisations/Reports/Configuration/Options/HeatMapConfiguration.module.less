@@ -1,0 +1,65 @@
+@import "../../../../../../less/_layout";
+
+.section {
+    margin-bottom: 24px;
+}
+
+.categoryLabel {
+    margin-bottom: 10px !important;
+
+    input {
+        margin: 0 10px 0 0;
+        width: 60px;
+        padding: 6px 10px;
+        border: 1px solid @slate-lighter;
+        border-radius: 4px;
+        transition: color 175ms ease, background 175ms ease, border-color 175ms ease;
+
+        &:hover {
+            border-color: @slate-light;
+        }
+
+        &:focus {
+            outline: 0;
+            box-shadow: 0px 0px 3px 3px rgb(224 226 229 / 48%);
+        }
+
+        &:disabled {
+            color: @slate-light;
+            cursor: not-allowed;
+            background: @chalk-lighter;
+
+            &:hover {
+                border-color: @slate-lighter;
+            }
+        }
+    }
+}
+
+.positionButtons {
+    border: 1px solid @slate-light;
+    border-radius: 4px;
+    margin-left: 10px;
+
+    button {
+        display: inline-block;
+        border: 0;
+
+        i {
+            color: black;
+            font-size: 1.2rem;
+        }
+
+        &:global(.selected) {
+            border: 1px solid @blueSteel;
+            border-radius: 4px;
+            background: @blueSteel-lighter;
+            margin: -1px;
+        }
+    }
+}
+
+.checkbox, .position {
+    margin-bottom: 24px;
+}
+

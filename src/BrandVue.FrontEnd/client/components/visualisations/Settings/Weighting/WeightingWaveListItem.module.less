@@ -1,0 +1,132 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.waveRow {
+    .flex-row(@justify-content: space-evenly);
+    padding: 10px;
+    background: @white;
+    height: 62px;
+
+    &:hover {
+        background-color: lighten(@blueSteel-lighter, 4%);
+    }
+
+    .details {
+        color: @slate;
+    }
+
+    .placeHolder {
+        width: 40px;
+    }
+
+    .placeHolder2 {
+        width: 20%;
+    }
+
+    .waveNameRespondentCount {
+        width: 30%;
+
+        .name {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    }
+
+    .waveErrorContainer {
+        .flex-row(@justify-content: flex-start, @align-items: center);
+        width: 30%;
+    }
+
+    .waveActions {
+        .flex-row(@justify-content: flex-end, @align-items: center);
+        gap: 4px;
+        width: 20%;
+
+        .symbol {
+            font-size: 20px;
+            color: @slate;
+        }
+
+        :not(.disabled) {
+            .symbol:hover {
+                color: @blueSteel;
+                cursor: pointer;
+            }
+        }
+
+        .disabled {
+            filter: opacity(0.5);
+            cursor: default;
+            margin-left: 2px;
+        }
+
+        .waveActionContent {
+            .flex-row(@justify-content: space-between, @align-items: center);
+            min-width: 200px;
+
+            .editAction {
+                .flex-row(@justify-content: space-between, @align-items: center);
+                width: 100%;
+
+                .text {
+                    padding-top: 3px;
+                    padding-left: 12px;
+                    color: @blueSteel;
+                    font-size: 14px;
+                }
+
+                .button {
+                    margin-right: 4px;
+                }
+            }
+
+            .addWeightButton {
+                margin-right: 36px;
+
+                button {
+                    font-size: 14px;
+                }
+            }
+
+            .addWeightDropdown {
+                border-radius: 4px !important;
+                border: 1px solid @blueSteel;
+                background-color: #FFF;
+
+                .text {
+                    color: @blueSteel;
+                    font-size: 14px;
+                    white-space: nowrap;
+                }
+            }
+        }
+    }
+
+    .error {
+        color: red;
+    }
+
+    .right {
+        .flex-row(@align-items: center, @gutter: 2px);
+    }
+}
+
+.buttonDropdown {
+    .dropdownItem {
+        transition: background-color 175ms ease;
+
+        &:hover {
+            background-color: @blueSteel-lighter;
+        }
+
+        &:focus {
+            background-color: @blueSteel-light;
+            outline: none;
+        }
+
+        &:active {
+            color: inherit;
+        }
+    }
+}

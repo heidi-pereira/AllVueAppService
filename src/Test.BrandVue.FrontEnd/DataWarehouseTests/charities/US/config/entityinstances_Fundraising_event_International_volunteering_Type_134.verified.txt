@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fundraising events:International volunteering (Base Fundraising_event_International_volunteering)
+  }
+]

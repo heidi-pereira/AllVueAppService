@@ -1,0 +1,15 @@
+﻿{
+  TotalWeighting: 1.0,
+  _weightingsByQuotaCellString: {
+    0: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.6
+    },
+    1: {
+      ExpansionFactor: null,
+      IsResponseLevelWeighting: false,
+      Weight: 0.4
+    }
+  }
+}

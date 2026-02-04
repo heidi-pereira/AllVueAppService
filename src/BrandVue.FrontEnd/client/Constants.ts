@@ -1,0 +1,1 @@
+﻿export const dataExportForbiddenMessage = "Data exports are not available for trial users. If you want to know more about this feature, Please ask your BrandVue contact.";

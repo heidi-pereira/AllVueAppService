@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: CRM connected (Base CRM_connected)
+  }
+]

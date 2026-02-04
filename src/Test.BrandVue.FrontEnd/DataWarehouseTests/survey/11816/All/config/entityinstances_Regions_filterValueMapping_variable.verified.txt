@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: I don't live in the UK
+  },
+  {
+    ClassInstanceId: 1,
+    Name: South-West
+  },
+  {
+    ClassInstanceId: 2,
+    Name: North-West
+  },
+  {
+    ClassInstanceId: 3,
+    Name: London
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Wales
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Eastern
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Yorkshire & Humberside
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Scotland
+  },
+  {
+    ClassInstanceId: 9,
+    Name: East Midlands
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Northern Ireland
+  },
+  {
+    ClassInstanceId: 11,
+    Name: West Midlands
+  },
+  {
+    ClassInstanceId: 12,
+    Name: North-East
+  },
+  {
+    ClassInstanceId: 13,
+    Name: South-East
+  }
+]

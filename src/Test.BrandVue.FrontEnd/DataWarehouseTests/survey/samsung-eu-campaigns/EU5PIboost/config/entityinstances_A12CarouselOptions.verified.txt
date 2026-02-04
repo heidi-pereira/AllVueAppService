@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: More than once a day
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Once a day
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Once every few days
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Once a week
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Less than once a week
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Not in the last month
+  }
+]

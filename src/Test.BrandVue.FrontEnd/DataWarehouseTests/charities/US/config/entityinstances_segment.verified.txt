@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Never heard of this charity
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Heard of them but never supported
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Have previously supported but not in the last 12 months
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Currently support or have in the last 12 months
+  }
+]

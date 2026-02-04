@@ -1,0 +1,110 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Going to the movies / Watching films
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Clubbing
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Video games
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Cooking / Baking
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Dancing
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Extreme sports
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Following fashion
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Going to bars / pubs
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Going to the gym
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Hiking / Walking
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Interior design
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Learning languages
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Listening to music
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Making / Playing music
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Making crafts
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Music events / festivals
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Photography
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Playing sports
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Reading / Audiobooks
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Shopping
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Theatre / Musicals
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Travelling
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Watching TV shows
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Volunteering
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Watching sports
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Writing
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Yoga / Pilates
+  }
+]

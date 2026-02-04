@@ -1,0 +1,1 @@
+﻿result.PositiveBuzzBrandCategory if ((result.PositiveBuzzBrandCategory == 1) and ((any((answer != None and answer >= 0) for answer in response.selection1(brand=[1,4])) or any((answer != None and answer >= 0) for answer in response.selection2(brand=[3,7]))))) else None

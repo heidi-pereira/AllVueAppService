@@ -1,0 +1,181 @@
+id,pageName,title,helpText,paneIcon,height,width,padding,paneType,spec,tablet,view
+Welcome,Welcome,Welcome,,,500,920,,Import,barometer.html,,
+Overview1,Overview,Overview,,,50,750,,Standard,,,
+Overview2,Overview,Overview,,,130,250,,Standard,,,
+Overview3,Overview,Overview,,,130,250,,Standard,,,
+Overview4,Overview,Overview,,,130,250,,Standard,,,
+Overview5,Overview,Overview,,,80,750,,Standard,,,
+Overview6,Overview,Overview,,,130,250,,Standard,,,
+Overview7,Overview,Overview,,,130,250,,Standard,,,
+Overview8,Overview,Overview,,,130,250,,Standard,,,
+Overview9,Overview,Overview,,,80,750,,Standard,,,
+Overview10,Overview,Overview,,,130,250,,Standard,,,
+Overview11,Overview,Overview,,,130,250,,Standard,,,
+Overview12,Overview,Overview,,,130,250,,Standard,,,
+Media_Performance1,Media Performance,Media Performance,,,500,920,,Standard,,,1
+Net_buzz1,Net Buzz,Net Buzz,,,500,920,,Standard,,,1
+Buzz_noise1,Buzz Noise,Buzz Noise,,,500,920,,Standard,,,1
+Positive_buzz1,Positive Buzz,Positive Buzz,,,500,920,,Standard,,,1
+Negative_buzz1,Negative Buzz,Negative Buzz,,,500,920,,Standard,,,1
+Advertising_awareness1,Advertising Awareness,Advertising Awareness,,,500,920,,Standard,,,1
+Brand_health1,Brand Health,Brand Health,,,500,920,,Standard,,,1
+Aware1,Awareness,Awareness,,,500,920,,Standard,,,1
+Familiar1,Familiarity,Familiarity,,,500,920,,Standard,,,1
+Affinity1,Affinity,Affinity,,,500,920,,Standard,,,1
+Love1,Love,Love,,,500,920,,Standard,,,1
+Consideration1,Consideration,Consideration,,,500,920,,Standard,,,1
+Preference1,Preference,Preference,,,500,920,,Standard,,,1
+Demand_&_usage1,Demand & Usage,Demand & Usage,,,500,920,,Standard,,,1
+Visited__Instore__Last_Month_1,Visited In-Store (LM),Visited In-Store (LM),,,500,920,,Standard,,,1
+Visited__Online__Last_Month_1,Visited Online (LM),Visited Online (LM),,,500,920,,Standard,,,1
+Visited__Overall__Last_Month_1,Visited Overall (LM),Visited Overall (LM),,,500,920,,Standard,,,1
+Bought__Instore__Last_Month_1,Bought In-Store (LM),Bought In-Store (LM),,,500,920,,Standard,,,1
+Bought__Online__Last_Month_1,Bought Online (LM),Bought Online (LM),,,500,920,,Standard,,,1
+Bought__Overall__Last_Month_1,Bought Overall (LM),Bought Overall (LM),,,500,920,,Standard,,,1
+Conversion__instore1,Conversion In-Store (LM),Conversion In-Store (LM),,,500,920,,Standard,,,1
+Conversion__online1,Conversion Online (LM),Conversion Online (LM),,,500,920,,Standard,,,1
+Purchase_frequency__instore1,Purchase Frequency In-Store (L12M),Purchase Frequency In-Store (LM),,,500,920,,Standard,,,1
+Purchase_frequency__online1,Purchase Frequency Online (L12M),Purchase Frequency Online (LM),,,500,920,,Standard,,,1
+Spend___instore1,Spend In-Store (LM),Spend In-Store,,,500,920,,Standard,,,1
+Spend___online_1,Spend Online (LM),Spend Online,,,500,920,,Standard,,,1
+Penetration__L12M_1,Penetration (L12M),Penetration (L12M),,,500,920,,Standard,,,1
+Ever_bought__L12M_1,Ever Bought,Ever Bought,,,500,920,,Standard,,,1
+Lost_demand1,Lost demand,Lost demand,,,500,920,,Standard,,,
+Lapsed__L12M_1,Lapsed (L12M),Lapsed (L12M),,,500,920,,Standard,,,1
+Never_bought_1,Never Bought,Never Bought,,,500,920,,Standard,,,1
+In-store_Better_fitting_products_1,In-store:Better fitting products,In-store:Better fitting products,,,500,920,,Standard,,,
+In-store_Better_priced_products_1,In-store:Better priced products,In-store:Better priced products,,,500,920,,Standard,,,
+In-store_Better_quality_products_1,In-store:Better quality products,In-store:Better quality products,,,500,920,,Standard,,,
+In-store_Products_available_in_my_size_1,In-store:Products available in my size,In-store:Products available in my size,,,500,920,,Standard,,,
+In-store_Better_range_of_styles_1,In-store:Better range of styles,In-store:Better range of styles,,,500,920,,Standard,,,
+In-store_Shorter_queues_1,In-store:Shorter queues,In-store:Shorter queues,,,500,920,,Standard,,,
+In-store_More_helpful_staff_1,In-store:More helpful staff,In-store:More helpful staff,,,500,920,,Standard,,,
+In-store_Better_store_layout_1,In-store:Better store layout,In-store:Better store layout,,,500,920,,Standard,,,
+Online_Better_fitting_products_1,Online:Better fitting products,Online:Better fitting products,,,500,920,,Standard,,,
+Online_Better_priced_products_1,Online:Better priced products,Online:Better priced products,,,500,920,,Standard,,,
+Online_Better_quality_products_1,Online:Better quality products,Online:Better quality products,,,500,920,,Standard,,,
+Online_Products_available_in_my_size_1,Online:Products available in my size,Online:Products available in my size,,,500,920,,Standard,,,
+Online_Better_range_of_styles_1,Online:Better range of styles,Online:Better range of styles,,,500,920,,Standard,,,
+Online_Easier_navigation_1,Online:Easier navigation,Online:Easier navigation,,,500,920,,Standard,,,
+Online_Better_delivery_options_1,Online:Better delivery options,Online:Better delivery options,,,500,920,,Standard,,,
+Online_Better_product_presentation_1,Online:Better product presentation,Online:Better product presentation,,,500,920,,Standard,,,
+Customer_experience1,Customer Experience,Customer Experience,,,500,920,,Standard,,,1
+Satisfaction_instore1,Satisfaction In-Store,Satisfaction In-Store,,,500,920,,Standard,,,1
+Satisfaction_online1,Satisfaction Online,Satisfaction Online,,,500,920,,Standard,,,1
+NPS1,Advocacy,NPS,,,500,920,,Standard,,,1
+Promoters1,Promoters,Promoters,,,500,920,,Standard,,,1
+Detractors1,Detractors,Detractors,,,500,920,,Standard,,,1
+Passives1,Passives,Passives,,,500,920,,Standard,,,1
+Image1,Customer Experience,Customer Experience,,,500,920,,Standard,,,1
+Image_Caring1,Image:Caring,Image:Caring,,,500,920,,Standard,,,1
+Image_Classic1,Image:Classic,Image:Classic,,,500,920,,Standard,,,1
+Image_Comfortable1,Image:Comfortable,Image:Comfortable,,,500,920,,Standard,,,1
+Image_Confident1,Image:Confident,Image:Confident,,,500,920,,Standard,,,1
+Image_Distinctive1,Image:Distinctive,Image:Distinctive,,,500,920,,Standard,,,1
+Image_Energetic1,Image:Energetic,Image:Energetic,,,500,920,,Standard,,,1
+Image_Exciting1,Image:Exciting,Image:Exciting,,,500,920,,Standard,,,1
+Image_Expert1,Image:Expert,Image:Expert,,,500,920,,Standard,,,1
+Image_Famous designers1,Image:Famous designers,Image:Famous designers,,,500,920,,Standard,,,1
+Image_For men1,Image:For men,Image:For men,,,500,920,,Standard,,,1
+Image_For women1,Image:For women,Image:For women,,,500,920,,Standard,,,1
+Image_Fresh1,Image:Fresh,Image:Fresh,,,500,920,,Standard,,,1
+Image_Has a rich heritage1,Image:Has a rich heritage,Image:Has a rich heritage,,,500,920,,Standard,,,1
+Image_Honest1,Image:Honest,Image:Honest,,,500,920,,Standard,,,1
+Image_Iconic1,Image:Iconic,Image:Iconic,,,500,920,,Standard,,,1
+Image_Innovative1,Image:Innovative,Image:Innovative,,,500,920,,Standard,,,1
+Image_Inspiring1,Image:Inspiring,Image:Inspiring,,,500,920,,Standard,,,1
+Image_Modern1,Image:Modern,Image:Modern,,,500,920,,Standard,,,1
+Image_Premium1,Image:Premium,Image:Premium,,,500,920,,Standard,,,1
+Image_Professional1,Image:Professional,Image:Professional,,,500,920,,Standard,,,1
+Image_Quality1,Image:Quality,Image:Quality,,,500,920,,Standard,,,1
+Image_Stylish1,Image:Stylish,Image:Stylish,,,500,920,,Standard,,,1
+Image_Trusted1,Image:Trusted,Image:Trusted,,,500,920,,Standard,,,1
+Image_Worth every penny1,Image:Worth every penny,Image:Worth every penny,,,500,920,,Standard,,,1
+Image_Youthful1,Image:Youthful,Image:Youthful,,,500,920,,Standard,,,1
+Media_Performance2,Media Performance,Media Performance,,,500,920,,Standard,,,2
+Net_buzz2,Net Buzz,Net Buzz,,,500,920,,Standard,,,2
+Buzz_noise2,Buzz Noise,Buzz Noise,,,500,920,,Standard,,,2
+Positive_buzz2,Positive Buzz,Positive Buzz,,,500,920,,Standard,,,2
+Negative_buzz2,Negative Buzz,Negative Buzz,,,500,920,,Standard,,,2
+Advertising_awareness2,Advertising Awareness,Advertising Awareness,,,500,920,,Standard,,,2
+Brand_health2,Brand Health,Brand Health,,,500,920,,Standard,,,2
+Aware2,Awareness,Awareness,,,500,920,,Standard,,,2
+Familiar2,Familiarity,Familiarity,,,500,920,,Standard,,,2
+Affinity2,Affinity,Affinity,,,500,920,,Standard,,,2
+Love2,Love,Love,,,500,920,,Standard,,,2
+Consideration2,Consideration,Consideration,,,500,920,,Standard,,,2
+Preference2,Preference,Preference,,,500,920,,Standard,,,2
+Demand_&_usage2,Demand & Usage,Demand & Usage,,,500,920,,Standard,,,2
+Visited__Instore__Last_Month_2,Visited In-Store (LM),Visited In-Store (LM),,,500,920,,Standard,,,2
+Visited__Online__Last_Month_2,Visited Online (LM),Visited Online (LM),,,500,920,,Standard,,,2
+Bought__Instore__Last_Month_2,Bought In-Store (LM),Bought In-Store (LM),,,500,920,,Standard,,,2
+Bought__Online__Last_Month_2,Bought Online (LM),Bought Online (LM),,,500,920,,Standard,,,2
+Conversion__instore2,Conversion Instore,Conversion Instore,,,500,920,,Standard,,,2
+Conversion__online2,Conversion Online,Conversion Online,,,500,920,,Standard,,,2
+Spend___instore2,Spend – Instore,Spend – Instore,,,500,920,,Standard,,,2
+Spend___online_2,Spend – Online ,Spend – Online ,,,500,920,,Standard,,,2
+Penetration__L12M_2,Penetration (L12M),Penetration (L12M),,,500,920,,Standard,,,2
+Lapsed__L12M_2,Lapsed (L12M),Lapsed (L12M),,,500,920,,Standard,,,2
+Ever_bought__L12M_2,Ever Bought,Ever Bought,,,500,920,,Standard,,,2
+Customer_experience2,Customer Experience,Customer Experience,,,500,920,,Standard,,,2
+Satisfaction_instore2,Satisfaction In-Store,Satisfaction In-Store,,,500,920,,Standard,,,2
+Satisfaction_online2,Satisfaction Online,Satisfaction Online,,,500,920,,Standard,,,2
+NPS2,Advocacy,NPS,,,500,920,,Standard,,,2
+Media_Performance3,Media Performance,Media Performance,,,500,920,,Standard,,,3
+Net_buzz3,Net Buzz,Net Buzz,,,500,920,,Standard,,,3
+Buzz_noise3,Buzz Noise,Buzz Noise,,,500,920,,Standard,,,3
+Positive_buzz3,Positive Buzz,Positive Buzz,,,500,920,,Standard,,,3
+Negative_buzz3,Negative Buzz,Negative Buzz,,,500,920,,Standard,,,3
+Advertising_awareness3,Advertising Awareness,Advertising Awareness,,,500,920,,Standard,,,3
+Brand_health3,Brand Health,Brand Health,,,500,920,,Standard,,,3
+Aware3,Awareness,Awareness,,,500,920,,Standard,,,3
+Familiar3,Familiarity,Familiarity,,,500,920,,Standard,,,3
+Affinity3,Affinity,Affinity,,,500,920,,Standard,,,3
+Love3,Love,Love,,,500,920,,Standard,,,3
+Consideration3,Consideration,Consideration,,,500,920,,Standard,,,3
+Preference3,Preference,Preference,,,500,920,,Standard,,,3
+Demand_&_usage3,Demand & Usage,Demand & Usage,,,500,920,,Standard,,,3
+Visited__Instore__Last_Month_3,Visited In-Store (LM),Visited In-Store (LM),,,500,920,,Standard,,,3
+Visited__Online__Last_Month_3,Visited Online (LM),Visited Online (LM),,,500,920,,Standard,,,3
+Bought__Instore__Last_Month_3,Bought In-Store (LM),Bought In-Store (LM),,,500,920,,Standard,,,3
+Bought__Online__Last_Month_3,Bought Online (LM),Bought Online (LM),,,500,920,,Standard,,,3
+Conversion__instore3,Conversion Instore,Conversion Instore,,,500,920,,Standard,,,3
+Conversion__online3,Conversion Online,Conversion Online,,,500,920,,Standard,,,3
+Spend___instore3,Spend – Instore,Spend – Instore,,,500,920,,Standard,,,3
+Spend___online_3,Spend – Online ,Spend – Online ,,,500,920,,Standard,,,3
+Penetration__L12M_3,Penetration (L12M),Penetration (L12M),,,500,920,,Standard,,,3
+Lapsed__L12M_3,Lapsed (L12M),Lapsed (L12M),,,500,920,,Standard,,,3
+Ever_bought__L12M_3,Ever Bought,Ever Bought,,,500,920,,Standard,,,3
+Customer_experience3,Customer Experience,Customer Experience,,,500,920,,Standard,,,3
+Satisfaction_instore3,Satisfaction In-Store,Satisfaction In-Store,,,500,920,,Standard,,,3
+Satisfaction_online3,Satisfaction Online,Satisfaction Online,,,500,920,,Standard,,,3
+NPS3,Advocacy,NPS,,,500,920,,Standard,,,3
+Media_Performance4,Media Performance,Media Performance,,,500,920,,Standard,,,4
+Net_buzz4,Net Buzz,Net Buzz,,,500,920,,Standard,,,4
+Buzz_noise4,Buzz Noise,Buzz Noise,,,500,920,,Standard,,,4
+Positive_buzz4,Positive Buzz,Positive Buzz,,,500,920,,Standard,,,4
+Negative_buzz4,Negative Buzz,Negative Buzz,,,500,920,,Standard,,,4
+Advertising_awareness4,Advertising Awareness,Advertising Awareness,,,500,920,,Standard,,,4
+Brand_health4,Brand Health,Brand Health,,,500,920,,Standard,,,4
+Aware4,Awareness,Awareness,,,500,920,,Standard,,,4
+Familiar4,Familiarity,Familiarity,,,500,920,,Standard,,,4
+Affinity4,Affinity,Affinity,,,500,920,,Standard,,,4
+Love4,Love,Love,,,500,920,,Standard,,,4
+Consideration4,Consideration,Consideration,,,500,920,,Standard,,,4
+Preference4,Preference,Preference,,,500,920,,Standard,,,4
+Demand_&_usage4,Demand & Usage,Demand & Usage,,,500,920,,Standard,,,4
+Visited__Instore__Last_Month_4,Visited In-Store (LM),Visited In-Store (LM),,,500,920,,Standard,,,4
+Visited__Online__Last_Month_4,Visited Online (LM),Visited Online (LM),,,500,920,,Standard,,,4
+Bought__Instore__Last_Month_4,Bought In-Store (LM),Bought In-Store (LM),,,500,920,,Standard,,,4
+Bought__Online__Last_Month_4,Bought Online (LM),Bought Online (LM),,,500,920,,Standard,,,4
+Conversion__instore4,Conversion Instore,Conversion Instore,,,500,920,,Standard,,,4
+Conversion__online4,Conversion Online,Conversion Online,,,500,920,,Standard,,,4
+Spend___instore4,Spend – Instore,Spend – Instore,,,500,920,,Standard,,,4
+Spend___online_4,Spend – Online ,Spend – Online ,,,500,920,,Standard,,,4
+Penetration__L12M_4,Penetration (L12M),Penetration (L12M),,,500,920,,Standard,,,4
+Lapsed__L12M_4,Lapsed (L12M),Lapsed (L12M),,,500,920,,Standard,,,4
+Ever_bought__L12M_4,Ever Bought,Ever Bought,,,500,920,,Standard,,,4
+Customer_experience4,Customer Experience,Customer Experience,,,500,920,,Standard,,,4
+Satisfaction_instore4,Satisfaction In-Store,Satisfaction In-Store,,,500,920,,Standard,,,4
+Satisfaction_online4,Satisfaction Online,Satisfaction Online,,,500,920,,Standard,,,4
+NPS4,Advocacy,NPS,,,500,920,,Standard,,,4

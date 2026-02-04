@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cage birds
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cats
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Dogs
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Fish
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Rabbits / Hamsters / Guinea Pigs
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Full time (30+ hours)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Part-time (8-29 hours)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Part-time (less than 8 hours)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Retired
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Long-term illness / disabled
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Full-time homemaker
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Full-time student
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Unemployed
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Unemployed - looking for a job
+  }
+]

@@ -1,0 +1,380 @@
+﻿[
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.SurveyType,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Adhoc
+      },
+      {
+        Value: 1,
+        ValueString: Tracker
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.ProjectType,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Unknown
+      },
+      {
+        Value: 1,
+        ValueString: AllVueSurvey
+      },
+      {
+        Value: 2,
+        ValueString: AllVueSurveyGroup
+      },
+      {
+        Value: 3,
+        ValueString: BrandVue
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Authorisation.SystemKey,
+    Values: [
+      {
+        Value: 1,
+        ValueString: AllVue
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Averages.TotalisationPeriodUnit,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Day
+      },
+      {
+        Value: 1,
+        ValueString: Month
+      },
+      {
+        Value: 2,
+        ValueString: All
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Averages.WeightingMethod,
+    Values: [
+      {
+        Value: 0,
+        ValueString: None
+      },
+      {
+        Value: 1,
+        ValueString: QuotaCell
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Averages.WeightAcross,
+    Values: [
+      {
+        Value: 0,
+        ValueString: AllPeriods
+      },
+      {
+        Value: 1,
+        ValueString: SinglePeriod
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Averages.AverageStrategy,
+    Values: [
+      {
+        Value: 0,
+        ValueString: OverAllPeriods
+      },
+      {
+        Value: 1,
+        ValueString: MeanOfPeriods
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Averages.MakeUpTo,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Day
+      },
+      {
+        Value: 1,
+        ValueString: WeekEnd
+      },
+      {
+        Value: 2,
+        ValueString: MonthEnd
+      },
+      {
+        Value: 3,
+        ValueString: QuarterEnd
+      },
+      {
+        Value: 4,
+        ValueString: HalfYearEnd
+      },
+      {
+        Value: 5,
+        ValueString: CalendarYearEnd
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Averages.WeightingPeriodUnit,
+    Values: [
+      {
+        Value: 0,
+        ValueString: SameAsTotalization
+      },
+      {
+        Value: 1,
+        ValueString: FullScheme
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.AutoGenerationType,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Original
+      },
+      {
+        Value: 1,
+        ValueString: CreatedFromField
+      },
+      {
+        Value: 2,
+        ValueString: CreatedFromNumeric
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Reports.ReportOrder,
+    Values: [
+      {
+        Value: 0,
+        ValueString: ResultOrderDesc
+      },
+      {
+        Value: 1,
+        ValueString: ScriptOrderDesc
+      },
+      {
+        Value: 2,
+        ValueString: ResultOrderAsc
+      },
+      {
+        Value: 3,
+        ValueString: ScriptOrderAsc
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Reports.ReportType,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Chart
+      },
+      {
+        Value: 1,
+        ValueString: Table
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Reports.CrosstabSignificanceType,
+    Values: [
+      {
+        Value: 1,
+        ValueString: CompareToTotal
+      },
+      {
+        Value: 2,
+        ValueString: CompareWithinBreak
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Reports.DisplaySignificanceDifferences,
+    Values: [
+      {
+        Value: 0,
+        ValueString: None
+      },
+      {
+        Value: 1,
+        ValueString: ShowDown
+      },
+      {
+        Value: 2,
+        ValueString: ShowUp
+      },
+      {
+        Value: 3,
+        ValueString: ShowBoth
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.MetaData.Reports.SigConfidenceLevel,
+    Values: [
+      {
+        Value: 90,
+        ValueString: Ninety
+      },
+      {
+        Value: 95,
+        ValueString: NinetyFive
+      },
+      {
+        Value: 98,
+        ValueString: NinetyEight
+      },
+      {
+        Value: 99,
+        ValueString: NinetyNine
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.Answers.Model.MainQuestionType,
+    Values: [
+      {
+        Value: 0,
+        ValueString: SingleChoice
+      },
+      {
+        Value: 1,
+        ValueString: MultipleChoice
+      },
+      {
+        Value: 2,
+        ValueString: Text
+      },
+      {
+        Value: 3,
+        ValueString: Value
+      },
+      {
+        Value: 4,
+        ValueString: Unknown
+      },
+      {
+        Value: 5,
+        ValueString: CustomVariable
+      },
+      {
+        Value: 6,
+        ValueString: GeneratedNumeric
+      },
+      {
+        Value: 7,
+        ValueString: HeatmapImage
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.Answers.Model.SurveyGroupType,
+    Values: [
+      {
+        Value: 1,
+        ValueString: ExclusionGroup
+      },
+      {
+        Value: 2,
+        ValueString: AllVue
+      },
+      {
+        Value: 3,
+        ValueString: BrandVue
+      }
+    ]
+  },
+  {
+    EnumName: BrandVue.EntityFramework.Answers.Model.SurveyCompletionStatus,
+    Values: [
+      {
+        Value: 0,
+        ValueString: Not_Started
+      },
+      {
+        Value: 1,
+        ValueString: Entered
+      },
+      {
+        Value: 2,
+        ValueString: In_Progress
+      },
+      {
+        Value: 3,
+        ValueString: Past_Checkpoint
+      },
+      {
+        Value: 4,
+        ValueString: Screened_Out
+      },
+      {
+        Value: 5,
+        ValueString: Quota_Out
+      },
+      {
+        Value: 6,
+        ValueString: Completed
+      },
+      {
+        Value: 7,
+        ValueString: EmailBounce_Undeliverable
+      },
+      {
+        Value: 8,
+        ValueString: EmailBounce_OutOfOffice
+      },
+      {
+        Value: 9,
+        ValueString: Unsubscribed
+      },
+      {
+        Value: 10,
+        ValueString: EnteredLandingPage
+      },
+      {
+        Value: 11,
+        ValueString: EmailBounce_SMTPAuthentication
+      },
+      {
+        Value: 12,
+        ValueString: EmailBounce_SMTPConnection
+      },
+      {
+        Value: 13,
+        ValueString: EmailBounce_SMTPProtocol
+      },
+      {
+        Value: 14,
+        ValueString: Archived
+      },
+      {
+        Value: 15,
+        ValueString: Num
+      },
+      {
+        Value: 16,
+        ValueString: RelevantIdFail
+      },
+      {
+        Value: 17,
+        ValueString: WithinExclusionPeriod
+      }
+    ]
+  }
+]

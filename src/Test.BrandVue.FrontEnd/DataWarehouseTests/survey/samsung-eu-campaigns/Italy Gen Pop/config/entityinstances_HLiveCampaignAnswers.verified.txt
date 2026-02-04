@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: SP
+  },
+  {
+    ClassInstanceId: 2,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 3,
+    Name: FF
+  },
+  {
+    ClassInstanceId: 4,
+    Name: WM
+  },
+  {
+    ClassInstanceId: 97,
+    Name: None
+  }
+]

@@ -1,0 +1,146 @@
+﻿[
+  {
+    ClassInstanceId: 101,
+    Name: TV - UK (DA)
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Social Media - UK (DA)
+  },
+  {
+    ClassInstanceId: 103,
+    Name: OOH - UK (DA)
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Print - UK (DA)
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Radio - UK (DA)
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Digital - UK (DA)
+  },
+  {
+    ClassInstanceId: 201,
+    Name: TV - France (DA)
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Social Media - France (DA)
+  },
+  {
+    ClassInstanceId: 203,
+    Name: OOH - France (DA)
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Print - France (DA)
+  },
+  {
+    ClassInstanceId: 205,
+    Name: Radio - France (DA)
+  },
+  {
+    ClassInstanceId: 206,
+    Name: Digital - France (DA)
+  },
+  {
+    ClassInstanceId: 301,
+    Name: TV - Germany (DA)
+  },
+  {
+    ClassInstanceId: 302,
+    Name: Social Media - Germany (DA)
+  },
+  {
+    ClassInstanceId: 303,
+    Name: OOH - Germany (DA)
+  },
+  {
+    ClassInstanceId: 304,
+    Name: Print - Germany (DA)
+  },
+  {
+    ClassInstanceId: 305,
+    Name: Radio - Germany (DA)
+  },
+  {
+    ClassInstanceId: 306,
+    Name: Digital - Germany (DA)
+  },
+  {
+    ClassInstanceId: 401,
+    Name: TV - Italy (DA)
+  },
+  {
+    ClassInstanceId: 402,
+    Name: Social Media - Italy (DA)
+  },
+  {
+    ClassInstanceId: 403,
+    Name: OOH - Italy (DA)
+  },
+  {
+    ClassInstanceId: 404,
+    Name: Print - Italy (DA)
+  },
+  {
+    ClassInstanceId: 405,
+    Name: Radio - Italy (DA)
+  },
+  {
+    ClassInstanceId: 406,
+    Name: Digital - Italy (DA)
+  },
+  {
+    ClassInstanceId: 501,
+    Name: TV - Spain (DA)
+  },
+  {
+    ClassInstanceId: 502,
+    Name: Social Media - Spain (DA)
+  },
+  {
+    ClassInstanceId: 503,
+    Name: OOH - Spain (DA)
+  },
+  {
+    ClassInstanceId: 504,
+    Name: Print - Spain (DA)
+  },
+  {
+    ClassInstanceId: 505,
+    Name: Radio - Spain (DA)
+  },
+  {
+    ClassInstanceId: 506,
+    Name: Digital - Spain (DA)
+  },
+  {
+    ClassInstanceId: 601,
+    Name: TV - Ireland (DA)
+  },
+  {
+    ClassInstanceId: 602,
+    Name: Social Media - Ireland (DA)
+  },
+  {
+    ClassInstanceId: 603,
+    Name: OOH - Ireland (DA)
+  },
+  {
+    ClassInstanceId: 604,
+    Name: Print - Ireland (DA)
+  },
+  {
+    ClassInstanceId: 605,
+    Name: Radio - Ireland (DA)
+  },
+  {
+    ClassInstanceId: 606,
+    Name: Digital - Ireland (DA)
+  }
+]

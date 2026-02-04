@@ -1,0 +1,75 @@
+{
+  "ContentSecurityPolicy": {
+    "StyleSources": {
+      "FromCode": [
+        "https://wchat.freshchat.com",
+        "https://assetscdn-wchat.freshchat.com",
+        "https://tagmanager.google.com",
+        "https://fonts.googleapis.com",
+        "https://platform.twitter.com",
+        "https://ton.twimg.com",
+        "https://svtsurveyassetstest.blob.core.windows.net/brandvue-beta/",
+        "https://svtsurveyassetstest.blob.core.windows.net/brandvue-test/",
+        "https://svtsurveyassets.blob.core.windows.net/brandvue/",
+        "https://svt-survey-assets.azureedge.net/brandvue/"
+      ],
+      "FromConfig": []
+    },
+    "FontSources": {
+      "FromCode": [
+        "https://fonts.gstatic.com",
+        "https://svtsurveyassetstest.blob.core.windows.net/brandvue-beta/",
+        "https://svtsurveyassetstest.blob.core.windows.net/brandvue-test/",
+        "https://svtsurveyassets.blob.core.windows.net/brandvue/",
+        "https://svt-survey-assets.azureedge.net/brandvue/"
+      ],
+      "FromConfig": []
+    },
+    "FormActions": {
+      "FromCode": [],
+      "FromConfig": []
+    },
+    "FrameAncestors": {
+      "FromCode": [],
+      "FromConfig": []
+    },
+    "ImageSources": {
+      "FromCode": [
+        "data:",
+        "https://www.google-analytics.com",
+        "https://ssl.gstatic.com",
+        "https://www.gstatic.com",
+        "https://syndication.twitter.com",
+        "https://platform.twitter.com",
+        "https://pbs.twimg.com",
+        "https://ton.twimg.com",
+        "https://s.gravatar.com/",
+        "https://svtsurveyassetstest.blob.core.windows.net/allvue-beta/",
+        "https://svtsurveyassetstest.blob.core.windows.net/allvue-test/",
+        "https://svtsurveyassets.blob.core.windows.net/allvue/",
+        "https://svtsurveyassetstest.blob.core.windows.net/brandvue-beta/",
+        "https://svtsurveyassetstest.blob.core.windows.net/brandvue-test/",
+        "https://svtsurveyassets.blob.core.windows.net/brandvue/",
+        "https://svt-survey-assets.azureedge.net/brandvue/",
+        "https://survey.assets.savanta.com/survey/Assets/",
+        "https://svtsurveyassetstest.blob.core.windows.net/surveys-test/Assets/",
+      ],
+      "FromConfig": []
+    },
+    "ScriptSources": {
+      "FromCode": [
+        "https://www.google-analytics.com",
+        "https://wchat.freshchat.com",
+        "https://assetscdn-wchat.freshchat.com",
+        "https://www.googletagmanager.com",
+        "https://www.google.com",
+        "https://ajax.googleapis.com",
+        "https://tagmanager.google.com",
+        "https://www.google-analytics.com",
+        "https://platform.twitter.com",
+        "https://cdn.syndication.twimg.com"
+      ],
+      "FromConfig": []
+    }
+  }
+}

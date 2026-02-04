@@ -1,0 +1,202 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Xiaomi|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Philips|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|AEG|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Hoover|Neutral|
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Dyson|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Electrolux|Neutral|
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Ufesa|Neutral|
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Grundig|Neutral|
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Ecovacs|Neutral|
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Eureka|Neutral|
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Eziclean|Neutral|
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Eufy|Neutral|
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Karcher|Neutral|
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Mova|Neutral|
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Vactidy|Neutral|
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Roborock|Neutral|
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Lebon|Neutral|
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Rowenta|Neutral|
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Shark|Neutral|
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Vax|Neutral|
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|MI|Neutral|
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Cecotec|Neutral|
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Bissell|Neutral|
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Roidmi|Neutral|
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Leifheit|Neutral|
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Tefal|Neutral|
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Dreame|Neutral|
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Ariete|Neutral|
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Black & Decker|Neutral|
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Thomson|Neutral|
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Numatic|Neutral|
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Levoit|Neutral|
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Gtech|Neutral|
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Tower|Neutral|
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Taurus|Neutral|
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Ecovacs|Neutral| (101)
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Eureka|Neutral| (102)
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Eziclean|Neutral| (103)
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Eufy|Neutral| (104)
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Kaercher|Neutral|
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Mova|Neutral| (106)
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Vactidy|Neutral| (107)
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Roborock|Neutral| (108)
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Lebon|Neutral| (109)
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Ufesa|Neutral| (110)
+  }
+]

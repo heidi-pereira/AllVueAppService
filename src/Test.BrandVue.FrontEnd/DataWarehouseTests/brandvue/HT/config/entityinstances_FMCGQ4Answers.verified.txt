@@ -1,0 +1,94 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Meat-eater
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Flexitarian
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Vegetarian
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Vegan
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Plant-based
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Paleo
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Low carb
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Low saturated fat
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Low fat (any type)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Low sugar
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Low protein
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Low fibre
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Low salt
+  },
+  {
+    ClassInstanceId: 14,
+    Name: High carb
+  },
+  {
+    ClassInstanceId: 15,
+    Name: High unsaturated fat
+  },
+  {
+    ClassInstanceId: 16,
+    Name: High fat (any type)
+  },
+  {
+    ClassInstanceId: 17,
+    Name: High sugar
+  },
+  {
+    ClassInstanceId: 18,
+    Name: High protein
+  },
+  {
+    ClassInstanceId: 19,
+    Name: High fibre
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Halal
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Kosher
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other dietary lifestyle (please write in)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

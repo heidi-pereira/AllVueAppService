@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Media Content (Base Content_types_read)
+  }
+]

@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Less than 40’’ (102cm)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 40” (102cm)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 45’’ (114cm)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 50’’ (125cm)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 55’’ (140cm)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: 60’’ (152cm)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 65’’ (165cm)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 75’’ (190cm)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: 85’’ (216cm)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: 98’’ (249cm)
+  },
+  {
+    ClassInstanceId: 11,
+    Name: More than 98’’ (249cm)
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know / Can’t say
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (please type in)
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dissatisfied
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Neutral
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Satisfied
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Don’t know/Not applicable
+  }
+]

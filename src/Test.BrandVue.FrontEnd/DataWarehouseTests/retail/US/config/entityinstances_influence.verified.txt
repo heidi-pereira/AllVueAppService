@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Recommendations from friends / family
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Seeing adverts
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Visiting stores in-person
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Visiting retailers' websites
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Newspapers / Magazines
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Social media (e.g. Facebook, Instagram, Pinterest)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Searching for specific brands / products on search engines (e.g. Google)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Searching for recommendations on search engines (e.g. Google)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Searching for retailers on search engines (e.g. Google)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Receiving an email / letter from a retailer
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Researching review sites / specialist magazines
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Price comparison sites / services
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

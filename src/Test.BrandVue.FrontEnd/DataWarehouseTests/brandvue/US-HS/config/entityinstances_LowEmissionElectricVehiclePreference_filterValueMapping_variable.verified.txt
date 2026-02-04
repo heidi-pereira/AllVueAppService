@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Electric
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Hybrid (Self Charging)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Plug-in Hybrid (PHEV)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mild Hybrid
+  }
+]

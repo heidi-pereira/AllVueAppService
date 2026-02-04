@@ -1,0 +1,32 @@
+@import "_vars";
+@import "_layout";
+
+.neutral {
+    font-weight: 500;
+    .flex-row(@align-items: center);
+    color: @slate-lighter;
+
+    .material-symbols-outlined {
+        font-size: 1.333em;
+    }
+
+    span {
+        visibility: hidden;
+    }
+}
+
+.positive:extend(.neutral all) {
+    color: @good-green;
+
+    span {
+        visibility: visible;
+    }
+}
+
+.negative:extend(.neutral all) {
+    color: @bad-red;
+
+    span {
+        visibility: visible;
+    }
+}

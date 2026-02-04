@@ -1,0 +1,130 @@
+﻿@import "_vars";
+@import "_layout";
+
+// Basic card
+.card {
+    background: @white;
+    box-shadow: @shadow-01;
+    padding: 24px 24px 32px;
+    font-size: 16px;
+    color: @slate-darker;
+    transition: box-shadow 175ms;
+
+    &:hover {
+        box-shadow: @shadow-08;
+    }
+
+    .data {
+        font-size: 20px;
+        font-weight: 500;
+
+        &.flex {
+            display: flex;
+        }
+
+        &.fixed {
+            width: 64px;
+            font-size: 24px;
+        }
+
+        .percentage {
+            font-weight: 400;
+        }
+    }
+
+    .card-content {
+        flex: 1 1 200px;
+    }
+}
+
+// Cards with multiple metrics on them
+.card-multi:extend(.card all) {
+    .flex-column(@gutter: 24px);
+    flex-grow: 1;
+
+    &.has-link {
+        cursor: pointer;
+    }
+
+    &.is-text {
+        cursor: pointer;
+        padding: 1px;
+        border-color: pink;
+    }
+
+    .description {
+        text-align: center;
+    }
+
+    .next {
+        .flex-row(@justify-content: center, @gutter: 1ch);
+        color: @blueSteel-darker;
+
+        &:hover {
+            // TODO - Work out what hover behaviour should be
+        }
+
+        .icon-border {
+            align-self: flex-end;
+            .flex-column(@justify-content: center, @align-items: center);
+            border: 1px solid @blueSteel;
+            border-radius: 50%;
+        }
+    }
+}
+
+// Container for card & title
+.tile {
+    .flex-column(@gutter: 16px);
+}
+
+.scatter-plot-tile:extend(.tile all) {
+    flex-grow: 1;
+    .card-content {
+        overflow: hidden;
+    }
+}
+
+.tweet-container {
+    overflow-y: hidden;
+    flex: 1 1 450px;
+}
+
+.no-answers-text {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: @slate;
+}
+
+.no-answers-chart {
+    flex: 1 1 0;
+    margin-bottom: 32px;
+    border: 1px solid @chalk;
+    
+    .card-multi {
+        box-shadow: none;
+        height:100%;
+
+        .card-content {
+            .flex-column();
+            height:100%;
+            margin: 24px;
+
+            .tile-chart-container {
+                flex: 1 1 0;
+                min-height: 50px;
+            }
+        }
+
+        &:hover {
+            box-shadow: none;
+        }
+    }
+
+    .card-options {
+        display: none;
+    }
+}

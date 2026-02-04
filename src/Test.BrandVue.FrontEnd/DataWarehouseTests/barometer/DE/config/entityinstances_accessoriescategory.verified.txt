@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 201,
+    Name: Bags
+  },
+  {
+    ClassInstanceId: 202,
+    Name: Sunglasses
+  },
+  {
+    ClassInstanceId: 203,
+    Name: Jewellery
+  },
+  {
+    ClassInstanceId: 204,
+    Name: Scarves
+  },
+  {
+    ClassInstanceId: 2001,
+    Name: Other accessories
+  }
+]

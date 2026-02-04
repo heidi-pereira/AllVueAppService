@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sony
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Metz (11)
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Xiaomi/MI
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 15,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Loewe
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Panasonic
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Philips
+  },
+  {
+    ClassInstanceId: 19,
+    Name: TCL
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Sky Glass
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Metz
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

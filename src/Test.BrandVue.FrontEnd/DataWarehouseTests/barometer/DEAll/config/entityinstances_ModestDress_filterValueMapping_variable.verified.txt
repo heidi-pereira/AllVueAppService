@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Wearing modest dress
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Not wearing modest dress
+  }
+]

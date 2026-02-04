@@ -1,0 +1,124 @@
+@import "_layout";
+
+// Used for dropdown nav - no longer at the side
+
+.surveyvue .sidebar-menu {
+    div.active li > div.active ul {
+        border-left: 1px dotted var(--header-background-colour);
+    }
+
+    ul {
+        &::-webkit-scrollbar-track {
+            background-color: rgba(var(--header-border-colour-rgb), 0.25);
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: var(--header-border-colour);
+        }
+    }
+
+    li:hover {
+        background: rgba(var(--header-border-colour-rgb), 0.1);
+    }
+
+    li.active {
+        background: rgba(var(--header-border-colour-rgb), 0.1);
+
+        > a {
+            color: var(--header-border-colour);
+        }
+    }
+}
+
+.sidebar-menu {
+    position: relative;
+
+    > div {
+        width: 382px;
+    }
+
+    div {
+        position: absolute;
+        top: 0;
+    }
+
+    div.active {
+        width: 382px;
+
+        li > div.active ul {
+            border-left: 1px dotted rgba(var(--header-border-colour-rgb), 0.5);
+        }
+    }
+
+    ul {
+        padding: 0;
+        list-style-type: none;
+        height: 380px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        scrollbar-color: var(--header-border-colour) rgba(var(--header-border-colour-rgb), 0.25);
+        scrollbar-width: thin;
+
+        &::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        &::-webkit-scrollbar-track {
+            border-radius: 16px;
+            background-color: var(--header-background-colour)
+        }
+
+        &::-webkit-scrollbar-thumb {
+            border-radius: 16px;
+            background-color: rgba(var(--header-border-colour-rgb), 0.5);
+        }
+    }
+
+    li {
+        display: block;
+
+        > div {
+            margin-left: 382px;
+            transition-delay: 0.4s;
+            width: 0px;
+            z-index: 0;
+        }
+    }
+
+    ul:hover div.active {
+        width: 0px;
+    }
+
+    li:hover {
+        background: rgba(var(--header-border-colour-rgb), 0.24);
+        color: var(--header-border-colour);
+
+        > div {
+            transition-delay: 0.4s;
+            width: 382px !important;
+            z-index: 100;
+        }
+
+        > a {
+            color: var(--header-border-colour);
+        }
+    }
+
+    li.active {
+        background: var(--header-border-colour);
+
+        > a {
+            // Change font colour between black and white depending on the background colour - https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
+            --switch: calc((var(--header-border-colour-l) - 60%) * -100);
+            color: hsl(0, 0%, var(--switch));
+        }
+    }
+}
+
+.sidebar-menu ul, .sidebar-menu div {
+    -ms-overflow-style: none /*-ms-autohiding-scrollbar !important*/;
+}
+
+.sidebar-menu div > ul:first-child {
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}

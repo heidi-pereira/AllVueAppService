@@ -1,0 +1,62 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these in the last two weeks
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Amazon Music
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Apple Music
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Bumble
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Candy Crush
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Citymapper
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Google Plus
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Reddit
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Skype
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Soundcloud
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Spotify
+  },
+  {
+    ClassInstanceId: 11,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Tinder
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Tumblr
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Uber
+  }
+]

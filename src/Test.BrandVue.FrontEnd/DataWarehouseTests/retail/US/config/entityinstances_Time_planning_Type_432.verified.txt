@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Time planning:Up to a week before (Base Time_planning)
+  }
+]

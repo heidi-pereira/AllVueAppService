@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Brand Love Binary (Base Brand_affinity)
+  }
+]

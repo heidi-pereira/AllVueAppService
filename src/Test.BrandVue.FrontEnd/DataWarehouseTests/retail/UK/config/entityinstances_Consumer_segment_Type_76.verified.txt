@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car ownership:Yes - Two cars (Base Consumer_segment)
+  }
+]

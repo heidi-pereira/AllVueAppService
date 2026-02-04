@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: I hate it|I  love it|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: I hate it|I  love it|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: I hate it|I  love it|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: I hate it|I  love it|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: I hate it|I  love it|AEG|Neutral|
+  },
+  {
+    ClassInstanceId: 23,
+    Name: I hate it|I  love it|Haier|Neutral|
+  },
+  {
+    ClassInstanceId: 24,
+    Name: I hate it|I  love it|Hotpoint|Neutral|
+  },
+  {
+    ClassInstanceId: 25,
+    Name: I hate it|I  love it|Indesit|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: I hate it|I  love it|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 28,
+    Name: I hate it|I  love it|Siemens|Neutral|
+  },
+  {
+    ClassInstanceId: 30,
+    Name: I hate it|I  love it|Whirlpool|Neutral|
+  },
+  {
+    ClassInstanceId: 31,
+    Name: I hate it|I  love it|Balay|Neutral|
+  },
+  {
+    ClassInstanceId: 32,
+    Name: I hate it|I  love it|Bauknecht|Neutral|
+  },
+  {
+    ClassInstanceId: 33,
+    Name: I hate it|I  love it|Candy|Neutral|
+  },
+  {
+    ClassInstanceId: 34,
+    Name: I hate it|I  love it|Hoover|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: I hate it|I  love it|Electrolux|Neutral|
+  }
+]

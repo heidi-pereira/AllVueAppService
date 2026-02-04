@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Private new car
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Private used car
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Company car where I determine the make and model
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Company car where someone else determines the make and model
+  }
+]

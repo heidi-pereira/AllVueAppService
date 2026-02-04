@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: New 2nd hand (Base New_2nd_hand_asked)
+  }
+]

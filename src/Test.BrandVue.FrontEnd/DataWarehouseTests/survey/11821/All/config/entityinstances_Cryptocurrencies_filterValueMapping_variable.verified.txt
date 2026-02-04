@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: No - I have never owned cryptocurrencies
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - I have but more than a year ago
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes - I have in the last year but not at the moment
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Yes - I currently own cryptocurrencies
+  }
+]

@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Low price
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Trusted brand
+  },
+  {
+    ClassInstanceId: 3,
+    Name: The right pack size for my needs
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Organic ingredients
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Nutritional profile information (e.g., calories, sugar, fat, protein, fibre, salt)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Provides added health benefits
+  },
+  {
+    ClassInstanceId: 7,
+    Name: The packaging is environmentally friendly
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The product is made in an environmentally friendly way
+  }
+]

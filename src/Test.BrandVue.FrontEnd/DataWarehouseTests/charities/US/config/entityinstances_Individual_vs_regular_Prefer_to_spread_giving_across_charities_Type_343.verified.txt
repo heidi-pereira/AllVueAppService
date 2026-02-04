@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Prefer to spread giving across charities (Base Individual_vs_regular_Prefer_to_spread_giving_across_charities)
+  }
+]

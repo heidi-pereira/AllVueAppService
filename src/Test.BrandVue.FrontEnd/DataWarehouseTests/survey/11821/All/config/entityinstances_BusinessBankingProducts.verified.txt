@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Prefer not to say
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Banking for the business
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Workplace pensions for employees
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Life insurance policies for employees
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Business insurance
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

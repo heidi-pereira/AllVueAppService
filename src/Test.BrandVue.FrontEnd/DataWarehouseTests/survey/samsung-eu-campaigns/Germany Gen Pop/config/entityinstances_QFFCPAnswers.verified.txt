@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In the last 6 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: In the last 6 - 12 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: In the last 1-2 years
+  },
+  {
+    ClassInstanceId: 4,
+    Name: In the last 3-5 years
+  },
+  {
+    ClassInstanceId: 5,
+    Name: In the last 6-10 years
+  },
+  {
+    ClassInstanceId: 6,
+    Name: More than 10 years ago
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

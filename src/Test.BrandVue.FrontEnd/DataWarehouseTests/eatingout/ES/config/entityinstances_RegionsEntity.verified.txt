@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Scotland / NI
+  },
+  {
+    ClassInstanceId: 2,
+    Name: London
+  },
+  {
+    ClassInstanceId: 3,
+    Name: South
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Midlands
+  },
+  {
+    ClassInstanceId: 5,
+    Name: North
+  }
+]

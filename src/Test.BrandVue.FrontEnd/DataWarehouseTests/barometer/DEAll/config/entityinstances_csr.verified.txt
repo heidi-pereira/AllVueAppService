@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Inclusivity
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Transparency
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Community
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Ethical labour
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Environment
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Cause-driven
+  }
+]

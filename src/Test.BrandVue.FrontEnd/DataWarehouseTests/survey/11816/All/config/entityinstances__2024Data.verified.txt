@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 2024
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 2023
+  }
+]

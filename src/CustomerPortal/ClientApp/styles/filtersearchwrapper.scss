@@ -1,0 +1,122 @@
+﻿@import 'colors.scss';
+@import "dimensions.scss";
+@import "layout.scss";
+
+.filter-search-wrapper {
+    @include flex-row($justify-content: space-between, $align-items: center);
+    padding: 24px;
+    flex: 1;
+    max-width: 1000px;
+
+    @media (max-width: $breakpoint-tablet) {
+        padding: 16px 24px 24px 24px;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 12px 16px 16px 16px;
+    }
+
+    .flex-container {
+        display: flex;
+
+        @media (max-width: $breakpoint-tablet) {
+            flex-direction: column;
+            width: 100%;
+        }
+    }
+
+    .survey-sorting {
+        display: flex;
+
+        @media (max-width: $breakpoint-tablet) {
+            position: absolute;
+            right: 24px;
+            top: 126px;
+        }
+
+        @media (max-width: $breakpoint-mobile) {
+            right: 16px;
+        }
+
+        .sorting-label {
+            font-size: 16px;
+            margin-right: 5px;
+        }
+
+        .material-symbols-outlined {
+            margin-left: 5px;
+        }
+
+        .sorting-menu {
+            @include flex-column();
+            position: absolute;
+            right: 0;
+            padding: 5px 0px;
+            background: $white;
+            box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.14), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 5px 5px rgba(0, 0, 0, 0.2);
+            border-radius: .25rem;
+            background-clip: padding-box;
+
+            button {
+                border: none;
+                width: 100%;
+                padding: 8px 16px;
+                text-align: left;
+                color: $slate-darker;
+                background: $white;
+
+                &:hover {
+                    border: none;
+                    background-color: $blueSteel-lighter;
+                    box-shadow: none;
+                    border-radius: 0;
+                }
+            }
+        }
+    }
+
+    .survey-filters {
+        @include flex-row($align-items: center, $gutter: 16px);
+
+        @media (max-width: $breakpoint-mobile) {
+            label {
+                display: none;
+            }
+        }
+
+        @media (max-width: $breakpoint-tablet) {
+            label {
+                display: none;
+            }
+        }
+
+        label {
+            font-size: 14px;
+            color: $slate;
+        }
+
+        .survey-filter {
+            @include flex-row($align-items: center, $gutter: 10px);
+            margin-right: 20px;
+
+            .filter-label {
+                font-size: 14px;
+                align-items: center;
+                border-radius: 8px;
+                margin-right: 10px;
+            }
+
+            button {
+                border-radius: 25px;
+                min-width: 65px;
+                justify-content: center;
+            }
+
+            .selected {
+                border: 1px solid $blueSteel-dark;
+                background-color: $blueSteel;
+                color: $white;
+            }
+        }
+    }
+}

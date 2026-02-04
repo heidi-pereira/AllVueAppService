@@ -1,0 +1,282 @@
+﻿[
+  {
+    ClassInstanceId: -992,
+    Name: None
+  },
+  {
+    ClassInstanceId: 7001,
+    Name: 888
+  },
+  {
+    ClassInstanceId: 7002,
+    Name: Activision
+  },
+  {
+    ClassInstanceId: 7003,
+    Name: Adidas
+  },
+  {
+    ClassInstanceId: 7004,
+    Name: Apple Arcade
+  },
+  {
+    ClassInstanceId: 7005,
+    Name: Asics
+  },
+  {
+    ClassInstanceId: 7006,
+    Name: Bannatyne's
+  },
+  {
+    ClassInstanceId: 7007,
+    Name: Barbican
+  },
+  {
+    ClassInstanceId: 7008,
+    Name: Barbie
+  },
+  {
+    ClassInstanceId: 7009,
+    Name: Bet365
+  },
+  {
+    ClassInstanceId: 7010,
+    Name: Betfair
+  },
+  {
+    ClassInstanceId: 7011,
+    Name: Betfred
+  },
+  {
+    ClassInstanceId: 7012,
+    Name: Betway
+  },
+  {
+    ClassInstanceId: 7013,
+    Name: Bwin
+  },
+  {
+    ClassInstanceId: 7014,
+    Name: Callaway
+  },
+  {
+    ClassInstanceId: 7015,
+    Name: Cineworld
+  },
+  {
+    ClassInstanceId: 7016,
+    Name: Converse
+  },
+  {
+    ClassInstanceId: 7017,
+    Name: Coral
+  },
+  {
+    ClassInstanceId: 7018,
+    Name: Curves
+  },
+  {
+    ClassInstanceId: 7019,
+    Name: David Lloyd
+  },
+  {
+    ClassInstanceId: 7020,
+    Name: Disney
+  },
+  {
+    ClassInstanceId: 7021,
+    Name: Dreamworks
+  },
+  {
+    ClassInstanceId: 7022,
+    Name: DW Fitness
+  },
+  {
+    ClassInstanceId: 7023,
+    Name: Electronic Arts
+  },
+  {
+    ClassInstanceId: 7024,
+    Name: Everyman
+  },
+  {
+    ClassInstanceId: 7025,
+    Name: F45
+  },
+  {
+    ClassInstanceId: 7026,
+    Name: Fisher-Price
+  },
+  {
+    ClassInstanceId: 7027,
+    Name: Fitness First
+  },
+  {
+    ClassInstanceId: 7028,
+    Name: Foxy Bingo
+  },
+  {
+    ClassInstanceId: 7029,
+    Name: Gala Bingo
+  },
+  {
+    ClassInstanceId: 7030,
+    Name: Gym Box
+  },
+  {
+    ClassInstanceId: 7031,
+    Name: Hasbro
+  },
+  {
+    ClassInstanceId: 7032,
+    Name: Hollywood Bowl
+  },
+  {
+    ClassInstanceId: 7033,
+    Name: LA Fitness
+  },
+  {
+    ClassInstanceId: 7034,
+    Name: Ladbrokes
+  },
+  {
+    ClassInstanceId: 7035,
+    Name: LEGO
+  },
+  {
+    ClassInstanceId: 7036,
+    Name: Mattel
+  },
+  {
+    ClassInstanceId: 7037,
+    Name: Mecca Bingo
+  },
+  {
+    ClassInstanceId: 7038,
+    Name: MGM Studios
+  },
+  {
+    ClassInstanceId: 7039,
+    Name: Mizuno
+  },
+  {
+    ClassInstanceId: 7040,
+    Name: New Balance
+  },
+  {
+    ClassInstanceId: 7041,
+    Name: Nike
+  },
+  {
+    ClassInstanceId: 7042,
+    Name: Nuffield Health
+  },
+  {
+    ClassInstanceId: 7043,
+    Name: Odeon
+  },
+  {
+    ClassInstanceId: 7044,
+    Name: Paddy Power
+  },
+  {
+    ClassInstanceId: 7045,
+    Name: Partypoker
+  },
+  {
+    ClassInstanceId: 7046,
+    Name: People's Poscode Lottery
+  },
+  {
+    ClassInstanceId: 7047,
+    Name: Picturehouse
+  },
+  {
+    ClassInstanceId: 7048,
+    Name: Pixar
+  },
+  {
+    ClassInstanceId: 7049,
+    Name: PokerStars
+  },
+  {
+    ClassInstanceId: 7050,
+    Name: Puma
+  },
+  {
+    ClassInstanceId: 7051,
+    Name: Pure Gym
+  },
+  {
+    ClassInstanceId: 7052,
+    Name: Reebok
+  },
+  {
+    ClassInstanceId: 7053,
+    Name: Scalextric
+  },
+  {
+    ClassInstanceId: 7054,
+    Name: Sky Bet
+  },
+  {
+    ClassInstanceId: 7055,
+    Name: TaylorMade
+  },
+  {
+    ClassInstanceId: 7056,
+    Name: The Gym Group
+  },
+  {
+    ClassInstanceId: 7057,
+    Name: The Health Lottery
+  },
+  {
+    ClassInstanceId: 7058,
+    Name: The National Lottery
+  },
+  {
+    ClassInstanceId: 7059,
+    Name: The North Face
+  },
+  {
+    ClassInstanceId: 7060,
+    Name: Titleist
+  },
+  {
+    ClassInstanceId: 7061,
+    Name: Tombola
+  },
+  {
+    ClassInstanceId: 7062,
+    Name: Under Armour
+  },
+  {
+    ClassInstanceId: 7063,
+    Name: Vans
+  },
+  {
+    ClassInstanceId: 7064,
+    Name: Virgin Active
+  },
+  {
+    ClassInstanceId: 7065,
+    Name: Vue
+  },
+  {
+    ClassInstanceId: 7066,
+    Name: Warner Bros
+  },
+  {
+    ClassInstanceId: 7067,
+    Name: William Hill
+  },
+  {
+    ClassInstanceId: 7068,
+    Name: Wilson
+  },
+  {
+    ClassInstanceId: 7069,
+    Name: Peloton
+  }
+]

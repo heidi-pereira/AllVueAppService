@@ -1,0 +1,24 @@
+
+steps:
+- script: |
+    echo '$(NUGET_PACKAGES)'
+    echo 'BuildName: $(Build.BuildName)'
+    echo 'BuildId: $(Build.BuildID)'
+    echo 'buildNumber: $(buildNumber)'
+    echo 'buildVersion: $(buildVersion)'
+    echo 'buildConfiguration: $(buildConfiguration)'
+    echo 'isHotfix: $(isHotfix)'
+    echo 'isMasterBuild: $(isMasterBuild)'
+    echo 'isDefaultChannel: $(isDefaultChannel)'
+    echo 'pushToOctopus: $(pushToOctopus)'
+    echo 'octopusChannel: $(octopusChannel)'
+    echo 'buildBranch: $(buildBranch)'
+    echo 'packageVersion: $(packageVersion)'
+    echo 'buildName: $(buildName)'
+    echo 'Copyright: $(copyright)'
+    
+    echo 'Build.StagingDirectory: $(Build.StagingDirectory)'
+    echo 'Build.ArtifactStagingDirectory: $(Build.ArtifactStagingDirectory)'
+    
+    env | sort
+  displayName: Build numbers

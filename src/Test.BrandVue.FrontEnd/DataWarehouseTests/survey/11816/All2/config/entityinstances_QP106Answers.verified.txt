@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Watching (Live) television
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Watching On Demand TV (e.g. Netflix, Amazon prime)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Listening to the radio
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Listening to podcasts
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Reading newspapers
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Reading magazines
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Browsing the internet (non-video)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Watching online videos
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Visiting social media sites
+  }
+]

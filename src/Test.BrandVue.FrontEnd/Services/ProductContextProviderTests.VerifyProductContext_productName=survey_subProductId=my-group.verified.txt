@@ -1,0 +1,36 @@
+﻿{
+  AllowPartialDays: true,
+  DayIsFromResponseEndTime: true,
+  DefaultAveragesToInclude: [],
+  DisableAutoMetricFiltering: false,
+  GenerateFromAnswersTable: true,
+  GenerateFromSurveyIds: true,
+  HasSingleClient: true,
+  IncludeAllDefaultAverages: false,
+  IsAllVue: true,
+  IsContinuous: false,
+  IsSurveyGroup: true,
+  IsSurveyOpen: true,
+  KeepInMemory: false,
+  KimbleProposalId: null,
+  NonMapFileSurveyIds: [
+    11111,
+    22222
+  ],
+  NonMapFileSurveys: [
+    {
+      SurveyId: 11111,
+      SurveyName: MyVisibleSurvey
+    },
+    {
+      SurveyId: 22222,
+      SurveyName: MyHiddenSurvey
+    }
+  ],
+  ShortCode: survey,
+  SubProductId: my-group,
+  SurveyAuthCompanyId: Savanta,
+  SurveyGroupId: 1,
+  SurveyName: My Group,
+  SurveyUid: 
+}

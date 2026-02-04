@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Impulse planned:I only bought items I had PLANNED to buy before the visit (Base Impulse_planned)
+  }
+]

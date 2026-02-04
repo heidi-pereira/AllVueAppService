@@ -1,0 +1,158 @@
+﻿[
+  {
+    ClassInstanceId: 2001,
+    Name: Abarth
+  },
+  {
+    ClassInstanceId: 2002,
+    Name: Alfa Romeo
+  },
+  {
+    ClassInstanceId: 2005,
+    Name: Audi
+  },
+  {
+    ClassInstanceId: 2008,
+    Name: BMW
+  },
+  {
+    ClassInstanceId: 2017,
+    Name: Citroen
+  },
+  {
+    ClassInstanceId: 2019,
+    Name: Cupra
+  },
+  {
+    ClassInstanceId: 2020,
+    Name: Dacia
+  },
+  {
+    ClassInstanceId: 2021,
+    Name: DS
+  },
+  {
+    ClassInstanceId: 2026,
+    Name: Fiat
+  },
+  {
+    ClassInstanceId: 2027,
+    Name: Ford
+  },
+  {
+    ClassInstanceId: 2032,
+    Name: Honda
+  },
+  {
+    ClassInstanceId: 2034,
+    Name: Hyundai
+  },
+  {
+    ClassInstanceId: 2037,
+    Name: Jaguar
+  },
+  {
+    ClassInstanceId: 2038,
+    Name: Jeep
+  },
+  {
+    ClassInstanceId: 2041,
+    Name: Kia
+  },
+  {
+    ClassInstanceId: 2047,
+    Name: Land Rover
+  },
+  {
+    ClassInstanceId: 2048,
+    Name: Lexus
+  },
+  {
+    ClassInstanceId: 2051,
+    Name: Mazda
+  },
+  {
+    ClassInstanceId: 2053,
+    Name: Mercedes-Benz
+  },
+  {
+    ClassInstanceId: 2054,
+    Name: MG
+  },
+  {
+    ClassInstanceId: 2056,
+    Name: MINI
+  },
+  {
+    ClassInstanceId: 2057,
+    Name: Mitsubishi
+  },
+  {
+    ClassInstanceId: 2060,
+    Name: Nissan
+  },
+  {
+    ClassInstanceId: 2062,
+    Name: Peugeot
+  },
+  {
+    ClassInstanceId: 2064,
+    Name: Polestar
+  },
+  {
+    ClassInstanceId: 2065,
+    Name: Porsche
+  },
+  {
+    ClassInstanceId: 2067,
+    Name: Renault
+  },
+  {
+    ClassInstanceId: 2069,
+    Name: SEAT
+  },
+  {
+    ClassInstanceId: 2071,
+    Name: Skoda
+  },
+  {
+    ClassInstanceId: 2072,
+    Name: Smart
+  },
+  {
+    ClassInstanceId: 2073,
+    Name: KGM
+  },
+  {
+    ClassInstanceId: 2074,
+    Name: Subaru
+  },
+  {
+    ClassInstanceId: 2075,
+    Name: Suzuki
+  },
+  {
+    ClassInstanceId: 2076,
+    Name: Tesla
+  },
+  {
+    ClassInstanceId: 2079,
+    Name: Toyota
+  },
+  {
+    ClassInstanceId: 2081,
+    Name: Vauxhall
+  },
+  {
+    ClassInstanceId: 2083,
+    Name: Volkswagen
+  },
+  {
+    ClassInstanceId: 2084,
+    Name: Volvo
+  },
+  {
+    ClassInstanceId: 99998,
+    Name: Other, please specify
+  }
+]

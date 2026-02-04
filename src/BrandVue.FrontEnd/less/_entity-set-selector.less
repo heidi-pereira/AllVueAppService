@@ -1,0 +1,274 @@
+﻿@import "_vars";
+@import "_layout";
+
+.entity-set-toggle-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+    border: none;
+    font-size: 24px;
+    vertical-align: unset;
+    background-color: unset;
+    box-shadow: unset;
+    color: @black;
+    gap: 12px;
+
+    .entity-set-btn-name {
+        font-size: inherit;
+    }
+
+    .material-symbols-outlined {
+        font-size: 14px;
+    }
+
+    &:focus, &:hover, &:active {
+        box-shadow: unset;
+        outline: none !important; // I'm so sorry - need this to override an important in a component's css
+
+        .entity-set-btn-name {
+            text-decoration: underline;
+        }
+    }
+}
+
+.entity-set-selector {
+    .flex-row();
+    flex: 1;
+
+    /* This is to move the cancel button over to allow space for the Freshchat widget */
+    .add-brand-buttons{
+        justify-content: flex-start!important;
+    }
+
+    .selector-main {
+        width: 100%;
+        background: @white;
+        opacity: 1;
+        transition: width 225ms ease, opacity 225ms ease;
+
+        &.hide {
+            width: 0;
+            opacity: 0;
+        }
+
+        .selector-main-content {
+            .flex-column();
+            height: 100%;
+
+            &.hide {
+                display: none;
+            }
+        }
+    }
+
+    .entity-instance-selector {
+        .flex-column();
+        width: 0;
+        height: 0;
+        opacity: 0;
+        transition: opacity 225ms ease;
+        overflow: hidden;
+
+        &.visible {
+            width: 100%;
+            opacity: 1;
+            transition: width 225ms ease;
+            height: unset;
+            flex: 1;
+        }
+    }
+
+    .selector-main, .entity-instance-selector {
+        .icon-placeholder {
+            min-width: 14px;
+            min-height: 14px;
+        }
+
+        .remove-button, .star-toggle, .settings-cog {
+            color: @slate;
+            cursor: pointer;
+            user-select: none;
+
+            &:hover {
+                color: @slate-darker;
+            }
+        }
+
+        .content {
+            .flex-column();
+            gap: 10px;
+            flex: 1;
+            min-height: 0;
+
+            .settings-cog {
+                .material-symbols-outlined {
+                    font-size: 14px;
+                }
+            }
+
+            .entity-set-selector-heading {
+                flex: 0;
+                color: @slate;
+                margin-bottom: 5px;
+            }
+
+            .colour-heading {
+                margin-top: 14px;
+                margin-bottom: 15px;
+            }
+
+            .metric-select-list {
+                border: unset;
+
+                .search.flat-search {
+                    padding: 1px;
+                }
+
+                .valid-metrics {
+                    margin: 10px 0;
+                }
+
+                .metric {
+                    label:after {
+                        left: 3px;
+                    }
+
+                    &.title {
+                        color: @slate;
+                        margin-top: 20px;
+                    }
+
+                    .name-container {
+                        padding-left: 10px;
+                    }
+                }
+
+                .instance-label {
+                    padding: 8px 0;
+                }
+            }
+
+            .metric-dropdown-menu {
+                flex: 0;
+
+                .textbox-tag {
+                    font-style: italic;
+                    color: @slate;
+                    font-weight: 500;
+                }
+            }
+
+            .entity-instance-list {
+                border: solid 1px @slate-lighter;
+                border-radius: 4px;
+                overflow-y: auto;
+                .scrollbars;
+                max-height: 100%;
+                min-height: 0;
+                padding: 14px 16px;
+
+                .section-divider {
+                    border-bottom: 1px solid @slate-lighter;
+                    margin: 14px 0;
+                }
+
+                .title {
+                    color: @slate;
+                    font-size: 0.9rem;
+                    padding: 2px 0 10px;
+                }
+
+                .material-symbols-outlined {
+                    font-size: 14px;
+                }
+
+                .entity-instance-list-info {
+                    color: @slate;
+                    font-size: 12px;
+                    text-align: center;
+                    padding-top: 20px;
+
+                    b {
+                        color: @slate;
+                        font-size: 12px;
+                    }
+                }
+
+                .instance {
+                    .flex-row(@align-items: baseline);
+                    color: @slate-darker;
+                    padding: 6px 0 6px 4px;
+
+                    .active {
+                        font-weight: 600;
+                    }
+
+                    .legend-color {
+                        height: 8px;
+                        width: 8px;
+                        border-radius: 50%;
+                        border: 1px solid black;
+                        margin-right: 12px;
+                        flex-shrink: 0;
+
+                        &.average {
+                            background: @slate-lighter;
+                            border-color: @slate-lighter;
+                        }
+                    }
+
+                    .instance-name {
+                        margin-right: auto;
+                    }
+
+                    .star-toggle {
+                        margin-right: 10px;
+                        color: @slate-light;
+                    }
+
+                    .star-toggle-selected {
+                        margin-right: 10px;
+                        color: @slate-dark;
+                    }
+                }
+            }
+
+            .control-buttons {
+                .flex-row(@align-items: flex-start, @justify-content: space-between);
+                gap: 10px;
+
+                .hollow-button {
+                    border-radius: 4px;
+                }
+
+                .dropdown-container {
+                    max-width: 350px;
+                }
+            }
+        }
+    }
+
+    .button-wrapper {
+        margin: 15px 15px 8px;
+    }
+
+    .create-new-entity-set-btn, .edit-entity-colours-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .edit-entity-colours-btn {
+        gap: 10px;
+    }
+}
+
+.entity-set-selector-buttons {
+    .flex-row(@align-items: center);
+    margin-top: 10px;
+    gap: 10px;
+
+    .entity-set-selector-buttons-text{
+        margin-left: auto;
+    }
+}

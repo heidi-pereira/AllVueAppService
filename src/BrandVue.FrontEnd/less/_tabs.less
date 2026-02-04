@@ -1,0 +1,37 @@
+﻿@import "_vars";
+@import "_layout";
+
+.nav-tabs {
+    border: none;
+    padding-top: 20px;
+
+    .nav-item {
+        cursor: pointer;
+
+        a.nav-link {
+            font-size: 14px;
+            padding: 12px 25px;
+            color: @slate;
+            border: none;
+            border-bottom: 2px solid transparent;
+            transition: color 150ms ease, border-bottom-color 150ms ease, box-shadow 150ms ease;
+
+            &:hover {
+                color: @slate-dark;
+                border-bottom-color: transparent;
+            }
+
+            &.tab-active {
+                color: @blueSteel;
+                font-weight: 500;
+                border-bottom-color: @blueSteel;
+                box-shadow: 0 0.3rem 0.15rem -0.15rem @blueSteel-lighter;
+
+                &:hover {
+                    color: @blueSteel;
+                    border-bottom-color: @blueSteel;
+                }
+            }
+        }
+    }
+}

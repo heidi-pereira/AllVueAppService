@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Fundraising events:Bake sale Bring and buy sale (Base Fundraising_event_Bake_sale_Bring_and_buy_sale)
+  }
+]

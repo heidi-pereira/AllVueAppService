@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Hand cream / Moisturiser
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Body moisturiser
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Face wash / scrub
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Face wipes
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Fake tan & bronzing
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Spot / Acne cream
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Other medicated skin creams (such as for eczema or rosacea etc.)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

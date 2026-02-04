@@ -1,0 +1,35 @@
+﻿{
+  DateTimeCreatedUtc: DateTime_1,
+  ErrorResponsesForThisSurveyAndWave: [],
+  ExcelFileName: null,
+  ExtraResponsesInExcel: [],
+  IsValid: false,
+  MaxWeight: null,
+  Messages: [
+    {
+      Message: Ignoring weight for row 4 as duplicate ResponseId: '2345' Weight:'0.4', using weight 0.2,
+      MessageType: ExcelIgnoringRow
+    },
+    {
+      Message: Ignoring weight for row 6 as duplicate ResponseId: '2345' Weight:'0.6', using weight 0.2,
+      MessageType: ExcelIgnoringRow
+    },
+    {
+      Message: Ignoring weight for row 8 as duplicate ResponseId: '2345' Weight:'0.8', using weight 0.2,
+      MessageType: ExcelIgnoringRow
+    },
+    {
+      Message: Ignoring weight for row 10 as duplicate ResponseId: '2345' Weight:'1', using weight 0.2,
+      MessageType: ExcelIgnoringRow
+    }
+  ],
+  MinWeight: null,
+  NumberOfBytes: 2709,
+  NumberOfResponsesInDatabaseForThisSurveyAndWave: 0,
+  NumberOfResponsesMatched: 0,
+  NumberOfRows: 1048576,
+  NumberOfRowsInExcelIgnored: 4,
+  NumberOfValidRowsInExcel: 6,
+  SubsetId: All,
+  ValidWeights: null
+}

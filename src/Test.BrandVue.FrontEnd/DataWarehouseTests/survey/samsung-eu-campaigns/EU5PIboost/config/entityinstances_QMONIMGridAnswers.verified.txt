@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Offers innovative products
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Is the best monitor brand for gamers
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Their products have standout design and style
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Has energy efficient products
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Offers the best Smart features and benefits
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Is a brand for working professionals
+  },
+  {
+    ClassInstanceId: 7,
+    Name: You get a lot for the price you pay
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Offers high quality products
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Their products have superior picture quality
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Their AI makes my life better
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Is a leader in AI for monitors
+  }
+]

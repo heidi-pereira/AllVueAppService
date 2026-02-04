@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Talked about #TAG_QIMAGE# with friends or family (in person, by phone or text)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Searched for additional information about #TAG_QIMAGE# online
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Searched for additional information about #TAG_QIMAGE# instore
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Visited #TAG_QIMAGE#’s Website
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Bought a #TAG_QIMAGE# product
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Recommended this #TAG_QIMAGE# product to someone else
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Something else
+  },
+  {
+    ClassInstanceId: 99,
+    Name: No action taken
+  }
+]

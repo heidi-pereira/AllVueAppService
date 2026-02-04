@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Homelighting
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Central heating
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Domestic appliances such as fridge or washing machine
+  },
+  {
+    ClassInstanceId: 4,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Home alarm systems
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

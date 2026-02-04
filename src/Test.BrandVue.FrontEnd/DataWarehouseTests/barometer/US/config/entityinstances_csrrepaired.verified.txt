@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sustainability - to reduce the amount of clothing that goes to landfill
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Because they are cheaper than new clothes
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Sentimental value
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Fit and comfort
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

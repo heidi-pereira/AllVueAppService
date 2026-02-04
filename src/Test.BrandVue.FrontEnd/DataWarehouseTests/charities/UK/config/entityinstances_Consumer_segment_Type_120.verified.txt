@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Ever Supported (Base Consumer_segment)
+  }
+]

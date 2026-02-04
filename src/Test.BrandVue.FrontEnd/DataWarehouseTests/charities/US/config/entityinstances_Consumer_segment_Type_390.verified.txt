@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Social Media Frequency (Base Consumer_segment)
+  }
+]

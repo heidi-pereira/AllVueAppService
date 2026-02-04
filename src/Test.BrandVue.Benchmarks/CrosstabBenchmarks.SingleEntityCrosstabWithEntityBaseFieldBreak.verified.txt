@@ -1,0 +1,45 @@
+﻿{
+  Results: [
+    {
+      Categories: [
+        {
+          Id: EntityInstance,
+          Name: _entityOnlyMeasure,
+          SubCategories: []
+        },
+        {
+          Id: Total,
+          Name: Total,
+          SubCategories: []
+        },
+        {
+          Id: _measureWithBaseFieldEntityType,
+          Name: Invalid measure,
+          SubCategories: [
+            {
+              Id: 0_measureWithBaseFieldEntityTypeMain,
+              Name: Main,
+              SubCategories: []
+            },
+            {
+              Id: 0_measureWithBaseFieldEntityTypeCompetitor,
+              Name: Competitor,
+              SubCategories: []
+            },
+            {
+              Id: 0_measureWithBaseFieldEntityTypeOther,
+              Name: Other,
+              SubCategories: []
+            }
+          ]
+        }
+      ],
+      InstanceResults: [
+        0_EntityWithZeroTenScale: 0 - Total:0.25_50_200__ 0_measureWithBaseFieldEntityTypeMain:1_4_4_Up_ 0_measureWithBaseFieldEntityTypeCompetitor:0_0_4_None_ 0_measureWithBaseFieldEntityTypeOther:0_0_0_None_,
+        1_EntityWithZeroTenScale: 1 - Total:0.25_50_200__ 0_measureWithBaseFieldEntityTypeMain:0_0_4_None_ 0_measureWithBaseFieldEntityTypeCompetitor:1_4_4_Up_ 0_measureWithBaseFieldEntityTypeOther:0_0_0_None_,
+        2_EntityWithZeroTenScale: 2 - Total:0.25_50_200__ 0_measureWithBaseFieldEntityTypeMain:0_0_4_None_ 0_measureWithBaseFieldEntityTypeCompetitor:0_0_4_None_ 0_measureWithBaseFieldEntityTypeOther:0_0_0_None_,
+        3_EntityWithZeroTenScale: 3 - Total:0.25_50_200__ 0_measureWithBaseFieldEntityTypeMain:0_0_4_None_ 0_measureWithBaseFieldEntityTypeCompetitor:0_0_4_None_ 0_measureWithBaseFieldEntityTypeOther:0_0_0_None_
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Online Shopper L12M (Base Frequency_online)
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Instagram
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Snapchat
+  },
+  {
+    ClassInstanceId: 3,
+    Name: LinkedIn
+  },
+  {
+    ClassInstanceId: 4,
+    Name: X
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Pinterest
+  },
+  {
+    ClassInstanceId: 6,
+    Name: WhatsApp
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Facebook Messenger
+  },
+  {
+    ClassInstanceId: 8,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Twitch
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Threads
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Other
+  }
+]

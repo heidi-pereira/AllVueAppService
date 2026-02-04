@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Media Content (Base Mag_Web_Content)
+  }
+]

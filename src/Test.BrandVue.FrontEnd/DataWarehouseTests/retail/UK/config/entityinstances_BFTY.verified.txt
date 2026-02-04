@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Maybe
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Not sure / Don't know
+  }
+]

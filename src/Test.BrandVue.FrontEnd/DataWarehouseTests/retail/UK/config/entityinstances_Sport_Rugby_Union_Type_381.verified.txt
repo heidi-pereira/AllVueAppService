@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Rugby Union (Base Sport_Rugby_Union)
+  }
+]

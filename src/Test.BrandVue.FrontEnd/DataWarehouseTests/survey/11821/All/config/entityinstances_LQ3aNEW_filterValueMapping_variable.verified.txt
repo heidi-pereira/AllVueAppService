@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: One
+  },
+  {
+    ClassInstanceId: 1,
+    Name: More than one
+  }
+]

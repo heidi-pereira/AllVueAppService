@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: House (standalone)
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Two family house (e.g. Duplex)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Multi family structure (e.g. Condo, Townhouse etc)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Apartment
+  }
+]

@@ -1,0 +1,150 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Better spirits and cocktails
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Better coffee / hot drinks
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Better soft drinks
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Better wine list
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Better beers and ciders
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Drinks are better priced
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Wider menu choice
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Healthier food options
+  },
+  {
+    ClassInstanceId: 9,
+    Name: More regular menu changes
+  },
+  {
+    ClassInstanceId: 10,
+    Name: More generous portions
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Adding specific dishes I like
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Fresher products
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Cater better for dietary needs
+  },
+  {
+    ClassInstanceId: 14,
+    Name: More attractively priced food
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Better quality / taste of food
+  },
+  {
+    ClassInstanceId: 16,
+    Name: A better loyalty programme
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Availability of a voucher / discount
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Better meal deals
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Faster service
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Friendlier staff
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Quicker to pay
+  },
+  {
+    ClassInstanceId: 22,
+    Name: More knowledgeable staff
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Better opening times
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Nearer to my home or work
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Nearer to where I was at the time
+  },
+  {
+    ClassInstanceId: 26,
+    Name: More convenient location to meet
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Better for children
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Better disabled access
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Better Wi-Fi
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Can pre-book online
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Can always get a seat
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Easier to park
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Better music
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Livelier, buzzier atmosphere
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Quieter / better place to talk
+  },
+  {
+    ClassInstanceId: 36,
+    Name: More relaxing atmosphere
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Fewer children
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Area of employment:Advertising / Communication / Marketing & Media (Base Consumer_segment)
+  }
+]

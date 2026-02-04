@@ -1,0 +1,354 @@
+﻿[
+  {
+    ClassInstanceId: 2001,
+    Name: Abarth
+  },
+  {
+    ClassInstanceId: 2002,
+    Name: Alfa Romeo
+  },
+  {
+    ClassInstanceId: 2003,
+    Name: Aston Martin
+  },
+  {
+    ClassInstanceId: 2004,
+    Name: ATS Euromaster
+  },
+  {
+    ClassInstanceId: 2005,
+    Name: Audi
+  },
+  {
+    ClassInstanceId: 2006,
+    Name: Autotrader
+  },
+  {
+    ClassInstanceId: 2007,
+    Name: Bentley
+  },
+  {
+    ClassInstanceId: 2008,
+    Name: BMW
+  },
+  {
+    ClassInstanceId: 2009,
+    Name: BP service stations
+  },
+  {
+    ClassInstanceId: 2010,
+    Name: Bridgestone Tyres
+  },
+  {
+    ClassInstanceId: 2011,
+    Name: Bugatti
+  },
+  {
+    ClassInstanceId: 2012,
+    Name: Cadillac
+  },
+  {
+    ClassInstanceId: 2013,
+    Name: Castrol
+  },
+  {
+    ClassInstanceId: 2014,
+    Name: Chevrolet
+  },
+  {
+    ClassInstanceId: 2015,
+    Name: Chevron
+  },
+  {
+    ClassInstanceId: 2016,
+    Name: Chrysler
+  },
+  {
+    ClassInstanceId: 2017,
+    Name: Citroen
+  },
+  {
+    ClassInstanceId: 2018,
+    Name: Continental Tyres
+  },
+  {
+    ClassInstanceId: 2019,
+    Name: Cupra
+  },
+  {
+    ClassInstanceId: 2020,
+    Name: Dacia
+  },
+  {
+    ClassInstanceId: 2021,
+    Name: DS
+  },
+  {
+    ClassInstanceId: 2022,
+    Name: Ducati
+  },
+  {
+    ClassInstanceId: 2023,
+    Name: Dunlop
+  },
+  {
+    ClassInstanceId: 2024,
+    Name: Esso service stations
+  },
+  {
+    ClassInstanceId: 2025,
+    Name: Ferrari
+  },
+  {
+    ClassInstanceId: 2026,
+    Name: Fiat
+  },
+  {
+    ClassInstanceId: 2027,
+    Name: Ford
+  },
+  {
+    ClassInstanceId: 2028,
+    Name: Goodyear Tyres
+  },
+  {
+    ClassInstanceId: 2029,
+    Name: Green Flag
+  },
+  {
+    ClassInstanceId: 2030,
+    Name: Gulf service stations
+  },
+  {
+    ClassInstanceId: 2031,
+    Name: Harley-Davidson
+  },
+  {
+    ClassInstanceId: 2032,
+    Name: Honda
+  },
+  {
+    ClassInstanceId: 2033,
+    Name: Hummer
+  },
+  {
+    ClassInstanceId: 2034,
+    Name: Hyundai
+  },
+  {
+    ClassInstanceId: 2035,
+    Name: Infiniti
+  },
+  {
+    ClassInstanceId: 2036,
+    Name: Isuzu
+  },
+  {
+    ClassInstanceId: 2037,
+    Name: Jaguar
+  },
+  {
+    ClassInstanceId: 2038,
+    Name: Jeep
+  },
+  {
+    ClassInstanceId: 2039,
+    Name: Jet service stations
+  },
+  {
+    ClassInstanceId: 2040,
+    Name: Kawasaki
+  },
+  {
+    ClassInstanceId: 2041,
+    Name: Kia
+  },
+  {
+    ClassInstanceId: 2042,
+    Name: Koenigsegg
+  },
+  {
+    ClassInstanceId: 2043,
+    Name: KTM
+  },
+  {
+    ClassInstanceId: 2044,
+    Name: KwikFit
+  },
+  {
+    ClassInstanceId: 2045,
+    Name: Lamborghini
+  },
+  {
+    ClassInstanceId: 2046,
+    Name: Lancia
+  },
+  {
+    ClassInstanceId: 2047,
+    Name: Land Rover
+  },
+  {
+    ClassInstanceId: 2048,
+    Name: Lexus
+  },
+  {
+    ClassInstanceId: 2049,
+    Name: Lotus
+  },
+  {
+    ClassInstanceId: 2050,
+    Name: Maserati
+  },
+  {
+    ClassInstanceId: 2051,
+    Name: Mazda
+  },
+  {
+    ClassInstanceId: 2052,
+    Name: McLaren
+  },
+  {
+    ClassInstanceId: 2053,
+    Name: Mercedes-Benz
+  },
+  {
+    ClassInstanceId: 2054,
+    Name: MG
+  },
+  {
+    ClassInstanceId: 2055,
+    Name: Michelin Tyres
+  },
+  {
+    ClassInstanceId: 2056,
+    Name: MINI
+  },
+  {
+    ClassInstanceId: 2057,
+    Name: Mitsubishi
+  },
+  {
+    ClassInstanceId: 2058,
+    Name: Mobil
+  },
+  {
+    ClassInstanceId: 2059,
+    Name: Morgan
+  },
+  {
+    ClassInstanceId: 2060,
+    Name: Nissan
+  },
+  {
+    ClassInstanceId: 2061,
+    Name: Norton
+  },
+  {
+    ClassInstanceId: 2062,
+    Name: Peugeot
+  },
+  {
+    ClassInstanceId: 2063,
+    Name: Pirelli Tyres
+  },
+  {
+    ClassInstanceId: 2064,
+    Name: Polestar
+  },
+  {
+    ClassInstanceId: 2065,
+    Name: Porsche
+  },
+  {
+    ClassInstanceId: 2066,
+    Name: Range Rover
+  },
+  {
+    ClassInstanceId: 2067,
+    Name: Renault
+  },
+  {
+    ClassInstanceId: 2068,
+    Name: Rolls-Royce
+  },
+  {
+    ClassInstanceId: 2069,
+    Name: SEAT
+  },
+  {
+    ClassInstanceId: 2070,
+    Name: Shell service stations
+  },
+  {
+    ClassInstanceId: 2071,
+    Name: Skoda
+  },
+  {
+    ClassInstanceId: 2072,
+    Name: Smart
+  },
+  {
+    ClassInstanceId: 2073,
+    Name: KGM
+  },
+  {
+    ClassInstanceId: 2074,
+    Name: Subaru
+  },
+  {
+    ClassInstanceId: 2075,
+    Name: Suzuki
+  },
+  {
+    ClassInstanceId: 2076,
+    Name: Tesla
+  },
+  {
+    ClassInstanceId: 2077,
+    Name: Texaco service stations
+  },
+  {
+    ClassInstanceId: 2078,
+    Name: Total service stations
+  },
+  {
+    ClassInstanceId: 2079,
+    Name: Toyota
+  },
+  {
+    ClassInstanceId: 2080,
+    Name: Triumph
+  },
+  {
+    ClassInstanceId: 2081,
+    Name: Vauxhall
+  },
+  {
+    ClassInstanceId: 2082,
+    Name: Vespa
+  },
+  {
+    ClassInstanceId: 2083,
+    Name: Volkswagen
+  },
+  {
+    ClassInstanceId: 2084,
+    Name: Volvo
+  },
+  {
+    ClassInstanceId: 2085,
+    Name: Yamaha
+  },
+  {
+    ClassInstanceId: 2086,
+    Name: BYD
+  },
+  {
+    ClassInstanceId: 99998,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99999,
+    Name: None of these
+  }
+]

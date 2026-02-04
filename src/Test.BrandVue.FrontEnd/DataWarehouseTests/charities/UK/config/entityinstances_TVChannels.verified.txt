@@ -1,0 +1,142 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these in the last two weeks
+  },
+  {
+    ClassInstanceId: 1,
+    Name: BBC 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: BBC 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: ITV
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Channel 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Channel 5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Sky 1 / Sky 2 / Sky Atlantic / Sky Witness
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 5 Star / 5 USA / 5 Spike
+  },
+  {
+    ClassInstanceId: 8,
+    Name: alibi
+  },
+  {
+    ClassInstanceId: 9,
+    Name: BBC 4
+  },
+  {
+    ClassInstanceId: 10,
+    Name: BBC News
+  },
+  {
+    ClassInstanceId: 11,
+    Name: BT Sport
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Cbeebies / CBBC
+  },
+  {
+    ClassInstanceId: 13,
+    Name: CBS Reality / CBS Justice / CBS Drama
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Challenge
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Comedy Central
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Dave
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Drama
+  },
+  {
+    ClassInstanceId: 18,
+    Name: E4
+  },
+  {
+    ClassInstanceId: 19,
+    Name: eden
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Film4
+  },
+  {
+    ClassInstanceId: 21,
+    Name: G.O.L.D.
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Home
+  },
+  {
+    ClassInstanceId: 23,
+    Name: ITV 2
+  },
+  {
+    ClassInstanceId: 24,
+    Name: ITV 3
+  },
+  {
+    ClassInstanceId: 25,
+    Name: ITV 4
+  },
+  {
+    ClassInstanceId: 26,
+    Name: ITV Be
+  },
+  {
+    ClassInstanceId: 27,
+    Name: More4
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Pick TV
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Quest
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Really
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Sky Sports
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Sky News / Sky Sports News
+  },
+  {
+    ClassInstanceId: 33,
+    Name: W
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Yesterday
+  }
+]

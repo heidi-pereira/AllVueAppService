@@ -1,0 +1,222 @@
+parameters:
+- name: packageLatest
+  displayName: Store latest metadata for tests
+  type: boolean
+  default: true
+- name: pushToTestAndBeta
+  displayName: Deploy to Test and Beta
+  type: boolean
+  default: true
+- name: pushToLive
+  displayName: Deploy to Live
+  type: boolean
+  default: true
+- name: productsToBuild
+  displayName: Products to build
+  type: object
+  default:
+    - Barometer
+    - Charities
+    - COVID19
+    - Drinks
+    - EatingOut
+    - Finance
+    - retail
+    - threesixty
+
+
+pr: none
+
+trigger: none
+
+schedules:
+- cron: "0 7 * * *"
+  displayName: Nightly Metadata Build
+  branches:
+    include:
+    - master
+    - main
+  always: true
+
+pool:
+  vmImage: 'windows-2022'
+
+# Al lot of the extra ones are for DashboardBuilder config
+variables:
+- template: ../SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: VueMetadataBuild
+    majorVersion: 1
+    minorVersion: 2
+- name: Egnyte.Dashboards.LocalReadOnly
+  value: $(Build.SourcesDirectory)\LatestMetadata\DashboardBuilder.Metadata
+- name: OverrideOutputPath
+  value: $(Build.SourcesDirectory)\ProcessedMetadata
+- name: Packager.ShouldDeleteAfterPush
+  value: 'false'
+- name: MetadataVersion
+  value: $[format('{0:yyyy}.{0:MM}{0:dd}.{0:HH}{0:mm}', pipeline.startTime)]
+- name: deployData
+  value: ${{ or( eq(parameters.pushToTestAndBeta, true), eq(parameters.pushToLive, true) ) }}
+- name: deployTestBeta
+  value: ${{ eq(parameters.pushToTestAndBeta, true) }}
+- name: deployLive
+  value: ${{ eq(parameters.pushToLive, true) }}
+
+name: ${{variables.buildName}}
+
+steps:
+- checkout: none
+
+- powershell: |
+    Set-Culture -CultureInfo en-GB
+  displayName: Set UK Culture
+
+- template: ../SharedBuildScripts/EchoVariables.yaml
+
+- task: DownloadPackage@1
+  displayName: Get Latest Metadata
+  inputs:
+    packageType: 'nuget'
+    feed: savantadefault
+    view: Local
+    definition: DashboardBuilder.Metadata
+    version: latest
+    extract: false
+    downloadPath: '$(Build.SourcesDirectory)/LatestMetadataPackage'
+
+## Have to hack the package filename to fool nuget installer
+- script: |
+    move $(Build.SourcesDirectory)\LatestMetadataPackage\DashboardBuilder.Metadata.nupkg $(Build.SourcesDirectory)\LatestMetadataPackage\DashboardBuilder.Metadata.1.0.0.nupkg
+    nuget install DashboardBuilder.Metadata -Source $(Build.SourcesDirectory)\LatestMetadataPackage -OutputDirectory $(Build.SourcesDirectory)\LatestMetadata -ExcludeVersion
+  displayName: Unpack latest metadata
+
+- task: DownloadPipelineArtifact@2
+  displayName: Download DashboardBuilder
+  inputs:
+    source: specific
+    artifact: DashboardBuilder
+    project: tech
+    pipeline: BrandVue Dashboard Builder
+    runVersion: latestFromBranch
+    runBranch: $(Build.SourceBranch)
+    path: $(Build.SourcesDirectory)
+
+- task: FileTransform@2
+  displayName: Apply variables to config
+  inputs:
+    folderPath: $(Build.SourcesDirectory)
+    fileType: xml
+    xmlTransformationRules:
+    xmlTargetFiles: 'DashboardBuilder.dll.config'
+
+- script: |
+    dir $(Egnyte.Dashboards.LocalReadOnly)
+    type DashboardBuilder.dll.config
+  displayName: Useful debug info
+
+- script: |
+    DashboardBuilder packagemapdirectories $(CommaSeparatedEgnyteBearerTokens) LatestMetadata DashboardBuilder.Metadata
+  displayName: Update from Egnyte
+  env:
+      PackageMapDirectories.ExchangePassword: $(PackageMapDirectories.ExchangePassword)
+      PackageMapDirectories.ExchangeUser: $(PackageMapDirectories.ExchangeUser)
+
+- task: OctopusPackNuGet@6
+  displayName: Repack LatestMetadata
+  condition: and(succeeded(), eq('${{parameters.packageLatest}}', 'true'))
+  inputs:
+    PackageId: DashboardBuilder.Metadata
+    PackageVersion: $(MetadataVersion)
+    SourcePath: $(Build.SourcesDirectory)\LatestMetadata\DashboardBuilder.Metadata
+    OutputPath: $(Build.ArtifactStagingDirectory)
+    NuGetDescription: 'Dashboard Builder'
+    NuGetAuthors: 'Savanta'
+
+- task: DotNetCoreCLI@2
+  displayName: Publish latest metadata
+  condition: and(succeeded(), eq('${{parameters.packageLatest}}', 'true'))
+  inputs:
+    command: push
+    packagesToPush: $(Build.ArtifactStagingDirectory)/DashboardBuilder.Metadata*.nupkg
+    nuGetFeedType: internal
+    publishVstsFeed: savantadefault
+
+- script: |
+    echo $(variables.MetadataVersion)
+    echo $(MetadataVersion)
+    DashboardBuilder build all -PackageVersion=$(MetadataVersion)
+  displayName: Package for deploy
+
+- ${{each product in parameters.productsToBuild}}:
+  - task: ArchiveFiles@2
+    displayName: Zip ${{product}} metadata
+    inputs:
+      rootFolderOrFile: $(OverrideOutputPath)/${{product}}
+      includeRootFolder: false
+      archiveType: zip
+      archiveFile: $(Build.ArtifactStagingDirectory)/BrandVue.${{product}}.metadata.$(Metadataversion).zip
+      verbose: true
+
+- publish: $(Build.ArtifactStagingDirectory)/BrandVue.Retail.metadata.$(Metadataversion).zip
+  displayName: Publish Retail package for Vue
+  artifact: BrandVue.Retail
+
+- task: OctopusPush@6
+  displayName: Push to Octopus (master/main/hotfix)
+  condition: and(succeeded(), eq(variables.deployData, 'true'))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Packages: $(Build.ArtifactStagingDirectory)/BrandVue.*.metadata.*.zip
+    Replace: 'false'
+
+- script: |
+    dir /s $(Build.ArtifactStagingDirectory)
+  displayName: List Outputs
+
+- task: OctopusCreateRelease@6
+  displayName: Create release
+  condition: and(succeeded(), eq(variables.deployTestBeta, true))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'BrandVue.Data'
+    ReleaseNumber: $(Metadataversion)
+    Channel: 'Default'
+    Packages: 'DashboardBuilder.Metadata:$(Metadataversion)'
+
+- task: OctoInstaller@5
+  inputs:
+    version: '*'
+
+- task: OctopusDeployRelease@6
+  name: deployToTestAndBeta
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'BrandVue.Data'
+    ReleaseNumber: $(Metadataversion)
+    Environments: 'Test, Beta'
+    
+- task: OctopusAwaitTask@6
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Step: 'deployToTestAndBeta'
+
+- task: OctopusPromote@5
+  displayName: Deploy to Live
+  condition: and(succeeded(), eq(variables.deployLive, true))
+  inputs:
+    OctoConnectedServiceName: 'Savanta Cloud Octopus'
+    Space: 'Default'
+    Project: 'BrandVue.Data'
+    From: 'Beta'
+    To: 'Live'
+    ShowProgress: true
+
+# Call the snitch!
+- powershell: Invoke-WebRequest https://nosnch.in/5e6a417186
+  displayName: Tell dead mans snitch that it all worked
+  condition: and(succeeded(), eq(variables.deployLive, true))

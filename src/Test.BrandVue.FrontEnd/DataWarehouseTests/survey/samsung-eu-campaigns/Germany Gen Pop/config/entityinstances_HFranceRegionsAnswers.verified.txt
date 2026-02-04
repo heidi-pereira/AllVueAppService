@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: North west
+  },
+  {
+    ClassInstanceId: 2,
+    Name: North east
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ile de France
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Centre
+  },
+  {
+    ClassInstanceId: 5,
+    Name: South
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supporter opinion:I feel they use my money wisely (Base Experience_I_feel_they_use_my_money_wisely)
+  }
+]

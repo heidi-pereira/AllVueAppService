@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, I know they offer this
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No, I did not know this / do not know the brand
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Yes
+  },
+  {
+    ClassInstanceId: 4,
+    Name: No
+  }
+]

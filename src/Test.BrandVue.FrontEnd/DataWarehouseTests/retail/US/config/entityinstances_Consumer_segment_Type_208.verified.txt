@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Household income: 50000 - 75000 (Base Consumer_segment)
+  }
+]

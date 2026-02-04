@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Dairy-free
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Egg-free
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Wheat-free
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Gluten-free
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Nut-free
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Soy-free
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Music
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cooking at home
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Fitness & Exercise / Sport
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Live events
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Gaming
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Taking Photos
+  },
+  {
+    ClassInstanceId: 7,
+    Name: TV/Movies
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Fashion
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Technology
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sustainability
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Travel
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Arts & Culture
+  }
+]

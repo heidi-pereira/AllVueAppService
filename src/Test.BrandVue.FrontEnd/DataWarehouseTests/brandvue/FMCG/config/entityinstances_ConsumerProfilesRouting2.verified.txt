@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Profiles - TV & Radio
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Consumer Profiles - Newspapers and Hobbies
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Consumer Profiles - Demographics 2
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Consumer Profiles - Home and Household
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Consumer Profiles - Employment
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Consumer Profiles - Holidays
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Consumer Profiles - Advertising
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Consumer Profiles - Mail
+  }
+]

@@ -1,0 +1,58 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Waitrose
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Iceland
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Booths
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ocado
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 5,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Aldi
+  },
+  {
+    ClassInstanceId: 7,
+    Name: ASDA
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Co-op
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Lidl
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Marks and Spencer
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Morrisons
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Sainsburys
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Tesco
+  }
+]

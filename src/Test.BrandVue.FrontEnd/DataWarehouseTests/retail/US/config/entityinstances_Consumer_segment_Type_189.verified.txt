@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home ownership:Part own & part rent (shared ownership) (Base Consumer_segment)
+  }
+]

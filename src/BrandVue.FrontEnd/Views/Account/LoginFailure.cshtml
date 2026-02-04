@@ -1,0 +1,35 @@
+﻿@using BrandVue.EntityFramework
+@inject IProductContext productContext
+@{
+    Layout = null;
+    ViewBag.Title = "Login Failure";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login Failure</title>
+    <style>
+        .action-button {
+            padding: 0.8rem;
+            border-radius: 0.5rem;
+            background-color: #5daed4;
+            border: none;
+            display: block;
+            margin: auto;
+            cursor: pointer;
+            color: white;
+            font-size: 16px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div style="padding-top: 100px">
+        <h1 style="font-size: 100px; color: #f4adb3; text-align: center; margin-bottom: 40px;">Login failure</h1>
+        <h3 style="font-size: 30px; text-align: center;">@ViewBag.LoginErrorMessage</h3>
+        <p style="text-align: center">If you believe this is in error, please click below to logout and try again</p>
+        <p><button type="button" class="action-button" onclick="location.href='@Url.Action("Logout", "Account", new { subproduct = productContext.SubProductId})'">Logout</button></p>
+    </div>
+</body>
+</html>

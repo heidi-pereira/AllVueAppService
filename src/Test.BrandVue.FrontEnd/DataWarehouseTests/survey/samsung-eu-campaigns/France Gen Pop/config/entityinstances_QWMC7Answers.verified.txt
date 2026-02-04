@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: EcoBubble
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Digital Inverter Technology
+  },
+  {
+    ClassInstanceId: 3,
+    Name: AddWash
+  },
+  {
+    ClassInstanceId: 4,
+    Name: QuickDrive
+  },
+  {
+    ClassInstanceId: 5,
+    Name: AI Smart Control
+  },
+  {
+    ClassInstanceId: 6,
+    Name: SmartThings
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Hygiene Steam
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Auto-dose
+  },
+  {
+    ClassInstanceId: 98,
+    Name: None of above
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

@@ -1,0 +1,38 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+
+.container {
+    min-height: 100vh; /* minimum height = screen height */
+    min-width: 100vh; /* minimum height = screen height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .error {
+        .flex-column(@gutter: 0px);
+        margin-bottom: 200px ;
+
+        .brandName {
+            font-style: italic;
+        }
+
+        .title {
+            font-size: large;
+            font: bold;
+            padding: 10px;
+        }
+
+        .action {
+            font-size: large;
+            font: bold;
+            padding: 10px;
+        }
+
+        a {
+            text-decoration: initial;
+            color: @blueSteel;
+            cursor:pointer;
+        }
+    }
+}

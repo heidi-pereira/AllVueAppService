@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Beko
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Bosch
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Miele
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Hotpoint
+  },
+  {
+    ClassInstanceId: 7,
+    Name: LG
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Hisense
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Don’t know
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other (Please specify)
+  }
+]

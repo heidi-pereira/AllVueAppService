@@ -1,0 +1,164 @@
+[*.cs]
+
+# HAA0301: Closure Allocation Source
+dotnet_diagnostic.haa0301.severity=suggestion
+
+# HAA0101: Array allocation for params parameter
+dotnet_diagnostic.haa0101.severity=suggestion
+
+# HAA0302: Display class allocation to capture closure
+dotnet_diagnostic.haa0302.severity=suggestion
+
+# HAA0603: Delegate allocation from a method group
+dotnet_diagnostic.haa0603.severity=suggestion
+
+# Microsoft .NET properties
+csharp_new_line_before_members_in_object_initializers=false
+csharp_preferred_modifier_order=public, private, protected, internal, new, abstract, virtual, sealed, override, static, readonly, extern, unsafe, volatile, async:suggestion
+csharp_style_var_elsewhere=true:suggestion
+csharp_style_var_for_built_in_types=false:suggestion
+csharp_style_var_when_type_is_apparent=true:suggestion
+dotnet_naming_rule.constants_rule.severity = warning
+dotnet_naming_rule.constants_rule.style = upper_camel_case_underscore_tolerant_style
+dotnet_naming_rule.constants_rule.symbols=constants_symbols
+dotnet_naming_rule.private_constants_rule.severity = warning
+dotnet_naming_rule.private_constants_rule.style = upper_camel_case_underscore_tolerant_style
+dotnet_naming_rule.private_constants_rule.symbols=private_constants_symbols
+dotnet_naming_rule.private_instance_fields_rule.severity = warning
+dotnet_naming_rule.private_instance_fields_rule.style = lower_camel_case_underscore_tolerant_style
+dotnet_naming_rule.private_instance_fields_rule.symbols=private_instance_fields_symbols
+dotnet_naming_rule.private_static_fields_rule.severity = warning
+dotnet_naming_rule.private_static_fields_rule.style = lower_camel_case_style
+dotnet_naming_rule.private_static_fields_rule.symbols=private_static_fields_symbols
+dotnet_naming_rule.private_static_readonly_rule.severity = warning
+dotnet_naming_rule.private_static_readonly_rule.style = upper_camel_case_style
+dotnet_naming_rule.private_static_readonly_rule.symbols=private_static_readonly_symbols
+dotnet_naming_rule.public_fields_rule.severity = warning
+dotnet_naming_rule.public_fields_rule.style = lower_camel_case_style
+dotnet_naming_rule.public_fields_rule.symbols=public_fields_symbols
+dotnet_naming_rule.static_readonly_rule.severity = warning
+dotnet_naming_rule.static_readonly_rule.style = upper_camel_case_style
+dotnet_naming_rule.static_readonly_rule.symbols=static_readonly_symbols
+dotnet_naming_style.lower_camel_case_style.capitalization=camel_case
+dotnet_naming_style.lower_camel_case_style.required_prefix=_
+dotnet_naming_style.lower_camel_case_underscore_tolerant_style.capitalization=camel_case
+dotnet_naming_style.lower_camel_case_underscore_tolerant_style.required_prefix=_
+dotnet_naming_style.lower_camel_case_underscore_tolerant_style.word_separator=_
+dotnet_naming_style.upper_camel_case_style.capitalization=pascal_case
+dotnet_naming_style.upper_camel_case_underscore_tolerant_style.capitalization=pascal_case
+dotnet_naming_style.upper_camel_case_underscore_tolerant_style.word_separator=_
+dotnet_naming_symbols.constants_symbols.applicable_accessibilities=public,internal,protected,protected_internal,private_protected
+dotnet_naming_symbols.constants_symbols.applicable_kinds=field
+dotnet_naming_symbols.constants_symbols.required_modifiers=const
+dotnet_naming_symbols.private_constants_symbols.applicable_accessibilities=private
+dotnet_naming_symbols.private_constants_symbols.applicable_kinds=field
+dotnet_naming_symbols.private_constants_symbols.required_modifiers=const
+dotnet_naming_symbols.private_instance_fields_symbols.applicable_accessibilities=private
+dotnet_naming_symbols.private_instance_fields_symbols.applicable_kinds=field
+dotnet_naming_symbols.private_static_fields_symbols.applicable_accessibilities=private
+dotnet_naming_symbols.private_static_fields_symbols.applicable_kinds=field
+dotnet_naming_symbols.private_static_fields_symbols.required_modifiers=static
+dotnet_naming_symbols.private_static_readonly_symbols.applicable_accessibilities=private
+dotnet_naming_symbols.private_static_readonly_symbols.applicable_kinds=field
+dotnet_naming_symbols.private_static_readonly_symbols.required_modifiers=static,readonly
+dotnet_naming_symbols.public_fields_symbols.applicable_accessibilities=public,internal,protected,protected_internal,private_protected
+dotnet_naming_symbols.public_fields_symbols.applicable_kinds=field
+dotnet_naming_symbols.static_readonly_symbols.applicable_accessibilities=public,internal,protected,protected_internal,private_protected
+dotnet_naming_symbols.static_readonly_symbols.applicable_kinds=field
+dotnet_naming_symbols.static_readonly_symbols.required_modifiers=static,readonly
+dotnet_style_parentheses_in_arithmetic_binary_operators=never_if_unnecessary:none
+dotnet_style_parentheses_in_other_binary_operators=never_if_unnecessary:none
+dotnet_style_parentheses_in_relational_binary_operators=never_if_unnecessary:none
+dotnet_style_predefined_type_for_locals_parameters_members=true:suggestion
+dotnet_style_predefined_type_for_member_access=true:suggestion
+dotnet_style_qualification_for_event=false:suggestion
+dotnet_style_qualification_for_field=false:suggestion
+dotnet_style_qualification_for_method=false:suggestion
+dotnet_style_qualification_for_property=false:suggestion
+dotnet_style_require_accessibility_modifiers=for_non_interface_members:suggestion
+
+# ReSharper properties
+resharper_apply_on_completion=true
+resharper_csharp_naming_rule.enum_member=AaBb_AaBb
+resharper_csharp_naming_rule.public_fields=_ + aaBb, AaBb
+
+# ReSharper inspection severities
+resharper_arrange_redundant_parentheses_highlighting=hint
+resharper_arrange_this_qualifier_highlighting=hint
+resharper_arrange_type_member_modifiers_highlighting=hint
+resharper_arrange_type_modifiers_highlighting=hint
+resharper_built_in_type_reference_style_for_member_access_highlighting=hint
+resharper_built_in_type_reference_style_highlighting=hint
+resharper_redundant_base_qualifier_highlighting=warning
+resharper_suggest_var_or_type_built_in_types_highlighting=hint
+resharper_suggest_var_or_type_elsewhere_highlighting=hint
+resharper_suggest_var_or_type_simple_types_highlighting=hint
+
+# RCS1139: Add summary element to documentation comment.
+dotnet_diagnostic.RCS1139.severity = none
+
+# RCS1139: Add summary element to documentation comment.
+dotnet_diagnostic.RCS1139.severity = none
+csharp_using_directive_placement = outside_namespace:silent
+csharp_prefer_simple_using_statement = true:suggestion
+csharp_prefer_braces = when_multiline:warning
+csharp_style_namespace_declarations = block_scoped:silent
+csharp_style_prefer_method_group_conversion = true:silent
+csharp_style_prefer_top_level_statements = true:silent
+csharp_style_prefer_primary_constructors = true:suggestion
+csharp_style_expression_bodied_methods = false:silent
+csharp_style_expression_bodied_constructors = false:silent
+csharp_style_expression_bodied_operators = false:silent
+csharp_style_expression_bodied_properties = true:silent
+csharp_style_expression_bodied_indexers = true:silent
+csharp_style_expression_bodied_accessors = true:silent
+csharp_style_expression_bodied_lambdas = true:silent
+csharp_style_expression_bodied_local_functions = false:silent
+csharp_indent_labels = one_less_than_current
+
+# CS1573: Don't warn about XML comments because our public api doesn't want cancellation tokens all over the docs (alternatively, could filter them out of the docs - may be even done automatically already)
+dotnet_diagnostic.CS1573.severity = silent
+
+# CS1998: Async method lacks 'await' operators and will run synchronously - this is cleaner than calling Task.FromResult, and the errors below will catch any async methods that should be awaited
+dotnet_diagnostic.CS1998.severity = silent
+
+# CS4014: Because this call is not awaited, execution of the current method continues before the call is completed
+dotnet_diagnostic.CS4014.severity = error
+
+# VSTHRD110: Observe result of async calls
+dotnet_diagnostic.VSTHRD110.severity = error
+
+# VSTHRD200: Use "Async" suffix for async methods - we may enable this in future after a mass update
+dotnet_diagnostic.VSTHRD200.severity = suggestion
+
+# CA1416: Validate platform compatibility - Re-enable in future if it stops being incorrectly shown in many cases related to image, or you manage to configure the project more correctly to not trigger this
+dotnet_diagnostic.CA1416.severity = silent
+
+# VSTHRD101: Avoid unsupported async delegates
+dotnet_diagnostic.VSTHRD101.severity = error
+
+# VSTHRD114: Avoid returning a null Task
+dotnet_diagnostic.VSTHRD114.severity = error
+
+[*.proto]
+indent_style=tab
+indent_size=tab
+tab_width=4
+
+[*.{asax,ascx,aspx,cs,cshtml,css,htm,html,js,jsx,master,razor,skin,ts,tsx,vb,xaml,xamlx,xoml}]
+indent_style=space
+indent_size= 4
+tab_width= 4
+dotnet_style_coalesce_expression = true:suggestion
+dotnet_style_null_propagation = true:suggestion
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:suggestion
+dotnet_style_prefer_auto_properties = true:silent
+dotnet_style_object_initializer = true:suggestion
+dotnet_style_collection_initializer = true:suggestion
+dotnet_style_operator_placement_when_wrapping = beginning_of_line
+end_of_line = crlf
+
+[*.{appxmanifest,axml,build,config,csproj,dbml,discomap,dtd,json,jsproj,lsproj,njsproj,nuspec,proj,props,resjson,resw,resx,StyleCop,targets,tasks,vbproj,xml,xsd}]
+indent_style=space
+indent_size=2
+tab_width=2

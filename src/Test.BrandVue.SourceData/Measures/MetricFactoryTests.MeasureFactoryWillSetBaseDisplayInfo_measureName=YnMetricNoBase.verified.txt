@@ -1,0 +1,5 @@
+﻿{
+  IncludedValuesType: Unknown,
+  QuestionClassIds: [],
+  QuestionId: Field
+}

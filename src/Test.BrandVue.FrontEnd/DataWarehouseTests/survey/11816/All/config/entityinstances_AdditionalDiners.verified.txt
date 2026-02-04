@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Friends
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Work colleagues
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Work clients / customers
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Family
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Partner / spouse
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Just myself
+  }
+]

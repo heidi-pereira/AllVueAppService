@@ -1,0 +1,267 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+@breakpoint-mobile: 550px;
+@breakpoint-tablet: 800px;
+
+.responseTable {
+    overflow-y: auto;
+}
+.documentList {
+    border-collapse: collapse;
+    font-size: 14px;
+    font-weight: 400;
+    width: 100%;
+    color: @slate-darker;
+
+    td {
+        padding: 16px;
+    }
+
+    th, thead {
+    }
+
+    a {
+        width: 100%;
+        padding: 16px;
+
+        @media (max-width: @breakpoint-mobile) {
+            padding: 8px 0;
+        }
+    }
+
+    .name {
+        transition: all 150ms ease;
+        max-width: 580px;
+        padding: 0 24px 0 0;
+
+        @media (max-width: @breakpoint-mobile) {
+            padding: 12px;
+        }
+
+        @media (max-width: @breakpoint-tablet) {
+            max-width: 265px;
+        }
+
+        a {
+            display: block;
+            color: @blueSteel;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            transition: all 150ms ease;
+        }
+    }
+
+    tbody, tr {
+        border: 1px solid @chalk;
+        padding-left: 16px;
+        color: @slate-darker;
+    }
+
+    table {
+        text-align: left;
+        position: relative;
+    }
+
+    th {
+        position: sticky;
+        background-color:@chalk;
+        top: 0;
+    }
+
+    tr.tableRow {
+        i {
+            color: @slate-light;
+            margin-left: 10px;
+        }
+
+        &:hover {
+            background-color: @chalk-lighter;
+            color: @blueSteel-dark;
+
+            span {
+                i {
+                    color: @blueSteel-dark;
+                }
+            }
+
+            .name {
+                color: @blueSteel-dark;
+                cursor: pointer;
+            }
+
+
+            .download {
+                i {
+                    color: @blueSteel-dark;
+                }
+            }
+
+            .tdDelete {
+                i {
+                    visibility: visible;
+                    cursor: pointer;
+                    color: @blueSteel-dark;
+                }
+            }
+        }
+    }
+
+
+    .fileName .folderName {
+        color: @blueSteel;
+
+        &:hover {
+            color: @blueSteel-darker;
+        }
+    }
+
+
+    .download {
+        text-align: center;
+        vertical-align: middle;
+        width: 50px;
+
+        i {
+            color: @blueSteel;
+            font-size: 16px;
+        }
+    }
+
+    .sortableColumn {
+        margin-right: auto;
+        cursor: pointer;
+    }
+
+    .tdDelete {
+        color: @slate;
+        text-align: center;
+        vertical-align: middle;
+        width: 16px;
+        cursor: pointer;
+
+        i {
+            visibility: hidden;
+            font-size: 16px;
+            transition: color 150ms ease;
+
+            @media (max-width: @breakpoint-mobile) {
+                visibility: visible;
+                color: @slate;
+            }
+
+            @media (max-width: @breakpoint-tablet) {
+                visibility: visible;
+                color: @slate;
+            }
+        }
+
+        &:hover {
+            color: @lava;
+        }
+
+
+        &:active {
+            color: @lava-dark;
+        }
+    }
+
+    .fileType {
+        width: 20px;
+    }
+
+    .fileSize {
+        text-align: right;
+        width: 80px;
+    }
+
+    .uploadedBy, .date, .fileSize, .download {
+        @media (max-width: @breakpoint-mobile) {
+            display: none;
+        }
+    }
+
+    .date {
+        width: 150px;
+
+        @media (max-width: @breakpoint-tablet) {
+            display: none;
+        }
+    }
+
+    .uploadedBy {
+        max-width: 180px;
+        min-width: 140px;
+
+        @media (max-width: @breakpoint-tablet) {
+            max-width: 100px;
+        }
+    }
+
+    .documentsNone {
+        text-align: center;
+        color: @slate;
+        margin-top: 50px;
+    }
+}
+
+.tableHeader {
+    text-align: left;
+    background: @chalk-light;
+
+    th {
+        padding: 16px;
+        font-weight: 400;
+        color: @slate;
+
+        @media (max-width: @breakpoint-mobile) {
+            padding: 12px;
+        }
+    }
+}
+
+.tableRow {
+    background-color:white;
+}
+
+
+.deleteDocumentModal {
+    color: @slate-darker;
+    max-width: 400px;
+    padding: 32px;
+    border-radius: 4px;
+
+    is-mobile {
+        border-radius: 0;
+    }
+
+    .title {
+        font-size: 18px;
+        margin-bottom: 32px;
+    }
+
+    .modal {
+        font-size: 14px;
+
+        .file-name {
+            font-weight: 500;
+            word-break: break-word;
+        }
+    }
+}
+
+
+.waitingContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+    .waitingGroup {
+        display: table;
+        justify-content: center;
+
+        .publishItem {
+            width: 100%;
+        }
+    }
+}

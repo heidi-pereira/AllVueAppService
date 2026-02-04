@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Outdated|Modern||Neither|
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Not a brand for me|A brand for me||Neither|
+  }
+]

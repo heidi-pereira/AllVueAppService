@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: No children at home
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Children under 18 at home
+  }
+]

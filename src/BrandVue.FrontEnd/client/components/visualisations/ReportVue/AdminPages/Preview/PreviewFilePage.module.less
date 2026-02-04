@@ -1,0 +1,83 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+@breakpoint-mobile: 550px;
+
+
+.previewPane {
+    height: 100%;
+    width: 100%;
+    max-width: 1000px;
+    margin: 16px auto;
+    border-color: gray;
+    border-style: solid;
+
+
+    @media (max-width: @breakpoint-mobile) {
+        margin: 0;
+        padding: 0;
+    }
+
+    .title {
+        .flex-row(@gutter: 20px);
+        background-color: @blueSteel-light;
+
+        .titleText {
+            flex-grow: 4;
+            margin: 16px;
+            font-size: large;
+            text-align: center;
+        }
+
+        .closeIcon {
+            flex-grow: 0;
+            margin: 16px;
+        }
+
+        @media (max-width: @breakpoint-mobile) {
+            margin-bottom: 16px;
+        }
+    }
+
+    .body {
+    }
+}
+
+.previewPage {
+    height: 100%;
+    width: 100%;
+    max-width: 1000px;
+    margin: 16px auto;
+    border-color: gray;
+    border-style: solid;
+
+
+    @media (max-width: @breakpoint-mobile) {
+        margin: 0;
+        padding: 0;
+    }
+
+    .title {
+        .flex-row(@gutter: 20px);
+        background-color: @blueSteel-light;
+
+        .titleText {
+            flex-grow: 4;
+            margin: 16px;
+            font-size:large;
+            text-align:center;
+        }
+
+        .closeIcon {
+            flex-grow: 0;
+            margin: 16px;
+        }
+
+        @media (max-width: @breakpoint-mobile) {
+            margin-bottom: 16px;
+        }
+    }
+
+    .body {
+    }
+}
+

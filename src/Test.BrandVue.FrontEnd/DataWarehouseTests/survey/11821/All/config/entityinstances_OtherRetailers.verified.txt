@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Argos
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Debenhams
+  },
+  {
+    ClassInstanceId: 4,
+    Name: House of Fraser
+  },
+  {
+    ClassInstanceId: 5,
+    Name: John Lewis
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Marks & Spencer
+  }
+]

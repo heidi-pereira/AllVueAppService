@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 51,
+    Name: Term Life insurance (for a set term such as to cover a mortgage)
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Guaranteed over 50s life insurance
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Any other ‘whole of life’ life insurance
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Critical illness insurance / serious illness insurance
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Accident, sickness and unemployment insurance
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Income protection
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Private medical / health Insurance
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Hospital cash plan
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Pre-paid funeral plan
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Long term care cover
+  }
+]

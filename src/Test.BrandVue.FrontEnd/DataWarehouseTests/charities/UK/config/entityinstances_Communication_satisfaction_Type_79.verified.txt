@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Communication Satisfaction:Very satisfied (Base Communication_satisfaction)
+  }
+]

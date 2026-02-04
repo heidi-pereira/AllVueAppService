@@ -1,0 +1,26 @@
+﻿[
+  {
+    ResponseId: 2345,
+    Weight: 1.0
+  },
+  {
+    ResponseId: 3,
+    Weight: 1.0
+  },
+  {
+    ResponseId: 5,
+    Weight: 1.0
+  },
+  {
+    ResponseId: 7,
+    Weight: 1.0
+  },
+  {
+    ResponseId: 9,
+    Weight: 1.0
+  },
+  {
+    ResponseId: 11,
+    Weight: 1.0
+  }
+]

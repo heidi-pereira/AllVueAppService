@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: A free-standing oven
+  },
+  {
+    ClassInstanceId: 2,
+    Name: A built-in oven
+  },
+  {
+    ClassInstanceId: 3,
+    Name: A range style oven
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know
+  }
+]

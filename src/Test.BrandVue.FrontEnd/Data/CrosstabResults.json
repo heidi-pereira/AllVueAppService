@@ -1,0 +1,154 @@
+[
+  {
+    "Categories": [
+      {
+        "Id": "EntityInstance",
+        "Name": "Net buzz",
+        "SignificanceIdentifier": "\u0000",
+        "SubCategories": []
+      },
+      {
+        "Id": "Total",
+        "Name": "Total",
+        "SignificanceIdentifier": "\u0000",
+        "SubCategories": []
+      }
+    ],
+    "InstanceResults": [
+      {
+        "EntityInstance": {
+          "name": "ASK Italian",
+          "color": null,
+          "id": 0
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.03005307,
+            "Count": 52.0,
+            "SampleForCount": 1545.0,
+            "SampleSizeMetaData": {
+              "SampleSize": {
+                "Unweighted": 1545.0,
+                "Weighted": 1545.0
+              },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2022-05-31T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": []
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "Asda caf�",
+          "color": null,
+          "id": 103
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.022755343,
+            "Count": 34.0,
+            "SampleForCount": 1546.0,
+            "SampleSizeMetaData": {
+              "SampleSize": {
+                "Unweighted": 1546.0,
+                "Weighted": 1546.0
+              },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2022-05-31T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": 1,
+            "SignificantColumns": []
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "Starbucks",
+          "color": null,
+          "id": 163
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.16696541,
+            "Count": 259.0,
+            "SampleForCount": 1545.0,
+            "SampleSizeMetaData": {
+              "SampleSize": {
+                "Unweighted": 1545.0,
+                "Weighted": 1545.0
+              },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2022-05-31T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": null,
+            "SignificantColumns": []
+          }
+        }
+      },
+      {
+        "EntityInstance": {
+          "name": "Veggie Pret",
+          "color": null,
+          "id": 223
+        },
+        "Values": {
+          "Total": {
+            "Result": 0.015903354,
+            "Count": 20.0,
+            "SampleForCount": 1542.0,
+            "SampleSizeMetaData": {
+              "SampleSize": {
+                "Unweighted": 1542.0,
+                "Weighted": 1542.0
+              },
+              "SampleSizeByMetric": null,
+              "SampleSizeByEntity": null,
+              "CurrentDate": "2022-05-31T00:00:00+00:00",
+              "SampleSizeEntityInstanceName": null
+            },
+            "Significance": 2,
+            "SignificantColumns": []
+          }
+        }
+      }
+    ],
+    "SampleSizeMetadata": {
+      "SampleSize": {
+        "Unweighted": 6178.0,
+        "Weighted": 6178.0
+      },
+      "SampleSizeByMetric": null,
+      "SampleSizeByEntity": {
+        "ASK Italian": {
+          "Unweighted": 1545.0,
+          "Weighted": 1545.0
+        },
+        "Asda caf�": {
+          "Unweighted": 1546.0,
+          "Weighted": 1546.0
+        },
+        "Starbucks": {
+          "Unweighted": 1545.0,
+          "Weighted": 1545.0
+        },
+        "Veggie Pret": {
+          "Unweighted": 1542.0,
+          "Weighted": 1542.0
+        }
+      },
+      "CurrentDate": "2022-05-31T00:00:00+00:00",
+      "SampleSizeEntityInstanceName": null
+    },
+    "HasData": true,
+    "LowSampleSummary": null,
+    "TrialRestrictedData": false
+  }
+]

@@ -1,0 +1,102 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Caring
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Classic
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Comfortable
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Confident
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Distinctive
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Energetic
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Exciting
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Expert
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Fresh
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Has a rich heritage
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Honest
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Iconic
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Innovative
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Inspiring
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Modern
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Premium
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Professional
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Quality
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Stylish
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Trusted
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Worth every penny
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Youthful
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Fun
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Inclusive
+  },
+  {
+    ClassInstanceId: 28,
+    Name: On-trend
+  }
+]

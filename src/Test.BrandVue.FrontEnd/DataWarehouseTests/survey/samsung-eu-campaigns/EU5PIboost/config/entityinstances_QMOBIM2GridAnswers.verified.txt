@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 25,
+    Name: Are distinctive
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Are a brand I would like to be seen with
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Makes my life better
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Speaks to me in a way I understand
+  },
+  {
+    ClassInstanceId: 29,
+    Name: I'd trust them to look after me if my phone went wrong (as a customer)
+  },
+  {
+    ClassInstanceId: 30,
+    Name: I like the values they stand for
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Are always improving with new features
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Is sustainably minded
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Is a brand I trust when it comes to data and privacy
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Offers benefits to owning multiple products from this brand
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Is a leader in AI for smartphones
+  },
+  {
+    ClassInstanceId: 57,
+    Name: I can trust the AI on their devices
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Their AI makes my life better
+  }
+]

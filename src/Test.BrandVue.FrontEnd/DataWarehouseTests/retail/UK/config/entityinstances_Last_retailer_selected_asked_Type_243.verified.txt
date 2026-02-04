@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Last retailer selected (Base Last_retailer_selected_asked)
+  }
+]

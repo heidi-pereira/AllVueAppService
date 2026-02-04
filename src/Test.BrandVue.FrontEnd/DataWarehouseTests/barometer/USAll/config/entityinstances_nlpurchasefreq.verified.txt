@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Once
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Twice
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 2-4 times
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 5 or more times
+  }
+]

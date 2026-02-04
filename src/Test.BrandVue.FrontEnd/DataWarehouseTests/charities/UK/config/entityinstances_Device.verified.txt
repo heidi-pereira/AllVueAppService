@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Smartphone
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tablet
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Laptop
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Desktop computer
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Smart watch
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Games console
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Portable gaming device (3DS, PSP)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: EBook Reader
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Mobile (non-smartphone)
+  },
+  {
+    ClassInstanceId: 10,
+    Name: VR headset
+  }
+]

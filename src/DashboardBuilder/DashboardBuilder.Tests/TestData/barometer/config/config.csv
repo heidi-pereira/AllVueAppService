@@ -1,0 +1,8 @@
+setting,value
+Name,Barometer
+Source database,Morar
+Short code,Barometer
+DashboardBuilderType,BrandVue
+DashboardBuilderSpecifics,BrandVue
+MonitorPingUrlSuccess,https://nosnch.in:443/cad157c393
+MonitorPingUrlFail,https://nosnch.in:443/cad157c393?s=1

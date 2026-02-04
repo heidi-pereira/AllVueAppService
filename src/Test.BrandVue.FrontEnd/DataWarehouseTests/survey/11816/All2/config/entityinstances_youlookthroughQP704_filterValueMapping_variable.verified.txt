@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes - always
+  },
+  {
+    ClassInstanceId: 1,
+    Name: No - never
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Rarely
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mostly
+  }
+]

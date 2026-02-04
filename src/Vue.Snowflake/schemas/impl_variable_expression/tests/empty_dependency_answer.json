@@ -1,0 +1,108 @@
+{
+    "answer_arrays_by_variable_identifier": {
+        "Seg1Net": [
+            [
+                1,
+                null,
+                null,
+                1
+            ]
+        ],
+        "Seg2Net": []
+    },
+    "definition": {
+        "CachedPythonExpression": "result.WeightingSegUk if ((result.WeightingSegUk == 1) and ((any((answer != None and answer >= 0) for answer in response.Seg1Net(WeightingSeg1=[1])) or any((answer != None and answer >= 0) for answer in response.Seg2Net(WeightingSeg2=[1]))))) or ((result.WeightingSegUk == 2) and ((any((answer != None and answer >= 0) for answer in response.Seg1Net(WeightingSeg1=[2])) or any((answer != None and answer >= 0) for answer in response.Seg2Net(WeightingSeg2=[2]))))) else None",
+        "Groups": [
+            {
+                "Component": {
+                    "CompositeVariableComponents": [
+                        {
+                            "AnswerMaximum": null,
+                            "AnswerMinimum": 0,
+                            "FromEntityTypeName": "WeightingSeg1",
+                            "FromVariableIdentifier": "Seg1Net",
+                            "InstanceIds": [
+                                1
+                            ],
+                            "Operator": 1,
+                            "ResultEntityTypeNames": [],
+                            "discriminator": "InstanceListVariableComponent"
+                        },
+                        {
+                            "AnswerMaximum": null,
+                            "AnswerMinimum": 0,
+                            "FromEntityTypeName": "WeightingSeg2",
+                            "FromVariableIdentifier": "Seg2Net",
+                            "InstanceIds": [
+                                1
+                            ],
+                            "Operator": 1,
+                            "ResultEntityTypeNames": [],
+                            "discriminator": "InstanceListVariableComponent"
+                        }
+                    ],
+                    "CompositeVariableSeparator": 1,
+                    "discriminator": "CompositeVariableComponent"
+                },
+                "ToEntityInstanceId": 1,
+                "ToEntityInstanceName": "ABC1"
+            },
+            {
+                "Component": {
+                    "CompositeVariableComponents": [
+                        {
+                            "AnswerMaximum": null,
+                            "AnswerMinimum": 0,
+                            "FromEntityTypeName": "WeightingSeg1",
+                            "FromVariableIdentifier": "Seg1Net",
+                            "InstanceIds": [
+                                2
+                            ],
+                            "Operator": 1,
+                            "ResultEntityTypeNames": [],
+                            "discriminator": "InstanceListVariableComponent"
+                        },
+                        {
+                            "AnswerMaximum": null,
+                            "AnswerMinimum": 0,
+                            "FromEntityTypeName": "WeightingSeg2",
+                            "FromVariableIdentifier": "Seg2Net",
+                            "InstanceIds": [
+                                2
+                            ],
+                            "Operator": 1,
+                            "ResultEntityTypeNames": [],
+                            "discriminator": "InstanceListVariableComponent"
+                        }
+                    ],
+                    "CompositeVariableSeparator": 1,
+                    "discriminator": "CompositeVariableComponent"
+                },
+                "ToEntityInstanceId": 2,
+                "ToEntityInstanceName": "C2DE"
+            }
+        ],
+        "ToEntityTypeDisplayNamePlural": "Socio Economic Groups",
+        "ToEntityTypeName": "WeightingSegUk",
+        "discriminator": "GroupedVariableDefinition"
+    },
+    "dependency_entity_types": {
+        "Seg1Net": [
+            "WeightingSeg1"
+        ],
+        "Seg2Net": [
+            "WeightingSeg2"
+        ]
+    },
+    "entity_identifiers": [
+        "WeightingSegUk"
+    ],
+    "entity_instance_arrays": [
+        [
+            2,
+            1
+        ]
+    ],
+    "python_expression": "result.WeightingSegUk if ((result.WeightingSegUk == 1) and ((any((answer != None and answer >= 0) for answer in response.Seg1Net(WeightingSeg1=[1])) or any((answer != None and answer >= 0) for answer in response.Seg2Net(WeightingSeg2=[1]))))) or ((result.WeightingSegUk == 2) and ((any((answer != None and answer >= 0) for answer in response.Seg1Net(WeightingSeg1=[2])) or any((answer != None and answer >= 0) for answer in response.Seg2Net(WeightingSeg2=[2]))))) else None",
+    "variable_type": "expression"
+}

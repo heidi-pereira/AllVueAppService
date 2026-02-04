@@ -1,0 +1,374 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 7-Eleven
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 99 Cents Only Stores
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ace Hardware
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Albertsons
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Aldi
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Amazon Fresh
+  },
+  {
+    ClassInstanceId: 8,
+    Name: American Girl
+  },
+  {
+    ClassInstanceId: 9,
+    Name: American Greetings
+  },
+  {
+    ClassInstanceId: 10,
+    Name: American Standard
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Anthropologie
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Ashley
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Babies 'R' Us
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Bang & Olufsen
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Barnes & Noble
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Bass Pro Shops
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Bath & Body Works
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Bed Bath and Beyond
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Best Buy
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Big Lots
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Bloomingdale's
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Build-A-Bear Workshop
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Burlington
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Circle K
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Claire's
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Costco
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Crate & Barrel
+  },
+  {
+    ClassInstanceId: 28,
+    Name: CVS
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Delta Faucet
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Dick's
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Dillard's
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Disney Store
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Dollar General Corp.
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Dollar Tree
+  },
+  {
+    ClassInstanceId: 35,
+    Name: Ebay
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Family Dollar
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Food Lion
+  },
+  {
+    ClassInstanceId: 38,
+    Name: GNC
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Hallmark
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Home Depot
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Home Goods
+  },
+  {
+    ClassInstanceId: 42,
+    Name: IKEA
+  },
+  {
+    ClassInstanceId: 43,
+    Name: J. C. Penney
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Jared
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Kay
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Kirkland Signature
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Kmart
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Kohl's
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Kroger
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Lord & Taylor
+  },
+  {
+    ClassInstanceId: 51,
+    Name: Lowe's
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Lush
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Macy's
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Marshalls
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Mattress Firm
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Nautica
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Neiman Marcus
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Nordstrom Rack
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Office Depot / Office Max
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Party City
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Payless
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Petco
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Petsmart
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Piggly Wiggly
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Pottery Barn
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Publix
+  },
+  {
+    ClassInstanceId: 67,
+    Name: RadioShack
+  },
+  {
+    ClassInstanceId: 68,
+    Name: Rite Aid
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Safeway
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Sam's Club
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Save-A-Lot
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Sears
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Sephora
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Staples
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Sugar Babies
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Target
+  },
+  {
+    ClassInstanceId: 77,
+    Name: The Body Shop
+  },
+  {
+    ClassInstanceId: 78,
+    Name: The LEGO Store
+  },
+  {
+    ClassInstanceId: 79,
+    Name: The Vitamin Shoppe
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Toys 'R' Us
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Trader Joe's
+  },
+  {
+    ClassInstanceId: 82,
+    Name: True Value
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Valspar
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Walgreens
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Walmart
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Whole Foods Market
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Winn-Dixie
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Yankee Candle
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Yelloh!
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Zales
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Hannaford
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Stop & Shop
+  }
+]

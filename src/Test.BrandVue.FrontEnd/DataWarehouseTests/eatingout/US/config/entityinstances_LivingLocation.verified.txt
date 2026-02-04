@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Urban / in the city
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Suburban / outskirts of town
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Rural
+  }
+]

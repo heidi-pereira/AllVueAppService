@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Boosts your immune system
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Improves gut health
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Is anti-inflammatory
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Aids relaxation / sleep
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Supports general health and wellbeing
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Improves energy levels
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Improves brain function
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Provides slow release energy
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Is fortified with vitamins and minerals
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

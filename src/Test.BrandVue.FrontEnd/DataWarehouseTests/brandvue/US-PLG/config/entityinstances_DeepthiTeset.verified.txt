@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Deepthi Teset
+  },
+  {
+    ClassInstanceId: 2,
+    Name: New group 2
+  }
+]

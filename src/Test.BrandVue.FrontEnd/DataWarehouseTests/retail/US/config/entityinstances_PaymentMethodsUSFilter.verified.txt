@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cash
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Debit Card
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Credit Card
+  },
+  {
+    ClassInstanceId: 4,
+    Name: PayPal / Apple Pay / Google Pay etc
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Coupon (Gift / other coupon)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Used existing account / credit facility with brand
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Took out new credit / Set up new account with brand
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Other
+  }
+]

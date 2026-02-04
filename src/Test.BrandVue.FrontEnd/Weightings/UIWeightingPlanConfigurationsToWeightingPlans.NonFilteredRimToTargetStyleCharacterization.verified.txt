@@ -1,0 +1,105 @@
+﻿{
+  Children: {
+    0: {
+      Children: {
+        1: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        2: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        3: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        4: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        }
+      },
+      FilterMetricName: Household composition_2
+    },
+    1: {
+      Children: {
+        1: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        2: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        3: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        4: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        }
+      },
+      FilterMetricName: Household composition_2
+    },
+    2: {
+      Children: {
+        1: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        2: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        3: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        4: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        }
+      },
+      FilterMetricName: Household composition_2
+    },
+    3: {
+      Children: {
+        1: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        2: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        3: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        },
+        4: {
+          ExistingQuotaCell: null,
+          IsResponseLevelWeighting: false,
+          WeightingGroupId: 1
+        }
+      },
+      FilterMetricName: Household composition_2
+    }
+  },
+  FilterMetricName: Gender
+}

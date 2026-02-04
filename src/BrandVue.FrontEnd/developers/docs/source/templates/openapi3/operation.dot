@@ -1,0 +1,53 @@
+{{ data.methodUpper = data.method.verb.toUpperCase(); }}
+{{ data.url = data.utils.slashes(data.baseUrl + data.method.path); }}
+{{ data.parameters = data.operation.parameters; }}
+{{ data.enums = []; }}
+{{ data.utils.fakeProdCons(data); }}
+{{ data.utils.fakeBodyParameter(data); }}
+{{ data.utils.mergePathParameters(data); }}
+{{ data.utils.getParameters(data); }}
+{{ var id = data.operationUniqueName;}}
+{{ if (data.method.operation.deprecated)  id = id + '_deprecated';}}
+
+<h2 id="{{= id}}">{{= data.operationUniqueName}}</h2>
+
+{{ if(data.method.operation.deprecated) { }}
+  <p>
+    {{='&lt;span class="obsolete"&gt;DEPRECATED&lt;/span&gt;'}}
+  </p>
+{{ } }}
+
+<p><code>
+  {{= data.methodUpper}} {{=data.method.path.replace(/(\{.*?\})/g, '&lt;span class="url-parameter"&gt;$1&lt;/span&gt;')}}
+</code></p>
+
+{{? data.options.codeSamples || data.operation["x-code-samples"] }}
+> Code samples
+{{= data.utils.getCodeSamples(data) }}
+{{?}}
+
+{{? data.operation.requestBody}}
+> Body parameter
+
+{{? data.bodyParameter.exampleValues.description }}
+> {{= data.bodyParameter.exampleValues.description }}
+{{?}}
+
+{{= data.utils.getBodyParameterExamples(data) }}
+{{?}}
+
+{{? data.operation.operationId}}
+<a id="opId{{=data.operation.operationId}}"></a>
+{{?}}
+
+{{? data.operation.summary && !data.options.tocSummary}}*{{= data.operation.summary }}*{{?}}
+
+{{? data.operation.description}}{{= data.operation.description }}{{?}}
+
+{{#def.responses}}
+
+{{? data.parameters && data.parameters.length }}
+{{#def.parameters}}
+{{?}}
+
+{{#def.callbacks}}

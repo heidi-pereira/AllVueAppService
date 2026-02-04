@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Premium
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Innovative
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Trendy
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Unique
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Good value
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Safe choice
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Trustworthy
+  },
+  {
+    ClassInstanceId: 8,
+    Name: High quality
+  }
+]

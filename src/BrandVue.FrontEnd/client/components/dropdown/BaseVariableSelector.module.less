@@ -1,0 +1,40 @@
+﻿@import "../../../less/_vars";
+@import "../../../less/_layout";
+
+.controlGroup {
+    .flex-row(@justify-content: flex-start, @align-items: flex-end);
+    flex: 0;
+    gap: 10px;
+    margin-bottom: 16px;
+    padding: 12px 16px;
+    box-shadow: 0 0 6px @chalk;
+    width: fit-content;
+}
+
+.control {
+    .flex-column();
+
+    .dropdown {
+        .toggle {
+            border: solid 1px @blueSteel;
+        }
+
+        &.comparisonType {
+            min-width: 240px;
+        }
+    }
+}
+
+.controlButton {
+    min-width: min-content;
+}
+
+.button {
+    margin-bottom: 1px;
+
+    &.disabled {
+        background-color: @chalk;
+        border-color: @chalk;
+        pointer-events: none;
+    }
+}

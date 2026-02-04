@@ -1,0 +1,67 @@
+﻿.searchable-checkbox-list {
+    .flex-column();
+    flex: 1 1 auto;
+    border: 1px solid @slate-lighter;
+    border-radius: 4px;
+
+    .search-container {
+        margin: 0;
+    }
+
+    .count-and-buttons {
+        .flex-row(@justify-content: space-between; @align-items: center;);
+        padding: 15px 10px;
+
+        .buttons {
+            display: flex;
+            gap: 8px;            
+        }
+
+        .count {
+            color: @slate-dark;
+
+            strong {
+                font-weight: 500;
+            }
+        }
+    }
+
+    .item-list {
+        flex: 1 1 0;
+        margin: 0 10px 10px 0;
+        overflow-y: auto;
+        .scrollbars;
+        min-height: 190px;
+
+        .item {
+            .flex-row();
+            padding: 8px 10px 8px 20px;
+            color: @slate-darker;
+
+            &:hover {
+                label::before {
+                    border-color: @slate;
+                }
+            }
+
+            &:active {
+                label::before {
+                    box-shadow: 0 0 1px 2px rgba(93, 174, 212, 0.25);
+                }
+            }
+
+            .checkbox {
+                &:checked + label,
+                &:checked ~ .name-container {
+                    font-weight: 500;
+                }
+            }
+        }
+
+        .no-results {
+            .flex-row(@justify-content: center, @align-items: center);
+            height: 100%;
+            color: @slate;
+        }
+    }
+}

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supported fundraising event:Cycling triathlon (Base Supported_fundraising_Cycling_triathlon)
+  }
+]

@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In-person, in a store
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Online, through their website
+  }
+]

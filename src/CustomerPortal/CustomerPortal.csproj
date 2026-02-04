@@ -1,0 +1,131 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
+    <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
+    <IsPackable>false</IsPackable>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <LangVersion>latest</LangVersion>
+    <AppendTargetFrameworkToOutputPath>True</AppendTargetFrameworkToOutputPath>
+    <UserSecretsId>472f9117-7749-47ce-ae4c-e514ff155519</UserSecretsId>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Company>Savanta Group Ltd.</Company>
+    <Product>CustomerPortal</Product>
+    <Copyright>Copyright © Savanta Group Ltd. 2020</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Egnyte.Api" Version="2.4.1" />
+    <PackageReference Include="Faker.Data" Version="2.0.1" />
+    <PackageReference Include="IdentityModel" Version="5.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="8.0.20" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection.Abstractions" Version="8.0.20" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="8.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel" Version="7.0.0" />
+    <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="5.9.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="mixpanel-csharp" Version="6.0.0" />
+    <PackageReference Include="NSwag.AspNetCore" Version="14.0.7" />
+    <PackageReference Include="Savanta.Logging" Version="1.1.38" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="ClientApp\models\**" />
+    <Compile Remove="obj\bin\**" />
+    <Compile Remove="publish\**" />
+    <Content Remove="obj\bin\**" />
+    <Content Remove="publish\**" />
+    <Content Remove="wwwroot\**" />
+    <Content Remove="ClientApp\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="ClientApp\models\**" />
+    <EmbeddedResource Remove="obj\bin\**" />
+    <EmbeddedResource Remove="publish\**" />
+    <None Remove="ClientApp\models\**" />
+    <None Remove="obj\bin\**" />
+    <None Remove="publish\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="ClientApp\cards\OpenSurveyCard.tsx" />
+    <None Remove="ClientApp\cards\SurveyDetailsCard.tsx" />
+    <None Remove="ClientApp\clientBase.ts" />
+    <None Remove="ClientApp\components\shared\AccountButton.tsx" />
+    <None Remove="ClientApp\components\shared\Indicators.tsx" />
+    <None Remove="ClientApp\pages\SurveyDetailsContainerPage.tsx" />
+    <None Remove="ClientApp\pages\SurveyDocumentsPage.tsx" />
+    <None Remove="ClientApp\pages\SurveyQuotasPage.tsx" />
+    <None Remove="ClientApp\store\dataLoading.tsx" />
+    <None Remove="ClientApp\store\indicatorsProvider.tsx" />
+    <None Remove="ClientApp\store\searchProvider.tsx" />
+    <None Remove="ClientApp\store\SelectedSurveyProvider.tsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\cards\SurveyCard.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\shared\AccountButton.tsx" />
+    <TypeScriptCompile Include="ClientApp\store\dataLoading.tsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\cards\SurveyDetailsCard.tsx" />
+    <TypeScriptCompile Include="ClientApp\clientBase.ts" />
+    <TypeScriptCompile Include="ClientApp\components\shared\Indicators.tsx" />
+    <TypeScriptCompile Include="ClientApp\pages\SurveyDetailsContainerPage.tsx" />
+    <TypeScriptCompile Include="ClientApp\pages\SurveyQuotasPage.tsx" />
+    <TypeScriptCompile Include="ClientApp\pages\SurveyDocumentsPage.tsx" />
+    <TypeScriptCompile Include="ClientApp\store\indicatorsProvider.tsx" />
+    <TypeScriptCompile Include="ClientApp\store\searchProvider.tsx" />
+    <TypeScriptCompile Include="ClientApp\store\selectedSurveyProvider.tsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="wwwroot\favicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\NSwag\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\dist\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BrandVue.EntityFramework\BrandVue.EntityFramework.csproj" />
+    <ProjectReference Include="..\CustomerPortal.Shared\CustomerPortal.Shared.csproj" />
+    <ProjectReference Include="..\Vue.Common\Vue.Common.csproj" />
+  </ItemGroup>
+  <Target Name="BuildApi" AfterTargets="Build" Condition=" '$(Configuration)' == 'Debug' ">
+    <Exec Command="npm run build:api" />
+  </Target>
+  <Target Name="DebugRunWebpack" AfterTargets="Build" Condition=" '$(Configuration)' == 'Debug' And (!Exists('wwwroot\dist') OR Exists('wwwroot\dist\production_build')) ">
+    <Exec Command="node --version" ContinueOnError="true">
+      <Output TaskParameter="ExitCode" PropertyName="ErrorCode" />
+    </Exec>
+    <Exec Command="npm run build:dev" />
+    <Error Condition="'$(ErrorCode)' != '0'" Text="Node.js is required to build and run this project. To continue, please install Node.js from https://nodejs.org/, and then restart your command prompt or IDE." />
+  </Target>
+  <Target Name="PublishRunWebpack" AfterTargets="ComputeFilesToPublish">
+    <Exec Command="npm install" />
+    <Exec Command="npm run build:api -- /variables:Configuration=$(Configuration)" />
+    <Exec Command="npm run build:prod" />
+    <ItemGroup>
+      <DistFiles Include="wwwroot\dist\**; ClientApp\dist\**" Exclude="wwwroot\dist\production_build" />
+      <ResolvedFileToPublish Include="@(DistFiles->'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(DistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+</Project>

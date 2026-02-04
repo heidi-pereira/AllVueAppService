@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: -1 week
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Unpacked
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Pre-order
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Launch
+  },
+  {
+    ClassInstanceId: 5,
+    Name: +1 Week
+  }
+]

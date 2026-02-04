@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No - but I do have a card / mobile device that can make contactless payments
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No - and I don't think I have a card / mobile device that can make contactless payments
+  },
+  {
+    ClassInstanceId: 99,
+    Name: I do not know what contactless payments are
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Prefer not to say
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: No advert shown
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Placeholder 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Placeholder 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Placeholder 3
+  }
+]

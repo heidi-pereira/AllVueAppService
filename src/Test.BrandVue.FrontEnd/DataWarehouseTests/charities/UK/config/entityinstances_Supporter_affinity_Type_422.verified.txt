@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Supporter Love (Base Supporter_affinity)
+  }
+]

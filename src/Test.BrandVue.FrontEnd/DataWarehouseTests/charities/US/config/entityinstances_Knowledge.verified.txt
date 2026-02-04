@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have a good understanding of their cause / what they do
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have a general understanding of their cause / what they do
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I know the general cause they work with but not sure what they do
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have a limited knowledge of them
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Jamie Oliver has increased my understanding of Samsung Bespoke AI
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Jamie Oliver and Samsung are a good fit
+  },
+  {
+    ClassInstanceId: 3,
+    Name: The Jamie Oliver x Samsung Bespoke AI partnership makes me more likely to buy Samsung home appliances
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the these
+  }
+]

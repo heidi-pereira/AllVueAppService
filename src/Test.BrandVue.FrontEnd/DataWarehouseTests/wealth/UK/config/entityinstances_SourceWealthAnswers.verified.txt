@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Inheritance
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Sale of a business / businesses
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Large bonus
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Savings through earnings / small bonuses over time
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Personal investments
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Profit from property
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Other (please specify)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Product channel:In-person, in a store (Base Product_channel)
+  }
+]

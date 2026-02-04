@@ -1,0 +1,10 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Consider
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Non Consider
+  }
+]

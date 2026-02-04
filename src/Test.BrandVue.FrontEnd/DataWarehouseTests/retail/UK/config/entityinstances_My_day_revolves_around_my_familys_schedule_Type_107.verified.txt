@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes Filter - My day revolves around my family's schedule (Base My_day_revolves_around_my_familys_schedule)
+  }
+]

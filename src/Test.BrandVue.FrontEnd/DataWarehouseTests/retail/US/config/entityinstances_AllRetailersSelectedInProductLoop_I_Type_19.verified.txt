@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: AllRetailersSelectedInProductLoop I (Base AllRetailersSelectedInProductLoop_I)
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I always buy from premium / luxury brands
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I sometimes buy from premium / luxury brands
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I never buy from premium / luxury brands
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I don’t buy this at all
+  }
+]

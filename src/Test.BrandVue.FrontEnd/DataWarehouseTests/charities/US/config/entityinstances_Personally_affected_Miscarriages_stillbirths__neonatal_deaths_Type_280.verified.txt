@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Personally affected:Miscarriages or stillbirths & neonatal deaths (Base Personally_affected_Miscarriages_stillbirths__neonatal_deaths)
+  }
+]

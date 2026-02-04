@@ -1,0 +1,18 @@
+﻿[
+  {
+    Invert: false,
+    IsRange: false,
+    Name: Fem:ale,
+    Values: [
+      0
+    ]
+  },
+  {
+    Invert: false,
+    IsRange: false,
+    Name: Ma:le,
+    Values: [
+      1
+    ]
+  }
+]

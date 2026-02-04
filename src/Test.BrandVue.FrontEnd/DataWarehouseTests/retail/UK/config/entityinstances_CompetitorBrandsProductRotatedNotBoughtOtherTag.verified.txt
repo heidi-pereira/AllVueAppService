@@ -1,0 +1,802 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: I only visited / researched the retailer I bought from
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 3 Store
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Abel & Cole
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Aldi
+  },
+  {
+    ClassInstanceId: 4,
+    Name: AliExpress
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Al-Murad Tiles
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Amazon
+  },
+  {
+    ClassInstanceId: 7,
+    Name: AO.com
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Apple
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Appliances Direct
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Argos
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Asda
+  },
+  {
+    ClassInstanceId: 12,
+    Name: B&M
+  },
+  {
+    ClassInstanceId: 13,
+    Name: B&Q
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Bathstore
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Beales
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Benchmarx
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Bensons for Beds
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Better Bathrooms
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Bodycare
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Booths
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Boots
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Boyes
+  },
+  {
+    ClassInstanceId: 23,
+    Name: BrightHouse
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Budgens
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Build A Bear
+  },
+  {
+    ClassInstanceId: 26,
+    Name: cardfactory
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Cards Galore
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Cardzone
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Carpet Right
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Carphone Warehouse
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Casper
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Cath Kidston
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Clas Ohlson
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Clintons
+  },
+  {
+    ClassInstanceId: 35,
+    Name: COOK
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Co-op
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Costcutter
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Crown Decorating Centre
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Currys
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Debenhams
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Dell
+  },
+  {
+    ClassInstanceId: 42,
+    Name: DFS
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Dobbies Garden Centre
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Dreams
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Dulux Decorator Centre
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Dunelm
+  },
+  {
+    ClassInstanceId: 47,
+    Name: Dwell
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Early Learning Centre
+  },
+  {
+    ClassInstanceId: 49,
+    Name: eBay
+  },
+  {
+    ClassInstanceId: 50,
+    Name: eBuyer
+  },
+  {
+    ClassInstanceId: 51,
+    Name: EE
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Etsy
+  },
+  {
+    ClassInstanceId: 53,
+    Name: Euronics
+  },
+  {
+    ClassInstanceId: 54,
+    Name: EVE
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Facebook Marketplace
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Farmfoods
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Feel Unique
+  },
+  {
+    ClassInstanceId: 58,
+    Name: Pet Supermarket
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Fired Earth
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Flying Tiger
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Fragrance Direct
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Fulton's Foods
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Funky Pigeon
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Furniture Village
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Futon Company
+  },
+  {
+    ClassInstanceId: 66,
+    Name: GAME
+  },
+  {
+    ClassInstanceId: 67,
+    Name: GNC
+  },
+  {
+    ClassInstanceId: 68,
+    Name: Go Mobile
+  },
+  {
+    ClassInstanceId: 69,
+    Name: Gousto
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Granite Transformations
+  },
+  {
+    ClassInstanceId: 71,
+    Name: Grape Tree
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Gumtree
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Habitat
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Halfords
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Hallmark
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Hamleys
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Hammonds
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Harvey Jones Kitchens
+  },
+  {
+    ClassInstanceId: 79,
+    Name: Harveys
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Hawkin's Bazaar
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Hello Fresh
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Heron Foods
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Hillarys
+  },
+  {
+    ClassInstanceId: 84,
+    Name: HMV
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Hobbycraft
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Holland & Barrett
+  },
+  {
+    ClassInstanceId: 87,
+    Name: Home Bargains
+  },
+  {
+    ClassInstanceId: 88,
+    Name: Homebase
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Homesense
+  },
+  {
+    ClassInstanceId: 90,
+    Name: House of Fraser
+  },
+  {
+    ClassInstanceId: 91,
+    Name: Howdens
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Iceland
+  },
+  {
+    ClassInstanceId: 93,
+    Name: IKEA
+  },
+  {
+    ClassInstanceId: 94,
+    Name: JD Williams
+  },
+  {
+    ClassInstanceId: 95,
+    Name: John Lewis
+  },
+  {
+    ClassInstanceId: 96,
+    Name: Johnstones
+  },
+  {
+    ClassInstanceId: 97,
+    Name: Jollyes Petfood Superstore
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Julian Charles Home
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Lakeland
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Laptops Direct
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Laura Ashley
+  },
+  {
+    ClassInstanceId: 102,
+    Name: Le Creuset
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Leyland Trade Centres
+  },
+  {
+    ClassInstanceId: 104,
+    Name: Lidl
+  },
+  {
+    ClassInstanceId: 105,
+    Name: Littlewoods
+  },
+  {
+    ClassInstanceId: 106,
+    Name: Lloyds Pharmacy
+  },
+  {
+    ClassInstanceId: 107,
+    Name: Loaf
+  },
+  {
+    ClassInstanceId: 108,
+    Name: Londis
+  },
+  {
+    ClassInstanceId: 109,
+    Name: Look Fantastic
+  },
+  {
+    ClassInstanceId: 110,
+    Name: Lush
+  },
+  {
+    ClassInstanceId: 111,
+    Name: M&S
+  },
+  {
+    ClassInstanceId: 112,
+    Name: M&S Simply Food
+  },
+  {
+    ClassInstanceId: 113,
+    Name: MADE
+  },
+  {
+    ClassInstanceId: 114,
+    Name: Magnet
+  },
+  {
+    ClassInstanceId: 115,
+    Name: Maisons du Monde
+  },
+  {
+    ClassInstanceId: 116,
+    Name: Majestic
+  },
+  {
+    ClassInstanceId: 117,
+    Name: Mamas & Papas
+  },
+  {
+    ClassInstanceId: 118,
+    Name: Matalan
+  },
+  {
+    ClassInstanceId: 119,
+    Name: Mattressman
+  },
+  {
+    ClassInstanceId: 120,
+    Name: Moonpig
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Morrisons
+  },
+  {
+    ClassInstanceId: 122,
+    Name: Mothercare
+  },
+  {
+    ClassInstanceId: 123,
+    Name: Next Home
+  },
+  {
+    ClassInstanceId: 124,
+    Name: Nisa
+  },
+  {
+    ClassInstanceId: 125,
+    Name: Not on the high street
+  },
+  {
+    ClassInstanceId: 126,
+    Name: Nottcutts
+  },
+  {
+    ClassInstanceId: 127,
+    Name: O2
+  },
+  {
+    ClassInstanceId: 128,
+    Name: Oak Furniture Land
+  },
+  {
+    ClassInstanceId: 129,
+    Name: Ocado
+  },
+  {
+    ClassInstanceId: 130,
+    Name: Oddbins
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Office Outlet
+  },
+  {
+    ClassInstanceId: 132,
+    Name: Office World
+  },
+  {
+    ClassInstanceId: 133,
+    Name: Oliver Bonas
+  },
+  {
+    ClassInstanceId: 134,
+    Name: Paperchase
+  },
+  {
+    ClassInstanceId: 135,
+    Name: Pets At Home
+  },
+  {
+    ClassInstanceId: 136,
+    Name: Pets Corner
+  },
+  {
+    ClassInstanceId: 137,
+    Name: Ponden
+  },
+  {
+    ClassInstanceId: 138,
+    Name: Poundland
+  },
+  {
+    ClassInstanceId: 139,
+    Name: Poundstretcher
+  },
+  {
+    ClassInstanceId: 140,
+    Name: ProCook
+  },
+  {
+    ClassInstanceId: 141,
+    Name: QVC
+  },
+  {
+    ClassInstanceId: 142,
+    Name: Richer Sounds
+  },
+  {
+    ClassInstanceId: 143,
+    Name: Riverford
+  },
+  {
+    ClassInstanceId: 144,
+    Name: Robert Dyas
+  },
+  {
+    ClassInstanceId: 145,
+    Name: Ryman
+  },
+  {
+    ClassInstanceId: 146,
+    Name: Sainsbury's
+  },
+  {
+    ClassInstanceId: 147,
+    Name: Samsung
+  },
+  {
+    ClassInstanceId: 148,
+    Name: Savers
+  },
+  {
+    ClassInstanceId: 149,
+    Name: ScrewFix
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Scribbler
+  },
+  {
+    ClassInstanceId: 151,
+    Name: ScS
+  },
+  {
+    ClassInstanceId: 152,
+    Name: Semichem
+  },
+  {
+    ClassInstanceId: 153,
+    Name: Sharps
+  },
+  {
+    ClassInstanceId: 154,
+    Name: Silentnight
+  },
+  {
+    ClassInstanceId: 155,
+    Name: Simba
+  },
+  {
+    ClassInstanceId: 156,
+    Name: Simply Cook
+  },
+  {
+    ClassInstanceId: 157,
+    Name: Sofa Workshop
+  },
+  {
+    ClassInstanceId: 158,
+    Name: Sofa.com
+  },
+  {
+    ClassInstanceId: 159,
+    Name: Sofology
+  },
+  {
+    ClassInstanceId: 160,
+    Name: Spar
+  },
+  {
+    ClassInstanceId: 161,
+    Name: Superdrug
+  },
+  {
+    ClassInstanceId: 162,
+    Name: Swoon
+  },
+  {
+    ClassInstanceId: 163,
+    Name: Tapi Carpets
+  },
+  {
+    ClassInstanceId: 164,
+    Name: Tesco
+  },
+  {
+    ClassInstanceId: 165,
+    Name: The Body Shop
+  },
+  {
+    ClassInstanceId: 166,
+    Name: The Disney Store
+  },
+  {
+    ClassInstanceId: 167,
+    Name: The Entertainer
+  },
+  {
+    ClassInstanceId: 168,
+    Name: The Food Warehouse
+  },
+  {
+    ClassInstanceId: 169,
+    Name: The Fragrance Shop
+  },
+  {
+    ClassInstanceId: 170,
+    Name: The Original Factory Shop
+  },
+  {
+    ClassInstanceId: 171,
+    Name: The Perfume Shop
+  },
+  {
+    ClassInstanceId: 172,
+    Name: The Range
+  },
+  {
+    ClassInstanceId: 173,
+    Name: The White Company
+  },
+  {
+    ClassInstanceId: 174,
+    Name: The Works
+  },
+  {
+    ClassInstanceId: 175,
+    Name: Tile Giant
+  },
+  {
+    ClassInstanceId: 176,
+    Name: TK Maxx
+  },
+  {
+    ClassInstanceId: 177,
+    Name: Toolstation
+  },
+  {
+    ClassInstanceId: 178,
+    Name: Topps Tiles
+  },
+  {
+    ClassInstanceId: 179,
+    Name: Toymaster
+  },
+  {
+    ClassInstanceId: 180,
+    Name: Travis Perkins
+  },
+  {
+    ClassInstanceId: 181,
+    Name: United Carpets
+  },
+  {
+    ClassInstanceId: 182,
+    Name: Very.co.uk
+  },
+  {
+    ClassInstanceId: 183,
+    Name: Victoria Plum
+  },
+  {
+    ClassInstanceId: 184,
+    Name: Vodafone
+  },
+  {
+    ClassInstanceId: 185,
+    Name: Waitrose
+  },
+  {
+    ClassInstanceId: 186,
+    Name: Waterstones
+  },
+  {
+    ClassInstanceId: 187,
+    Name: Wayfair.co.uk
+  },
+  {
+    ClassInstanceId: 188,
+    Name: WHSmith
+  },
+  {
+    ClassInstanceId: 189,
+    Name: Wickes
+  },
+  {
+    ClassInstanceId: 190,
+    Name: Wilko
+  },
+  {
+    ClassInstanceId: 191,
+    Name: Wren Kitchens
+  },
+  {
+    ClassInstanceId: 192,
+    Name: Wyevale Garden Centres
+  },
+  {
+    ClassInstanceId: 193,
+    Name: Zara Home
+  },
+  {
+    ClassInstanceId: 194,
+    Name: Soak
+  },
+  {
+    ClassInstanceId: 195,
+    Name: Naked Wines
+  },
+  {
+    ClassInstanceId: 196,
+    Name: Prime
+  },
+  {
+    ClassInstanceId: 197,
+    Name: Amazon Fresh
+  },
+  {
+    ClassInstanceId: 198,
+    Name: Selfridges
+  },
+  {
+    ClassInstanceId: 100001,
+    Name: Other retailer(s) (please specify)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Net Buzz (Base Consumer_segment)
+  }
+]

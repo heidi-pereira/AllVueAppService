@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Region:South (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "SubsetId": "UK",
+        "SchemaName": "dbo",
+        "FieldDefinitions": [
+            {
+                "Name": "Gender",
+                "ColumnName": "Gender",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Age",
+                "ColumnName": "Age",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Country",
+                "ColumnName": "Country",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Region",
+                "ColumnName": "Region",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Region",
+                "ColumnName": "Region",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Location",
+                "ColumnName": "Location",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Dress_size_female",
+                "ColumnName": "Dress_size_female",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Household_Income",
+                "ColumnName": "Household_Income",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Ethnicity",
+                "ColumnName": "Ethnicity",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "SEG1",
+                "ColumnName": "SEG1",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "SEG2",
+                "ColumnName": "SEG2",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Positive_buzz",
+                "ColumnName": "Positive_buzz",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Negative_buzz",
+                "ColumnName": "Negative_buzz",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Purchase_frequency_instore",
+                "ColumnName": "Purchase_frequency_instore",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Recommendation",
+                "ColumnName": "Recommendation",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Shopper_segment",
+                "ColumnName": "Shopper_segment",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            }
+        ]
+    },
+    {
+        "SubsetId": "US",
+        "SchemaName": "dbo",
+        "FieldDefinitions": [
+            {
+                "Name": "Gender",
+                "ColumnName": "Gender",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Age",
+                "ColumnName": "Age",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Country",
+                "ColumnName": "Country",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Region",
+                "ColumnName": "Region",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Region",
+                "ColumnName": "Region",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Location",
+                "ColumnName": "Location",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Dress_size_female",
+                "ColumnName": "Dress_size_female",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Household_Income",
+                "ColumnName": "Household_Income",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Ethnicity",
+                "ColumnName": "Ethnicity",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "SEG1",
+                "ColumnName": "SEG1",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "SEG2",
+                "ColumnName": "SEG2",
+                "EntityDefinitions": [],
+                "TableName": "ProfileFields"
+            },
+            {
+                "Name": "Positive_buzz",
+                "ColumnName": "Positive_buzz",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Negative_buzz",
+                "ColumnName": "Negative_buzz",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Purchase_frequency_instore",
+                "ColumnName": "Purchase_frequency_instore",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Recommendation",
+                "ColumnName": "Recommendation",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            },
+            {
+                "Name": "Shopper_segment",
+                "ColumnName": "Shopper_segment",
+                "EntityDefinitions": [
+                    {
+                        "EntityType": "Brand",
+                        "ColumnName": "brandId",
+                        "EntityIdentifier": "Brand"
+                    }
+                ],
+                "TableName": "BrandFields"
+            }
+        ]
+    }
+]

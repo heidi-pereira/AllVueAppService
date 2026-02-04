@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: items either anotherLQ 2 (Base items_another_adult_LQ2)
+  }
+]

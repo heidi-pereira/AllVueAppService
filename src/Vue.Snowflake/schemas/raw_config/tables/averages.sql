@@ -1,0 +1,22 @@
+create or alter transient table raw_config.averages (
+    id number(10, 0) not null,
+    product_short_code varchar(20) not null,
+    sub_product_id varchar(256),
+    average_id varchar(100) not null,
+    display_name varchar(256) not null,
+    "ORDER" number(10, 0) not null,
+    totalisation_period_unit number(3, 0) not null,
+    number_of_periods_in_average number(10, 0) not null,
+    weighting_method number(3, 0) not null,
+    weight_across number(3, 0) not null,
+    average_strategy number(3, 0) not null,
+    make_up_to number(3, 0) not null,
+    weighting_period_unit number(3, 0) not null,
+    include_response_ids boolean not null,
+    is_default boolean not null,
+    allow_partial boolean not null,
+    disabled boolean not null,
+    subset_ids variant not null,
+    "GROUP" variant,
+    auth_company_short_code varchar(16777216)
+);

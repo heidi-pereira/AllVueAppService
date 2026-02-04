@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Heard or read positive things about
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Heard or read negative things about
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Neither
+  }
+]

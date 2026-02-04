@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: First
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Secojnd
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Thirdd
+  }
+]

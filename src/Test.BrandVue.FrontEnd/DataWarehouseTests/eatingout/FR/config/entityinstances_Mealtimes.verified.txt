@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Breakfast
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Lunch
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Evening meal
+  }
+]

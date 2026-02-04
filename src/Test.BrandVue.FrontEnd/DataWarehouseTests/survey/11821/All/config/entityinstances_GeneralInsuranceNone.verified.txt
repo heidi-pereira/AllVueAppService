@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Car insurance
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Home insurance (Building and / or contents)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Van insurance
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Travel insurance (including single trip or multi trip)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Pet insurance
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Classic Car insurance
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Motorbike insurance
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Breakdown cover
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Gadget insurance (including mobile phone)
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Buy to let  / landlord insurance
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Home emergency insurance (e.g. to cover events like a boiler breaking down etc.)
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Legal expenses insurance
+  }
+]

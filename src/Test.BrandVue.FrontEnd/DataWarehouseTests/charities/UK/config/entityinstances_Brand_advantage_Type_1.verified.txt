@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Advantage:Better than most other charities (Base Brand_advantage)
+  }
+]

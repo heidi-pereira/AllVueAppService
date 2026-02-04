@@ -1,0 +1,44 @@
+﻿.metric-change:extend(.card all) {
+    .flex-column(@gutter: 16px);
+
+    .content {
+        span {
+            font-weight: 500;
+
+            &.change-pos {
+                color: @good-green;
+            }
+
+            &.change-neg {
+                color: @bad-red;
+            }
+        }
+    }
+
+    .data {
+        .flex-row(@justify-content: space-between; @gutter: 12px);
+        flex-wrap: wrap;
+    }
+
+    .score-container {
+        .flex-row(@gutter: 12px);
+        .material-symbols-outlined + span {
+            margin-left: 0;
+        }
+    }
+
+    .rank-subtext {
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    .rank-positive,
+    .rank-negative,
+    .rank-neutral {
+        @media(max-width: 985px) {
+            margin-left: 0;
+        }
+    }
+
+    cursor: pointer;
+}

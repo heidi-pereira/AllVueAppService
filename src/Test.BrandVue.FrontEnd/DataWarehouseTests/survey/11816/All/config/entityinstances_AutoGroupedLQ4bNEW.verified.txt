@@ -1,0 +1,42 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: 0 - 9
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 10 - 19
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 20 - 29
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 30 - 39
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 40 - 50
+  },
+  {
+    ClassInstanceId: 6,
+    Name: 51 - 60
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 61 - 70
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 71 - 80
+  },
+  {
+    ClassInstanceId: 9,
+    Name: 81 - 90
+  },
+  {
+    ClassInstanceId: 10,
+    Name: 91 - 100
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Very conservative
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Conservative
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Moderate
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Liberal
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Very liberal
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Not sure / Don't know
+  }
+]

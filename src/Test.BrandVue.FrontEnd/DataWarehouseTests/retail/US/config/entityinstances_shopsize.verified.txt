@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Done a large grocery shop in-person, at a store, stocking up on a range of grocery / household items
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Done a small grocery shop in-person, at a store, buying item(s) to top up what you have at home
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Purchased groceries online, that were delivered to your home
+  }
+]

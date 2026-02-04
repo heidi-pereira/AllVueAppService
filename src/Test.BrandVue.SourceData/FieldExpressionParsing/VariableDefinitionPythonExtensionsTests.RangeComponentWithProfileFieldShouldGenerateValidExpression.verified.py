@@ -1,0 +1,1 @@
+﻿result.AgeCategory if ((result.AgeCategory == 1) and (any(1 <= r <= 80 for r in response.Age()))) or ((result.AgeCategory == 2) and (any(81 <= r <= 100 for r in response.Age()))) or ((result.AgeCategory == 3) and (any(101 <= r <= 120 for r in response.Age()))) else None

@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Facebook
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Instagram
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Snapchat
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Linkedin
+  },
+  {
+    ClassInstanceId: 5,
+    Name: X - formerly known as Twitter
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Pinterest
+  },
+  {
+    ClassInstanceId: 7,
+    Name: WhatsApp
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Facebook Messenger
+  },
+  {
+    ClassInstanceId: 9,
+    Name: TikTok
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Twitch
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Threads
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Other social media platforms
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None in the last week
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Skydiving
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Bungee jumping
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Skiing
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Mountain climbing
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Caving
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Canoeing
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Holiday types L12M (Base Consumer_segment)
+  }
+]

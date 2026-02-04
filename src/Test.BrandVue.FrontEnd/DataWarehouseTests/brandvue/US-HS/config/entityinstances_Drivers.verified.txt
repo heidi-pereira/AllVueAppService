@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Value for money
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quality of communications e.g. direct, social media, advertising etc.
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Quality of products / services
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Quality of experience e.g. in-person, online etc
+  }
+]

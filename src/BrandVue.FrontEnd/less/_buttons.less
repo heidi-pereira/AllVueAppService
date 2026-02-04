@@ -1,0 +1,404 @@
+@import "_vars";
+@import "_layout";
+
+.btn-secondary {
+    color: #000;
+    background-color: #fff;
+
+    &:hover {
+        background-color: #eee;
+        color: #000;
+    }
+
+    &:focus {
+        background-color: #fff;
+        color: #000;
+    }
+}
+
+.btn-secondary.disabled, .btn-secondary:disabled {
+    background-color: #fff;
+}
+
+.btn-menu {
+    border:none;
+
+    &:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+    &:hover {
+        border:none;
+    }
+
+    &:hover span.fsButtonText {
+        border-bottom: solid 1px currentColor;
+    }
+}
+
+.show>.btn-menu.dropdown-toggle {
+    color: #000;
+    background-color: unset;
+    box-shadow: unset;
+}
+
+.disabled {
+    color: #ccc;
+}
+
+/* Bootstrap overrides */
+
+.dropdown-toggle {
+    &.no-caret::before {
+        display: none;
+    }
+
+    &.no-caret::after {
+        display: none;
+    }
+}
+
+.btn.focus, .btn:focus {
+    box-shadow: none;
+               }
+
+.btn-secondary:not([disabled]):not(.disabled).active, .btn-secondary:not([disabled]):not(.disabled):active, .show > .btn-secondary.dropdown-toggle {
+                  color:#000;
+                  }
+
+.dropdown-toggle:after {
+                    margin-left: 1em;
+                    vertical-align: middle;
+                    }
+
+.btn-primary:not([disabled]):not(.disabled).active,
+.btn-primary:not([disabled]):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+    border-color: unset;
+    box-shadow: unset;
+}
+
+.btn-primary:not([disabled]):not(.disabled):hover,
+.btn-primary:not([disabled]):not(.disabled):focus {
+    background: darken(@blueSteel, 10%);
+}
+
+.btn-secondary:not([disabled]):not(.disabled).active,
+.btn-secondary:not([disabled]):not(.disabled):active,
+.show > .btn-secondary.dropdown-toggle {
+    box-shadow: unset;
+    background-color: unset;
+    border-color: unset;
+
+    &.hollow-button {
+        border-color: @blueSteel;
+        color: @blueSteel;
+        box-shadow: 0px 0px 3px 3px rgba(19, 118, 205, 0.32);
+
+        .material-symbols-outlined {
+            color: inherit;
+            transition: none;
+        }
+
+        &:hover {
+            background-color: @blueSteel-lighter;
+        }
+    }
+
+    &:focus {
+        box-shadow: unset;
+    }
+}
+
+/* Except in modals where we don't want the margin */
+/* Or on select for metrics */
+/* Or on select for brands */
+.modal-body .dropdown-toggle:after,
+.selectMetric .dropdown-toggle:after,
+.brandSelector .dropdown-toggle:after {
+    margin-left: 0px;
+}
+
+.selectMetric {
+    margin: 0 4px;
+}
+
+/* New button styles */
+
+.primary-button {
+    .flex-row(@gutter: 5px, @align-items: center);
+    font-size: 14px;
+    background-color: @blueSteel;
+    color: @white;
+    padding: 8px 10px;
+    line-height: 16px;
+    border: 1px solid @blueSteel;
+    border-radius: 4px;
+    outline: 0;
+    flex-shrink: 0;
+    transition: all 175ms ease;
+
+    .material-symbols-outlined {
+        font-size: 16px;
+    }
+
+    &:hover {
+        background-color: @blueSteel-dark;
+        border-color: @blueSteel-dark;
+    }
+
+    &:active,
+    &:focus,
+    &[aria-expanded="true"] {
+        box-shadow: 0px 0px 3px 3px rgba(19, 118, 205, 0.32);
+        outline: 0;
+    }
+
+    &:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+
+        &:hover {
+            background: @blueSteel;
+            border-color: @blueSteel;
+        }
+
+        &:active,
+        &:focus {
+            box-shadow: none;
+        }
+
+        &.loading {
+            position: relative;
+            overflow: hidden;
+
+            min-height: 34px;
+            min-width: 38px;
+
+            i {
+                display: none;
+            }
+
+            &::before {
+                content: "";
+                position: absolute;
+                width: 16px;
+                height: 16px;
+                z-index: -1;
+                background: url(../wwwroot/assets/icons/material/loading_white.svg) 0 0 no-repeat;
+                animation: spin 1s linear infinite;
+            }
+
+            div {
+                /* Added in here because we hide the <i> icon */
+                padding-left: 21px;
+            }
+        }
+    }
+}
+
+@-webkit-keyframes spin /* Safari and Chrome */ {
+    from {
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    to {
+        -webkit-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes spin {
+    from {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    to {
+        -ms-transform: rotate(359deg);
+        -moz-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+.secondary-button:extend(.primary-button all) {
+    border-color: @chalk-light;
+    background-color: @chalk-light;
+    color: @slate-dark;
+
+    &:hover {
+        background-color: @slate-lighter;
+        color: @slate-darker;
+        border-color: @slate-lighter;
+    }
+
+    &:active,
+    &:focus,
+    &[aria-expanded="true"] {
+        background-color: @slate-lighter;
+        color: @slate-darker;
+        border-color: @slate-lighter;
+        box-shadow: 0px 0px 3px 3px rgba(224, 226, 229, 0.48);
+    }
+
+    &:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+
+        &:hover {
+            background: @chalk-light;
+            border-color: @chalk-light;
+        }
+
+        &:active,
+        &:focus {
+            box-shadow: none;
+            background: @chalk-light;
+            border-color: @chalk-light;
+        }
+    }
+}
+
+.negative-button:extend(.primary-button all) {
+    border-color: @lava;
+    background-color: @lava;
+
+    &:hover {
+        background-color: @lava-dark;
+        border-color: @lava-dark;
+    }
+
+    &:active,
+    &:focus,
+    &[aria-expanded="true"] {
+        background-color: @lava-dark;
+        border-color: @lava-dark;
+        box-shadow: 0px 0px 3px 3px rgba(205, 19, 25, 0.24);
+    }
+
+    &:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+
+        &:hover {
+            background-color: @lava;
+            border-color: @lava-light;
+        }
+
+        &:active,
+        &:focus {
+            box-shadow: none;
+        }
+    }
+}
+
+.negative-button, .primary-button {
+    &.delay-click {
+        /* Allows the button to fade in after a delay (to reinforce a destructive action) */
+        animation: fadeIn 2.5s ease, delayClick 2s steps(1);
+    }
+}
+
+.hollow-button:extend(.primary-button all) {
+    .flex-row(@gutter: 5px, @align-items: center);
+    background: @white;
+    color: @blueSteel;
+
+    .material-symbols-outlined {
+        font-size: 16px;
+        color: @blueSteel;
+        transition: color 175ms ease;
+    }
+
+    &:hover {
+        color: @blueSteel-dark;
+        background: @blueSteel-lighter;
+
+        .material-symbols-outlined {
+            color: @blueSteel-dark;
+        }
+    }
+
+    &:focus,
+    &:active,
+    &[aria-expanded="true"] {
+        box-shadow: 0 0 2px 4px rgba(93, 174, 212, 0.25);
+    }
+
+    &:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+
+        &:hover {
+            color: @blueSteel;
+            background: @white;
+            border-color: @blueSteel;
+
+            .material-symbols-outlined {
+                color: @blueSteel;
+            }
+        }
+
+        &:focus,
+        &:active {
+            box-shadow: none;
+        }
+
+        &.loading {
+            position: relative;
+            overflow: hidden;
+
+            i {
+                display: none;
+            }
+
+            &::before {
+                content: "";
+                position: absolute;
+                width: 16px;
+                height: 16px;
+                z-index: -1;
+                background: url(../wwwroot/assets/icons/material/loading_bluesteel.svg) 0 0 no-repeat;
+                animation: spin 1s linear infinite;
+            }
+
+            div {
+                /* Added in here because we hide the <i> icon */
+                padding-left: 21px;
+            }
+        }
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0.3;
+    }
+
+    80% {
+        opacity: 0.3;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes delayClick {
+    from {
+        pointer-events: none;
+    }
+
+    to {
+        pointer-events: all;
+    }
+}

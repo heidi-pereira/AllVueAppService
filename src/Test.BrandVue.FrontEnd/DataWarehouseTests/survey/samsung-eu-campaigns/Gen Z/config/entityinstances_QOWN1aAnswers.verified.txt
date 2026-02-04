@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Smartphone
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Smart watch
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Headphones
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Tablet
+  }
+]

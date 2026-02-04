@@ -1,0 +1,18 @@
+span.text {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+span.icon {
+    height: 24px;
+}
+
+li.node > a:after {
+    content: '';
+    position: absolute;
+    right: 25px;
+    top: 20px;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 6px solid var(--header-text-colour);
+}

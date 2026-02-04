@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I’ve already bought the advertised product
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have already considered buying the advertised product
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I hadn’t considered buying one of the advertised products before but would consider it now
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I hadn’t considered the advertised product and still wouldn’t
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Don’t know
+  }
+]

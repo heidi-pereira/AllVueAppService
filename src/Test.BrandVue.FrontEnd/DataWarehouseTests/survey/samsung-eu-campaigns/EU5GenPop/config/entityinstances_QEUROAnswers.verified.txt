@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Eurosport App
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 3 Other
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I don’t watch Eurosport
+  }
+]

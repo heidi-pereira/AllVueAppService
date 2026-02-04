@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Annual Personal Income in £s: 000s (Base Personal_Income)
+  }
+]

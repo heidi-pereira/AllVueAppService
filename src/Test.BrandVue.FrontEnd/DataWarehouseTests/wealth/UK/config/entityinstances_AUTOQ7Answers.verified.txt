@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have never thought of buying an electric / hybrid car and don’t plan to in the next 6 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have never thought of buying an electric / hybrid car, but would be open to doing so in the next 6 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I intend to buy an electric / hybrid car in the next 6 months
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have bought an electric / hybrid car in the last 6 months
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I bought an electric / hybrid car longer than 6 months ago and plan to buy an electric / hybrid car for my next car purchase
+  }
+]

@@ -1,0 +1,406 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: $1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: $2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: $3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: $4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: $5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: $6
+  },
+  {
+    ClassInstanceId: 7,
+    Name: $7
+  },
+  {
+    ClassInstanceId: 8,
+    Name: $8
+  },
+  {
+    ClassInstanceId: 9,
+    Name: $9
+  },
+  {
+    ClassInstanceId: 10,
+    Name: $10
+  },
+  {
+    ClassInstanceId: 11,
+    Name: $11
+  },
+  {
+    ClassInstanceId: 12,
+    Name: $12
+  },
+  {
+    ClassInstanceId: 13,
+    Name: $13
+  },
+  {
+    ClassInstanceId: 14,
+    Name: $14
+  },
+  {
+    ClassInstanceId: 15,
+    Name: $15
+  },
+  {
+    ClassInstanceId: 16,
+    Name: $16
+  },
+  {
+    ClassInstanceId: 17,
+    Name: $17
+  },
+  {
+    ClassInstanceId: 18,
+    Name: $18
+  },
+  {
+    ClassInstanceId: 19,
+    Name: $19
+  },
+  {
+    ClassInstanceId: 20,
+    Name: $20
+  },
+  {
+    ClassInstanceId: 21,
+    Name: $21
+  },
+  {
+    ClassInstanceId: 22,
+    Name: $22
+  },
+  {
+    ClassInstanceId: 23,
+    Name: $23
+  },
+  {
+    ClassInstanceId: 24,
+    Name: $24
+  },
+  {
+    ClassInstanceId: 25,
+    Name: $25
+  },
+  {
+    ClassInstanceId: 26,
+    Name: $26
+  },
+  {
+    ClassInstanceId: 27,
+    Name: $27
+  },
+  {
+    ClassInstanceId: 28,
+    Name: $28
+  },
+  {
+    ClassInstanceId: 29,
+    Name: $29
+  },
+  {
+    ClassInstanceId: 30,
+    Name: $30
+  },
+  {
+    ClassInstanceId: 31,
+    Name: $31
+  },
+  {
+    ClassInstanceId: 32,
+    Name: $32
+  },
+  {
+    ClassInstanceId: 33,
+    Name: $33
+  },
+  {
+    ClassInstanceId: 34,
+    Name: $34
+  },
+  {
+    ClassInstanceId: 35,
+    Name: $35
+  },
+  {
+    ClassInstanceId: 36,
+    Name: $36
+  },
+  {
+    ClassInstanceId: 37,
+    Name: $37
+  },
+  {
+    ClassInstanceId: 38,
+    Name: $38
+  },
+  {
+    ClassInstanceId: 39,
+    Name: $39
+  },
+  {
+    ClassInstanceId: 40,
+    Name: $40
+  },
+  {
+    ClassInstanceId: 41,
+    Name: $41
+  },
+  {
+    ClassInstanceId: 42,
+    Name: $42
+  },
+  {
+    ClassInstanceId: 43,
+    Name: $43
+  },
+  {
+    ClassInstanceId: 44,
+    Name: $44
+  },
+  {
+    ClassInstanceId: 45,
+    Name: $45
+  },
+  {
+    ClassInstanceId: 46,
+    Name: $46
+  },
+  {
+    ClassInstanceId: 47,
+    Name: $47
+  },
+  {
+    ClassInstanceId: 48,
+    Name: $48
+  },
+  {
+    ClassInstanceId: 49,
+    Name: $49
+  },
+  {
+    ClassInstanceId: 50,
+    Name: $50
+  },
+  {
+    ClassInstanceId: 51,
+    Name: $51
+  },
+  {
+    ClassInstanceId: 52,
+    Name: $52
+  },
+  {
+    ClassInstanceId: 53,
+    Name: $53
+  },
+  {
+    ClassInstanceId: 54,
+    Name: $54
+  },
+  {
+    ClassInstanceId: 55,
+    Name: $55
+  },
+  {
+    ClassInstanceId: 56,
+    Name: $56
+  },
+  {
+    ClassInstanceId: 57,
+    Name: $57
+  },
+  {
+    ClassInstanceId: 58,
+    Name: $58
+  },
+  {
+    ClassInstanceId: 59,
+    Name: $59
+  },
+  {
+    ClassInstanceId: 60,
+    Name: $60
+  },
+  {
+    ClassInstanceId: 61,
+    Name: $61
+  },
+  {
+    ClassInstanceId: 62,
+    Name: $62
+  },
+  {
+    ClassInstanceId: 63,
+    Name: $63
+  },
+  {
+    ClassInstanceId: 64,
+    Name: $64
+  },
+  {
+    ClassInstanceId: 65,
+    Name: $65
+  },
+  {
+    ClassInstanceId: 66,
+    Name: $66
+  },
+  {
+    ClassInstanceId: 67,
+    Name: $67
+  },
+  {
+    ClassInstanceId: 68,
+    Name: $68
+  },
+  {
+    ClassInstanceId: 69,
+    Name: $69
+  },
+  {
+    ClassInstanceId: 70,
+    Name: $70
+  },
+  {
+    ClassInstanceId: 71,
+    Name: $71
+  },
+  {
+    ClassInstanceId: 72,
+    Name: $72
+  },
+  {
+    ClassInstanceId: 73,
+    Name: $73
+  },
+  {
+    ClassInstanceId: 74,
+    Name: $74
+  },
+  {
+    ClassInstanceId: 75,
+    Name: $75
+  },
+  {
+    ClassInstanceId: 76,
+    Name: $76
+  },
+  {
+    ClassInstanceId: 77,
+    Name: $77
+  },
+  {
+    ClassInstanceId: 78,
+    Name: $78
+  },
+  {
+    ClassInstanceId: 79,
+    Name: $79
+  },
+  {
+    ClassInstanceId: 80,
+    Name: $80
+  },
+  {
+    ClassInstanceId: 81,
+    Name: $81
+  },
+  {
+    ClassInstanceId: 82,
+    Name: $82
+  },
+  {
+    ClassInstanceId: 83,
+    Name: $83
+  },
+  {
+    ClassInstanceId: 84,
+    Name: $84
+  },
+  {
+    ClassInstanceId: 85,
+    Name: $85
+  },
+  {
+    ClassInstanceId: 86,
+    Name: $86
+  },
+  {
+    ClassInstanceId: 87,
+    Name: $87
+  },
+  {
+    ClassInstanceId: 88,
+    Name: $88
+  },
+  {
+    ClassInstanceId: 89,
+    Name: $89
+  },
+  {
+    ClassInstanceId: 90,
+    Name: $90
+  },
+  {
+    ClassInstanceId: 91,
+    Name: $91
+  },
+  {
+    ClassInstanceId: 92,
+    Name: $92
+  },
+  {
+    ClassInstanceId: 93,
+    Name: $93
+  },
+  {
+    ClassInstanceId: 94,
+    Name: $94
+  },
+  {
+    ClassInstanceId: 95,
+    Name: $95
+  },
+  {
+    ClassInstanceId: 96,
+    Name: $96
+  },
+  {
+    ClassInstanceId: 97,
+    Name: $97
+  },
+  {
+    ClassInstanceId: 98,
+    Name: $98
+  },
+  {
+    ClassInstanceId: 99,
+    Name: $99
+  },
+  {
+    ClassInstanceId: 100,
+    Name: $100
+  },
+  {
+    ClassInstanceId: 101,
+    Name: $101 and more
+  }
+]

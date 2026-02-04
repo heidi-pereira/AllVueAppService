@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Pub restaurant / bar
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Restaurant
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Coffee Shop / Cafe
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Sandwich shop / Bakery store
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Fast food outlet
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Supermarket / convenience store to-go
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Petrol forecourt
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Market stall / van / street food
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Work / school canteen
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Hotel
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Kiosk
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

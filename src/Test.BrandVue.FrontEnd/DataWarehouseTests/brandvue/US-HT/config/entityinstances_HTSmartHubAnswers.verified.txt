@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Google Home
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Amazon Alexa
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Apple HomeKit
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Samsung Smart Things
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Panasonic Smart Home Hub
+  },
+  {
+    ClassInstanceId: 7,
+    Name: LG ThinQ
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

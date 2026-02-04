@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: LQ 3c NEW (Base LQ3cNEW)
+  }
+]

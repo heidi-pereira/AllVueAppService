@@ -1,0 +1,119 @@
+pr: none
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - '*'
+  tags:
+    exclude:
+    - '*'
+  paths:
+    include:
+    - src/DashboardBuilder
+    - src/BrandVue.SourceData
+    - src/BrandVue.EntityFramework
+    - src/Vue.Common
+    - src/SharedBuildScripts
+
+pool:
+  vmImage: 'windows-2022'
+
+variables:
+- template: ../SharedBuildScripts/SharedVariables.yaml
+  parameters:
+    buildName: DashboardBuilder
+    majorVersion: 2
+    minorVersion: 5
+- name: solution
+  value: 'src/DashboardBuilder/DashboardBuilder.sln'
+
+name: ${{variables.buildName}}
+
+steps:
+- checkout: self
+  persistCredentials: true
+
+- powershell: |
+    Set-Culture -CultureInfo en-GB
+  displayName: Set UK Culture
+
+- template: ../SharedBuildScripts/EchoVariables.yaml
+- template: ../SharedBuildScripts/DotnetRestore.yaml
+
+# We have to download and then manually extract as otherwise we get Brandvue-Eating%20out rather than
+# Brandvue-Eating out  - sad panda
+- task: DownloadPackage@1
+  displayName: Get Latest Metadata
+  inputs:
+    packageType: 'nuget'
+    feed: savantadefault
+    view: Local
+    definition: DashboardBuilder.Metadata
+    version: latest
+    extract: false
+    downloadPath: '$(Build.SourcesDirectory)/LatestMetadata'
+
+# TO convince nuget to unpack it we have to give a (fake) version number
+- script: |
+    move $(Build.SourcesDirectory)\LatestMetadata\DashboardBuilder.Metadata.nupkg $(Build.SourcesDirectory)\LatestMetadata\DashboardBuilder.Metadata.1.0.0.nupkg
+    nuget install DashboardBuilder.Metadata -Source $(Build.SourcesDirectory)\LatestMetadata -OutputDirectory $(Build.SourcesDirectory)\src\DashboardBuilder\LatestMetadata -ExcludeVersion
+  displayName: Unpack latest metadata
+
+# Build
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: build
+    projects: $(solution)
+    zipAfterPublish: false
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      -p:Copyright="$(copyright)"
+      -p:Version=$(packageVersion)
+
+#Test
+- task: DotNetCoreCLI@2
+  displayName: Test
+  inputs:
+    command: 'test'
+    projects: $(solution)
+    nobuild: true
+    arguments: >
+      --configuration $(buildConfiguration)
+      --no-restore
+      -v=normal
+    testRunTitle: 'Test $(packageVersion)'
+
+#Publish
+- task: DotNetCoreCLI@2
+  displayName: Publish
+  inputs:
+    command: publish
+    configuration: $(buildConfiguration)
+    publishWebProjects: false
+    projects: |
+      src/DashboardBuilder/DashboardBuilder/DashboardBuilder.csproj
+    zipAfterPublish: false
+    arguments: >
+      --configuration $(buildConfiguration)
+      --output publish
+      --no-restore
+      --no-build
+
+- task: OctopusPackNuGet@6
+  displayName: Pack DashboardBuilder
+  inputs:
+    PackageId: DashboardBuilder
+    PackageVersion: $(packageVersion)
+    SourcePath: publish/DashboardBuilder
+    OutputPath: $(Build.ArtifactStagingDirectory)
+    NuGetDescription: 'Dashboard Builder'
+    NuGetAuthors: 'Savanta'
+
+- publish: publish/DashboardBuilder
+  artifact: DashboardBuilder
+
+- template: ../SharedBuildScripts/TagBuild.yaml
+

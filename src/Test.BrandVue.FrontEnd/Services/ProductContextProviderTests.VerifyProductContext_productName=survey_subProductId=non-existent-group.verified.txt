@@ -1,0 +1,31 @@
+﻿{
+  AllowPartialDays: true,
+  DayIsFromResponseEndTime: true,
+  DefaultAveragesToInclude: [],
+  DisableAutoMetricFiltering: false,
+  GenerateFromAnswersTable: true,
+  GenerateFromSurveyIds: true,
+  HasSingleClient: true,
+  IncludeAllDefaultAverages: false,
+  IsAllVue: true,
+  IsContinuous: false,
+  IsSurveyGroup: false,
+  IsSurveyOpen: false,
+  KeepInMemory: false,
+  KimbleProposalId: null,
+  NonMapFileSurveyIds: [
+    -1
+  ],
+  NonMapFileSurveys: [
+    {
+      SurveyId: -1,
+      SurveyName: non-existent-group
+    }
+  ],
+  ShortCode: survey,
+  SubProductId: non-existent-group,
+  SurveyAuthCompanyId: null,
+  SurveyGroupId: 0,
+  SurveyName: non-existent-group,
+  SurveyUid: null
+}

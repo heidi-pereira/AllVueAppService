@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: DIY purchases (Base DIY_responsibility)
+  }
+]

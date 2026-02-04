@@ -1,0 +1,78 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Trustworthy
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Knowledgeable
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Friendly
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Expert
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Fun / entertaining
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Innovative
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Helpful
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Accurate
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Caring
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Gets me a good deal
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Upmarket
+  },
+  {
+    ClassInstanceId: 12,
+    Name: A market leader
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Straight-forward
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Dependable
+  },
+  {
+    ClassInstanceId: 15,
+    Name: For people like me
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Approachable
+  },
+  {
+    ClassInstanceId: 17,
+    Name: On my side
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Inspires confidence
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Socially responsible
+  }
+]

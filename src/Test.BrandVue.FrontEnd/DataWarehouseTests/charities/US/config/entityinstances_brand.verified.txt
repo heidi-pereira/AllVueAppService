@@ -1,0 +1,422 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of the above
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Alzheimer's Association
+  },
+  {
+    ClassInstanceId: 2,
+    Name: American Cancer Society
+  },
+  {
+    ClassInstanceId: 3,
+    Name: American Civil Liberties Union and Foundation (ACLU)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: American Heart Association
+  },
+  {
+    ClassInstanceId: 5,
+    Name: American Jewish Joint Distribution Committee
+  },
+  {
+    ClassInstanceId: 6,
+    Name: American Kidney Fund
+  },
+  {
+    ClassInstanceId: 7,
+    Name: American National Red Cross
+  },
+  {
+    ClassInstanceId: 8,
+    Name: American Society for the Prevention of Cruelty to Animals (ASPCA)
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Americares
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Boston Children's Hospital
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Boys & Girls Clubs of America
+  },
+  {
+    ClassInstanceId: 12,
+    Name: CARE USA
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Carter Center
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Catholic Charities USA
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Catholic Medical Mission Board
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Catholic Relief Services
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Cedars-Sinai Health System
+  },
+  {
+    ClassInstanceId: 18,
+    Name: ChildFund International
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Christian Broadcasting Network & Operation Blessing
+  },
+  {
+    ClassInstanceId: 20,
+    Name: City Harvest
+  },
+  {
+    ClassInstanceId: 21,
+    Name: City of Hope
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Combined Jewish Philanthrophies
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Compassion International
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Convoy of Hope
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Covenant House
+  },
+  {
+    ClassInstanceId: 26,
+    Name: Cross International
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Cru
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Dana-Farber Cancer Institute
+  },
+  {
+    ClassInstanceId: 29,
+    Name: Delivering Good
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Direct Relief
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Disabled American Veterans
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Doctors Without Borders USA (Medecins Sans Frontieres)
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Easter Seals
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Educational Media Foundation
+  },
+  {
+    ClassInstanceId: 35,
+    Name: El Pasoans Fighting Hunger
+  },
+  {
+    ClassInstanceId: 36,
+    Name: Entertainment Industry Foundation
+  },
+  {
+    ClassInstanceId: 37,
+    Name: Environmental Defense Fund
+  },
+  {
+    ClassInstanceId: 38,
+    Name: Father Flanagan's Boys' Home
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Feed the Children
+  },
+  {
+    ClassInstanceId: 40,
+    Name: Feeding America
+  },
+  {
+    ClassInstanceId: 41,
+    Name: Feeding Tampa Bay
+  },
+  {
+    ClassInstanceId: 42,
+    Name: Food Bank of Central and Eastern North Carolina
+  },
+  {
+    ClassInstanceId: 43,
+    Name: Food for the Poor
+  },
+  {
+    ClassInstanceId: 44,
+    Name: Good 360
+  },
+  {
+    ClassInstanceId: 45,
+    Name: Goodwill Industries International
+  },
+  {
+    ClassInstanceId: 46,
+    Name: Habitat for Humanity International
+  },
+  {
+    ClassInstanceId: 47,
+    Name: HealthWell Foundation
+  },
+  {
+    ClassInstanceId: 48,
+    Name: Heart to Heart International
+  },
+  {
+    ClassInstanceId: 49,
+    Name: Houston Food Bank
+  },
+  {
+    ClassInstanceId: 50,
+    Name: Humane Society of the United States
+  },
+  {
+    ClassInstanceId: 51,
+    Name: International Fellowship of Christians and Jews
+  },
+  {
+    ClassInstanceId: 52,
+    Name: International Rescue Committee
+  },
+  {
+    ClassInstanceId: 53,
+    Name: James Beard Foundation
+  },
+  {
+    ClassInstanceId: 54,
+    Name: Breakthrough T1D
+  },
+  {
+    ClassInstanceId: 55,
+    Name: Jewish Federation of Metropolitan Chicago
+  },
+  {
+    ClassInstanceId: 56,
+    Name: Leukemia & Lymphoma Society
+  },
+  {
+    ClassInstanceId: 57,
+    Name: Lutheran Services in America
+  },
+  {
+    ClassInstanceId: 58,
+    Name: MAP International
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Marine Toys for Tots Foundation
+  },
+  {
+    ClassInstanceId: 60,
+    Name: Matthew 25: Ministries
+  },
+  {
+    ClassInstanceId: 61,
+    Name: Mayo Clinic
+  },
+  {
+    ClassInstanceId: 62,
+    Name: Memorial Sloan Kettering Cancer Center
+  },
+  {
+    ClassInstanceId: 63,
+    Name: Michael J. Fox Foundation for Parkinson's Research
+  },
+  {
+    ClassInstanceId: 64,
+    Name: Midwest Food Bank
+  },
+  {
+    ClassInstanceId: 65,
+    Name: Mount Sinai Health Systems
+  },
+  {
+    ClassInstanceId: 66,
+    Name: Natural Resources Defense Council
+  },
+  {
+    ClassInstanceId: 67,
+    Name: Nature Conservancy
+  },
+  {
+    ClassInstanceId: 68,
+    Name: New York-Presbyterian Hospital
+  },
+  {
+    ClassInstanceId: 69,
+    Name: North Texas Food Bank
+  },
+  {
+    ClassInstanceId: 70,
+    Name: Northern Illinois Food Bank
+  },
+  {
+    ClassInstanceId: 71,
+    Name: PATH
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Patient Access Network Foundation
+  },
+  {
+    ClassInstanceId: 73,
+    Name: Planned Parenthood Federation of America
+  },
+  {
+    ClassInstanceId: 74,
+    Name: Population Services International
+  },
+  {
+    ClassInstanceId: 75,
+    Name: Public Broadcasting Service
+  },
+  {
+    ClassInstanceId: 76,
+    Name: Rotary Foundation of Rotary International
+  },
+  {
+    ClassInstanceId: 77,
+    Name: Salvation Army
+  },
+  {
+    ClassInstanceId: 78,
+    Name: Samaritan's Purse
+  },
+  {
+    ClassInstanceId: 79,
+    Name: San Antonio Food Bank
+  },
+  {
+    ClassInstanceId: 80,
+    Name: Save the Children Federation
+  },
+  {
+    ClassInstanceId: 81,
+    Name: Scholarship America
+  },
+  {
+    ClassInstanceId: 82,
+    Name: Scope
+  },
+  {
+    ClassInstanceId: 83,
+    Name: Second Harvest Heartland
+  },
+  {
+    ClassInstanceId: 84,
+    Name: Shriners Hospitals for Children
+  },
+  {
+    ClassInstanceId: 85,
+    Name: Smithsonian Institution
+  },
+  {
+    ClassInstanceId: 86,
+    Name: Special Olympics
+  },
+  {
+    ClassInstanceId: 87,
+    Name: St. Jude Children's Research Hospital
+  },
+  {
+    ClassInstanceId: 88,
+    Name: St. Mary's Food Bank Alliance
+  },
+  {
+    ClassInstanceId: 89,
+    Name: Step Up for Students
+  },
+  {
+    ClassInstanceId: 90,
+    Name: Task Force for Global Health
+  },
+  {
+    ClassInstanceId: 91,
+    Name: The Arc of the United States
+  },
+  {
+    ClassInstanceId: 92,
+    Name: The Assistance Fund
+  },
+  {
+    ClassInstanceId: 93,
+    Name: Trinity Health
+  },
+  {
+    ClassInstanceId: 94,
+    Name: UJA / Federation of New York
+  },
+  {
+    ClassInstanceId: 95,
+    Name: United Service Organizations
+  },
+  {
+    ClassInstanceId: 96,
+    Name: United States Fund for UNICEF
+  },
+  {
+    ClassInstanceId: 97,
+    Name: United Way Worldwide
+  },
+  {
+    ClassInstanceId: 98,
+    Name: World Vision
+  },
+  {
+    ClassInstanceId: 99,
+    Name: World Wildlife Fund (WWF)
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Wounded Warrior Project
+  },
+  {
+    ClassInstanceId: 101,
+    Name: Wycliffe Bible Translators
+  },
+  {
+    ClassInstanceId: 102,
+    Name: YMCA of the USA
+  },
+  {
+    ClassInstanceId: 103,
+    Name: Young Life
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None of these
+  }
+]

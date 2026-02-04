@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Other items N3M (Base Other_items_N3M)
+  }
+]

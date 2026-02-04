@@ -1,0 +1,14 @@
+@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.overtimeSettingsPicker {
+    .flex-column(@gutter: 18px);
+
+    :global(.styled-toggle) {
+        font-size: 14px;
+
+        &:disabled {
+            color: @slate-light;
+        }
+    }
+}

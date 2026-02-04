@@ -1,0 +1,54 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Bitcoin
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Bitcoin Cash
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Litecoin
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Dogecoin
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Ethereum
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Ripple
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Cardano
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Stellar
+  },
+  {
+    ClassInstanceId: 9,
+    Name: NEO
+  },
+  {
+    ClassInstanceId: 10,
+    Name: EOS
+  },
+  {
+    ClassInstanceId: 11,
+    Name: NEM
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Prefer not to say
+  }
+]

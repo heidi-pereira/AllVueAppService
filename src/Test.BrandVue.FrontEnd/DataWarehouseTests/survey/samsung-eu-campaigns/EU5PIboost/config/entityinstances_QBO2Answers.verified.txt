@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: In the next 6 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: In the next 6-12 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: In the next 1-2 years
+  },
+  {
+    ClassInstanceId: 4,
+    Name: In 3-5 years time
+  },
+  {
+    ClassInstanceId: 5,
+    Name: In 6-10 years time
+  },
+  {
+    ClassInstanceId: 6,
+    Name: In more than 10 years
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Don’t know
+  }
+]

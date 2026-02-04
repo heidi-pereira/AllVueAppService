@@ -1,0 +1,70 @@
+﻿[
+  {
+    ClassInstanceId: 9,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Samsung|Neutral|
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Hisense|Neutral|
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|LG|Neutral|
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Beko|Neutral|
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Bosch|Neutral|
+  },
+  {
+    ClassInstanceId: 22,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|AEG|Neutral|
+  },
+  {
+    ClassInstanceId: 23,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Haier|Neutral|
+  },
+  {
+    ClassInstanceId: 24,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Hotpoint|Neutral|
+  },
+  {
+    ClassInstanceId: 25,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Indesit|Neutral|
+  },
+  {
+    ClassInstanceId: 27,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Miele|Neutral|
+  },
+  {
+    ClassInstanceId: 28,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Siemens|Neutral|
+  },
+  {
+    ClassInstanceId: 30,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Whirlpool|Neutral|
+  },
+  {
+    ClassInstanceId: 31,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Balay|Neutral|
+  },
+  {
+    ClassInstanceId: 32,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Bauknecht|Neutral|
+  },
+  {
+    ClassInstanceId: 33,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Candy|Neutral|
+  },
+  {
+    ClassInstanceId: 34,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Hoover|Neutral|
+  },
+  {
+    ClassInstanceId: 39,
+    Name: Lowest intensity of relationship|Strongest intensity of relationship|Electrolux|Neutral|
+  }
+]

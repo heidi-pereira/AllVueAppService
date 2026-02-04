@@ -1,0 +1,29 @@
+﻿.filterInfo{
+    color: #999;
+    margin-top: 4px;
+    margin-left: 12px;
+}
+
+.filterWarning{
+    top: -20px;
+    left: 0;
+    white-space: nowrap;
+    position: absolute;
+    visibility: hidden;
+
+    &.visible {
+        visibility: visible;
+    }
+}
+
+.react-select__group-heading-multiple {
+    cursor: pointer !important;
+
+    &:hover + div{
+        font-weight: bold;
+
+        div{
+            background: #fff !important;
+        }
+    }
+}

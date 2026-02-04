@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: The Music Frame
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Echo Dot
+  },
+  {
+    ClassInstanceId: 3,
+    Name: HomePod
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Era
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Nest Speaker
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of the above
+  }
+]

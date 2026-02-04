@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Status of Homeownership - Filter (Base Homeowner_status)
+  }
+]

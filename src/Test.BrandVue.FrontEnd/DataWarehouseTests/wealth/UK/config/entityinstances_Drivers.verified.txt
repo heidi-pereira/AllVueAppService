@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Performance of your investments
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Quality of communications e.g. direct, social media, advertising etc.
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Quality of services e.g. from your adviser
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Quality of experience e.g. in-person, online etc
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Quality of advice
+  }
+]

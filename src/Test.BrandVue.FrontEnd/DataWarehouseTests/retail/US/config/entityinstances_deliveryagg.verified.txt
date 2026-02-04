@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Door Dash
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Drizly
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Postmates
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Seamless
+  },
+  {
+    ClassInstanceId: 5,
+    Name: UberEats
+  }
+]

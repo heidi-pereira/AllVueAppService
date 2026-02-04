@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Routine infant formula
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Specialised infant formula
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Baby wipes
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Baby powder
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Baby bath & wash
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Baby shampoo
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Baby oil & lotion
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Baby healthcare products (such as for colic, teething etc.)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

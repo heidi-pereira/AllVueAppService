@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Yes - on an ongoing basis (e.g. annual meetings)
+  },
+  {
+    ClassInstanceId: 1,
+    Name: Yes - as a one-off in the past 12 months
+  },
+  {
+    ClassInstanceId: 2,
+    Name: No - not in the past 12 months
+  }
+]

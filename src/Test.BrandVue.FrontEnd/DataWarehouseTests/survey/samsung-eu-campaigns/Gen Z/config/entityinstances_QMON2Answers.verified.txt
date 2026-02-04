@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Currently looking to buy
+  },
+  {
+    ClassInstanceId: 2,
+    Name: In the next 6 months
+  },
+  {
+    ClassInstanceId: 3,
+    Name: In 6 - 12 months
+  },
+  {
+    ClassInstanceId: 4,
+    Name: In 1 or more years
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know / No current plans
+  }
+]

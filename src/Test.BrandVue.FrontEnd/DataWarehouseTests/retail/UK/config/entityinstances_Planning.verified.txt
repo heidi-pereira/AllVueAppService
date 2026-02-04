@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I only bought items I had planned to buy before the visit
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I only bought items on impulse / decided to buy during the visit
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I bought a mixture of items that were both planned and bought on impulse
+  }
+]

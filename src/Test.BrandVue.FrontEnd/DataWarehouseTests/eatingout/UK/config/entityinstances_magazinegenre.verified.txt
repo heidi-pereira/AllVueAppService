@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Business & economics
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Cars / motorsport
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Celebrity Gossip
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Cooking / food
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Fashion & style
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Health, diet & fitness
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Home Interior or gardening
+  },
+  {
+    ClassInstanceId: 8,
+    Name: News
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Personal finances
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Sports
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Technology
+  },
+  {
+    ClassInstanceId: 12,
+    Name: TV Guides
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Travel
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Politics
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

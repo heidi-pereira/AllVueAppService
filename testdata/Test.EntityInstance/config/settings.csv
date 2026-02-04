@@ -1,0 +1,9 @@
+﻿setting,value,notes
+Name,BrandVue Tech Test,Browser title of dashboard
+Source database,Morar,"File = Separate Data.xlsx file in this folder containing all data | Morar = Morar survey portal | Cloud = Cloud survey portal | BBS = BBS survey portal - Unless otherwise specified, make it Morar"
+Short code,techtest,"Path to data - normally the name of the dashboard (e.g. WGSN, EatingOut, Charities)"
+IncludeDontKnowsForProfileFields,TRUE,"Default is false, (include -99 & -999s in Profile.csv)"
+DashboardBuilderType,BrandVueRepeatingSections,BrandVue/MyVue/….
+DashboardBuilderSpecifics,BrandVue,None/BrandVue/Prezzo/Cloud/….. (will change over time)
+MonitorPingUrlSuccess,https://nosnch.in:443/ada5bba1c3,deadmanssnitch monitor url to notify a successful build
+MonitorPingUrlFail,https://nosnch.in:443/ada5bba1c3?s=1,deadmanssnitch monitor url to notify a fail build

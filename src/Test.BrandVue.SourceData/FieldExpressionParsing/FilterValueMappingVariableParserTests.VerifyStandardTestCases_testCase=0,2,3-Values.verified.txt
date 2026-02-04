@@ -1,0 +1,12 @@
+﻿[
+  {
+    Invert: false,
+    IsRange: false,
+    Name: Values,
+    Values: [
+      0,
+      2,
+      3
+    ]
+  }
+]

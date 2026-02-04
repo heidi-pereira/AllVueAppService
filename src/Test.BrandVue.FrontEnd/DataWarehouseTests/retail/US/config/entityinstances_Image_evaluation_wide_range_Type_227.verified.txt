@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Image:Wide range of product (Base Image_evaluation_wide_range)
+  }
+]

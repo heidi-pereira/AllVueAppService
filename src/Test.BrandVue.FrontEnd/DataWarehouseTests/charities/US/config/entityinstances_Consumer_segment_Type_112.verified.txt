@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Education level:Further qualification (between high school & university) (Base Consumer_segment)
+  }
+]

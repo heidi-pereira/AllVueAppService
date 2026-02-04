@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Segment:Purchased from brand in L12M (Base Consumer_segment)
+  }
+]

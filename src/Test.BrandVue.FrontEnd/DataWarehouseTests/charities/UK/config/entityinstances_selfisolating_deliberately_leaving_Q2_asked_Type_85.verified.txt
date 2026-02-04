@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: currently selfisolating deliberatelyQ 2 (Base selfisolating_deliberately_leaving_Q2_asked)
+  }
+]

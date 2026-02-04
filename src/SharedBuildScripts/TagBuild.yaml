@@ -1,0 +1,8 @@
+
+steps:
+- script: |
+    git tag $(buildName)
+    git push origin $(buildName)
+  displayName: Tag Source
+  condition: and(succeeded(), eq(variables.pushToOctopus, 'true'))
+  workingDirectory: $(Build.SourcesDirectory)

@@ -1,0 +1,243 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.weightingSettingsPage {
+    .flex-column();
+    flex: 1;
+    height: 100%;
+    padding: 30px;
+    overflow-y: auto;
+    .scrollbars;
+
+    .bold {
+        font-weight: 800;
+    }
+
+    .titleBar {
+        display: flex;
+        justify-content: space-between;
+        align-items: stretch;
+        flex-wrap: nowrap;
+    }
+
+    h3 {
+        font-weight: 500;
+    }
+
+    button span {
+        margin-right: 5px;
+    }
+
+    .scrollableCardsContainer {
+        overflow-y: auto;
+        min-height: 150px;
+        .scrollbars;
+
+
+        .cardContainer {
+            display: grid;
+            padding: 10px 0 50px;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 10px;
+            width: 100%;
+
+            .card {
+                position: relative;
+                padding: 20px;
+                border: none;
+                border-radius: 0;
+                height: fit-content;
+
+                .additionalInfo {
+                    font-size: 12px;
+                }
+
+                p {
+                    color: @slate;
+                    font-size: 14px;
+                }
+
+                &:hover {
+                    cursor: pointer;
+
+                    .actions {
+                        display: flex;
+                    }
+                }
+
+                .cardName {
+                    font-size: 20px;
+                    color: @slate-darker;
+                    margin: 0 0 5px;
+                }
+
+                .actions {
+                    display: flex;
+                    position: absolute;
+                    right: 0.5rem;
+                    top: 0.5rem;
+
+                    div {
+                        margin-top: 8px;
+
+                        .symbolIcon {
+                            margin-right: 5px;
+                            margin-bottom: 4px;
+                            font-size: 20px;
+                            color: @slate;
+
+                            &:hover {
+                                color: @blueSteel;
+                            }
+                        }
+
+                        .symbol {
+                            font-size: 20px;
+                            color: @slate;
+
+                            &:hover {
+                                color: @blueSteel;
+                            }
+                        }
+
+                        &.deleteButton {
+
+                            .symbol:hover {
+                                color: @lava;
+                            }
+                        }
+
+                        &.exportButton {
+
+                            .symbol:hover {
+                                color: @blueSteel;
+                            }
+                        }
+                    }
+                }
+
+
+                &.disabled {
+                    box-shadow: none;
+                    cursor: auto;
+                    border: 1px solid @chalk;
+
+                    .cardName {
+                        color: @slate;
+                    }
+
+                    .actions {
+                        cursor: pointer;
+                    }
+
+                    &:hover {
+                        box-shadow: none;
+                        cursor: auto;
+                    }
+                }
+
+                .banner {
+                    .flex-row( @align-items: center);
+                    gap: 6px;
+                    padding: 4px 6px;
+                    font-size: 14px;
+                    border-radius: 5px;
+                    width: max-content;
+                    border-width: 2px;
+                    border-style: solid;
+
+                    &.warningColor {
+                        color: @amber-dark;
+                        border-color: @amber;
+                    }
+
+                    &.errorColor {
+                        color: @bad-red;
+                        border-color: @bad-red;
+                    }
+                }
+            }
+        }
+    }
+
+    .settingsNavigationButtons {
+        .flex-row(@align-items: center, @gutter: 10px);
+        padding-top: 20px;
+    }
+}
+
+.validationPopover {
+    min-width: 200px;
+    max-width: 400px;
+    border: 1px solid @slate;
+    border-radius: 4px;
+    box-shadow: @shadow-08;
+    animation: fadeSlide 200ms ease-out;
+
+    &Content {
+        &Title {
+            .flex-row(@align-items: center);
+            gap: 6px;
+            padding: 4px 8px;
+            background-color: @chalk;
+
+            &Warning {
+                background-color: @amber-light;
+            }
+
+            &Error {
+                background-color: @lava-light;
+            }
+
+            &Symbol {
+                margin-right: 8px;
+
+                &Warning {
+                    color: @amber-dark;
+                }
+
+                &Error {
+                    color: @bad-red;
+                }
+            }
+
+            h4 {
+                margin: 0;
+            }
+        }
+
+        &Items {
+            padding: 6px;
+
+            :not(:first-of-type) {
+                border-top: 1px solid @chalk;
+                margin-top: 2px;
+            }
+
+            &Item {
+                padding: 2px;
+                overflow: hidden;
+                display: -webkit-box;
+                white-space: normal;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+            }
+
+            &Footer {
+                text-align: center;
+            }
+        }
+    }
+}
+
+@keyframes fadeSlide {
+    from {
+        opacity: 0;
+        top: -8px;
+    }
+
+    to {
+        opacity: 0.99;
+        top: 0px;
+    }
+}

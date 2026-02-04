@@ -1,0 +1,42 @@
+﻿[
+  {
+    Invert: false,
+    IsRange: false,
+    Name: Range: Including ,
+    Values: [
+      1
+    ]
+  },
+  {
+    Invert: false,
+    IsRange: false,
+    Name: New group 2,
+    Values: [
+      2
+    ]
+  },
+  {
+    Invert: false,
+    IsRange: false,
+    Name: New group 3,
+    Values: [
+      3
+    ]
+  },
+  {
+    Invert: false,
+    IsRange: false,
+    Name: New group 4,
+    Values: [
+      4
+    ]
+  },
+  {
+    Invert: false,
+    IsRange: false,
+    Name: New group 5,
+    Values: [
+      5
+    ]
+  }
+]

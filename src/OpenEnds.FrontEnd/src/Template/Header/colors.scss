@@ -1,0 +1,155 @@
+﻿@use 'sass:color';
+
+$colorWhite: #FFFFFF;
+$colorGreyBackground: #F7F7F7;
+$colorGrey0: #F1F1F1;
+$colorGrey1: #E5E5E5;
+$colorGrey2: #CCCCCC;
+$colorGrey3: #7F7F7F;
+$colorGrey4: #555555;
+$colorGrey5: #1A1A1A;
+$colorGrey6: #333333;
+$colorBlack: #000000;
+$colorCoreSlate: #767676;
+
+$colorBlack0-50: rgba(0, 0, 0, 0.5);
+
+$progressBarYellow: rgba(246, 170, 87, 0.5);
+$progressBarGreen: rgba(94, 161, 155, 0.75);
+
+$brandPink: #F5AEB3;
+$brandPastelPink1: #F6E5E6;
+
+$brandNavy: rgba(14, 80, 102, 0.9);
+
+
+// ====================
+// Savanta Colors
+// ====================
+
+// RGBA for opacity
+$white: rgba(255,255,255,1);
+$pink: rgba(244,173,179,1);
+$black: rgba(0,0,0,1);
+$blue: rgba(93,174,212,1);
+$teal: rgba(94,161,155,1);
+$purple: rgba(127,107,168,1);
+$gold: rgba(246,170,87,1);
+$navy: rgba(14,80,102,1);
+$coral: rgba(226,88,92,1);
+
+//New colors
+$chalk: #E0E2E5;
+$chalk-light: #EEEFF0;
+$chalk-lighter: #F8F9F9;
+
+$slate: #6E7881;
+$slate-dark: #42484D;
+$slate-darker: #26292C;
+$slate-light: #A0A7AE;
+$slate-lighter: #CBCFD3;
+
+$blueSteel: #1376CD;
+$blueSteel-dark: #0E4B81;
+$blueSteel-darker: #082B49;
+$blueSteel-lighter: #E2F1FD;
+$blueSteel-light: #B6D8F7;
+
+$lime: #19CD13;
+$lime-dark: #0E8116;
+$lime-darker: #08490D;
+
+// Amber - Warnings, attention
+$amber: #FFBF00;
+$amber-dark: #81640E;
+$amber-darker: #493908;
+$amber-light: #F7E7B6;
+$amber-lighter: #FFF7E0;
+
+$lava: #CD1319;
+$lava-dark: #810E12;
+
+// Savanta web safe colours
+$gold-safe: rgba(205,106,19,1);
+
+// Opacity fades for colour overlays
+// $white-90: transparentize($white, 0.1);
+// $white-75: transparentize($white, 0.25);
+// $white-50: transparentize($white, 0.5);
+// $white-25: transparentize($white, 0.75);
+// $white-10: transparentize($white, 0.9);
+
+// $black-90: transparentize($black, 0.1);
+// $black-75: transparentize($black, 0.25);
+// $black-50: transparentize($black, 0.5);
+// $black-25: transparentize($black, 0.75);
+// $black-10: transparentize($black, 0.9);
+
+// $blue-90: transparentize($blue, 0.1);
+// $blue-75: transparentize($blue, 0.25);
+// $blue-50: transparentize($blue, 0.5);
+// $blue-25: transparentize($blue, 0.75);
+// $blue-10: transparentize($blue, 0.9);
+
+// $teal-90: transparentize($teal, 0.1);
+// $teal-75: transparentize($teal, 0.25);
+// $teal-50: transparentize($teal, 0.5);
+// $teal-25: transparentize($teal, 0.75);
+
+// $purple-90: transparentize($purple, 0.1);
+// $purple-75: transparentize($purple, 0.25);
+// $purple-50: transparentize($purple, 0.5);
+// $purple-25: transparentize($purple, 0.75);
+
+// $gold-90: transparentize($gold, 0.1);
+// $gold-75: transparentize($gold, 0.25);
+// $gold-50: transparentize($gold, 0.5);
+// $gold-25: transparentize($gold, 0.75);
+// $gold-10: transparentize($gold, 0.9);
+
+// $navy-90: transparentize($navy, 0.1);
+// $navy-75: transparentize($navy, 0.25);
+// $navy-50: transparentize($navy, 0.5);
+// $navy-25: transparentize($navy, 0.75);
+
+// $coral-90: transparentize($coral, 0.1);
+// $coral-75: transparentize($coral, 0.25);
+// $coral-50: transparentize($coral, 0.5);
+// $coral-25: transparentize($coral, 0.75);
+
+// Hex for solid tints
+$black-hex: #000000;
+$blue-hex: #5daed4;
+$teal-hex: #5ea19b;
+$purple-hex: #7f6ba8;
+$gold-hex: #f6aa57;
+$navy-hex: #0e5066;
+$coral-hex: #e2585c;
+
+// ====================
+// Highlight colours
+// ====================
+$colorSuccessGreen: #5EA19B;
+$colorErrorRed: #E2585C;
+$colorErrorRedDarker: color.adjust($colorErrorRed, $lightness: -10%);
+
+// ====================
+// Drop shadows
+// ====================
+$shadow-01: 0px 1px 3px rgba(0, 0, 0, 0.2), 0px 2px 1px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14);
+$shadow-08: 0px 5px 5px rgba(0, 0, 0, 0.2), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 8px 10px rgba(0, 0, 0, 0.14);
+
+// ====================
+// Savanta Black opacitys
+// ====================
+$black-O-10: rgba(0, 0, 0, 0.1);
+$black-O-25: rgba(0, 0, 0, 0.25);
+$black-O-50: rgba(0, 0, 0, 0.5);
+$black-O-75: rgba(0, 0, 0, 0.75);
+$black-O-90: rgba(0, 0, 0, 0.9);
+
+// ====================
+// Drop shadows
+// ====================
+$shadow-01: 0px 1px 3px rgba(0, 0, 0, 0.2), 0px 2px 1px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14);
+$shadow-08: 0px 5px 5px rgba(0, 0, 0, 0.2), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 8px 10px rgba(0, 0, 0, 0.14);

@@ -1,0 +1,13 @@
+﻿name,active,displayName,field,allText,filterType,valueType,subset,categories,question,include,defaultValue
+Gender,1,Gender,Gender,Male & Female,Profile,Category,,F:Female|M:Male,Are you male or female?,,
+Age,1,,Age,All Ages,Profile,Category,,16-24:16-24|25-39:25-39|40-54:40-54|55-74:55-74,How old are you?,,
+Region,1,Region,Region,All Regions,Profile,Category,UK|UKMen|UKAll,L:London|N:North|M:Midlands|S:South,Where do you live?,,
+Region,1,Region,Region,All Regions,Profile,Category,DE|DEMen|DEAll,NW:North West|SW:South West|B:Bavaria|NE:North East,Where do you live?,,
+Region,1,Region,Region,All Regions,Profile,Category,US|USMen|USAll,M:Midwest|N:Northeast|S:South|W:West,Where in the USA do you live?,,
+Household Income,1,,Household_Income,All Incomes,Profile,Value,US|USMen|USAll,0-74999:Low|75000-500000:High,What is your ANNUAL HOUSEHOLD income in (USD - $)?,,
+Household Income,1,,Household_Income,All Incomes,Profile,Value,DE|DEMen|DEAll,0-23999:Low|24000-500000:High,What is your ANNUAL HOUSEHOLD income in (EURO -)?,,
+Ethnicity,1,,Ethnicity,All Ethnicities,Profile,Category,US|USMen|USAll,1:White|2:Hispanic / Latino|3: Black / African American,Would you describe yourself as:,,
+Series type,,,Series_Type,,Profile,Category,,ActualValue:Value|MovingAveragePeriodOnPeriodRelativeChange:Relative change|MovingAveragePeriodOnPeriodValueChange:Absolute change,,,
+Seg,1,Seg,Seg,All SEGs,Profile,Category,UK|UKMen|UKAll,1:ABC1|2:C2DE,,,
+Seg,1,Seg,Seg,All SEGs,Profile,Category,US|USMen|USAll,L:Low|H:High,,,
+Seg,1,Seg,Seg,All SEGs,Profile,Category,DE|DEMen|DEAll,L:Low|H:High,,,

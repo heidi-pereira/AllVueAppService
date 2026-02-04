@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV Set
+  },
+  {
+    ClassInstanceId: 2,
+    Name: TV sound bar
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Monitor
+  }
+]

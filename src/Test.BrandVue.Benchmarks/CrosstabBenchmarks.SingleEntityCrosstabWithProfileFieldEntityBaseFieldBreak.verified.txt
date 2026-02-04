@@ -1,0 +1,50 @@
+﻿{
+  Results: [
+    {
+      Categories: [
+        {
+          Id: EntityInstance,
+          Name: _ageByEntityMeasure,
+          SubCategories: []
+        },
+        {
+          Id: Total,
+          Name: Total,
+          SubCategories: []
+        },
+        {
+          Id: _ageByEntityMeasure,
+          Name: Invalid measure,
+          SubCategories: [
+            {
+              Id: 0_ageByEntityMeasureEntityWithZeroTenScale: 0,
+              Name: EntityWithZeroTenScale: 0,
+              SubCategories: []
+            },
+            {
+              Id: 0_ageByEntityMeasureEntityWithZeroTenScale: 1,
+              Name: EntityWithZeroTenScale: 1,
+              SubCategories: []
+            },
+            {
+              Id: 0_ageByEntityMeasureEntityWithZeroTenScale: 2,
+              Name: EntityWithZeroTenScale: 2,
+              SubCategories: []
+            },
+            {
+              Id: 0_ageByEntityMeasureEntityWithZeroTenScale: 3,
+              Name: EntityWithZeroTenScale: 3,
+              SubCategories: []
+            }
+          ]
+        }
+      ],
+      InstanceResults: [
+        0_EntityWithZeroTenScale: 0 - Total:48.78_50_50__ 0_ageByEntityMeasureEntityWithZeroTenScale: 0:48.78_50_50_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 1:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 2:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 3:0_0_0_None_,
+        1_EntityWithZeroTenScale: 1 - Total:49.62_50_50__ 0_ageByEntityMeasureEntityWithZeroTenScale: 0:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 1:49.62_50_50_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 2:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 3:0_0_0_None_,
+        2_EntityWithZeroTenScale: 2 - Total:50.46_50_50__ 0_ageByEntityMeasureEntityWithZeroTenScale: 0:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 1:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 2:50.46_50_50_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 3:0_0_0_None_,
+        3_EntityWithZeroTenScale: 3 - Total:51.3_50_50__ 0_ageByEntityMeasureEntityWithZeroTenScale: 0:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 1:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 2:0_0_0_None_ 0_ageByEntityMeasureEntityWithZeroTenScale: 3:51.3_50_50_None_
+      ]
+    }
+  ]
+}

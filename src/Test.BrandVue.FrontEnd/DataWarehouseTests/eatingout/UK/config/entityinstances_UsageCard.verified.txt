@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I own one and use it regularly
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I own one and use it occasionally
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I own one but do not use it
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I do not own one but buy hots drinks at high street coffee outlets
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I do not own one as I do not buy hot drinks at high street coffee outlets
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

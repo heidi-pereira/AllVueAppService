@@ -1,0 +1,74 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Attractively priced
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Premium
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Friendly
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Exciting
+  },
+  {
+    ClassInstanceId: 5,
+    Name: For people like me
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Trusted
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Reliable
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Stylish
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Ethical
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Innovative
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Distinctive
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Luxurious
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Classic
+  },
+  {
+    ClassInstanceId: 14,
+    Name: On-trend
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Desirable
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Caring
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Fun
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Inspiring
+  }
+]

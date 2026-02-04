@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Annual Frequency (In Store) (Base Frequency_instore)
+  }
+]

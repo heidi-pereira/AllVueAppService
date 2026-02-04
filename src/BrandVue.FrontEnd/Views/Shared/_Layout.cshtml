@@ -1,0 +1,50 @@
+﻿@using System.Threading
+@using BrandVue.Services
+@using BrandVue.SourceData.Import
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@inject ClientViewInfo ClientViewInfo
+@inject PerClientViewInfo PerClientViewInfo
+@{
+	var cancellationToken = HttpContextAccessor.HttpContext?.RequestAborted ?? CancellationToken.None;
+	string faviconUrl = await PerClientViewInfo.GetFaviconPath(cancellationToken);
+}
+
+<!DOCTYPE html>
+<html>
+<head data-appbasepath="@ViewBag.AppBasePath" data-productname="@ViewBag.ProductName" data-productdisplayname="@ClientViewInfo.AppTitle" data-vueapiversion="@ViewBag.Version" data-environment="@ViewBag.Environment">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="version" content="@ViewBag.Version" />
+    
+    <!-- Set base so that the WebpackEntryPointHtml below can use relative paths and not need to know the eventual virtual path -->
+    <base href="@Url.Content("~/")">
+    <title>@ClientViewInfo.AppTitle</title>
+
+    <link rel="shortcut icon" href="@faviconUrl" type="image/x-icon" />
+
+@Html.Raw(ClientViewInfo.WebpackEntryPointHtml)
+
+    <link href="@ClientViewInfo.CalculateCdnPath("assets/css/custom.css")" rel="stylesheet" />
+</head>
+
+@{
+    var bodyClass = @BrandVueDataLoader.IsSurveyVue(ViewBag.ProductName) ? "survey-vue" : "brandvue";
+
+    var stylesheetUrl = "/auth/api/theme/stylesheet.css";
+    var request = HttpContextAccessor.HttpContext.Request;
+    if (request.Host.HasValue && request.Host.Value.Contains(".uat."))
+    {
+        stylesheetUrl = $"{request.Scheme}{Uri.SchemeDelimiter}{request.Host.Value.Replace(".uat.", ".beta.")}{stylesheetUrl}";
+    }
+}
+
+<body class="@HttpContextAccessor.HttpContext.Request.Query["appMode"] @bodyClass">
+    @if (!BrandVueDataLoader.IsBarometer(ViewBag.ProductName))
+    {
+        <link href="@stylesheetUrl" rel="stylesheet">
+    }
+    @RenderBody()
+</body>
+</html>

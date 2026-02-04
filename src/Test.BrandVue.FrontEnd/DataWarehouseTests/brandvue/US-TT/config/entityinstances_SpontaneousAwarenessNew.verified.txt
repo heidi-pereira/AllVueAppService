@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Domestic travel / vacations
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Overseas travel / vacations
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Attractions
+  }
+]

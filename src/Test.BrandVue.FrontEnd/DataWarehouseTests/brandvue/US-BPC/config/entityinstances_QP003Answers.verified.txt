@@ -1,0 +1,82 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Business
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Chat shows
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Children's TV
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Comedy panel shows
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Comedy series / Sitcoms
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Cooking
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Documentaries (e.g. wildlife, history, travel, biographies)
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Drama series / one-off
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Movies
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Gameshows / Quizzes
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Music
+  },
+  {
+    ClassInstanceId: 12,
+    Name: News / Weather
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Property, home & gardening
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Reality TV
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Soaps
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Sport
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Shopping
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Talent competitions (e.g. singing, dancing, cooking)
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

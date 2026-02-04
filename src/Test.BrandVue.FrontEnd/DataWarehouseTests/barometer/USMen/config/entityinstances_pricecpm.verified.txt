@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Overall prices at the retailer
+  },
+  {
+    ClassInstanceId: 4,
+    Name: No. of products on sale
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Offers targeted directly to you
+  },
+  {
+    ClassInstanceId: 8,
+    Name: The range of prices
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Sales and promotions available
+  }
+]

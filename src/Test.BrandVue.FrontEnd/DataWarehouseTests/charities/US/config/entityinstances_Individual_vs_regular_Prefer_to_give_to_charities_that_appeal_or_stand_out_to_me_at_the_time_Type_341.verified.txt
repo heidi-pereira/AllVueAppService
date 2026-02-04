@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for not donating regularly:Prefer to give to charities that appeal or stand out to me at the time (Base Individual_vs_regular_Prefer_to_give_to_charities_that_appeal_or_stand_out_to_me_at_the_time)
+  }
+]

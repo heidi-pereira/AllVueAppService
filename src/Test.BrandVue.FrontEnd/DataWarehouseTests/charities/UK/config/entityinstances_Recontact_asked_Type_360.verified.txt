@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Recontact (Base Recontact_asked)
+  }
+]

@@ -1,0 +1,114 @@
+﻿@import "../../../../../less/_vars";
+@import "../../../../../less/_layout";
+
+.weightingPlanOverview {
+    .flex-column();
+
+    &:not(:last-child) {
+        border-bottom: 1px solid @chalk;
+    }
+
+    .weightingPlan {
+        .flex-row(@justify-content: flex-start, @align-items: center);
+        padding: 10px;
+        color: @slate-darker;
+        background: @blueSteel-lightest;
+        background-clip: padding-box;
+
+        &.invalidSubset {
+            color: @lava;
+            background-color: lighten(antiquewhite, 4%);
+        }
+
+        &:hover {
+            background-color: lighten(@blueSteel-lighter, 4%);
+        }
+
+        .nameWeightingStyle .name, .segment, .weightedOn {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .weightingStatus {
+            align-self: center;
+            width: 40px;
+            cursor: default;
+        }
+
+        .nameWeightingStyle {
+            width: 20%;
+        }
+
+        .projectType {
+            width: 15%;
+
+            .viewWavesLink {
+                color: @blueSteel;
+                cursor: pointer;
+
+                span {
+                    margin-left: 0;
+                    text-decoration: underline;
+                }
+            }
+        }
+
+        .segment {
+            width: 15%;
+        }
+
+        .weightedOn {
+            width: 30%;
+        }
+
+        .actions {
+            width: 20%;
+            .flex-row(@justify-content: flex-end, @align-items: center);
+            gap: 4px;
+
+            .symbol {
+                font-size: 20px;
+                color: @slate;
+
+                &:hover {
+                    color: @blueSteel;
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .variableActions {
+            .flex-row(@align-items: center);
+            gap: 4px;
+
+            .symbol {
+                font-size: 20px;
+                color: @slate;
+
+                &:hover {
+                    color: @blueSteel;
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .details {
+            color: @slate;
+        }
+    }
+
+    .waveListContainer {
+        max-height: 0;
+        transition: max-height 0.2s ease-in;
+        transition-delay: 0.1s;
+
+        > div {
+            overflow: hidden;
+        }
+
+        &.open {
+            max-height: 400px;
+        }
+    }
+}

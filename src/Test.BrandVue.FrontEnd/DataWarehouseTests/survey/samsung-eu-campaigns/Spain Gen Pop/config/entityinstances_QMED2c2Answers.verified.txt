@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Samsung’s own social media channels
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Rylan’s own social media channels
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Ads in my social media feed (e.g. Instagram, Facebook, Snapchat)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: In printed a newspaper/magazine
+  },
+  {
+    ClassInstanceId: 6,
+    Name: In an online newspaper/magazine
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Somewhere else
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don’t know/Can’t Remember
+  }
+]

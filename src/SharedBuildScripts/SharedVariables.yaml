@@ -1,0 +1,34 @@
+
+parameters:
+- name: 'buildName'
+  type: string
+  default: 'buildname-not-set'
+- name: 'majorVersion'
+  type: number
+- name: 'minorVersion'
+  type: number
+
+
+variables:
+  NUGET_PACKAGES: $(Pipeline.Workspace)/.nuget/packages
+  buildNumber: $[counter('buildNumber', 1)]
+  buildVersion: '${{parameters.majorVersion}}.${{parameters.minorVersion}}.$(buildNumber)'
+  buildConfiguration: 'Release'
+  isHotfix: ${{ startsWith( variables['Build.SourceBranchName'], 'hotfix' ) }}
+  isMasterBuild: ${{ in( variables['Build.SourceBranchName'], 'master', 'main' ) }}
+  isDefaultChannel: ${{ or(eq(variables['isHotfix'], 'True'), eq(variables['isMasterBuild'], 'True')) }}
+  pushToOctopus: ${{ or(eq(parameters['buildName'], 'BrandVue'), eq(variables['isDefaultChannel'], 'True')) }}
+  ${{ if eq(variables['isDefaultChannel'], 'True') }}:
+    octopusChannel: 'Default'
+  ${{ else }}:
+    octopusChannel: 'Feature branch'
+  ${{ if eq(variables['isMasterBuild'], 'True') }}:
+    buildBranch: ''
+  ${{ else }}:
+    buildBranch: '-$(Build.SourceBranchName)'
+  packageVersion: ${{variables.buildVersion}}${{variables.buildBranch}}
+  buildName: ${{parameters.buildName}}.${{variables.buildVersion}}${{variables.buildBranch}}
+  year: $[format('{0:yyyy}', pipeline.startTime)]
+  copyright: 'Copyright © Savanta Group Ltd. $(year)'
+  buildNameBase: ${{ parameters.buildName }}
+  teamsWebhookUrl: 'https://prod-148.westeurope.logic.azure.com:443/workflows/fa7e5cb1fd7f4bfe88a648f4e42c507b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=jZfkYwbZowCJ_1va69vlHkhf85NDG90KmxJEONOEW7g'

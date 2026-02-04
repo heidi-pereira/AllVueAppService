@@ -1,0 +1,3 @@
+﻿{
+  NumberOfValidRowsInExcel: 8
+}

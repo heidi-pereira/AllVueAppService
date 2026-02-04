@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Laptop / Desktop
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Tablet
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Smartphone
+  },
+  {
+    ClassInstanceId: 4,
+    Name: TV - terrestrial or set top box
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Smart TV
+  },
+  {
+    ClassInstanceId: 6,
+    Name: HDMI / USB stick that plugs into my TV to connect to the internet (e.g. Amazon fire stick)
+  },
+  {
+    ClassInstanceId: 98,
+    Name: Other, please specify
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

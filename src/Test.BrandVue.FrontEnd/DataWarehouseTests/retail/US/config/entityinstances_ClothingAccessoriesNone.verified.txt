@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: None of these
+  },
+  {
+    ClassInstanceId: 601,
+    Name: Clothing / Footwear
+  },
+  {
+    ClassInstanceId: 602,
+    Name: Jewellery & watches e.g. rings, cufflinks, necklaces, etc
+  },
+  {
+    ClassInstanceId: 603,
+    Name: Glasses / Sunglasses / Contact lenses
+  }
+]

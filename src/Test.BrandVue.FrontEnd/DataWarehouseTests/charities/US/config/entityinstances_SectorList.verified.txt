@@ -1,0 +1,66 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Cancer
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Terminal illness / end of life care
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Mental health / wellbeing
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Disability
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Alzheimer’s / dementia
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Degenerative diseases / serious illnesses (Parkinsons, MN)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Animals
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Environmental
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Poverty / homelessness
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Disaster relief / human resources
+  },
+  {
+    ClassInstanceId: 11,
+    Name: Children / young people
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Veteran support
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Blindness / visual impairment
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Medical research
+  },
+  {
+    ClassInstanceId: 15,
+    Name: First Aid / Medical or Health Response
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Diabetes
+  }
+]

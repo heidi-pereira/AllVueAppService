@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Consumer Attitudes (Base Consumer_Attitudes_All)
+  }
+]

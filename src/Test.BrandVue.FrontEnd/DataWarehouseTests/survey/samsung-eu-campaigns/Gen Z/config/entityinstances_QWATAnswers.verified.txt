@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: BBC news
+  },
+  {
+    ClassInstanceId: 2,
+    Name: ITV News
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Watchdog
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Question Time
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

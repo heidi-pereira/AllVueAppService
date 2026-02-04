@@ -1,0 +1,57 @@
+@import "_vars";
+@import "_layout";
+
+.add-chart-modal {
+    height: 94vh;
+    max-height: 94vh;
+    width: 750px !important;
+
+    .modal-content {
+        border-radius: 4px;
+
+        .modal-body {
+            .flex-column(@gutter: 24px);
+            padding: 50px;
+
+            .header {
+                font-size: 18px;
+                text-align: center;
+            }
+
+            .top-buttons {
+                margin: 0;
+            }
+
+            .create-variable-button {
+                width: max-content;
+            }
+
+            .modal-label {
+                color: @slate;
+                margin-bottom: .5rem;
+            }
+
+            .warning {
+                display: flex;
+                color: @blueSteel;
+                align-items: flex-end;
+                padding: 0 5px;
+
+                .material-symbols-outlined {
+                    margin-right: 15px;
+                }
+            }
+
+            .buttons {
+                .flex-row(@justify-content: center; @gutter: 10px);
+
+                &.confirmation {
+                    button {
+                        width: 120px;
+                        justify-content: center;
+                    }
+                }
+            }
+        }
+    }
+}

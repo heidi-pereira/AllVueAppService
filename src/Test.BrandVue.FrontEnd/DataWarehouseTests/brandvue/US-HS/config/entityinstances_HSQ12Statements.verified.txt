@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: We modify our energy use due to concerns about money
+  },
+  {
+    ClassInstanceId: 2,
+    Name: We modify our energy use due to concerns about the environment
+  },
+  {
+    ClassInstanceId: 3,
+    Name: We chose our current energy supplier because of their ‘green’ credentials
+  },
+  {
+    ClassInstanceId: 4,
+    Name: We would be willing to pay more for ‘green’ energy
+  },
+  {
+    ClassInstanceId: 5,
+    Name: We currently pay more for our energy because it is ‘green’ energy
+  }
+]

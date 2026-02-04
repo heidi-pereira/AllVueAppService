@@ -1,0 +1,133 @@
+@import "_vars";
+@import "_layout";
+
+@breakpoint-mobile: 550px;
+
+.configure-chart-page {
+    .reports-configure-chart-container {
+        .chart-area {
+            padding: 0 24px;
+        }
+    }
+}
+
+.configure-chart-page {
+    grid-area: 1 / 1 / span 2 / span 2;
+    height: 100%;
+
+    .reports-configure-chart-container {
+        .flex-row();
+        height: 100%;
+
+        .chart-area {
+            .flex-column();
+            flex: 1 1 auto;
+
+            .left-items .styled-toggle {
+                font-size: 18px;
+            }
+        }
+
+        .show-top-x {
+            .checkbox + label::before {
+                transform: translateY(-1px); //fixes an issue where the checkbox tick doesn't align
+            }
+        }
+    }
+
+    &.hidden {
+        background: repeating-linear-gradient( -45deg, #FAFAFA, #FAFAFA 10px, #F5F5F5 10px, #F5F5F5 23px );
+    }
+
+    .header {
+        .flex-column(@justify-content: flex-start);
+        padding: 16px 0;
+        min-height: 70px;
+        font-size: 18px;
+        gap: 10px;
+
+        .top-row, .bottom-row {
+            width: 100%;
+            .flex-row(@align-items: center, @justify-content: space-between);
+            gap: 20px;
+
+            .left-items, .right-items {
+                .flex-row(@align-items: center);
+                gap: 10px;
+            }
+
+            .left-items {
+                max-width: 70%;
+            }
+
+            .hidden-question-icon {
+                color: @slate-light;
+                font-size: 20px;
+                margin-left: 15px;
+                cursor: default;
+                user-select: none;
+            }
+
+            .report-link {
+                color: @blueSteel;
+                cursor: pointer;
+                font-size: 18px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                max-width: 200px;
+            }
+
+            .divider {
+                margin: 0 15px 0 15px;
+                font-size: 24px;
+                color: @slate-light;
+            }
+        }
+
+        .back-button {
+            i {
+                margin-right: 12px;
+                margin-bottom: 1px;
+                transition: color 150ms ease;
+
+                &:hover {
+                    color: @slate-darker;
+                }
+            }
+
+            a {
+                display: block;
+                color: @slate;
+                cursor: pointer;
+            }
+        }
+
+        .configure-chart-button {
+            @media (max-width: @breakpoint-mobile) {
+                display: none; //hide on mobile
+            }
+        }
+    }
+
+    .chart-container {
+        flex: 1 1 400px;
+        padding: 16px;
+        border: 1px solid @chalk;
+        background: @white;
+        margin-bottom: 24px;
+    }
+
+    .page-title {
+        padding-left: 10px;
+        padding-bottom: 16px;
+
+        .styled-toggle {
+            font-size: 16px;
+        }
+    }
+
+    @media (max-width: @breakpoint-tablet) {
+        padding: 0 16px;
+    }
+}

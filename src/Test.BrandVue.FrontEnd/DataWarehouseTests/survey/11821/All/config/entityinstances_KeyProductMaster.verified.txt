@@ -1,0 +1,102 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Car insurance
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Home insurance
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Travel insurance (including single trip or multi trip)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Pet insurance
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Life insurance & protection
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Breakdown cover
+  },
+  {
+    ClassInstanceId: 12,
+    Name: Credit cards
+  },
+  {
+    ClassInstanceId: 13,
+    Name: Mortgages (for your own home)
+  },
+  {
+    ClassInstanceId: 14,
+    Name: Car loans / car finance
+  },
+  {
+    ClassInstanceId: 15,
+    Name: Payday loans
+  },
+  {
+    ClassInstanceId: 16,
+    Name: Personal loans
+  },
+  {
+    ClassInstanceId: 17,
+    Name: Current accounts
+  },
+  {
+    ClassInstanceId: 18,
+    Name: Personal pensions (i.e. one not taken out through your employer. This includes Self Invested Personal Pensions)
+  },
+  {
+    ClassInstanceId: 19,
+    Name: Investment products (including stocks and shares ISAs, unit trusts, insurance bonds, general investment accounts)
+  },
+  {
+    ClassInstanceId: 20,
+    Name: Cash saving / deposit accounts (including cash ISA, instant access savings account, notice savings account, fixed term savings bonds etc..)
+  },
+  {
+    ClassInstanceId: 21,
+    Name: Private Medical / health Insurance
+  },
+  {
+    ClassInstanceId: 52,
+    Name: Guaranteed over 50s life insurance
+  },
+  {
+    ClassInstanceId: 59,
+    Name: Pre-paid funeral plans
+  },
+  {
+    ClassInstanceId: 72,
+    Name: Foreign exchange / international payments services
+  },
+  {
+    ClassInstanceId: 92,
+    Name: Equity release / lifetime mortgage (that gives you access to some of the value tied up in your home if you are over the age of 55)
+  },
+  {
+    ClassInstanceId: 111,
+    Name: Price comparison websites
+  },
+  {
+    ClassInstanceId: 121,
+    Name: Methods to pay for goods and services or pay individuals
+  },
+  {
+    ClassInstanceId: 131,
+    Name: Credit monitoring services (i.e. services to monitor your credit score and / or reports)
+  },
+  {
+    ClassInstanceId: 141,
+    Name: Financial advice (i.e. from an independent financial advisor, in-person, over the telephone or online)
+  },
+  {
+    ClassInstanceId: 150,
+    Name: Pension taken out through your employer (excluding any final salary pension)
+  }
+]

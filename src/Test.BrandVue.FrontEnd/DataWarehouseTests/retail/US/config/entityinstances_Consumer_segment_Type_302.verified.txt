@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Occupation:Retired (Base Consumer_segment)
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Social media frequency (Base Social_media_freq)
+  }
+]

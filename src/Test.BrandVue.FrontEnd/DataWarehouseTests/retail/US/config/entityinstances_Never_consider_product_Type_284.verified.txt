@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Never consider product (Base Never_consider_product)
+  }
+]

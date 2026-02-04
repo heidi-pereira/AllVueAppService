@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have never made a complaint
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have made a complaint over a year ago
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I have made a complaint in the last year
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I have felt like making a complaint but didn’t actually make one
+  }
+]

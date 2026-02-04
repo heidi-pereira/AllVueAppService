@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Home improvements N3M (Base Home_improvements_N3M)
+  }
+]

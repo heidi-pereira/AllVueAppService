@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Mobile smartphone
+  },
+  {
+    ClassInstanceId: 2,
+    Name: TV
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Fridge or fridge freezer
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Washing machine
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Oven
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Vacuum cleaners (Cordless)/(Robot)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Monitor
+  }
+]

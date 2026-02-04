@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Communication Frequency:Contact me MORE (Base Communications_frequency)
+  }
+]

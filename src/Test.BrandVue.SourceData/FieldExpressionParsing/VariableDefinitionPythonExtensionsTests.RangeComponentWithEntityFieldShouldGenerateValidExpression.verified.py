@@ -1,0 +1,1 @@
+﻿result.CostCategory if ((result.CostCategory == 1) and (any(1 <= r <= 100 for r in response.BrandCost()))) or ((result.CostCategory == 2) and (any(101 <= r <= 1000 for r in response.BrandCost()))) or ((result.CostCategory == 3) and (any(1001 <= r <= 1200 for r in response.BrandCost()))) else None

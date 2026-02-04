@@ -1,0 +1,38 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: Under 13
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 13-17
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 18-24
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 25-29
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 30-34
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 35-44
+  },
+  {
+    ClassInstanceId: 6,
+    Name: 45-54
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 55-64
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 65+
+  }
+]

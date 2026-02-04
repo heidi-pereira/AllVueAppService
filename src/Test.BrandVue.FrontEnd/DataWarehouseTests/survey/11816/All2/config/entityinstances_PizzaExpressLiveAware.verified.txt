@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Yes, I have heard of it and I know what it is
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Yes, I have heard of it and I don't know what it is
+  },
+  {
+    ClassInstanceId: 3,
+    Name: No, I have not heard of it
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Phone call
+  },
+  {
+    ClassInstanceId: 2,
+    Name: On-street
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Website
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Through employer / pay cheque
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Text
+  },
+  {
+    ClassInstanceId: 6,
+    Name: In a charity shop
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (please specify)
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I'm aware of problems in the wider economy but it has not really affected me much personally
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I'm being a bit more cautious about how much I spend and saving a bit more
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I'm taking action to buy cheaper brand and / or going to less expensive shops
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I've cut all expenditure that I can because I'm really worried about the future
+  }
+]

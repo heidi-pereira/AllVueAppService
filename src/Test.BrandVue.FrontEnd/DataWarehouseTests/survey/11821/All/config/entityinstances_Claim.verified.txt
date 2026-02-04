@@ -1,0 +1,14 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: I have never made a claim
+  },
+  {
+    ClassInstanceId: 2,
+    Name: I have made a claim over a year ago
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I have made a claim in the last year
+  }
+]

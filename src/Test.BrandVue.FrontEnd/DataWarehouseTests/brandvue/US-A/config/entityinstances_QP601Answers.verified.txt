@@ -1,0 +1,34 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Newspapers
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Magazines
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Radio
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Television
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Cinema
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Internet
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Outdoor
+  },
+  {
+    ClassInstanceId: 99,
+    Name: None of these
+  }
+]

@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Reason for lapsing:No longer trust charity (Base Lapsed_users_No_longer_trust_charity)
+  }
+]

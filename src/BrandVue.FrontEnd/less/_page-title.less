@@ -1,0 +1,74 @@
+@import "_vars";
+@import "_layout";
+
+.page-title {
+    .flex-row(@flex-wrap: wrap, @gutter: 24px, @row-gap: .5em);
+    font-size: 24px;
+    width: 100%;
+
+    @media (max-width:500px) {
+        font-size: 20px;
+        margin-bottom: .5rem;
+    }
+
+    .help-link {
+        font-size: 14px;
+        margin-left: auto;
+        padding-bottom: 12px;
+        color: @blue;
+        cursor: pointer;
+
+        .link-text {
+            color: @blueSteel;
+            border-bottom: 2px solid @blueSteel;
+        }
+    }
+
+    &.full-width {
+        padding: 36px 48px 0px 48px;
+    }
+
+    .brand-analysis-controls {
+        .flex-row;
+        flex-grow: 1;
+
+        .selectors {
+            .flex-row(@gutter: 32px);
+            margin-right: auto;
+
+            .page-title-menu .styled-toggle {
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+.page-title-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 25px;
+
+    .page-title-label {
+        font-size: 14px;
+        color: @slate;
+    }
+
+    .pointer-and-title {
+        display: flex;
+        align-items: center;
+
+        .main-title {
+            .truncate-text();
+            font-size: 24px;
+        }
+
+        .hidden {
+            visibility: hidden;
+        }
+    }
+
+    .entity-name {
+        .truncate-text();
+    }
+}

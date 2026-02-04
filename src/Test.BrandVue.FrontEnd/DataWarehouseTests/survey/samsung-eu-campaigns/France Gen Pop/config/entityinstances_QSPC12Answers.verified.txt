@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Online (e.g., website or app)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: In-store (e.g., electronics retailer, mobile network store)
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Call centre (by speaking to a sales representative over the phone)
+  },
+  {
+    ClassInstanceId: 99,
+    Name: Don't know
+  }
+]

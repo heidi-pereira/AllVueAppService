@@ -1,0 +1,22 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Weekly
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Monthly
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Quarterly
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Yearly
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other
+  }
+]

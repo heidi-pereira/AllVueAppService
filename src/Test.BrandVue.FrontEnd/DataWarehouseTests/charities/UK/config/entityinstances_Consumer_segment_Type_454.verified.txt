@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: TV Platform:Freesat (Free to air channels via Satellite) (Base Consumer_segment)
+  }
+]

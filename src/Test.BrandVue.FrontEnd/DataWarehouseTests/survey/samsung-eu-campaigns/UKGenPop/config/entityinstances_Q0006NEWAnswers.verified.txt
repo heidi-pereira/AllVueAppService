@@ -1,0 +1,46 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: All 4 (Channel 4's on demand service)
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Amazon Prime Video
+  },
+  {
+    ClassInstanceId: 3,
+    Name: BBC iPlayer
+  },
+  {
+    ClassInstanceId: 4,
+    Name: ITVX
+  },
+  {
+    ClassInstanceId: 5,
+    Name: My5 (Channel 5's on demand services)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Netflix
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Now TV
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Sky / Sky Go
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Virgin Media
+  },
+  {
+    ClassInstanceId: 10,
+    Name: YouTube
+  },
+  {
+    ClassInstanceId: 97,
+    Name: None of these
+  }
+]

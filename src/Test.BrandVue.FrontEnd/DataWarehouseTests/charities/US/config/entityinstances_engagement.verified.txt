@@ -1,0 +1,50 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Given regular financial donations - i.e. via direct debit, standing order
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Given individual donation(s) - either online or in-person
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Bought an item(s) branded by this charity (i.e. button, badge, toy)
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Volunteered for this charity (e.g. in a thrift store / charity shop, staffed an event)
+  },
+  {
+    ClassInstanceId: 5,
+    Name: Been to a fundraiser for the charity (e.g. sports event, bake sale, fancy dress / costume etc.)
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Supported a fundraiser (e.g. sports event, bake sale, fancy dress / costume etc.)
+  },
+  {
+    ClassInstanceId: 7,
+    Name: Donated items to one of their thrift stores / charity shops
+  },
+  {
+    ClassInstanceId: 8,
+    Name: Bought items from one of their thrift stores / charity shops
+  },
+  {
+    ClassInstanceId: 9,
+    Name: Spoken about the charity online / via social media
+  },
+  {
+    ClassInstanceId: 10,
+    Name: Spoken about the charity to people in-person
+  },
+  {
+    ClassInstanceId: 100,
+    Name: Other (please specify)
+  },
+  {
+    ClassInstanceId: 999,
+    Name: None of these
+  }
+]

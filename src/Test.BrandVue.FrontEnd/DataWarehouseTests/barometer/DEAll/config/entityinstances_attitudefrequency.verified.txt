@@ -1,0 +1,26 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: When I ﬁnd an item I like, I wear it very often until it wears out
+  },
+  {
+    ClassInstanceId: 2,
+    Name: There are items in my wardrobe I've bought but have never worn
+  },
+  {
+    ClassInstanceId: 3,
+    Name: I try to never wear the same outﬁt / combination twice
+  },
+  {
+    ClassInstanceId: 4,
+    Name: I update most of my wardrobe seasonally
+  },
+  {
+    ClassInstanceId: 5,
+    Name: I rarely buy fashion since it’s not essential to me
+  },
+  {
+    ClassInstanceId: 6,
+    Name: Within the last 6 months, I've bought more eco-friendly fashion than fast fashion products
+  }
+]

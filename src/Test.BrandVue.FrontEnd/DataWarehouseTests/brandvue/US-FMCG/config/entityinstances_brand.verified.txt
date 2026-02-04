@@ -1,0 +1,826 @@
+﻿[
+  {
+    ClassInstanceId: 4001,
+    Name: Air Wick
+  },
+  {
+    ClassInstanceId: 4002,
+    Name: Baby Ruth
+  },
+  {
+    ClassInstanceId: 4003,
+    Name: Baked Lay's
+  },
+  {
+    ClassInstanceId: 4004,
+    Name: Ben & Jerry's
+  },
+  {
+    ClassInstanceId: 4005,
+    Name: Bertolli
+  },
+  {
+    ClassInstanceId: 4006,
+    Name: Betty Crocker
+  },
+  {
+    ClassInstanceId: 4007,
+    Name: Bisquick
+  },
+  {
+    ClassInstanceId: 4008,
+    Name: Bounce
+  },
+  {
+    ClassInstanceId: 4009,
+    Name: Bounty
+  },
+  {
+    ClassInstanceId: 4010,
+    Name: Breyers
+  },
+  {
+    ClassInstanceId: 4011,
+    Name: Butterfinger
+  },
+  {
+    ClassInstanceId: 4012,
+    Name: Campbell's
+  },
+  {
+    ClassInstanceId: 4013,
+    Name: Charmin
+  },
+  {
+    ClassInstanceId: 4014,
+    Name: Cheetos
+  },
+  {
+    ClassInstanceId: 4015,
+    Name: Cheez-It
+  },
+  {
+    ClassInstanceId: 4016,
+    Name: Chex
+  },
+  {
+    ClassInstanceId: 4017,
+    Name: Chips Ahoy!
+  },
+  {
+    ClassInstanceId: 4018,
+    Name: Chiquita
+  },
+  {
+    ClassInstanceId: 4019,
+    Name: Cinnamon Toast Crunch
+  },
+  {
+    ClassInstanceId: 4020,
+    Name: Clorox
+  },
+  {
+    ClassInstanceId: 4021,
+    Name: Coffee-Mate
+  },
+  {
+    ClassInstanceId: 4022,
+    Name: Cracker Barrel
+  },
+  {
+    ClassInstanceId: 4023,
+    Name: Dawn
+  },
+  {
+    ClassInstanceId: 4024,
+    Name: DiGiorno
+  },
+  {
+    ClassInstanceId: 4025,
+    Name: Doritos
+  },
+  {
+    ClassInstanceId: 4026,
+    Name: Dots
+  },
+  {
+    ClassInstanceId: 4027,
+    Name: Dove Chocolate Candy Bar
+  },
+  {
+    ClassInstanceId: 4028,
+    Name: Downy
+  },
+  {
+    ClassInstanceId: 4029,
+    Name: Duracell
+  },
+  {
+    ClassInstanceId: 4030,
+    Name: Eggo
+  },
+  {
+    ClassInstanceId: 4031,
+    Name: Elmer's
+  },
+  {
+    ClassInstanceId: 4032,
+    Name: Energizer
+  },
+  {
+    ClassInstanceId: 4033,
+    Name: Febreze
+  },
+  {
+    ClassInstanceId: 4034,
+    Name: Ferrero Rocher
+  },
+  {
+    ClassInstanceId: 4035,
+    Name: French's
+  },
+  {
+    ClassInstanceId: 4036,
+    Name: Frito-Lay
+  },
+  {
+    ClassInstanceId: 4037,
+    Name: Fritos
+  },
+  {
+    ClassInstanceId: 4038,
+    Name: Gain
+  },
+  {
+    ClassInstanceId: 4039,
+    Name: Girl Scout S'mores Cookies
+  },
+  {
+    ClassInstanceId: 4040,
+    Name: Glade
+  },
+  {
+    ClassInstanceId: 4041,
+    Name: Goldfish
+  },
+  {
+    ClassInstanceId: 4042,
+    Name: Häagen-Dazs
+  },
+  {
+    ClassInstanceId: 4043,
+    Name: Hefty
+  },
+  {
+    ClassInstanceId: 4044,
+    Name: Heinz
+  },
+  {
+    ClassInstanceId: 4045,
+    Name: Hershey's
+  },
+  {
+    ClassInstanceId: 4046,
+    Name: Hidden Valley Ranch
+  },
+  {
+    ClassInstanceId: 4047,
+    Name: Honey Bunches of Oats
+  },
+  {
+    ClassInstanceId: 4048,
+    Name: Hormel
+  },
+  {
+    ClassInstanceId: 4049,
+    Name: Hostess CupCake
+  },
+  {
+    ClassInstanceId: 4050,
+    Name: Hubba Bubba
+  },
+  {
+    ClassInstanceId: 4051,
+    Name: Hunt's Ketchup
+  },
+  {
+    ClassInstanceId: 4052,
+    Name: I Can't Believe It's Not Butter!
+  },
+  {
+    ClassInstanceId: 4053,
+    Name: Jell-O
+  },
+  {
+    ClassInstanceId: 4054,
+    Name: Jif
+  },
+  {
+    ClassInstanceId: 4055,
+    Name: Jimmy Dean
+  },
+  {
+    ClassInstanceId: 4056,
+    Name: Jolly Rancher
+  },
+  {
+    ClassInstanceId: 4057,
+    Name: Kellogg's
+  },
+  {
+    ClassInstanceId: 4058,
+    Name: Kettle Brand Chips
+  },
+  {
+    ClassInstanceId: 4059,
+    Name: KIND
+  },
+  {
+    ClassInstanceId: 4060,
+    Name: Kit Kat
+  },
+  {
+    ClassInstanceId: 4061,
+    Name: Knorr
+  },
+  {
+    ClassInstanceId: 4062,
+    Name: Kraft
+  },
+  {
+    ClassInstanceId: 4063,
+    Name: Krispy Kreme
+  },
+  {
+    ClassInstanceId: 4064,
+    Name: Land O'Lakes
+  },
+  {
+    ClassInstanceId: 4065,
+    Name: Lay's
+  },
+  {
+    ClassInstanceId: 4066,
+    Name: Lifesavers
+  },
+  {
+    ClassInstanceId: 4067,
+    Name: Lindt
+  },
+  {
+    ClassInstanceId: 4068,
+    Name: Lucky Charms
+  },
+  {
+    ClassInstanceId: 4069,
+    Name: Lysol
+  },
+  {
+    ClassInstanceId: 4070,
+    Name: M&M's
+  },
+  {
+    ClassInstanceId: 4071,
+    Name: Mars Bar
+  },
+  {
+    ClassInstanceId: 4072,
+    Name: Maruchan Ramen Noodle Soup
+  },
+  {
+    ClassInstanceId: 4073,
+    Name: McCormick
+  },
+  {
+    ClassInstanceId: 4074,
+    Name: Milk Duds
+  },
+  {
+    ClassInstanceId: 4075,
+    Name: Milk-Bone
+  },
+  {
+    ClassInstanceId: 4076,
+    Name: Milky Way
+  },
+  {
+    ClassInstanceId: 4077,
+    Name: Mr. Clean
+  },
+  {
+    ClassInstanceId: 4078,
+    Name: Nabisco
+  },
+  {
+    ClassInstanceId: 4079,
+    Name: Nature Valley
+  },
+  {
+    ClassInstanceId: 4080,
+    Name: Nerds
+  },
+  {
+    ClassInstanceId: 4081,
+    Name: Nesquik
+  },
+  {
+    ClassInstanceId: 4082,
+    Name: Nestlé
+  },
+  {
+    ClassInstanceId: 4083,
+    Name: OFF!
+  },
+  {
+    ClassInstanceId: 4084,
+    Name: Old El Paso
+  },
+  {
+    ClassInstanceId: 4085,
+    Name: Oreo
+  },
+  {
+    ClassInstanceId: 4086,
+    Name: Orville Redenbacher's
+  },
+  {
+    ClassInstanceId: 4087,
+    Name: Oscar Mayer
+  },
+  {
+    ClassInstanceId: 4088,
+    Name: Pampers
+  },
+  {
+    ClassInstanceId: 4089,
+    Name: Pedigree
+  },
+  {
+    ClassInstanceId: 4090,
+    Name: Pez Candy Dispenser
+  },
+  {
+    ClassInstanceId: 4091,
+    Name: Pillsbury
+  },
+  {
+    ClassInstanceId: 4092,
+    Name: Pine-Sol
+  },
+  {
+    ClassInstanceId: 4093,
+    Name: Planters
+  },
+  {
+    ClassInstanceId: 4094,
+    Name: Prego
+  },
+  {
+    ClassInstanceId: 4095,
+    Name: Pringles
+  },
+  {
+    ClassInstanceId: 4096,
+    Name: Progresso
+  },
+  {
+    ClassInstanceId: 4097,
+    Name: Purina
+  },
+  {
+    ClassInstanceId: 4098,
+    Name: Quaker
+  },
+  {
+    ClassInstanceId: 4099,
+    Name: Ragú
+  },
+  {
+    ClassInstanceId: 4100,
+    Name: Raisinets
+  },
+  {
+    ClassInstanceId: 4101,
+    Name: Red Baron
+  },
+  {
+    ClassInstanceId: 4102,
+    Name: Red Hots
+  },
+  {
+    ClassInstanceId: 4103,
+    Name: Reese's
+  },
+  {
+    ClassInstanceId: 4104,
+    Name: Ritz
+  },
+  {
+    ClassInstanceId: 4105,
+    Name: Rolo
+  },
+  {
+    ClassInstanceId: 4106,
+    Name: Royal Canin
+  },
+  {
+    ClassInstanceId: 4107,
+    Name: Ruffles
+  },
+  {
+    ClassInstanceId: 4108,
+    Name: Sargento String Cheese
+  },
+  {
+    ClassInstanceId: 4109,
+    Name: Secret
+  },
+  {
+    ClassInstanceId: 4110,
+    Name: Skittles
+  },
+  {
+    ClassInstanceId: 4111,
+    Name: Smarties
+  },
+  {
+    ClassInstanceId: 4112,
+    Name: Smucker's
+  },
+  {
+    ClassInstanceId: 4113,
+    Name: Snickers
+  },
+  {
+    ClassInstanceId: 4114,
+    Name: Sour Patch Kids
+  },
+  {
+    ClassInstanceId: 4115,
+    Name: Splenda
+  },
+  {
+    ClassInstanceId: 4116,
+    Name: Starburst
+  },
+  {
+    ClassInstanceId: 4117,
+    Name: Stouffer’s
+  },
+  {
+    ClassInstanceId: 4118,
+    Name: Sunchips
+  },
+  {
+    ClassInstanceId: 4119,
+    Name: SweetTarts
+  },
+  {
+    ClassInstanceId: 4120,
+    Name: Swiffer
+  },
+  {
+    ClassInstanceId: 4121,
+    Name: Tabasco
+  },
+  {
+    ClassInstanceId: 4122,
+    Name: Thin Mints Girl Scout Cookies
+  },
+  {
+    ClassInstanceId: 4123,
+    Name: Three Musketeers
+  },
+  {
+    ClassInstanceId: 4124,
+    Name: Tide
+  },
+  {
+    ClassInstanceId: 4125,
+    Name: Tootsie Pop
+  },
+  {
+    ClassInstanceId: 4126,
+    Name: Tostitos
+  },
+  {
+    ClassInstanceId: 4127,
+    Name: Totino's Pizza Rolls
+  },
+  {
+    ClassInstanceId: 4128,
+    Name: Triscuit
+  },
+  {
+    ClassInstanceId: 4129,
+    Name: Twix
+  },
+  {
+    ClassInstanceId: 4130,
+    Name: Twizzlers
+  },
+  {
+    ClassInstanceId: 4131,
+    Name: Tyson
+  },
+  {
+    ClassInstanceId: 4132,
+    Name: Velveeta
+  },
+  {
+    ClassInstanceId: 4133,
+    Name: Werther's Original
+  },
+  {
+    ClassInstanceId: 4134,
+    Name: Windex
+  },
+  {
+    ClassInstanceId: 4135,
+    Name: Yoplait
+  },
+  {
+    ClassInstanceId: 4136,
+    Name: York Peppermint Pattie
+  },
+  {
+    ClassInstanceId: 4137,
+    Name: Zest
+  },
+  {
+    ClassInstanceId: 4138,
+    Name: Ziploc
+  },
+  {
+    ClassInstanceId: 4139,
+    Name: Coca Cola
+  },
+  {
+    ClassInstanceId: 4140,
+    Name: Diet Coke
+  },
+  {
+    ClassInstanceId: 4141,
+    Name: Coca Cola Zero
+  },
+  {
+    ClassInstanceId: 4142,
+    Name: Pepsi
+  },
+  {
+    ClassInstanceId: 4143,
+    Name: Diet Pepsi
+  },
+  {
+    ClassInstanceId: 4144,
+    Name: Pepsi Max
+  },
+  {
+    ClassInstanceId: 4145,
+    Name: Fanta
+  },
+  {
+    ClassInstanceId: 4146,
+    Name: 7 Up
+  },
+  {
+    ClassInstanceId: 4147,
+    Name: Sprite
+  },
+  {
+    ClassInstanceId: 4148,
+    Name: Schweppes Lemonade
+  },
+  {
+    ClassInstanceId: 4149,
+    Name: R Whites Lemonade
+  },
+  {
+    ClassInstanceId: 4150,
+    Name: Dr Pepper
+  },
+  {
+    ClassInstanceId: 4151,
+    Name: Irn Bru
+  },
+  {
+    ClassInstanceId: 4152,
+    Name: Tango
+  },
+  {
+    ClassInstanceId: 4153,
+    Name: Orangina
+  },
+  {
+    ClassInstanceId: 4154,
+    Name: San Pellegrino
+  },
+  {
+    ClassInstanceId: 4155,
+    Name: Appletiser
+  },
+  {
+    ClassInstanceId: 4156,
+    Name: Vimto
+  },
+  {
+    ClassInstanceId: 4157,
+    Name: Rubicon
+  },
+  {
+    ClassInstanceId: 4158,
+    Name: Tropicana
+  },
+  {
+    ClassInstanceId: 4159,
+    Name: Innocent
+  },
+  {
+    ClassInstanceId: 4160,
+    Name: Ocean Spray
+  },
+  {
+    ClassInstanceId: 4161,
+    Name: Naked
+  },
+  {
+    ClassInstanceId: 4162,
+    Name: Copella
+  },
+  {
+    ClassInstanceId: 4163,
+    Name: Del Monte
+  },
+  {
+    ClassInstanceId: 4164,
+    Name: J2O
+  },
+  {
+    ClassInstanceId: 4165,
+    Name: Oasis
+  },
+  {
+    ClassInstanceId: 4166,
+    Name: Ribena
+  },
+  {
+    ClassInstanceId: 4167,
+    Name: Vita Coco
+  },
+  {
+    ClassInstanceId: 4168,
+    Name: Welch's
+  },
+  {
+    ClassInstanceId: 4169,
+    Name: Shloer
+  },
+  {
+    ClassInstanceId: 4170,
+    Name: Bottle Green
+  },
+  {
+    ClassInstanceId: 4171,
+    Name: Belvoir
+  },
+  {
+    ClassInstanceId: 4172,
+    Name: Snapple
+  },
+  {
+    ClassInstanceId: 4173,
+    Name: Capri Sun
+  },
+  {
+    ClassInstanceId: 4174,
+    Name: Fruit Shoot
+  },
+  {
+    ClassInstanceId: 4175,
+    Name: Drench
+  },
+  {
+    ClassInstanceId: 4176,
+    Name: Robinsons
+  },
+  {
+    ClassInstanceId: 4177,
+    Name: Schweppes Mixers
+  },
+  {
+    ClassInstanceId: 4178,
+    Name: Britvic
+  },
+  {
+    ClassInstanceId: 4179,
+    Name: Fever Tree
+  },
+  {
+    ClassInstanceId: 4180,
+    Name: Fentiman's
+  },
+  {
+    ClassInstanceId: 4181,
+    Name: Franklin & Son's
+  },
+  {
+    ClassInstanceId: 4182,
+    Name: London Essence
+  },
+  {
+    ClassInstanceId: 4183,
+    Name: Red Bull
+  },
+  {
+    ClassInstanceId: 4184,
+    Name: Lucozade
+  },
+  {
+    ClassInstanceId: 4185,
+    Name: Monster
+  },
+  {
+    ClassInstanceId: 4186,
+    Name: Relentless
+  },
+  {
+    ClassInstanceId: 4187,
+    Name: Rockstar
+  },
+  {
+    ClassInstanceId: 4188,
+    Name: Boost
+  },
+  {
+    ClassInstanceId: 4189,
+    Name: Emerge
+  },
+  {
+    ClassInstanceId: 4190,
+    Name: Mtn Dew
+  },
+  {
+    ClassInstanceId: 4191,
+    Name: Powerade
+  },
+  {
+    ClassInstanceId: 4192,
+    Name: Purdey's
+  },
+  {
+    ClassInstanceId: 4193,
+    Name: Carabao
+  },
+  {
+    ClassInstanceId: 4194,
+    Name: Evian
+  },
+  {
+    ClassInstanceId: 4195,
+    Name: Volvic
+  },
+  {
+    ClassInstanceId: 4196,
+    Name: Highland Spring
+  },
+  {
+    ClassInstanceId: 4197,
+    Name: Buxton
+  },
+  {
+    ClassInstanceId: 4198,
+    Name: Glaceau Smartwater
+  },
+  {
+    ClassInstanceId: 4199,
+    Name: San Pellegrino Water
+  },
+  {
+    ClassInstanceId: 4200,
+    Name: Strathmore
+  },
+  {
+    ClassInstanceId: 4201,
+    Name: Rubicon Bottled Water
+  },
+  {
+    ClassInstanceId: 4202,
+    Name: Perrier
+  },
+  {
+    ClassInstanceId: 4203,
+    Name: Harrogate
+  },
+  {
+    ClassInstanceId: 4204,
+    Name: Huel
+  },
+  {
+    ClassInstanceId: 4205,
+    Name: King's Hawaiian
+  },
+  {
+    ClassInstanceId: 4206,
+    Name: Ryvita
+  }
+]

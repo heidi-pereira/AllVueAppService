@@ -1,0 +1,102 @@
+﻿[
+  {
+    ClassInstanceId: 0,
+    Name: 0
+  },
+  {
+    ClassInstanceId: 1,
+    Name: 1
+  },
+  {
+    ClassInstanceId: 2,
+    Name: 2
+  },
+  {
+    ClassInstanceId: 3,
+    Name: 3
+  },
+  {
+    ClassInstanceId: 4,
+    Name: 4
+  },
+  {
+    ClassInstanceId: 5,
+    Name: 5
+  },
+  {
+    ClassInstanceId: 6,
+    Name: 6
+  },
+  {
+    ClassInstanceId: 7,
+    Name: 7
+  },
+  {
+    ClassInstanceId: 8,
+    Name: 8
+  },
+  {
+    ClassInstanceId: 9,
+    Name: 9
+  },
+  {
+    ClassInstanceId: 10,
+    Name: 10
+  },
+  {
+    ClassInstanceId: 11,
+    Name: 11
+  },
+  {
+    ClassInstanceId: 12,
+    Name: 12
+  },
+  {
+    ClassInstanceId: 13,
+    Name: 13
+  },
+  {
+    ClassInstanceId: 14,
+    Name: 14
+  },
+  {
+    ClassInstanceId: 15,
+    Name: 15
+  },
+  {
+    ClassInstanceId: 16,
+    Name: 16
+  },
+  {
+    ClassInstanceId: 17,
+    Name: 17
+  },
+  {
+    ClassInstanceId: 18,
+    Name: 18
+  },
+  {
+    ClassInstanceId: 19,
+    Name: 19
+  },
+  {
+    ClassInstanceId: 20,
+    Name: 20
+  },
+  {
+    ClassInstanceId: 21,
+    Name: 21
+  },
+  {
+    ClassInstanceId: 22,
+    Name: 22
+  },
+  {
+    ClassInstanceId: 23,
+    Name: 23
+  },
+  {
+    ClassInstanceId: 999,
+    Name: Hours
+  }
+]

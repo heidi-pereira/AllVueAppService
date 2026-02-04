@@ -1,0 +1,570 @@
+﻿[
+  {
+    "entityInstance": {
+      "name": "Argos",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 10
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.50631083,
+        "weightedValueTotal": 675.1955,
+        "unweightedValueTotal": 670,
+        "unweightedSampleSize": 1194,
+        "weightedSampleSize": 1213.7019,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.5031086,
+        "weightedValueTotal": 673.8009,
+        "unweightedValueTotal": 665,
+        "unweightedSampleSize": 1200,
+        "weightedSampleSize": 1218.2073,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.5015011,
+        "weightedValueTotal": 695.64716,
+        "unweightedValueTotal": 705,
+        "unweightedSampleSize": 1204,
+        "weightedSampleSize": 1196.2954,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.500951,
+        "weightedValueTotal": 672.36646,
+        "unweightedValueTotal": 670,
+        "unweightedSampleSize": 1187,
+        "weightedSampleSize": 1198.6189,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.5094024,
+        "weightedValueTotal": 616.6738,
+        "unweightedValueTotal": 626,
+        "unweightedSampleSize": 1197,
+        "weightedSampleSize": 1187.2758,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.50589576,
+        "weightedValueTotal": 640.185,
+        "unweightedValueTotal": 647,
+        "unweightedSampleSize": 1194,
+        "weightedSampleSize": 1194.6073,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.5020964,
+        "weightedValueTotal": 679.76483,
+        "unweightedValueTotal": 687,
+        "unweightedSampleSize": 1250,
+        "weightedSampleSize": 1253.9557,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.50841465,
+        "weightedValueTotal": 659.6312,
+        "unweightedValueTotal": 665,
+        "unweightedSampleSize": 1216,
+        "weightedSampleSize": 1202.7965,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.50487266,
+        "weightedValueTotal": 632.7514,
+        "unweightedValueTotal": 639,
+        "unweightedSampleSize": 1199,
+        "weightedSampleSize": 1205.5332,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.5081193,
+        "weightedValueTotal": 642.59796,
+        "unweightedValueTotal": 643,
+        "unweightedSampleSize": 1221,
+        "weightedSampleSize": 1240.251,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.5000745,
+        "weightedValueTotal": 621.2812,
+        "unweightedValueTotal": 631,
+        "unweightedSampleSize": 1224,
+        "weightedSampleSize": 1218.0205,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.5140735,
+        "weightedValueTotal": 662.16016,
+        "unweightedValueTotal": 659,
+        "unweightedSampleSize": 1209,
+        "weightedSampleSize": 1217.0416,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.5040873,
+        "weightedValueTotal": 654.11633,
+        "unweightedValueTotal": 646,
+        "unweightedSampleSize": 1232,
+        "weightedSampleSize": 1248.1057,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "eBay",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 49
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.533791,
+        "weightedValueTotal": 694.32294,
+        "unweightedValueTotal": 693,
+        "unweightedSampleSize": 1194,
+        "weightedSampleSize": 1189.3347,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.5306443,
+        "weightedValueTotal": 678.5692,
+        "unweightedValueTotal": 687,
+        "unweightedSampleSize": 1199,
+        "weightedSampleSize": 1168.6487,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.5187565,
+        "weightedValueTotal": 675.7619,
+        "unweightedValueTotal": 671,
+        "unweightedSampleSize": 1202,
+        "weightedSampleSize": 1209.4033,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.51982865,
+        "weightedValueTotal": 664.8333,
+        "unweightedValueTotal": 654,
+        "unweightedSampleSize": 1190,
+        "weightedSampleSize": 1209.1646,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.5124145,
+        "weightedValueTotal": 656.4269,
+        "unweightedValueTotal": 654,
+        "unweightedSampleSize": 1198,
+        "weightedSampleSize": 1210.1942,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.51037074,
+        "weightedValueTotal": 664.86127,
+        "unweightedValueTotal": 676,
+        "unweightedSampleSize": 1195,
+        "weightedSampleSize": 1186.4668,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.51206197,
+        "weightedValueTotal": 704.86163,
+        "unweightedValueTotal": 702,
+        "unweightedSampleSize": 1249,
+        "weightedSampleSize": 1254.064,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.5193248,
+        "weightedValueTotal": 654.89105,
+        "unweightedValueTotal": 654,
+        "unweightedSampleSize": 1216,
+        "weightedSampleSize": 1214.2794,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.51523736,
+        "weightedValueTotal": 655.31287,
+        "unweightedValueTotal": 653,
+        "unweightedSampleSize": 1201,
+        "weightedSampleSize": 1201.8855,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.51731775,
+        "weightedValueTotal": 658.9248,
+        "unweightedValueTotal": 655,
+        "unweightedSampleSize": 1221,
+        "weightedSampleSize": 1226.3224,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.5155325,
+        "weightedValueTotal": 684.90204,
+        "unweightedValueTotal": 676,
+        "unweightedSampleSize": 1213,
+        "weightedSampleSize": 1211.0746,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.51586666,
+        "weightedValueTotal": 673.30884,
+        "unweightedValueTotal": 682,
+        "unweightedSampleSize": 1207,
+        "weightedSampleSize": 1211.2776,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.5003643,
+        "weightedValueTotal": 640.1278,
+        "unweightedValueTotal": 639,
+        "unweightedSampleSize": 1230,
+        "weightedSampleSize": 1230.1532,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "Poundland",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 138
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.54968314,
+        "weightedValueTotal": 764.5054,
+        "unweightedValueTotal": 759,
+        "unweightedSampleSize": 1194,
+        "weightedSampleSize": 1214.1112,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.52664496,
+        "weightedValueTotal": 682.6821,
+        "unweightedValueTotal": 703,
+        "unweightedSampleSize": 1194,
+        "weightedSampleSize": 1183.8864,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.54380416,
+        "weightedValueTotal": 735.59644,
+        "unweightedValueTotal": 743,
+        "unweightedSampleSize": 1201,
+        "weightedSampleSize": 1198.422,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.5341858,
+        "weightedValueTotal": 712.23505,
+        "unweightedValueTotal": 731,
+        "unweightedSampleSize": 1201,
+        "weightedSampleSize": 1178.8345,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.53412295,
+        "weightedValueTotal": 718.6478,
+        "unweightedValueTotal": 715,
+        "unweightedSampleSize": 1193,
+        "weightedSampleSize": 1209.5945,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.534984,
+        "weightedValueTotal": 690.19336,
+        "unweightedValueTotal": 704,
+        "unweightedSampleSize": 1194,
+        "weightedSampleSize": 1179.85,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.5231977,
+        "weightedValueTotal": 713.6946,
+        "unweightedValueTotal": 728,
+        "unweightedSampleSize": 1249,
+        "weightedSampleSize": 1245.1106,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.5345074,
+        "weightedValueTotal": 727.8308,
+        "unweightedValueTotal": 742,
+        "unweightedSampleSize": 1215,
+        "weightedSampleSize": 1224.2587,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.53387826,
+        "weightedValueTotal": 730.1639,
+        "unweightedValueTotal": 737,
+        "unweightedSampleSize": 1200,
+        "weightedSampleSize": 1209.1243,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.5340529,
+        "weightedValueTotal": 721.16595,
+        "unweightedValueTotal": 708,
+        "unweightedSampleSize": 1222,
+        "weightedSampleSize": 1234.7614,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.5314652,
+        "weightedValueTotal": 711.0693,
+        "unweightedValueTotal": 688,
+        "unweightedSampleSize": 1217,
+        "weightedSampleSize": 1222.8922,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.5300154,
+        "weightedValueTotal": 717.66815,
+        "unweightedValueTotal": 709,
+        "unweightedSampleSize": 1208,
+        "weightedSampleSize": 1216.355,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.51062555,
+        "weightedValueTotal": 683.81586,
+        "unweightedValueTotal": 701,
+        "unweightedSampleSize": 1234,
+        "weightedSampleSize": 1219.7372,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "Prime",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 196
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2023-06-30T00:00:00.000Z",
+        "weightedResult": 0.54704396,
+        "weightedValueTotal": 759.766,
+        "unweightedValueTotal": 760,
+        "unweightedSampleSize": 1195,
+        "weightedSampleSize": 1211.6631,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-07-31T00:00:00.000Z",
+        "weightedResult": 0.53309875,
+        "weightedValueTotal": 721.5404,
+        "unweightedValueTotal": 733,
+        "unweightedSampleSize": 1196,
+        "weightedSampleSize": 1196.3885,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-08-31T00:00:00.000Z",
+        "weightedResult": 0.54791663,
+        "weightedValueTotal": 736.48755,
+        "unweightedValueTotal": 766,
+        "unweightedSampleSize": 1201,
+        "weightedSampleSize": 1172.9066,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-09-30T00:00:00.000Z",
+        "weightedResult": 0.51527634,
+        "weightedValueTotal": 657.3089,
+        "unweightedValueTotal": 658,
+        "unweightedSampleSize": 1191,
+        "weightedSampleSize": 1205.4601,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-10-31T00:00:00.000Z",
+        "weightedResult": 0.51389744,
+        "weightedValueTotal": 661.0163,
+        "unweightedValueTotal": 655,
+        "unweightedSampleSize": 1191,
+        "weightedSampleSize": 1193.3911,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-11-30T00:00:00.000Z",
+        "weightedResult": 0.5178196,
+        "weightedValueTotal": 673.56146,
+        "unweightedValueTotal": 681,
+        "unweightedSampleSize": 1197,
+        "weightedSampleSize": 1186.2244,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2023-12-31T00:00:00.000Z",
+        "weightedResult": 0.51224574,
+        "weightedValueTotal": 694.81024,
+        "unweightedValueTotal": 692,
+        "unweightedSampleSize": 1252,
+        "weightedSampleSize": 1258.154,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-01-31T00:00:00.000Z",
+        "weightedResult": 0.53691484,
+        "weightedValueTotal": 706.74146,
+        "unweightedValueTotal": 716,
+        "unweightedSampleSize": 1216,
+        "weightedSampleSize": 1204.1636,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-02-29T00:00:00.000Z",
+        "weightedResult": 0.5330375,
+        "weightedValueTotal": 708.6395,
+        "unweightedValueTotal": 717,
+        "unweightedSampleSize": 1201,
+        "weightedSampleSize": 1194.9321,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-03-31T00:00:00.000Z",
+        "weightedResult": 0.5138797,
+        "weightedValueTotal": 670.6602,
+        "unweightedValueTotal": 678,
+        "unweightedSampleSize": 1222,
+        "weightedSampleSize": 1210.841,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-04-30T00:00:00.000Z",
+        "weightedResult": 0.5193186,
+        "weightedValueTotal": 675.20667,
+        "unweightedValueTotal": 665,
+        "unweightedSampleSize": 1216,
+        "weightedSampleSize": 1229.1713,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-05-31T00:00:00.000Z",
+        "weightedResult": 0.51070894,
+        "weightedValueTotal": 681.36487,
+        "unweightedValueTotal": 688,
+        "unweightedSampleSize": 1209,
+        "weightedSampleSize": 1215.1846,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2024-06-30T00:00:00.000Z",
+        "weightedResult": 0.51284994,
+        "weightedValueTotal": 685.8596,
+        "unweightedValueTotal": 688,
+        "unweightedSampleSize": 1233,
+        "weightedSampleSize": 1218.548,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Low
+  },
+  {
+    ClassInstanceId: 2,
+    Name: Mid
+  },
+  {
+    ClassInstanceId: 3,
+    Name: Premium
+  },
+  {
+    ClassInstanceId: 4,
+    Name: Super Premium
+  }
+]

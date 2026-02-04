@@ -1,0 +1,90 @@
+﻿@import "../../../../../../less/_vars";
+@import "../../../../../../less/_layout";
+@breakpoint-mobile: 550px;
+
+
+.menuBar {
+    .flex-column();
+    height: 100%;
+
+    .menuBarTop {
+        height: 100%;
+
+        .container {
+            .flex-column();
+            margin-bottom: 10px;
+            margin-right: 10px;
+
+            .itemName {
+                text-align: left;
+            }
+
+            .label {
+                margin-top: 5px;
+                margin-right: 5px;
+            }
+
+            .dropdownMenu {
+                margin: 0px;
+                overflow: auto;
+                max-height: 300px;
+
+                .dropDownItem {
+                }
+
+                .dropDownItemActive {
+                    background-color: @blueSteel-light;
+                }
+            }
+        }
+
+        a {
+            text-decoration: auto;
+            color: @blueSteel;
+        }
+
+        .text {
+            align-content: center;
+            display: grid;
+        }
+    }
+
+    .menuBarBottom {
+        margin-right: 10px;
+        .flex-row();
+
+        button {
+            flex-grow: 2;
+            text-align: center;
+            display: inline-block;
+            margin-right: 5px;
+        }
+
+        .advancedDropDown {
+            button {
+                background-color: white;
+                border-color: @blueSteel;
+                color: @blueSteel;
+                border-top-right-radius: 0.25rem !important;
+                border-bottom-right-radius: 0.25rem !important;
+
+                &:disabled {
+                    background-color: @chalk-light;
+                }
+
+                &:hover &:not(disabled) {
+                    background-color: @blueSteel-lighter;
+                }
+            }
+
+            .advancedButton {
+                display: flex;
+
+                .throbberContainer {
+                    margin-top: 5px;
+                }
+            }
+        }
+    }
+}
+

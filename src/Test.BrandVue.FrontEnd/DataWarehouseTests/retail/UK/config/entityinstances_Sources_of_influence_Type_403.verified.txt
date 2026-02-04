@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: Sources of influence (Base Sources_of_influence)
+  }
+]

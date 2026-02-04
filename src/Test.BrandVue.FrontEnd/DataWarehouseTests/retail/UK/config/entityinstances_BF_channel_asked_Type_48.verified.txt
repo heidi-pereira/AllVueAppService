@@ -1,0 +1,6 @@
+﻿[
+  {
+    ClassInstanceId: 1,
+    Name: BF channel (Base BF_channel_asked)
+  }
+]

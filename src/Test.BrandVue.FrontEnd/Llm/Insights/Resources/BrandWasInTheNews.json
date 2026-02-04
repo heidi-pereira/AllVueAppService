@@ -1,0 +1,306 @@
+﻿[
+  {
+    "entityInstance": {
+      "name": "KFC",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 142
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2017-10-31T00:00:00.000Z",
+        "weightedResult": 0.14265753,
+        "weightedValueTotal": 304.79837,
+        "unweightedValueTotal": 341,
+        "unweightedSampleSize": 2123,
+        "weightedSampleSize": 2136.574,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2017-11-30T00:00:00.000Z",
+        "weightedResult": 0.15678905,
+        "weightedValueTotal": 260.5374,
+        "unweightedValueTotal": 285,
+        "unweightedSampleSize": 1621,
+        "weightedSampleSize": 1661.7067,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2017-12-31T00:00:00.000Z",
+        "weightedResult": 0.14770716,
+        "weightedValueTotal": 243.32198,
+        "unweightedValueTotal": 251,
+        "unweightedSampleSize": 1665,
+        "weightedSampleSize": 1647.3268,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-01-31T00:00:00.000Z",
+        "weightedResult": 0.15853597,
+        "weightedValueTotal": 248.09886,
+        "unweightedValueTotal": 257,
+        "unweightedSampleSize": 1556,
+        "weightedSampleSize": 1564.9374,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-02-28T00:00:00.000Z",
+        "weightedResult": 0.27425426,
+        "weightedValueTotal": 443.24734,
+        "unweightedValueTotal": 451,
+        "unweightedSampleSize": 1603,
+        "weightedSampleSize": 1616.1913,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-03-31T00:00:00.000Z",
+        "weightedResult": 0.39791644,
+        "weightedValueTotal": 660.71576,
+        "unweightedValueTotal": 685,
+        "unweightedSampleSize": 1651,
+        "weightedSampleSize": 1660.4385,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-04-30T00:00:00.000Z",
+        "weightedResult": 0.28441027,
+        "weightedValueTotal": 489.7122,
+        "unweightedValueTotal": 503,
+        "unweightedSampleSize": 1740,
+        "weightedSampleSize": 1721.8513,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-05-31T00:00:00.000Z",
+        "weightedResult": 0.22223319,
+        "weightedValueTotal": 366.0468,
+        "unweightedValueTotal": 404,
+        "unweightedSampleSize": 1650,
+        "weightedSampleSize": 1647.1294,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-06-30T00:00:00.000Z",
+        "weightedResult": 0.18504621,
+        "weightedValueTotal": 285.10413,
+        "unweightedValueTotal": 326,
+        "unweightedSampleSize": 1591,
+        "weightedSampleSize": 1540.7185,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-07-31T00:00:00.000Z",
+        "weightedResult": 0.17248484,
+        "weightedValueTotal": 287.78217,
+        "unweightedValueTotal": 322,
+        "unweightedSampleSize": 1666,
+        "weightedSampleSize": 1668.449,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-08-31T00:00:00.000Z",
+        "weightedResult": 0.16464794,
+        "weightedValueTotal": 288.8877,
+        "unweightedValueTotal": 308,
+        "unweightedSampleSize": 1728,
+        "weightedSampleSize": 1754.5782,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-09-30T00:00:00.000Z",
+        "weightedResult": 0.15322188,
+        "weightedValueTotal": 244.37881,
+        "unweightedValueTotal": 271,
+        "unweightedSampleSize": 1610,
+        "weightedSampleSize": 1594.9342,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-10-31T00:00:00.000Z",
+        "weightedResult": 0.14512256,
+        "weightedValueTotal": 230.45653,
+        "unweightedValueTotal": 245,
+        "unweightedSampleSize": 1585,
+        "weightedSampleSize": 1588.0132,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-11-30T00:00:00.000Z",
+        "weightedResult": 0.15885857,
+        "weightedValueTotal": 250.997,
+        "unweightedValueTotal": 274,
+        "unweightedSampleSize": 1613,
+        "weightedSampleSize": 1580.0028,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  },
+  {
+    "entityInstance": {
+      "name": "McDonald's",
+      "enabledBySubset": {},
+      "startDateBySubset": {},
+      "fields": {},
+      "id": 145
+    },
+    "weightedDailyResults": [
+      {
+        "date": "2017-10-31T00:00:00.000Z",
+        "weightedResult": 0.18687694,
+        "weightedValueTotal": 401.57047,
+        "unweightedValueTotal": 421,
+        "unweightedSampleSize": 2124,
+        "weightedSampleSize": 2148.8499,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2017-11-30T00:00:00.000Z",
+        "weightedResult": 0.18428043,
+        "weightedValueTotal": 295.53638,
+        "unweightedValueTotal": 308,
+        "unweightedSampleSize": 1618,
+        "weightedSampleSize": 1603.7318,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2017-12-31T00:00:00.000Z",
+        "weightedResult": 0.15632188,
+        "weightedValueTotal": 256.38928,
+        "unweightedValueTotal": 279,
+        "unweightedSampleSize": 1667,
+        "weightedSampleSize": 1640.1368,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-01-31T00:00:00.000Z",
+        "weightedResult": 0.17382993,
+        "weightedValueTotal": 269.49347,
+        "unweightedValueTotal": 289,
+        "unweightedSampleSize": 1554,
+        "weightedSampleSize": 1550.3284,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-02-28T00:00:00.000Z",
+        "weightedResult": 0.16310208,
+        "weightedValueTotal": 262.52133,
+        "unweightedValueTotal": 269,
+        "unweightedSampleSize": 1608,
+        "weightedSampleSize": 1609.5524,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-03-31T00:00:00.000Z",
+        "weightedResult": 0.1467278,
+        "weightedValueTotal": 240.28575,
+        "unweightedValueTotal": 241,
+        "unweightedSampleSize": 1648,
+        "weightedSampleSize": 1637.6293,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-04-30T00:00:00.000Z",
+        "weightedResult": 0.15595421,
+        "weightedValueTotal": 267.98364,
+        "unweightedValueTotal": 290,
+        "unweightedSampleSize": 1736,
+        "weightedSampleSize": 1718.3483,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-05-31T00:00:00.000Z",
+        "weightedResult": 0.15211558,
+        "weightedValueTotal": 256.36252,
+        "unweightedValueTotal": 279,
+        "unweightedSampleSize": 1650,
+        "weightedSampleSize": 1685.314,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-06-30T00:00:00.000Z",
+        "weightedResult": 0.1428772,
+        "weightedValueTotal": 227.9703,
+        "unweightedValueTotal": 260,
+        "unweightedSampleSize": 1591,
+        "weightedSampleSize": 1595.568,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-07-31T00:00:00.000Z",
+        "weightedResult": 0.16331618,
+        "weightedValueTotal": 267.46405,
+        "unweightedValueTotal": 288,
+        "unweightedSampleSize": 1666,
+        "weightedSampleSize": 1637.707,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-08-31T00:00:00.000Z",
+        "weightedResult": 0.14873923,
+        "weightedValueTotal": 263.03873,
+        "unweightedValueTotal": 265,
+        "unweightedSampleSize": 1727,
+        "weightedSampleSize": 1768.4556,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-09-30T00:00:00.000Z",
+        "weightedResult": 0.15331727,
+        "weightedValueTotal": 246.4256,
+        "unweightedValueTotal": 261,
+        "unweightedSampleSize": 1611,
+        "weightedSampleSize": 1607.2917,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-10-31T00:00:00.000Z",
+        "weightedResult": 0.1643662,
+        "weightedValueTotal": 265.5133,
+        "unweightedValueTotal": 282,
+        "unweightedSampleSize": 1588,
+        "weightedSampleSize": 1615.3766,
+        "responseIdsForDay": [],
+        "childResults": []
+      },
+      {
+        "date": "2018-11-30T00:00:00.000Z",
+        "weightedResult": 0.14742805,
+        "weightedValueTotal": 233.32707,
+        "unweightedValueTotal": 271,
+        "unweightedSampleSize": 1610,
+        "weightedSampleSize": 1582.6505,
+        "responseIdsForDay": [],
+        "childResults": []
+      }
+    ],
+    "unweightedResponseCount": 0
+  }
+]
