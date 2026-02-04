@@ -32,12 +32,13 @@ jobs:
           cache-dependency-path: './src/BrandVue.FrontEnd/package-lock.json'
 
       - name: Authenticate to Azure DevOps NuGet feed
+        shell: pwsh
+        env:
+          AZURE_DEVOPS_PAT: ${{ secrets.AZURE_DEVOPS_PAT }}
         run: |
-          dotnet nuget add source "https://pkgs.dev.azure.com/savanta/_packaging/savantadefault%40Local/nuget/v3/index.json" \
-            --name "Savanta Azure Pipelines" \
-            --username "az" \
-            --password "${{ secrets.AZURE_DEVOPS_PAT }}" \
-            --store-password-in-clear-text
+          $feedUrl = "https://pkgs.dev.azure.com/savanta/_packaging/savantadefault%40Local/nuget/v3/index.json"
+          $env:VSS_NUGET_EXTERNAL_FEED_ENDPOINTS = "{`"endpointCredentials`": [{`"endpoint`":`"$feedUrl`", `"username`":`"az`", `"password`":`"$env:AZURE_DEVOPS_PAT`"}]}"
+          echo "VSS_NUGET_EXTERNAL_FEED_ENDPOINTS=$env:VSS_NUGET_EXTERNAL_FEED_ENDPOINTS" >> $env:GITHUB_ENV
 
       - name: Restore .NET dependencies
         run: dotnet restore ${{ env.PROJECT_PATH }} --configfile ./src/nuget.config
