@@ -31,8 +31,16 @@ jobs:
           cache: 'npm'
           cache-dependency-path: './src/BrandVue.FrontEnd/package-lock.json'
 
+      - name: Authenticate to Azure DevOps NuGet feed
+        run: |
+          dotnet nuget add source "https://pkgs.dev.azure.com/savanta/_packaging/savantadefault%40Local/nuget/v3/index.json" \
+            --name "Savanta Azure Pipelines" \
+            --username "az" \
+            --password "${{ secrets.AZURE_DEVOPS_PAT }}" \
+            --store-password-in-clear-text
+
       - name: Restore .NET dependencies
-        run: dotnet restore ${{ env.PROJECT_PATH }}
+        run: dotnet restore ${{ env.PROJECT_PATH }} --configfile ./src/nuget.config
 
       - name: Install npm dependencies
         working-directory: ./src/BrandVue.FrontEnd
